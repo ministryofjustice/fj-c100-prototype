@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:end_miam_not-completed",
+  "body": "",
+  "heading": "End",
+  "lede": "You cannot make this application as you have not attended a MIAM.",
+  "template": "generic",
+  "title": "",
+  "url": "/miam/not-completed"
+}

@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:unavailable",
+  "heading": "This service is not currently available",
+  "lede": "",
+  "lede_additional": "Visit GOV.UK for more information on [making child arrangements](https://www.gov.uk/looking-after-children-divorce).",
+  "static": true,
+  "template": "generic",
+  "title": "",
+  "url": "/unavailable"
+}

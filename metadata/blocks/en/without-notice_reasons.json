@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "without-notice_reasons",
+  "label": "Set out the reasons for the application to be considered without notice. (This information is a requirement, a without notice hearing will not be directed without reason)",
+  "multiline": true,
+  "required": true
+}

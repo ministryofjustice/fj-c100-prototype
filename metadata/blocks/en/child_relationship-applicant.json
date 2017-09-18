@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "child_relationship-applicant",
+  "label": "Relationship to applicant(s)",
+  "multiline": true,
+  "required": true
+}

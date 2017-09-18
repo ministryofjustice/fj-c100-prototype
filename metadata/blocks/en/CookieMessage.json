@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "CookieMessage",
+  "value": "We uses cookies to make the site simpler. [Find out more about cookies]({app:urls:route:cookies})"
+}

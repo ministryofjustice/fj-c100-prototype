@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "without-notice_notice-will-frustrate_reasons",
+  "depends": [
+    {
+      "without-notice_notice-will-frustrate": "yes"
+    }
+  ],
+  "label": "Please set out reasons",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "without-notice_notice-will-frustrate": "yes"
+    }
+  ]
+}

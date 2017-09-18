@@ -1,0 +1,6 @@
+{
+  "_id": "solicitor",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Do you have a solicitor acting for you?",
+  "subblock": "solicitor_lip-explanation"
+}

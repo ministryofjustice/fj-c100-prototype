@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "statement_signatory_position",
+  "depends": [
+    {
+      "signatory": "solicitor"
+    }
+  ],
+  "label": "Position or office held",
+  "multiline": true
+}

@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:hearing-type",
+  "_isa": "view:form",
+  "blocks": [
+    "hearing-type"
+  ],
+  "body": "",
+  "heading": "Urgent and without notice hearings",
+  "title": "",
+  "url": "/urgent-or-without-notice"
+}

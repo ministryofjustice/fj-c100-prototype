@@ -1,0 +1,11 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "children_same-parents",
+  "inline": false,
+  "label": "Do all the children have the same parents?",
+  "options": [
+    "option:children_same-parents-yes",
+    "option:children_same-parents-no"
+  ],
+  "required": true
+}

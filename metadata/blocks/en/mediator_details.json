@@ -1,0 +1,14 @@
+{
+  "_blockType": "Group",
+  "_id": "mediator_details",
+  "blocks": [
+    "mediator_certified",
+    "mediator_name",
+    "mediator_fmc",
+    "mediator_fms",
+    "mediator_business-name",
+    "mediator_address",
+    "mediator_certified_date"
+  ],
+  "body": ""
+}

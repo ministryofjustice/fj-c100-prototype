@@ -1,0 +1,15 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "hearing-type",
+  "depends": [
+    {
+      "additional-info_urgent-hearing": "yes"
+    }
+  ],
+  "label": "What type of hearing are you applying for?",
+  "options": [
+    "option:urgent-hearing",
+    "option:without-notice-hearing"
+  ],
+  "required": true
+}

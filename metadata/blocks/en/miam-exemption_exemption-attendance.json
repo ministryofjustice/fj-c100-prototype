@@ -1,0 +1,9 @@
+{
+  "_blockType": "Group",
+  "_id": "miam-exemption_exemption-attendance",
+  "blocks": [
+    "miam-exemption_attendance",
+    "miam-exemption_not-proceeding"
+  ],
+  "body": ""
+}

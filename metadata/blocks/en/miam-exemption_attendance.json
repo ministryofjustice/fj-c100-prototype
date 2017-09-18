@@ -1,0 +1,17 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "miam-exemption_attendance",
+  "depends": [
+    {
+      "miam_attended": "yes"
+    }
+  ],
+  "label": "The prospective applicant attended a MIAM",
+  "options": [
+    "attendance_alone",
+    "attendance_together",
+    "attendance_separately",
+    "attendance_separate-arrangements"
+  ],
+  "required": true
+}

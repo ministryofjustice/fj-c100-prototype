@@ -1,0 +1,14 @@
+{
+  "_blockType": "Route",
+  "_id": "route:terms_conditions",
+  "_isa": "view:about",
+  "blocks": [
+    "terms-conditions-responsibility",
+    "terms-conditions-phase",
+    "terms-conditions-scope"
+  ],
+  "heading": "Terms and conditions",
+  "lede": "By reading this guide you agree to these terms and conditions.",
+  "title": "",
+  "url": "/about/terms-conditions"
+}

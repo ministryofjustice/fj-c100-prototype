@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "international_request_details",
+  "depends": [
+    {
+      "international_request": "yes"
+    }
+  ],
+  "label": "Please give details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "international_request": "yes"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "international_jurisdiction_details",
+  "depends": [
+    {
+      "international_jurisdiction": "yes"
+    }
+  ],
+  "label": "Please give details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "international_jurisdiction": "yes"
+    }
+  ]
+}

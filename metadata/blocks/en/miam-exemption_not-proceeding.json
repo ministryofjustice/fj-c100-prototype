@@ -1,0 +1,15 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "miam-exemption_not-proceeding",
+  "depends": [
+    {
+      "miam_attended": "yes"
+    }
+  ],
+  "label": "Mediation or other form of Dispute Resolution is not proceeding because",
+  "options": [
+    "exemption-certified_attendance_alone",
+    "exemption-certified_attendance_both",
+    "exemption-certified_attendance_deadlock"
+  ]
+}

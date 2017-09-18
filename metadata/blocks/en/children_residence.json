@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "children_residence",
+  "label": "Who do the children currently live with?",
+  "options": [
+    "option:applicant",
+    "option:respondent",
+    "option:other"
+  ],
+  "required": true,
+  "subblock": "children_residence-other-details"
+}

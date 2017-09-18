@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:solicitor",
+  "_isa": "view:form",
+  "blocks": [
+    "solicitor"
+  ],
+  "body": "",
+  "heading": "Solicitor’s details",
+  "title": "",
+  "url": "/solicitor"
+}

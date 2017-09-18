@@ -1,0 +1,7 @@
+{
+  "_id": "residence-duration-sufficient_required",
+  "_isa": "radio_group:yes-no",
+  "label": "Have you lived at this address for more than 5 years?",
+  "required": true,
+  "subblock": "address-previous_required"
+}

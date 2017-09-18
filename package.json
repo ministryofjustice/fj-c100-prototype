@@ -1,0 +1,39 @@
+{
+  "name": "fj-c100",
+  "version": "0.0.1",
+  "engines": {
+    "node": "8.4.0"
+  },
+  "main": "lib/start.js",
+  "license": "MIT",
+  "dependencies": {
+    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#messy-multi-dependency"
+  },
+  "scripts": {
+    "build": "build",
+    "build:css": "build-css",
+    "build:javascript": "build-javascript",
+    "dev:start": "dev-start",
+    "githooks": "githooks",
+    "githooks:unset": "githooks-unset",
+    "clean:build": "clean-build",
+    "clean:docker": "clean-docker",
+    "clean:prepush": "clean-prepush",
+    "lint": "lint",
+    "lint:data": "lint-data",
+    "lint:javascript:client": "lint-javascript-client",
+    "lint:javascript:server": "lint-javascript-server",
+    "lint:stylesheets": "lint-stylesheets",
+    "lint:templates": "lint-templates",
+    "postinstall": "postinstall",
+    "posttest:prepush": "posttest-prepush",
+    "start": "start",
+    "test": "test-all",
+    "test:a11y": "test-a11y",
+    "test:prepush": "test-prepush",
+    "test:functional": "test-functional",
+    "test:unit": "test-unit",
+    "watch:css": "watch-css",
+    "watch:javascript": "watch-javascript"
+  }
+}

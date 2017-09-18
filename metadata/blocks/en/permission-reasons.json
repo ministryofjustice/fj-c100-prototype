@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "permission-reasons",
+  "depends": [
+    {
+      "permission-status": "no_permission-sought"
+    }
+  ],
+  "label": "Reasons for seeking permission",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "permission-status": "no_permission-sought"
+    }
+  ]
+}

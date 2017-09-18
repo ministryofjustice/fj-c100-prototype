@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:order",
+  "_isa": "view:form",
+  "blocks": [
+    "checkbox_group:order_type",
+    "order_nature"
+  ],
+  "heading": "Nature of application",
+  "url": "/order"
+}

@@ -1,0 +1,6 @@
+{
+  "_id": "attending_assistance",
+  "_isa": "radio_group:yes-no-required",
+  "label": "If attending the court, do you or any of the parties involved have a disability for which you require special assistance or special facilities?",
+  "subblock": "attending_assistance_details"
+}

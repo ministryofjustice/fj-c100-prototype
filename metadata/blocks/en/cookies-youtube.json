@@ -1,0 +1,13 @@
+{
+  "_blockType": "CookieSection",
+  "_id": "cookies-youtube",
+  "body": "We use YouTube to provide videos on some pages of the guide. YouTube sets cookies when you visit one of these pages.",
+  "cookie_description": "Randomly generated number that identifies your browser",
+  "cookie_description_2": "Lets YouTube count the views of embedded YouTube videos",
+  "cookie_expires": "When you close your browser",
+  "cookie_expires_2": "9 months",
+  "cookie_name": "_use_hitbox",
+  "cookie_name_2": "VISITOR_INFO1_LIVE ",
+  "heading": "YouTube videos",
+  "lede": ""
+}

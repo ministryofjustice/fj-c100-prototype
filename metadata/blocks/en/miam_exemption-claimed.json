@@ -1,0 +1,10 @@
+{
+  "_id": "miam_exemption-claimed",
+  "_isa": "radio_group:yes-no-required",
+  "depends": [
+    {
+      "!miam_emergency-proceedings": "yes"
+    }
+  ],
+  "label": "Are you claiming exemption from the requirement to attend a MIAM?"
+}

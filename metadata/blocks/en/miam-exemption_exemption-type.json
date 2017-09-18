@@ -1,0 +1,21 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "miam-exemption_exemption-type",
+  "depends": [
+    {
+      "miam-recap_other-reason": "yes"
+    }
+  ],
+  "label": "The applicant confirms that one of the following other grounds for exemption applies",
+  "options": [
+    "exemption_insufficient-contact-details",
+    "exemption_without-notice",
+    "exemption_disability",
+    "exemption_legally-prevented",
+    "exemption_not-resident",
+    "exemption_rule12-3",
+    "exemption_mediator-unavailable",
+    "exemption_no-mediator"
+  ],
+  "required": true
+}

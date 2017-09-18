@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:cookies",
+  "_isa": "view:about",
+  "blocks": [
+    "cookies-body",
+    "cookies-use"
+  ],
+  "heading": "Cookies",
+  "lede": "",
+  "title": "",
+  "url": "/about/cookies"
+}

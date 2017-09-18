@@ -1,0 +1,6 @@
+{
+  "_id": "residence-duration-sufficient",
+  "_isa": "radio_group:yes-no-unsure",
+  "label": "Have they lived at this address for more than 5 years?",
+  "subblock": "address-previous"
+}

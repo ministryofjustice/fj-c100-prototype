@@ -1,0 +1,26 @@
+{
+  "_blockType": "Route",
+  "_id": "route:solicitor_details",
+  "_isa": "view:form",
+  "blocks": [
+    "solicitor_name",
+    "solicitor_firm",
+    "solicitor_address",
+    "solicitor_postcode",
+    "solicitor_phone",
+    "solicitor_fax",
+    "solicitor_dx",
+    "solicitor_reference",
+    "solicitor_fee-account",
+    "solicitor_email"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "solicitor": "yes"
+    }
+  ],
+  "heading": "Solicitor’s details",
+  "title": "",
+  "url": "/solicitor/details"
+}

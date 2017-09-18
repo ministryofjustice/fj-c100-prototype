@@ -1,0 +1,5 @@
+{
+  "_id": "additional-info_international-element",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Is this a case with an international element?"
+}

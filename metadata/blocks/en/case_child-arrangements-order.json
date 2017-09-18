@@ -1,0 +1,5 @@
+{
+  "_id": "case_child-arrangements-order",
+  "_isa": "radio_group:yes-no-required",
+  "label": "A child arrangements order (Section 8 Children Act 1989)"
+}

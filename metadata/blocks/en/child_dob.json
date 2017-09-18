@@ -1,0 +1,10 @@
+{
+  "_blockType": "Date",
+  "_id": "child_dob",
+  "label": "Date of birth",
+  "requiredWhen": [
+    {
+      "![multiple_route]child_dob_unsure": "yes"
+    }
+  ]
+}

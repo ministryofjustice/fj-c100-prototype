@@ -1,0 +1,6 @@
+{
+  "_id": "urgency_delay-risks",
+  "_isa": "option:yes",
+  "label": "any delay caused by attending a MIAM would cause—",
+  "subblock": "checkbox_group:miam-exemption_urgency_delay-risks"
+}

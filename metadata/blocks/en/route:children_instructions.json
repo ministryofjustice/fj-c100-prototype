@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:children_instructions",
+  "_isa": "view:form",
+  "body": " **Please also read the information notes and complete the checklist at the end of the form.**\r\n\r\n- Failure to complete every question or state if it does not apply, could delay the case, as the court will have to ask you to provide the additional information required.\r\n- If there is not enough space please attach separate sheets clearly showing the details of the children, parties, question and page number they refer to.\r\n- Cafcass/CAFCASS CYMRU will carry out checks as it considers necessary. See Section J of leaflet CB1 for more information about Cafcass and CAFCASS CYMRU.\r\n\r\nPlease list the name(s) of the child(ren) and the type(s) of order you are applying for, starting with the oldest. To understand which order to apply for read the booklet CB1 Section D.",
+  "continue": "continue",
+  "heading": "The child(ren)",
+  "lede": "Please provide the full names of the child(ren)",
+  "title": "",
+  "url": "/children/instructions"
+}

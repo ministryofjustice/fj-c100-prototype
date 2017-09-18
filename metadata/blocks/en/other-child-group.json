@@ -1,0 +1,19 @@
+{
+  "_blockType": "Group",
+  "_id": "other-child-group",
+  "blocks": [
+    "child_name",
+    "dob-other",
+    "dob-other_unsure",
+    "gender",
+    "child_relationship-applicant",
+    "child_relationship-respondent"
+  ],
+  "body": "Please list the name(s) of the child(ren) and the type(s) of order you are applying for, starting with the oldest. To understand which order to apply for read the booklet CB1 Section D.",
+  "heading": "Summary of children’s details",
+  "multiple": true,
+  "multiple_autosuffix": false,
+  "multiple_heading": "Child",
+  "multiple_max": 10,
+  "multiple_min": 1
+}

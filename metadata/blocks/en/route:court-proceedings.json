@@ -1,0 +1,36 @@
+{
+  "_blockType": "Route",
+  "_id": "route:court-proceedings",
+  "_isa": "view:form",
+  "blocks": [
+    "court-proceedings_child-group",
+    "court-name",
+    "case-number",
+    "proceedings-date",
+    "cafcass-officer",
+    "proceedings_type",
+    "case_emergency-protection-order",
+    "case_supervision-order",
+    "case_care-order",
+    "case_child-abduction",
+    "case_fla-1996-pt4",
+    "case_contact-residence-separation",
+    "case_contact-residence-adoption",
+    "case_child-maintenance",
+    "case_child-arrangements-order"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "miam_emergency-proceedings": "yes"
+    }
+  ],
+  "heading": "Court case {app:route:_index}",
+  "multiple": true,
+  "multiple_add": "Add another court case",
+  "multiple_delete": "Delete court case",
+  "multiple_max": 2,
+  "multiple_min": 1,
+  "title": "",
+  "url": "/court-proceedings"
+}

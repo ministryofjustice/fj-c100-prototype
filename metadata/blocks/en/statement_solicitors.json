@@ -1,0 +1,10 @@
+{
+  "_blockType": "Text",
+  "_id": "statement_solicitors",
+  "depends": [
+    {
+      "signatory": "solicitor"
+    }
+  ],
+  "label": "Name of applicant solicitors firm"
+}

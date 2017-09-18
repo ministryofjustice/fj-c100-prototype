@@ -1,0 +1,13 @@
+{
+  "_blockType": "Group",
+  "_id": "attending_welsh-required-group",
+  "blocks": [
+    "person-name",
+    "language-needs"
+  ],
+  "heading": "Please give the names of the parties/witnesses/children involved who need to use written or spoken Welsh",
+  "multiple": true,
+  "multiple_heading": "Party",
+  "multiple_max": 4,
+  "multiple_min": 1
+}

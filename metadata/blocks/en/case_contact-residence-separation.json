@@ -1,0 +1,5 @@
+{
+  "_id": "case_contact-residence-separation",
+  "_isa": "radio_group:yes-no-required",
+  "label": "A contact or residence order (Section 8 Children\r\nAct 1989) made within proceedings for a divorce or Yes No dissolution of a civil partnership"
+}

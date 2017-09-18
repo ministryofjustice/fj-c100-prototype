@@ -1,0 +1,8 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:yes",
+  "label": "I acknowledge this",
+  "options": [
+    "option:yes"
+  ]
+}

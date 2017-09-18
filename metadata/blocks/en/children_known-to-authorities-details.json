@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "children_known-to-authorities-details",
+  "depends": [
+    {
+      "children_known-to-authorities": "yes"
+    }
+  ],
+  "label": "Please state which child and the name of the Local Authority and Social worker (if known)",
+  "multiline": true
+}

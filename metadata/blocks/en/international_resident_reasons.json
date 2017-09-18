@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "international_resident_reasons",
+  "depends": [
+    {
+      "international_resident": "yes"
+    }
+  ],
+  "label": "Please give details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "international_resident": "yes"
+    }
+  ]
+}

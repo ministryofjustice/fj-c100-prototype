@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_recap",
+  "_isa": "view:form",
+  "blocks": [
+    "checkbox_group:miam-exemption_recap",
+    "miam-exemption_evidence-requirements"
+  ],
+  "depends": [
+    {
+      "miam_exemption-claimed": "yes"
+    }
+  ],
+  "heading": "Applicant claims exemption(s) from attendance at a Mediation, Information and Assessment Meeting (MIAM)",
+  "lede": "(To be completed by the person intending to make a court application or their solicitor)",
+  "title": "",
+  "url": "/miam/recap"
+}

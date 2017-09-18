@@ -1,0 +1,6 @@
+{
+  "_id": "text:address",
+  "_isa": "text:required",
+  "label": "Address",
+  "multiline": true
+}

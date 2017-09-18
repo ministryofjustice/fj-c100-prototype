@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_urgency",
+  "_isa": "view:form",
+  "blocks": [
+    "checkbox_group:miam-exemption_urgency"
+  ],
+  "heading": "Applicant claims exemption(s) from attendance at a Mediation, Information and Assessment Meeting (MIAM)",
+  "lede": "Urgency",
+  "title": "",
+  "url": "/miam/urgency"
+}

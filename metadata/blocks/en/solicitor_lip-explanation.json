@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "solicitor_lip-explanation",
+  "body": "See section Q of leaflet CB1 for more information",
+  "depends": [
+    {
+      "solicitor": "no"
+    }
+  ]
+}

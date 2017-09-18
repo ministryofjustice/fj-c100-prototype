@@ -1,0 +1,10 @@
+{
+  "_blockType": "Section",
+  "_id": "cookies-use",
+  "blocks": [
+    "cookies-ga",
+    "cookies-introductory-message",
+    "cookies-youtube"
+  ],
+  "heading": "The cookies we use"
+}

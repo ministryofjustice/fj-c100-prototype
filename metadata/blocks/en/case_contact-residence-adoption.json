@@ -1,0 +1,5 @@
+{
+  "_id": "case_contact-residence-adoption",
+  "_isa": "radio_group:yes-no-required",
+  "label": "A contact or residence order (Section 8 Children Act 1989) made in connection with an Adoption Order"
+}

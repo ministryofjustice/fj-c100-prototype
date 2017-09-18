@@ -1,0 +1,19 @@
+{
+  "_blockType": "Route",
+  "_id": "route:additional-info",
+  "_isa": "view:form",
+  "blocks": [
+    "additional-info_permission-sought",
+    "additional-info_urgent-hearing",
+    "additional-info_previous-proceedings",
+    "additional-info_formalise-agreement",
+    "additional-info_international-element",
+    "additional-info_litigation-capacity",
+    "additional-info_welsh-required"
+  ],
+  "body": "",
+  "heading": "Additional information required",
+  "lede": "",
+  "title": "",
+  "url": "/additional-info"
+}

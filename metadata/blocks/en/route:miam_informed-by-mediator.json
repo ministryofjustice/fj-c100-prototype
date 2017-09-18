@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_informed-by-mediator",
+  "_isa": "view:form",
+  "blocks": [
+    "miam_informed-by-mediator"
+  ],
+  "body": "",
+  "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
+  "title": "",
+  "url": "/miam/informed"
+}

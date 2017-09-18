@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "exemption-certified_attendance_deadlock",
+  "label": "Mediation has started, but has:\r\n\r\n• broken down; or\r\n\r\n• concluded with some or all issues unresolved",
+  "value": "attendance_deadlock"
+}

@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "exemption_adr",
+  "label": "at the time of making the application, the person is participating in another form of non-court dispute resolution relating to the same or substantially the same dispute",
+  "value": "adr"
+}

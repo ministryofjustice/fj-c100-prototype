@@ -1,0 +1,17 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:miam-exemption_urgency_delay-risks",
+  "label": "",
+  "options": [
+    "urgency_delay-risk_harm",
+    "urgency_delay-risk_unlawful-removal",
+    "urgency_delay-risk_miscarriage-of-justice",
+    "urgency_delay-risk_hardship",
+    "urgency_delay-risk_problems"
+  ],
+  "requiredWhen": [
+    {
+      "urgency_delay-risks": "yes"
+    }
+  ]
+}

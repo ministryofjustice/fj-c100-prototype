@@ -1,0 +1,5 @@
+{
+  "_blockType": "Body",
+  "_id": "quicklinks",
+  "body": "- [Sessions](/admin/sessions)\n\n- [Routes](/admin/routes)\n- [Flag configuration](/admin/flags)\n- [Block types](/admin/blocks)"
+}

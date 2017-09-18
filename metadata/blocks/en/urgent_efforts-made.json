@@ -1,0 +1,12 @@
+{
+  "_blockType": "Text",
+  "_id": "urgent_efforts-made",
+  "hint": "If consideration is sought within 2 days, you must complete the section below",
+  "label": "What efforts have you made to put each respondent on notice of the application?",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "urgent_days-sought": "(1|2)"
+    }
+  ]
+}

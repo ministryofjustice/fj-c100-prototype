@@ -1,0 +1,15 @@
+{
+  "_blockType": "Text",
+  "_id": "previous-name_required",
+  "depends": [
+    {
+      "has_previous-name_required": "yes"
+    }
+  ],
+  "label": "Please enter previous name",
+  "requiredWhen": [
+    {
+      "[multiple_route]has_previous-name_required": "yes"
+    }
+  ]
+}

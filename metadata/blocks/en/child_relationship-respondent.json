@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "child_relationship-respondent",
+  "label": "Relationship to respondent(s)",
+  "multiline": true,
+  "required": true
+}

@@ -1,0 +1,5 @@
+{
+  "_blockType": "Checkbox",
+  "_id": "statement_belief",
+  "label": "{signatory, select, solicitor {The applicant believes} other {I believe}} that the facts stated in this application are true"
+}

@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:signatory-identity",
+  "_isa": "view:form",
+  "blocks": [
+    "signatory"
+  ],
+  "heading": "Who is signing this application?",
+  "title": "",
+  "url": "/representative"
+}

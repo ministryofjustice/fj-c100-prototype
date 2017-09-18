@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_domestic-violence",
+  "_isa": "view:form",
+  "blocks": [
+    "checkbox_group:miam_domestic-violence"
+  ],
+  "heading": "Applicant claims exemption(s) from attendance at a Mediation, Information and Assessment Meeting (MIAM)",
+  "lede": "Domestic violence evidence",
+  "title": "",
+  "url": "/miam/domestic-violence"
+}

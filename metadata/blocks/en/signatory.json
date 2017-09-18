@@ -1,0 +1,9 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "signatory",
+  "label": "Are you the applicant or a solicitor representing the applicant?",
+  "options": [
+    "signatory_applicant",
+    "signatory_solicitor"
+  ]
+}

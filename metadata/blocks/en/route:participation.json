@@ -1,0 +1,19 @@
+{
+  "_blockType": "Route",
+  "_id": "route:participation",
+  "_isa": "view:form",
+  "blocks": [
+    "participation_litigation-capacity",
+    "participation_referral-or-assessment",
+    "participation_other-factors"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "additional-info_litigation-capacity": "yes"
+    }
+  ],
+  "heading": "Factors affecting ability to participate in proceedings",
+  "title": "",
+  "url": "/participation"
+}

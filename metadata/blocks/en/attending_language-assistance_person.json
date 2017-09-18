@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "attending_language-assistance_person",
+  "label": "Who requires the interpreter?",
+  "options": [
+    "option:applicant",
+    "option:respondent",
+    "option:other-party"
+  ],
+  "required": true,
+  "subblock": "attending_language-assistance_person_other"
+}

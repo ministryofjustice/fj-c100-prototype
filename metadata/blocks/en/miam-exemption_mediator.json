@@ -1,0 +1,15 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "miam-exemption_mediator",
+  "depends": [
+    {
+      "miam_informed-by-mediator": "yes"
+    }
+  ],
+  "label": "An authorised family mediator confirms that he or she is satisfied that",
+  "options": [
+    "exemption-certified_respondents-unwilling",
+    "exemption-certified_respondents-non-attendance",
+    "exemption-certified_otherwise-unsuitable"
+  ]
+}

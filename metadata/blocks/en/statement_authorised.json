@@ -1,0 +1,10 @@
+{
+  "_blockType": "Checkbox",
+  "_id": "statement_authorised",
+  "depends": [
+    {
+      "signatory": "solicitor"
+    }
+  ],
+  "label": "I am duly authorised by the applicant to sign this statement"
+}

@@ -1,0 +1,12 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:miam-exemption_recap",
+  "label": "The applicant has not attended a MIAM because the following MIAM exemption(s) applies",
+  "options": [
+    "miam-recap_domestic-violence",
+    "miam-recap_child-protection",
+    "miam-recap_urgency",
+    "miam-recap_previous-attendance-exemption",
+    "miam-recap_other-reason"
+  ]
+}

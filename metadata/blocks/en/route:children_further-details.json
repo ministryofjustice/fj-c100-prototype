@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:children_further-details",
+  "_isa": "view:form",
+  "blocks": [
+    "children_known-to-authorities",
+    "children_child-protection-plan",
+    "children_same-parents",
+    "children_parental-responsibility",
+    "children_residence"
+  ],
+  "body": "",
+  "heading": "Further information about the child(ren)",
+  "lede": "",
+  "title": "",
+  "url": "/children/details"
+}

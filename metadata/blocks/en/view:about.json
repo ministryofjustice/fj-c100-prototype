@@ -1,0 +1,7 @@
+{
+  "_blockType": "View",
+  "_id": "view:about",
+  "breadcrumbs": true,
+  "static": true,
+  "template": "about"
+}

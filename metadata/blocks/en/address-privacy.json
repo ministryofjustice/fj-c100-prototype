@@ -1,0 +1,6 @@
+{
+  "_id": "address-privacy",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Keeping your address private",
+  "label_extra": "**If you do not wish your address to be made known to the respondent**, leave the details below blank and complete Confidential contact details Form C8. Please ensure that any documents submitted with this form or at a later date, **do not** disclose the confidential contact details you wish to withhold."
+}

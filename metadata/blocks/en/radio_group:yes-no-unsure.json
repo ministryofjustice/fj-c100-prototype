@@ -1,0 +1,9 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "radio_group:yes-no-unsure",
+  "options": [
+    "option:yes",
+    "option:no",
+    "option:unsure"
+  ]
+}

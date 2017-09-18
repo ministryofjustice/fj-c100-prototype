@@ -1,0 +1,6 @@
+{
+  "_id": "without-notice_notice-will-frustrate",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Do you require a without notice hearing because it is not possible to give notice including abridged or informal notice?",
+  "subblock": "without-notice_notice-will-frustrate_reasons"
+}

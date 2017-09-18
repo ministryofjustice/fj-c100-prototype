@@ -1,0 +1,29 @@
+{
+  "_blockType": "Route",
+  "_id": "route:respondent-details",
+  "_isa": "view:form",
+  "blocks": [
+    "full-name",
+    "has_previous-name",
+    "gender",
+    "dob-check-18",
+    "dob-check-18_unsure",
+    "birthplace",
+    "address-for-documents",
+    "postcode",
+    "address_unsure",
+    "phone-home",
+    "phone-mobile",
+    "phone_unsure",
+    "email",
+    "email_unsure",
+    "residence-duration-sufficient"
+  ],
+  "body": "",
+  "heading": "The respondent(s)",
+  "multiple": true,
+  "multiple_max": 2,
+  "multiple_min": 1,
+  "title": "",
+  "url": "/respondent/details"
+}

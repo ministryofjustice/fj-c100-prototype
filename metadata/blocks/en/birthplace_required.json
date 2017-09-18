@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "birthplace_required",
+  "hint": "Town/County/Country",
+  "label": "Place of birth",
+  "required": true
+}

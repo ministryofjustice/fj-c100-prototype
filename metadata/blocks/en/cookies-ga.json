@@ -1,0 +1,10 @@
+{
+  "_blockType": "CookieSection",
+  "_id": "cookies-ga",
+  "body": "We use Google Analytics to collect information about how you interact with the guide. This information helps us to update and improve the guide.\r\n\r\nGoogle Analytics stores information about:\r\n\r\n- the pages you visit\r\n- how long you spend on each page\r\n- how you got to the guide\r\n- what you click on while you’re reading the guide\r\n\r\n(i) We don’t allow Google to use or share our analytics data.\r\n\r\nYou can [opt out of Google Analytics cookies](https://tools.google.com/dlpage/gaoptout).",
+  "cookie_description": "A randomly generated reference is used to identify unique users and inform referring sites, visitor and session counts",
+  "cookie_expires": "2 years",
+  "cookie_name": "_ga",
+  "heading": "Google Analytics cookie",
+  "lede": ""
+}

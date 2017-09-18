@@ -1,0 +1,11 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "parenting-plan",
+  "inline": false,
+  "label": "Have you previously prepared a Parenting Plan?",
+  "options": [
+    "option:parenting-plan_yes",
+    "option:parenting-plan_no"
+  ],
+  "required": true
+}

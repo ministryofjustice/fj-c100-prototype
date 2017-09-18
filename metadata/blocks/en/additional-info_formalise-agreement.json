@@ -1,0 +1,5 @@
+{
+  "_id": "additional-info_formalise-agreement",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Are you applying for an order to formalise an agreement (consent order)?"
+}

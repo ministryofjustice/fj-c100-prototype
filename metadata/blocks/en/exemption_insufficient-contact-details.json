@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "exemption_insufficient-contact-details",
+  "label": "the prospective applicant does not have sufficient contact details for any of the prospective respondents to enable a family mediator to contact any of the prospective respondents for the purpose of scheduling the MIAM.",
+  "value": "insufficient-contact-details"
+}

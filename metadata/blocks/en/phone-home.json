@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "phone-home",
+  "label": "Home phone",
+  "requiredWhen": [
+    {
+      "![multiple_route]phone_unsure": "yes",
+      "![multiple_route]phone-mobile": ".+"
+    }
+  ]
+}

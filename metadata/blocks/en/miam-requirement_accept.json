@@ -1,0 +1,5 @@
+{
+  "_id": "miam-requirement_accept",
+  "_isa": "radio_group:yes-no-required",
+  "label": "I acknowledge the need to attend a MIAM"
+}

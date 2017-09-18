@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_emergency-proceedings",
+  "_isa": "view:form",
+  "blocks": [
+    "miam_emergency-proceedings"
+  ],
+  "body": "",
+  "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
+  "title": "",
+  "url": "/miam/emergency-proceedings"
+}

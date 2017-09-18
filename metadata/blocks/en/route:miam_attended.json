@@ -1,0 +1,19 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_attended",
+  "_isa": "view:form",
+  "blocks": [
+    "miam_attended"
+  ],
+  "body": "",
+  "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
+  "redirectConditions": {
+    "route:end_miam_not-completed": [
+      {
+        "miam_attended": "no"
+      }
+    ]
+  },
+  "title": "",
+  "url": "/miam/attended"
+}

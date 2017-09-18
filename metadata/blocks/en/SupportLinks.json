@@ -1,0 +1,18 @@
+{
+  "_blockType": "SupportLinks",
+  "_id": "SupportLinks",
+  "links": [
+    {
+      "route": "route:cookies"
+    },
+    {
+      "route": "route:terms_conditions"
+    },
+    {
+      "route": "route:privacy"
+    },
+    {
+      "link": "Built by [MoJ Digital](https://mojdigital.blog.gov.uk/about/)"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "_blockType": "Section",
+  "_id": "section:miam-requirement_accept",
+  "blocks": [
+    "miam-requirement_accept",
+    "miam-requirement_date-accepted"
+  ],
+  "body": "1. I understand that if I have not attended a Mediation Information and Assessment Meeting (MIAM), the court **CANNOT** process my court application unless there are special circumstances.\r\n1. I understand that if I cannot show evidence that I do not need to attend a MIAM, the judge may stop proceedings until I have considered mediation.",
+  "heading": "Please read the statements below and sign to confirm your understanding",
+  "lede": ""
+}

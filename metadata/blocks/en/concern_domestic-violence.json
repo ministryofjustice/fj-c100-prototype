@@ -1,0 +1,5 @@
+{
+  "_id": "concern_domestic-violence",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Any form of domestic violence"
+}

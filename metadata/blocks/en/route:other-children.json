@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-children",
+  "_isa": "view:form",
+  "blocks": [
+    "other-children"
+  ],
+  "body": "",
+  "heading": "Other children not part of the application",
+  "title": "",
+  "url": "/other-children"
+}

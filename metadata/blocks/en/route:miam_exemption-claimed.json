@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_exemption-claimed",
+  "_isa": "view:form",
+  "blocks": [
+    "miam_exemption-claimed"
+  ],
+  "body": "",
+  "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
+  "title": "",
+  "url": "/miam/exemption"
+}

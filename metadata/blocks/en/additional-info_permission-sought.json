@@ -1,0 +1,5 @@
+{
+  "_id": "additional-info_permission-sought",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Are you asking for permission to make this application, where that is required?"
+}

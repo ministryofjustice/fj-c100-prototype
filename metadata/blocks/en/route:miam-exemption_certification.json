@@ -1,0 +1,23 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_certification",
+  "_isa": "view:form",
+  "blocks": [
+    "miam-exemption_mediator",
+    "miam-exemption_attendance",
+    "miam-exemption_not-proceeding",
+    "mediator_details"
+  ],
+  "depends": [
+    {
+      "miam_informed-by-mediator": "yes"
+    },
+    {
+      "miam_attended": "yes"
+    }
+  ],
+  "heading": "Mediator certifies that the prospective applicant is exempt from attendance at Mediation Information and Assessment Meeting (MIAM) or confirms MIAM attendance",
+  "lede": "To be completed and signed by the authorised family mediator",
+  "title": "",
+  "url": "/miam/certification"
+}

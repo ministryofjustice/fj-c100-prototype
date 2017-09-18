@@ -1,0 +1,21 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "permission-status",
+  "depends": [
+    {
+      "additional-info_permission-sought": "yes"
+    }
+  ],
+  "label": "Have you applied to the court for permission to make this application?",
+  "options": [
+    "option:yes",
+    "option:no_permission-not-required",
+    "option:no_permission-sought"
+  ],
+  "requiredWhen": [
+    {
+      "additional-info_permission-sought": "yes"
+    }
+  ],
+  "subblock": "permission-reasons"
+}

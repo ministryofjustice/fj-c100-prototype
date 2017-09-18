@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:quicklinks",
+  "blocks": [
+    "quicklinks"
+  ],
+  "heading": "Quick links",
+  "lede": "",
+  "title": "",
+  "url": "/admin/quicklinks"
+}

@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "exemption_existing-attendance",
+  "label": "the application would be made in existing proceedings which are continuing and the prospective applicant attended a MIAM before initiating those proceedings",
+  "value": "existing-attendance"
+}

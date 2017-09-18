@@ -1,0 +1,22 @@
+{
+  "_blockType": "Route",
+  "_id": "route:children",
+  "_isa": "view:form",
+  "blocks": [
+    "child_name",
+    "child_dob",
+    "child_dob_unsure",
+    "child_gender",
+    "child_orders-applied-for",
+    "child_relationship-applicant",
+    "child_relationship-respondent"
+  ],
+  "heading": "Child {app:route:_index}",
+  "multiple": true,
+  "multiple_autosuffix": false,
+  "multiple_heading": "Child",
+  "multiple_max": 10,
+  "multiple_min": 1,
+  "title": "",
+  "url": "/children"
+}

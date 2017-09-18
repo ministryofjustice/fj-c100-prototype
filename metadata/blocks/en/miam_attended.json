@@ -1,0 +1,10 @@
+{
+  "_id": "miam_attended",
+  "_isa": "radio_group:yes-no-required",
+  "depends": [
+    {
+      "miam_informed-by-mediator": "no"
+    }
+  ],
+  "label": "Have you attended a MIAM?"
+}

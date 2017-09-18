@@ -1,0 +1,24 @@
+{
+  "_blockType": "Route",
+  "_id": "route:attending",
+  "_isa": "view:form",
+  "blocks": [
+    "attending_welsh-required",
+    "attending_welsh-required-group",
+    "attending_language-assistance",
+    "attending_language-assistance_person",
+    "attending_intermediary",
+    "attending_assistance",
+    "attending_special-arrangements"
+  ],
+  "body": "**If you require an interpreter, you must tell the court now so that one can be arranged**",
+  "depends": [
+    {
+      "additional-info_welsh-required": "yes"
+    }
+  ],
+  "heading": "Attending the court",
+  "lede": " Section N of the booklet ‘CB1 - Making an application - Children and the Family Courts’ and the leaflet ‘CB7 - Guide for separated parents: children and the family courts’ provide information about attending court.",
+  "title": "",
+  "url": "/attending"
+}

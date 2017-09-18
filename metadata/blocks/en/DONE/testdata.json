@@ -1,0 +1,11 @@
+{
+  "_blockType": "Date",
+  "_id": "testdata",
+  "hint": "When is it, like?",
+  "label": "Date of birth",
+  "requiredWhen": [
+    {
+      "!testdata_unsure": "yes"
+    }
+  ]
+}

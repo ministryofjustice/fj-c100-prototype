@@ -1,0 +1,11 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:order_type",
+  "label": "What order(s) are you applying for?",
+  "options": [
+    "option:child-arrangements-order",
+    "option:prohibited-steps-order",
+    "option:specific-issue-order"
+  ],
+  "required": true
+}

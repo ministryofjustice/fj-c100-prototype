@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "parenting-plan_no",
+  "body": "You can download a copy from the website [www.cafcass.gov.uk/parentingplan](https://www.cafcass.gov.uk/parentingplan)",
+  "depends": [
+    {
+      "parenting-plan": "no"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "exemption-certified_attendance_alone",
+  "label": "The applicant has attended a MIAM alone and\r\n\r\n• the applicant does not wish to start or continue mediation; or\r\n\r\n• the mediator has determined that mediation is unsuitable; or\r\n\r\n• the respondent did not wish to attend a MIAM",
+  "value": "attendance_alone"
+}

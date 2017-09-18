@@ -1,0 +1,5 @@
+{
+  "_id": "fake-unsure",
+  "_isa": "checkbox:unsure",
+  "label": "Don’t know (fake unsure)"
+}

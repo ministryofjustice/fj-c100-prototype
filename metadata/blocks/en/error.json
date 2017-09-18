@@ -1,0 +1,8 @@
+{
+  "_blockType": "DefaultString",
+  "_id": "error",
+  "format": "This answer is not in the correct format",
+  "required": "Please answer this question",
+  "requiredCheckboxGroup": "Please choose at least one of the options",
+  "requiredRadioGroup": "Please choose one of the answers"
+}

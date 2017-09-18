@@ -1,0 +1,26 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant-details",
+  "_isa": "view:form",
+  "blocks": [
+    "full-name",
+    "has_previous-name_required",
+    "gender",
+    "dob-check-18_required",
+    "birthplace_required",
+    "address-privacy-warning",
+    "address_required",
+    "postcode_required",
+    "phone-home",
+    "phone-mobile",
+    "email",
+    "residence-duration-sufficient_required"
+  ],
+  "body": "",
+  "heading": "About you (the applicant(s)) - Applicant {app:route:_index}",
+  "multiple": true,
+  "multiple_max": 5,
+  "multiple_min": 1,
+  "title": "",
+  "url": "/applicant/details"
+}
