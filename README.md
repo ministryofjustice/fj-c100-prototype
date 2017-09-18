@@ -294,4 +294,8 @@ The following locations are linted:
 
 ## Deploying
 
-Can be deployed straight to heroku
+It's just a express-based Node app - and can run locally or be deployed straight to a heroku instance of your liking.
+
+An exisitng heroku instance can be found at:
+
+[https://fj-c100-prototype.herokuapp.com](https://fj-c100-prototype.herokuapp.com)
