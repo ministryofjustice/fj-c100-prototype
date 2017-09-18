@@ -1,0 +1,6 @@
+{
+  "_blockType": "Checkbox",
+  "_id": "miam-requirement_acknowledgement",
+  "label": "I acknowledge the need to attend a MIAM and be able to show proof of having done so",
+  "required": true
+}

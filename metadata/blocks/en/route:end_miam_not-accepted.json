@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_not-accepted",
-  "body": "",
+  "body": "Go back to the [application]({app:urls:route:miam-requirement_acknowledgement})",
   "heading": "End",
   "lede": "You cannot make this application as you have not accepted the requirement to do a MIAM.",
   "template": "generic",
