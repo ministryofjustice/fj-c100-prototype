@@ -10,7 +10,8 @@
     "dob-other_unsure",
     "address",
     "postcode",
-    "address_unsure"
+    "address_unsure",
+    "other-party_relationship"
   ],
   "body": "",
   "depends": [
