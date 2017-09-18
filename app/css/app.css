@@ -4,6 +4,10 @@
   margin-bottom: 3rem;
 }
 
+.button-start {
+  background-size: 3rem;
+}
+
 s {
   display: none;
 }
