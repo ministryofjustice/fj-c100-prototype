@@ -47,6 +47,7 @@
     "route:miam-exemption_certification",
     "route:signatory-identity",
     "route:statement-of-truth",
+    "route:summary",
     "route:end"
   ],
   "title": "Apply for a Section 8 order",
