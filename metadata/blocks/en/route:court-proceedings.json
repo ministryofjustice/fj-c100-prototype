@@ -22,7 +22,7 @@
   "body": "",
   "depends": [
     {
-      "miam_emergency-proceedings": "yes"
+      "additional-info_previous-proceedings": "yes"
     }
   ],
   "heading": "Court case {app:route:_index}",
