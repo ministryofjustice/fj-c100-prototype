@@ -1,10 +1,16 @@
 {
   "_blockType": "Route",
   "_id": "route:end",
-  "body": "Now pay the fee of £XX.XX",
-  "heading": "End",
-  "lede": "Review your answers and submit",
+  "blocks": [
+    "application-fees",
+    "formalise-agreement-upload",
+    "c1a-upload",
+    "c8-upload"
+  ],
+  "body": "",
+  "heading": "Submit your application",
+  "lede": "",
   "template": "generic",
   "title": "",
-  "url": "/end"
+  "url": "/submit-application"
 }

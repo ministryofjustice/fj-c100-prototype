@@ -1,0 +1,9 @@
+{
+  "_id": "email_applicant",
+  "_isa": "text:email",
+  "requiredWhen": [
+    {
+      "[multiple_route]address_applicant": ".+"
+    }
+  ]
+}

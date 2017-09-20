@@ -8,5 +8,5 @@
     "option:other"
   ],
   "required": true,
-  "subblock": "children_residence-other-details"
+  "subblock": "children_residence_other-details"
 }

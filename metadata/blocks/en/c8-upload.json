@@ -1,0 +1,15 @@
+{
+  "_blockType": "Section",
+  "_id": "c8-upload",
+  "body": "Please upload your completed [C8 form]({app:urls:url:c8-en})",
+  "depends": [
+    {
+      "!.*address_applicant.*": ".+"
+    },
+    {
+      "children_residence": "other",
+      "!children_residence_other-details": ".+"
+    }
+  ],
+  "heading": "Confidential contact details"
+}

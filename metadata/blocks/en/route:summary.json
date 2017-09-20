@@ -3,7 +3,7 @@
   "_id": "route:summary",
   "body": "",
   "heading": "Check your answers",
-  "lede": "Review your answers and submit",
+  "lede": "Please review your answers before submitting your application",
   "template": "summary",
   "title": "",
   "url": "/check-your-answers"

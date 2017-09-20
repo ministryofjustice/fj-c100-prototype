@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:index",
   "_isa": "view:form",
-  "body": "Before completing this form please read the leaflet [‘CB1 – Making an application – Children and the Family Courts’](https://hmctsformfinder.justice.gov.uk/HMCTS/GetLeaflet.do?court_leaflets_id=93) and the leaflet [‘CB7 - Guide for separated parents: children and the family courts’](http://hmctsformfinder.justice.gov.uk/HMCTS/GetLeaflet.do?court_leaflets_id=2756). \r\n\r\nThese and other forms and leaflets are available from your local court or online at [hmctsformfinder.justice.gov.uk](https://hmctsformfinder.justice.gov.uk).",
+  "body": "Before completing this form please read the leaflet [‘CB1 – Making an application – Children and the Family Courts’]({app:urls:url:cb1-en}) and the leaflet [‘CB7 - Guide for separated parents: children and the family courts’]({app:urls:url:cb7-en}). \r\n\r\nThese and other forms and leaflets are available from your local court or online at [hmctsformfinder.justice.gov.uk]({app:urls:url:hmcts-formfinder}).",
   "heading": "Make an application under section 8 of the Children Act 1989 for a child arrangements, prohibited steps, specific issue order or to vary or discharge or ask permission to make a section 8 order",
   "lede": "",
   "start": true,

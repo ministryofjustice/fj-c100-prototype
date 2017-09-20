@@ -1,7 +1,7 @@
 {
   "_blockType": "Text",
-  "_id": "address_required",
+  "_id": "address_applicant",
   "label": "Address",
   "multiline": true,
-  "required": true
+  "required": false
 }

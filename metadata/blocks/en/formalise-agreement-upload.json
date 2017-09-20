@@ -1,0 +1,11 @@
+{
+  "_blockType": "Section",
+  "_id": "formalise-agreement-upload",
+  "body": "Please upload the draft order",
+  "depends": [
+    {
+      "additional-info_formalise-agreement": "yes"
+    }
+  ],
+  "heading": "Formalising an agreement"
+}

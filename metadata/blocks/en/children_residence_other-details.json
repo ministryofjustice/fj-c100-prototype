@@ -1,12 +1,12 @@
 {
   "_blockType": "Text",
-  "_id": "children_residence-other-details",
+  "_id": "children_residence_other-details",
   "depends": [
     {
       "children_residence": "other"
     }
   ],
-  "hint": "If you do not wish this information to be made known to the Respondent, leave the details blank and complete Confidential contact details Form C8.",
+  "hint": "If you do not wish this information to be made known to the Respondent, leave the details blank and complete Confidential contact details [Form C8]({app:urls:url:c8-en}).",
   "label": "Please give the full address of the child, the names of any adults living with the children and their relationship to or involvement with the child",
   "multiline": true,
   "requiredWhen": [

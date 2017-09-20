@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "formalise-agreement-info",
+  "body": "You will need to attach the draft order to this form",
+  "depends": [
+    {
+      "additional-info_formalise-agreement": "yes"
+    }
+  ]
+}

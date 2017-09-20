@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "postcode_applicant",
+  "label": "Postcode",
+  "required": false,
+  "requiredWhen": [
+    {
+      "[multiple_route]address_applicant": ".+"
+    }
+  ]
+}
