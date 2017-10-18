@@ -6,5 +6,6 @@
       "additional-info_previous-proceedings": "yes"
     }
   ],
-  "label": "Are/were any of the current or previous court cases about an emergency protection, care or supervision order?"
+  "label": "Are/were any of the current or previous court cases about an emergency protection, care or supervision order?",
+  "visuallyhidden": true
 }

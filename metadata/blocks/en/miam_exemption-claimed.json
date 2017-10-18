@@ -1,5 +1,6 @@
 {
   "_id": "miam_exemption-claimed",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are you claiming exemption from the requirement to attend a MIAM?"
+  "label": "Are you claiming exemption from the requirement to attend a MIAM?",
+  "visuallyhidden": true
 }

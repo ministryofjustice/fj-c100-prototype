@@ -1,4 +1,5 @@
 {
+  "*notes": "What should happen if user says no when prompted for HWF ref (and they've said they want help), but then just continues?",
   "_blockType": "Route",
   "_id": "route:help-with-fees",
   "_isa": "view:form",

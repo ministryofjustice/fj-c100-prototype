@@ -6,7 +6,7 @@
     "miam_attended"
   ],
   "body": "",
-  "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
+  "heading": "! miam_attended#label!",
   "steps": [
     "route:miam_exemption-claimed",
     "route:miam_informed-by-mediator"
