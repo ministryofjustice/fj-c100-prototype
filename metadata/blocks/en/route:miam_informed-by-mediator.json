@@ -6,6 +6,11 @@
     "miam_informed-by-mediator"
   ],
   "body": "",
+  "depends": [
+    {
+      "miam_attended": "yes"
+    }
+  ],
   "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
   "title": "",
   "url": "/miam/informed"

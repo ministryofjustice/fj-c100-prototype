@@ -6,6 +6,10 @@
   "continue": "continue",
   "heading": "The child(ren)",
   "lede": "Please provide the full names of the child(ren)",
+  "steps": [
+    "route:children",
+    "route:children_further-details"
+  ],
   "title": "",
   "url": "/children/instructions"
 }

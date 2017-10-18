@@ -4812,9 +4812,9 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#offline-vendor-scripts":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#nested-next-steps":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#1718da974f28c1a33e840970113348bec8d96d37"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#8b3a0f703400754bf397ea31f994827a7a6d9492"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4879,9 +4879,9 @@ performance-now@^0.2.0:
     the-a11y-machine "^0.9.3"
     webdriverio "^4.8.0"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#summary-returns":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#nested-next-steps-b":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#8490321952b20912adea90acf37515b99abe190c"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#a201e9c36af06a17e64f97bfc0f0ec2cd2b59460"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"

@@ -3,5 +3,6 @@
   "_id": "order_nature",
   "hint": "For example, an order about with whom a child is to live, or how often they spend time with the applicant and for how long",
   "label": "Please specify the nature of the order you seek",
-  "multiline": true
+  "multiline": true,
+  "required": true
 }

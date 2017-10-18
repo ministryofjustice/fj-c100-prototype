@@ -7,13 +7,10 @@
   ],
   "body": "",
   "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
-  "redirectConditions": {
-    "route:end_miam_not-completed": [
-      {
-        "miam_attended": "no"
-      }
-    ]
-  },
+  "steps": [
+    "route:miam_exemption-claimed",
+    "route:miam_informed-by-mediator"
+  ],
   "title": "",
   "url": "/miam/attended"
 }

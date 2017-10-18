@@ -6,7 +6,22 @@
     "miam_exemption-claimed"
   ],
   "body": "",
+  "depends": [
+    {
+      "miam_attended": "no"
+    }
+  ],
   "heading": "Requirement to attend a Mediation, Information and Assessment Meeting (MIAM)",
+  "redirectConditions": {
+    "route:end_miam_not-completed": [
+      {
+        "miam_exemption-claimed": "no"
+      }
+    ]
+  },
+  "steps": [
+    "route:miam-exemption_recap"
+  ],
   "title": "",
   "url": "/miam/exemption"
 }
