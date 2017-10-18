@@ -1,6 +1,15 @@
 {
   "_blockType": "Text",
   "_id": "help-with-fees_ref",
-  "hint": "If applicable",
-  "label": "Help with Fees reference number"
+  "depends": [
+    {
+      "help-with-fees": "yes"
+    }
+  ],
+  "label": "Enter your reference number",
+  "requiredWhen": [
+    {
+      "help-with-fees": "yes"
+    }
+  ]
 }

@@ -3,11 +3,18 @@
   "_id": "route:help-with-fees",
   "_isa": "view:form",
   "blocks": [
-    "help-with-fees_ref"
+    "help-with-fees"
   ],
   "body": "",
-  "heading": "Help with Fees",
-  "lede": "Please provide your Help with Fees reference if you have one",
+  "depends": [
+    {
+      "help-paying": "yes"
+    },
+    {
+      "flag-hwf-single": true
+    }
+  ],
+  "heading": "!help-with-fees#label!",
   "title": "",
   "url": "/help-with-fees"
 }

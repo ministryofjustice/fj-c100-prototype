@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "help-with-fees",
+  "inline": false,
+  "label": "Do you have a Help with Fees reference number?",
+  "options": [
+    "option:help-with-fees-yes",
+    "option:help-with-fees-no"
+  ],
+  "required": true,
+  "visuallyhidden": true
+}

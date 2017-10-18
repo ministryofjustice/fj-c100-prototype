@@ -1,0 +1,25 @@
+{
+  "*notes": "See Trello card [Understand C4 relation to C100](https://trello.com/c/4GycTFsY/477-understand-c4-relation-to-c100)",
+  "_blockType": "Route",
+  "_id": "route:residence-known",
+  "_isa": "view:form",
+  "blocks": [
+    "residence-known"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "flag-residence-known": true
+    }
+  ],
+  "heading": "!residence-known#label!",
+  "redirectConditions": {
+    "route:end_residence-unknown": [
+      {
+        "residence-known": "no"
+      }
+    ]
+  },
+  "title": "",
+  "url": "/residence-known"
+}

@@ -8,6 +8,9 @@
   "start": true,
   "steps": [
     "route:miam-requirement_acknowledgement",
+    "route:user-establish",
+    "route:residence-known",
+    "route:help-paying",
     "route:help-with-fees",
     "route:order",
     "route:concerns",
