@@ -4812,9 +4812,9 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#flag-dependencies":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#flags-enhanced":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#ae8c1139dc785a533074b97be6fb6443863202f5"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#18f328489718670812ae771297775e4e746ce822"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
