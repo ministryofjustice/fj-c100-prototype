@@ -6,6 +6,7 @@
   ],
   "heading": "Quick links",
   "lede": "",
+  "template": "admin/quicklinks/quicklinks",
   "title": "",
   "url": "/admin/quicklinks"
 }
