@@ -2,12 +2,12 @@
   "name": "fj-c100",
   "version": "0.0.1",
   "engines": {
-    "node": "8.4.0"
+    "node": ">=8.4.0"
   },
   "main": "lib/start.js",
   "license": "MIT",
   "dependencies": {
-    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#admin-tweak"
+    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#checkbox-dependencies"
   },
   "scripts": {
     "build": "build",

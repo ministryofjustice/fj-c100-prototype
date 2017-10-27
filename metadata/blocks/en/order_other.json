@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "order_other",
+  "excludes": true,
+  "label": "Something else",
+  "value": "yes"
+}

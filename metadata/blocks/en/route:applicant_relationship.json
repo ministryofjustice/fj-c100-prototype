@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_relationship",
+  "_isa": "view:form",
+  "blocks": [
+    "applicant_relationship"
+  ],
+  "heading": "!applicant_relationship#label!",
+  "title": "",
+  "url": "/applicant-relationship"
+}

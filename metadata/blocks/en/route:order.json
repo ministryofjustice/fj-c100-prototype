@@ -6,6 +6,11 @@
     "checkbox_group:order_type",
     "order_nature"
   ],
+  "depends": [
+    {
+      "order_other": "yes"
+    }
+  ],
   "heading": "Nature of application",
   "url": "/order"
 }

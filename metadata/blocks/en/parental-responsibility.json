@@ -1,0 +1,6 @@
+{
+  "_id": "parental-responsibility",
+  "_isa": "radio_group:yes-no-required",
+  "label": "!string:do-you! have parental responsibility for the !string:children!?",
+  "visuallyhidden": true
+}

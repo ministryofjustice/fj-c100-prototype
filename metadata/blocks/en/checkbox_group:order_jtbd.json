@@ -1,0 +1,17 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:order_jtbd",
+  "label": "What are you asking the court to do?",
+  "options": [
+    "order_child-contact",
+    "order_child-times",
+    "order_specific-issue",
+    "order_formalise",
+    "order_child-return",
+    "order_child-abduction",
+    "order_child-flight",
+    "order_other"
+  ],
+  "required": true,
+  "visuallyhidden": true
+}

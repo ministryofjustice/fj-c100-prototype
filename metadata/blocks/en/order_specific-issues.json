@@ -1,0 +1,24 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "order_specific-issues",
+  "depends": [
+    {
+      "order_specific-issue": "yes"
+    }
+  ],
+  "label": "What is the specific issue you are asking the court to decide on?",
+  "options": [
+    "order_specific-issue_school",
+    "order_specific-issue_religion",
+    "order_specific-issue_name",
+    "order_specific-issue_medical",
+    "order_specific-issue_abroad",
+    "order_specific-issue_other"
+  ],
+  "requiredWhen": [
+    {
+      "order_specific-issue": "yes"
+    }
+  ],
+  "visuallyhidden": false
+}

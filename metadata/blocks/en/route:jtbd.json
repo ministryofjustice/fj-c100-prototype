@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:jtbd",
+  "_isa": "view:form",
+  "blocks": [
+    "checkbox_group:order_jtbd"
+  ],
+  "heading": "!checkbox_group:order_jtbd#label!",
+  "url": "/order-type"
+}

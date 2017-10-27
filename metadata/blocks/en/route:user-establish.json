@@ -1,15 +1,11 @@
 {
-  "*notes": "Need to understand potential alternative journeys for secondary users (solicitors, grandparents etc)",
   "_blockType": "Route",
   "_id": "route:user-establish",
   "_isa": "view:form",
-  "depends": [
-    {
-      "flag-user-establish": true
-    }
+  "blocks": [
+    "applicant_applying"
   ],
-  "heading": "Establish who is filling out form",
-  "lede": "in case we want to introduce different journeys",
+  "heading": "!applicant_applying#label!",
   "title": "",
   "url": "/who"
 }

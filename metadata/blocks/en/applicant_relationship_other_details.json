@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "applicant_relationship_other_details",
+  "depends": [
+    {
+      "applicant_relationship": "other"
+    }
+  ],
+  "label": "Please give details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "applicant_relationship": "other"
+    }
+  ]
+}

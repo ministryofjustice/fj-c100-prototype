@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "applicant_applying",
+  "inline": false,
+  "label": "Are you the person making this application?",
+  "options": [
+    "applicant-self",
+    "applicant-representative"
+  ],
+  "required": true,
+  "visuallyhidden": true
+}

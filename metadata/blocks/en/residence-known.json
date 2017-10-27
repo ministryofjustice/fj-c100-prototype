@@ -1,6 +1,6 @@
 {
   "_id": "residence-known",
   "_isa": "radio_group:yes-no-required",
-  "label": "Does the applicant know the whereabouts of the children?",
+  "label": "!string:do-you! know the whereabouts of the !string:children!?",
   "visuallyhidden": true
 }
