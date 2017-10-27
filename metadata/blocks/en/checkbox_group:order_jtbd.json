@@ -1,7 +1,7 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "checkbox_group:order_jtbd",
-  "label": "What do you want a court to do?",
+  "label": "What are you asking the court to do?",
   "options": [
     "order_child-home",
     "order_child-times",
@@ -14,5 +14,6 @@
     "order_other"
   ],
   "required": true,
-  "visuallyhidden": true
+  "visuallyhidden": true,
+  "xhint": "Select all that apply"
 }

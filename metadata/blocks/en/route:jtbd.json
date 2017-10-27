@@ -6,5 +6,6 @@
     "checkbox_group:order_jtbd"
   ],
   "heading": "!checkbox_group:order_jtbd#label!",
+  "lede": "Select all that apply",
   "url": "/order-type"
 }
