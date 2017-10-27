@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
   "_id": "order_formalise",
-  "label": "To formalise an agreement (consent order)",
+  "label": "Make an agreement with the other parent legally binding (also known as a consent order)",
   "value": "yes"
 }

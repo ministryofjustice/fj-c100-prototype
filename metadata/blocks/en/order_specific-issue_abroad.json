@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
   "_id": "order_specific-issue_abroad",
-  "label": "Whether they should be allowed to move abroad",
+  "label": "Moving location (including moving abroad)",
   "value": "yes"
 }

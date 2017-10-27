@@ -6,7 +6,7 @@
       "order_specific-issue": "yes"
     }
   ],
-  "label": "What is the specific issue you are asking the court to decide on?",
+  "label": "What is the issue you’d like the court to resolve?",
   "options": [
     "order_specific-issue_school",
     "order_specific-issue_religion",

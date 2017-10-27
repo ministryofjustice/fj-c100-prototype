@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
   "_id": "order_child-contact",
-  "label": "To decide who the children are to live, spend time or have contact with",
+  "label": "Confirm when and what other types of contact will take place (for example, phone calls)",
   "value": "yes"
 }

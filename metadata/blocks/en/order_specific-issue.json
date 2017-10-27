@@ -1,7 +1,7 @@
 {
   "_blockType": "Option",
   "_id": "order_specific-issue",
-  "label": "To decide on a specific disagreement about how the children should be brought up",
+  "label": "Resolve a dispute over a specific issue (for example what school the children will go to)",
   "subblock": "order_specific-issues",
   "value": "yes"
 }
