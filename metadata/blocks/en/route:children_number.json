@@ -5,6 +5,11 @@
   "blocks": [
     "children_number"
   ],
+  "depends": [
+    {
+      "flag-children-number": true
+    }
+  ],
   "heading": "!children_number#label!",
   "title": "",
   "url": "/how-many-children"

@@ -1,4 +1,7 @@
 {
   "residence-known": false,
-  "hwf-single": false
+  "hwf-single": false,
+  "applicant-establish": true,
+  "children-number": true,
+  "applicant_relationship": true
 }

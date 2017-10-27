@@ -5,7 +5,12 @@
   "blocks": [
     "applicant_applying"
   ],
+  "depends": [
+    {
+      "flag-applicant-establish": true
+    }
+  ],
   "heading": "!applicant_applying#label!",
   "title": "",
-  "url": "/who"
+  "url": "/who-is-applying"
 }

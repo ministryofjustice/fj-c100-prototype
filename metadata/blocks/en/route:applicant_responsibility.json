@@ -8,7 +8,8 @@
   "body": "",
   "depends": [
     {
-      "!applicant_relationship": "mother"
+      "!applicant_relationship": "mother",
+      "flag-applicant_relationship": true
     }
   ],
   "heading": "!parental-responsibility#label!",

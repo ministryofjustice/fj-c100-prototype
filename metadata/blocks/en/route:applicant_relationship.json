@@ -5,6 +5,11 @@
   "blocks": [
     "applicant_relationship"
   ],
+  "depends": [
+    {
+      "flag-applicant_relationship": true
+    }
+  ],
   "heading": "!applicant_relationship#label!",
   "title": "",
   "url": "/applicant-relationship"
