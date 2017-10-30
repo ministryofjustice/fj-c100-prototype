@@ -1,5 +1,5 @@
 {
-  "*notes": "What should happen if user says no when prompted for HWF ref (and they've said they want help), but then just continues?",
+  "*notes": "- What about letting the user know a bit more about the criteria?\r\n- Is the second option necessary if we moved the info about needing a ref number into the lede/body?\r\n- Do we want to find out if someone tried to get HWF but didn't get it?",
   "_blockType": "Route",
   "_id": "route:help-with-fees",
   "_isa": "view:form",
