@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
   "_id": "order_child-abduction",
-  "label": "Stop the children being abducted by the other parent",
+  "label": "Stop the other parent abducting my children",
   "value": "yes"
 }

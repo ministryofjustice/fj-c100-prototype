@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "string:flag--applicant-establish",
+  "value": "Show page asking whether the applicant is the person filling out the form - enables customisation based on whether the user is a legal professional or not"
+}

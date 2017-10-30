@@ -3,14 +3,14 @@
   "_id": "order_specific-issues_other_details",
   "depends": [
     {
-      "order_specific-issues_other": "yes"
+      "order_specific-issue_other": "yes"
     }
   ],
   "label": "Please give details",
   "multiline": true,
   "requiredWhen": [
     {
-      "order_specific-issues_other": "yes"
+      "order_specific-issue_other": "yes"
     }
   ]
 }

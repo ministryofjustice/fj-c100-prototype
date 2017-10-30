@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "string:flag--applicant_relationship",
+  "value": "Show page asking applicant’s relationship to children - enables customisation of strings referring to children; determination of whether applicant has parental responsibility"
+}
