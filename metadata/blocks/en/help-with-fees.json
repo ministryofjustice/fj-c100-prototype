@@ -2,9 +2,11 @@
   "_blockType": "RadioGroup",
   "_id": "help-with-fees",
   "inline": false,
-  "label": "!string:do-you! have a Help with Fees reference number?",
+  "label": "!string:do-you! need help paying the court fee?",
+  "lede": "You may be able to get help paying the £215 fee if you’re on a low income, receive certain benefits or have little or no savings.",
   "options": [
-    "option:help-with-fees-yes",
+    "option:help-with-fees-yes_ref",
+    "option:help-with-fees-yes_no-ref",
     "option:help-with-fees-no"
   ],
   "required": true,

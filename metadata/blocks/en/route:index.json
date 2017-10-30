@@ -12,7 +12,6 @@
     "route:applicant_relationship",
     "route:applicant_responsibility",
     "route:residence-known",
-    "route:help-paying",
     "route:help-with-fees",
     "route:jtbd",
     "route:order",

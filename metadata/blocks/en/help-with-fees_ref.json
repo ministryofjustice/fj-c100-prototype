@@ -3,13 +3,13 @@
   "_id": "help-with-fees_ref",
   "depends": [
     {
-      "help-with-fees": "yes"
+      "help-with-fees": "yes_ref"
     }
   ],
   "label": "Enter your reference number",
   "requiredWhen": [
     {
-      "help-with-fees": "yes"
+      "help-with-fees": "yes_ref"
     }
   ]
 }

@@ -1,5 +1,4 @@
 {
   "_id": "option:help-with-fees-no",
-  "_isa": "option:no",
-  "subblock": "help-with-fees_info"
+  "_isa": "option:no"
 }

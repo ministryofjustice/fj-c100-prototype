@@ -1,10 +1,10 @@
 {
   "_blockType": "Body",
   "_id": "help-with-fees_info",
-  "body": "{help-paying, select, yes {} other {!route:help-paying#lede!\r\n}}\r\nYou’ll need to get a [reference number]({app:urls:url:help-with-fees}) before you can continue with this service.",
+  "body": "You’ll need to get a [reference number]({app:urls:url:help-with-fees}) before you can continue with this service.",
   "depends": [
     {
-      "help-with-fees": "no"
+      "help-with-fees": "yes_no-ref"
     }
   ]
 }

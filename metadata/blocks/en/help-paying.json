@@ -1,6 +1,0 @@
-{
-  "_id": "help-paying",
-  "_isa": "radio_group:yes-no-required",
-  "label": "!string:do-you! need help paying the court fee?",
-  "visuallyhidden": true
-}

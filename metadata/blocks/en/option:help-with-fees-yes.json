@@ -1,5 +1,6 @@
 {
+  "_blockType": "Option",
   "_id": "option:help-with-fees-yes",
-  "_isa": "option:yes",
+  "label": "Yes, I have a Help with Fees reference number",
   "subblock": "help-with-fees_ref"
 }
