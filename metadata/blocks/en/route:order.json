@@ -11,6 +11,7 @@
       "order_other": "yes"
     }
   ],
-  "heading": "Nature of application",
+  "heading": "Provide more information",
+  "lede": "Please give more details or, if you know the name of the order, select the appropriate option",
   "url": "/order"
 }
