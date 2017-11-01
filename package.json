@@ -7,7 +7,7 @@
   "main": "lib/start.js",
   "license": "MIT",
   "dependencies": {
-    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#nested-reveals"
+    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#progressive-disclosure"
   },
   "scripts": {
     "build": "build",
