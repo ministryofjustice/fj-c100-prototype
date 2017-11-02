@@ -1,6 +1,6 @@
 {
   "residence-known": false,
-  "applicant-establish": true,
+  "applicant-establish": false,
   "children-number": true,
   "applicant_relationship": true
 }
