@@ -1,0 +1,18 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:applicant_abuse-type",
+  "hint": "Select all that are appropriate",
+  "label": "What type of abuse have you experienced?",
+  "options": [
+    "applicant_physical",
+    "applicant_emotional",
+    "applicant_psychological",
+    "applicant_sexual",
+    "applicant_financial"
+  ],
+  "requiredWhen": [
+    {
+      "concern_domestic-violence": "yes"
+    }
+  ]
+}

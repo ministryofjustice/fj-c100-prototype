@@ -1,0 +1,18 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "checkbox_group:children_abuse-type",
+  "hint": "Select all that are appropriate",
+  "label": "What type of abuse have the children experienced?",
+  "options": [
+    "children_physical",
+    "children_emotional",
+    "children_psychological",
+    "children_sexual",
+    "children_financial"
+  ],
+  "requiredWhen": [
+    {
+      "concern_child-abuse": "yes"
+    }
+  ]
+}

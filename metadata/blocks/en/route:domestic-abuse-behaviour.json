@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:domestic-abuse-behaviour",
+  "_isa": "view:form",
+  "blocks": [
+    "behaviour_start",
+    "behaviour_ongoing",
+    "behaviour_help"
+  ],
+  "body": "",
+  "heading": "Abusive behaviour {app:route:_index}",
+  "lede": "Give a short description of what happened and any relevant information so the court can decide what needs to be done. There will be further opportunities to make a detailed statement",
+  "multiple": true,
+  "multiple_max": 5,
+  "multiple_min": 1,
+  "title": "",
+  "url": "/domestic/behaviour"
+}

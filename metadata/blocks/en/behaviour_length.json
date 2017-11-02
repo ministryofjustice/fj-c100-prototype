@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "behaviour_length",
+  "depends": [
+    {
+      "behaviour_ongoing": "no"
+    }
+  ],
+  "hint": "Does not need to be an exact length of time",
+  "label": "How long did the behaviour continue for?",
+  "requiredWhen": [
+    {
+      "behaviour_ongoing": "no"
+    }
+  ]
+}

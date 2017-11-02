@@ -1,0 +1,9 @@
+{
+  "_id": "order_forced-marriage-protection_current",
+  "_isa": "radio_group:current",
+  "requiredWhen": [
+    {
+      "order_forced-marriage-protection": "yes"
+    }
+  ]
+}

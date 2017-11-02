@@ -1,0 +1,10 @@
+{
+  "_blockType": "Text",
+  "_id": "behaviour_help-party",
+  "label": "Who did you seek help from?",
+  "requiredWhen": [
+    {
+      "behaviour_help": "yes"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "abduction_passport-other_details",
+  "depends": [
+    {
+      "abduction_passport-possession": "other"
+    }
+  ],
+  "label": "Please give details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "abduction_passport-possession": "other"
+    }
+  ]
+}

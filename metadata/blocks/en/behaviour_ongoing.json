@@ -1,0 +1,6 @@
+{
+  "_id": "behaviour_ongoing",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Is the abusive behaviour still happening?",
+  "subblock": "behaviour_length"
+}

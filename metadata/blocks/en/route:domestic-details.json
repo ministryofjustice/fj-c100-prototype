@@ -1,0 +1,23 @@
+{
+  "_blockType": "Route",
+  "_id": "route:domestic-details",
+  "_isa": "view:form",
+  "blocks": [
+    "checkbox_group:applicant_abuse-type",
+    "checkbox_group:children_abuse-type",
+    "domestic-abuse_orders"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "concern_domestic-violence": "yes"
+    },
+    {
+      "concern_child-abuse": "yes"
+    }
+  ],
+  "heading": "Details of domestic violence/abuse",
+  "lede": "Please outline the nature and frequency of the abuse experienced by you or the child(ren) and if this has led to any involvement with the police, social services, children’s services, your doctor (GP) or any other outside agency(ies).",
+  "title": "",
+  "url": "/domestic/details"
+}

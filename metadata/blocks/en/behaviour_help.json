@@ -1,0 +1,6 @@
+{
+  "_id": "behaviour_help",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Did you seek help about the abusive behaviour?",
+  "subblock": "behaviour_help_dependencies"
+}

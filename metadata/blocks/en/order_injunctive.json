@@ -1,0 +1,6 @@
+{
+  "_id": "order_injunctive",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Other injunctive order",
+  "subblock": "order_injunctive_dependencies"
+}

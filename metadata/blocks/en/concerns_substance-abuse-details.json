@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "concerns_substance-abuse-details",
+  "label": "Please provide the details of the nature and frequency of the substance abuse",
+  "multiline": true,
+  "required": true
+}

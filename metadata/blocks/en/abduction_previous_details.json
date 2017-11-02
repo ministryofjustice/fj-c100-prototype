@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "abduction_previous_details",
+  "label": "Please give details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "abduction_previous": "yes"
+    }
+  ]
+}

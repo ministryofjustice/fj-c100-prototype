@@ -1,0 +1,16 @@
+{
+  "_blockType": "Group",
+  "_id": "order_restraining_dependencies",
+  "blocks": [
+    "order_restraining_date-issued",
+    "order_restraining_order-length",
+    "order_restraining_current",
+    "order_restraining_court-name"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "order_restraining": "yes"
+    }
+  ]
+}

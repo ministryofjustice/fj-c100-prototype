@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "concerns_other-details",
+  "label": "Please provide the details of your concerns",
+  "multiline": true,
+  "required": true
+}

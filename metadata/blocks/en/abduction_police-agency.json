@@ -1,0 +1,11 @@
+{
+  "_id": "abduction_police-agency",
+  "_isa": "radio_group:yes-no-required",
+  "dependsWhen": [
+    {
+      "abduction_previous": "yes"
+    }
+  ],
+  "label": "Were the police in this and/or another country or any organisation or agency including any private investigators involved in any previous incident of attempted abduction or abduction?",
+  "subblock": "abduction_police-agency_details"
+}

@@ -1,0 +1,9 @@
+{
+  "_id": "order_occupation_order-length",
+  "_isa": "text:order-length",
+  "requiredWhen": [
+    {
+      "order_occupation": "yes"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "_id": "radio_group:current",
+  "_isa": "radio_group:yes-no",
+  "label": "Is the order current?"
+}

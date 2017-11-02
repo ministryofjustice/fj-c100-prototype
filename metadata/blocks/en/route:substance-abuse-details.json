@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:substance-abuse-details",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_substance-abuse-details"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "concern_substance-abuse": "yes"
+    }
+  ],
+  "heading": "Concerns about drugs, alcohol or substance abuse",
+  "title": "",
+  "url": "/substance-abuse/details"
+}

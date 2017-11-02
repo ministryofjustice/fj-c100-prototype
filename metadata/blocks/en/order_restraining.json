@@ -1,0 +1,6 @@
+{
+  "_id": "order_restraining",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Restraining order",
+  "subblock": "order_restraining_dependencies"
+}

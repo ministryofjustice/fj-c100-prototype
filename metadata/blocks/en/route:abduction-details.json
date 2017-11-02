@@ -1,0 +1,21 @@
+{
+  "_blockType": "Route",
+  "_id": "route:abduction-details",
+  "_isa": "view:form",
+  "blocks": [
+    "abduction_reasons",
+    "abduction_previous",
+    "abduction_passport-office",
+    "abduction_passport-multiple",
+    "abduction_passport-possession"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "concern_child-abduction": "yes"
+    }
+  ],
+  "heading": "Details of abduction concerns",
+  "title": "",
+  "url": "/abduction/details"
+}

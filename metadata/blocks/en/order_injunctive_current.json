@@ -1,0 +1,9 @@
+{
+  "_id": "order_injunctive_current",
+  "_isa": "radio_group:current",
+  "requiredWhen": [
+    {
+      "order_injunctive": "yes"
+    }
+  ]
+}

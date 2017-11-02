@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "behaviour_start",
+  "hint": "Does not need to be an exact date",
+  "label": "When did the behaviour start?",
+  "required": true
+}

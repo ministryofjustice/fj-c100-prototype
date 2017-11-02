@@ -1,0 +1,9 @@
+{
+  "_id": "order_restraining_current",
+  "_isa": "radio_group:current",
+  "requiredWhen": [
+    {
+      "order_restraining": "yes"
+    }
+  ]
+}

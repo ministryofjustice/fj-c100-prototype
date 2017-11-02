@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "abduction_passport-possession",
+  "label": "Who is in possession of the children’s passport?",
+  "options": [
+    "option:mother",
+    "option:father",
+    "option:other"
+  ],
+  "required": true,
+  "subblock": "abduction_passport-other_details"
+}

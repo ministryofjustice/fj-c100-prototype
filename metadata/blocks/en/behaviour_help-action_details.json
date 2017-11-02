@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "behaviour_help-action_details",
+  "depends": [
+    {
+      "behaviour_help-action": "yes"
+    }
+  ],
+  "label": "What did they do to help?",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "behaviour_help-action": "yes"
+    }
+  ]
+}

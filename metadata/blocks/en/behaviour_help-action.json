@@ -1,0 +1,11 @@
+{
+  "_id": "behaviour_help-action",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Did they do anything to help?",
+  "requiredWhen": [
+    {
+      "behaviour_help": "yes"
+    }
+  ],
+  "subblock": "behaviour_help-action_details"
+}
