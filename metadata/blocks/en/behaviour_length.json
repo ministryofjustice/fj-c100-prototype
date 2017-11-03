@@ -10,7 +10,7 @@
   "label": "How long did the behaviour continue for?",
   "requiredWhen": [
     {
-      "behaviour_ongoing": "no"
+      "[multiple_route]behaviour_ongoing": "no"
     }
   ]
 }

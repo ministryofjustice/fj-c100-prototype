@@ -10,7 +10,7 @@
   "multiline": true,
   "requiredWhen": [
     {
-      "behaviour_help-action": "yes"
+      "[multiple_route]behaviour_help-action": "yes"
     }
   ]
 }

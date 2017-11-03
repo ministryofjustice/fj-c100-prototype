@@ -4,7 +4,7 @@
   "label": "Who did you seek help from?",
   "requiredWhen": [
     {
-      "behaviour_help": "yes"
+      "[multiple_route]behaviour_help": "yes"
     }
   ]
 }
