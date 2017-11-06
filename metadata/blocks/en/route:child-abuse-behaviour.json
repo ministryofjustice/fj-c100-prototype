@@ -14,7 +14,7 @@
       "concern_child-abuse": "yes"
     }
   ],
-  "heading": "Abusive behaviour {app:route:_index}",
+  "heading": "Details of abuse {app:route:_index}",
   "lede": "Give a short description of what happened and any relevant information so the court can decide what needs to be done. There will be further opportunities to make a detailed statement",
   "multiple": true,
   "multiple_max": 5,

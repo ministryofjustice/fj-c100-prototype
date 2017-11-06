@@ -1,5 +1,6 @@
 {
   "_id": "concern_child-abduction",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are your children at risk of being abducted?"
+  "label": "Are your children at risk of being abducted?",
+  "visuallyhidden": true
 }

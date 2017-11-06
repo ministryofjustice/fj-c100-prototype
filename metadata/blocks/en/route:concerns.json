@@ -2,9 +2,9 @@
   "_blockType": "Route",
   "_id": "route:concerns",
   "_isa": "view:form",
-  "body": "If you answer Yes to any of the following, **you must complete [form C1A]({app:urls:url:c1a-en})** (Supplemental information form)  [(Welsh version)]({app:urls:url:c1a-cy}) **and file it with this C100 form**.",
-  "heading": "Concerns about risk of harm",
-  "lede": "Are you alleging that the child(ren) named in Section 1 of this form have experienced, or are at risk of experiencing, harm from any of the following by any person who has had contact with the child?",
+  "body": "In the following section we will ask whether you or your children have experienced, or are at risk of experiencing, any form of harm.\r\n\r\n(!)You could be fined or imprisoned for contempt of court if you deliberately submit false information.\r\n",
+  "heading": "Risk of harm concerns",
+  "lede": "The court needs to know if you think the other person is a threat to the safety of you or your children.",
   "title": "",
   "url": "/concerns"
 }
