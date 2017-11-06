@@ -1,7 +1,9 @@
 {
   "_blockType": "Text",
   "_id": "concerns_substance-abuse-details",
-  "label": "Please provide the details of the nature and frequency of the substance abuse",
+  "hint": "You don’t need to give a full statement, although you may be asked to do so at a later date",
+  "label": "Provide a brief summary of the nature and frequency of the substance abuse",
   "multiline": true,
-  "required": true
+  "required": true,
+  "visuallyhidden": "true"
 }

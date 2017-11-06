@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "abduction_passport-office_not-informed",
+  "body": "If you think your children are at risk of being abducted abroad you must [contact the passport office]({app:urls:url:hmpo}) immediately.",
+  "depends": [
+    {
+      "abduction_passport-office": "no"
+    }
+  ]
+}

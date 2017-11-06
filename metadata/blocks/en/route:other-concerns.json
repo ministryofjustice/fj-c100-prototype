@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-concerns",
+  "_isa": "view:form",
+  "blocks": [
+    "concern_other"
+  ],
+  "heading": "!concern_other#label!",
+  "title": "",
+  "url": "/concerns/other"
+}

@@ -1,12 +1,16 @@
 {
-  "_blockType": "RadioGroup",
+  "_blockType": "CheckboxGroup",
   "_id": "abduction_passport-possession",
-  "label": "Who is in possession of the children’s passport?",
+  "hint": "Select all that apply",
+  "label": "Who is in possession of the children’s passports?",
   "options": [
-    "option:mother",
-    "option:father",
-    "option:other"
+    "passport-mother",
+    "passport-father",
+    "passport-other"
   ],
-  "required": true,
-  "subblock": "abduction_passport-other_details"
+  "requiredWhen": [
+    {
+      "abduction_abroad": "yes"
+    }
+  ]
 }

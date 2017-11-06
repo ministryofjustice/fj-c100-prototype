@@ -1,8 +1,8 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "checkbox_group:applicant_abuse-type",
-  "hint": "Select all that are appropriate",
-  "label": "What type of abuse have you experienced?",
+  "hint": "Select all that apply",
+  "label": "What kind of domestic abuse have you suffered?",
   "options": [
     "applicant_physical",
     "applicant_emotional",
@@ -14,5 +14,6 @@
     {
       "concern_domestic-violence": "yes"
     }
-  ]
+  ],
+  "visuallyhidden": true
 }

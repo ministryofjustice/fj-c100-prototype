@@ -1,6 +1,6 @@
 {
   "_id": "abduction_previous",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have there been any previous threats, attempts to abduct or actual abduction of the children?",
+  "label": "Have your children been abducted before or have there been any previous attempts or threats to abduct them?",
   "subblock": "abduction_previous_dependencies"
 }

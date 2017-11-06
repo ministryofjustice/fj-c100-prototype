@@ -1,6 +1,6 @@
 {
   "_blockType": "Route",
-  "_id": "route:domestic-abuse-behaviour",
+  "_id": "route:child-abuse-behaviour",
   "_isa": "view:form",
   "blocks": [
     "behaviour_description",
@@ -11,7 +11,7 @@
   "body": "",
   "depends": [
     {
-      "concern_domestic-violence": "yes"
+      "concern_child-abuse": "yes"
     }
   ],
   "heading": "Abusive behaviour {app:route:_index}",
@@ -20,5 +20,5 @@
   "multiple_max": 5,
   "multiple_min": 1,
   "title": "",
-  "url": "/concerns/domestic/behaviour"
+  "url": "/concerns/child-abuse/behaviour"
 }

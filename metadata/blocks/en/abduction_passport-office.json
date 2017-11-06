@@ -1,5 +1,11 @@
 {
   "_id": "abduction_passport-office",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Has the passport office been notified?"
+  "_isa": "radio_group:yes-no",
+  "label": "Has the passport office been notified?",
+  "requiredWhen": [
+    {
+      "abduction_abroad": "yes"
+    }
+  ],
+  "subblock": "abduction_passport-office_not-informed"
 }

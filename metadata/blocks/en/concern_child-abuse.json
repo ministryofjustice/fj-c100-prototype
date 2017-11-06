@@ -1,5 +1,6 @@
 {
   "_id": "concern_child-abuse",
   "_isa": "radio_group:yes-no-required",
-  "label": "Child abuse"
+  "label": "Have your children suffered from any form of domestic abuse?",
+  "visuallyhidden": true
 }

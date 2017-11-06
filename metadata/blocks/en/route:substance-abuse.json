@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:substance-abuse",
+  "_isa": "view:form",
+  "blocks": [
+    "concern_substance-abuse"
+  ],
+  "heading": "!concern_substance-abuse#label!",
+  "title": "",
+  "url": "/concerns/substance-abuse"
+}

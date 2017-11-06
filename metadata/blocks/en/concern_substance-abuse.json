@@ -1,5 +1,6 @@
 {
   "_id": "concern_substance-abuse",
   "_isa": "radio_group:yes-no-required",
-  "label": "Drugs, alcohol or substance abuse"
+  "label": "Do you have any concerns about drugs, alcohol or substance abuse?",
+  "visuallyhidden": true
 }

@@ -5,9 +5,7 @@
   "blocks": [
     "abduction_reasons",
     "abduction_previous",
-    "abduction_passport-office",
-    "abduction_passport-multiple",
-    "abduction_passport-possession"
+    "abduction_abroad"
   ],
   "body": "",
   "depends": [
@@ -17,5 +15,5 @@
   ],
   "heading": "Details of abduction concerns",
   "title": "",
-  "url": "/abduction/details"
+  "url": "/concerns/abduction/details"
 }

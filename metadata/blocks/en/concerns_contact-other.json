@@ -1,0 +1,6 @@
+{
+  "_id": "concerns_contact-other",
+  "_isa": "radio_group:yes-no-required",
+  "hint": "For example, by phone, text or email",
+  "label": "Do you agree to your children having other forms of contact with the other person?"
+}

@@ -1,5 +1,10 @@
 {
   "_id": "abduction_passport-multiple",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do the children have more than one passport?"
+  "_isa": "radio_group:yes-no",
+  "label": "Do the children have more than one passport?",
+  "requiredWhen": [
+    {
+      "abduction_abroad": "yes"
+    }
+  ]
 }

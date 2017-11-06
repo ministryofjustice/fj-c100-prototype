@@ -11,7 +11,7 @@
       "concern_substance-abuse": "yes"
     }
   ],
-  "heading": "Concerns about drugs, alcohol or substance abuse",
+  "heading": "! concerns_substance-abuse-details#label!",
   "title": "",
-  "url": "/substance-abuse/details"
+  "url": "/concerns/substance-abuse/details"
 }

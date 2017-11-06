@@ -3,14 +3,14 @@
   "_id": "abduction_passport-other_details",
   "depends": [
     {
-      "abduction_passport-possession": "other"
+      "passport-other": "yes"
     }
   ],
-  "label": "Please give details",
+  "label": "Provide more details",
   "multiline": true,
   "requiredWhen": [
     {
-      "abduction_passport-possession": "other"
+      "passport-other": "yes"
     }
   ]
 }

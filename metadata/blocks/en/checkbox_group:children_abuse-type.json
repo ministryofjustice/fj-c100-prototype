@@ -1,7 +1,7 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "checkbox_group:children_abuse-type",
-  "hint": "Select all that are appropriate",
+  "hint": "Select all that apply",
   "label": "What type of abuse have the children experienced?",
   "options": [
     "children_physical",
@@ -14,5 +14,6 @@
     {
       "concern_child-abuse": "yes"
     }
-  ]
+  ],
+  "visuallyhidden": true
 }

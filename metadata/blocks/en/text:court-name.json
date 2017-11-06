@@ -1,5 +1,5 @@
 {
   "_blockType": "Text",
   "_id": "text:court-name",
-  "label": "Name of court"
+  "label": "Which court issued the order?"
 }

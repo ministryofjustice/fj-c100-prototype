@@ -3,7 +3,7 @@
   "_id": "route:child-abuse-details",
   "_isa": "view:form",
   "blocks": [
-    "to-be-done"
+    "checkbox_group:children_abuse-type"
   ],
   "body": "",
   "depends": [
@@ -11,8 +11,7 @@
       "concern_child-abuse": "yes"
     }
   ],
-  "heading": "Details of child abuse concerns",
-  "lede": "Please outline the nature and frequency of the abuse experienced by the child(ren) and if this has led to any involvement with the police, social services, children’s services, your doctor (GP) or any other outside agency(ies).",
+  "heading": "! checkbox_group:children_abuse-type#label!",
   "title": "",
-  "url": "/child-abuse/details"
+  "url": "/concerns/child-abuse/details"
 }

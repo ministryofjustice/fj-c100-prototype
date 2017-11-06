@@ -9,19 +9,9 @@
   "depends": [
     {
       "concern_other": "yes"
-    },
-    {
-      "concern_domestic-violence": "yes"
-    },
-    {
-      "concern_child-abuse": "yes"
-    },
-    {
-      "concern_child-abduction": "yes"
     }
   ],
-  "heading": "Other concerns about your children’s safety and wellbeing",
-  "lede": "Do not give full statement, simply please provide a summary of your concerns. You may be asked to provide a full statement later",
+  "heading": "!concerns_other-details#label!",
   "title": "",
-  "url": "/other-concerns/details"
+  "url": "/concerns/other/details"
 }

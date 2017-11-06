@@ -1,7 +1,7 @@
 {
   "_blockType": "Text",
   "_id": "abduction_reasons",
-  "label": "Why do you believe the child(ren) may be abducted?",
+  "label": "Why are your children at risk of being abducted?",
   "multiline": true,
   "required": true
 }

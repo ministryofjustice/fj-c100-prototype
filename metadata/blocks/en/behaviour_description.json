@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "behaviour_description",
+  "label": "Provide details of the behaviour",
+  "multiline": true,
+  "required": true
+}
