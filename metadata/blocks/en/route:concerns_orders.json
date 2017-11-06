@@ -3,12 +3,7 @@
   "_id": "route:concerns_orders",
   "_isa": "view:form",
   "blocks": [
-    "order_non-molestation",
-    "order_occupation",
-    "order_forced-marriage-protection",
-    "order_restraining",
-    "order_injunctive",
-    "order_undertaking"
+    "concerns_orders"
   ],
   "body": "",
   "depends": [
@@ -19,7 +14,7 @@
       "concern_child-abuse": "yes"
     }
   ],
-  "heading": "Have you had or do you currently have any of the following orders?",
+  "heading": "!concerns_orders#label!",
   "title": "",
   "url": "/concerns/orders"
 }
