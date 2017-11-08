@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_psychological",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_applicant_psychological"
+  ],
+  "body": "Psychological abuse is when someone is subjected to a situation that can lead to:\r\n\r\n- anxiety \r\n- depression\r\n- post-traumatic stress disorder",
+  "heading": "!concerns_applicant_psychological#label!",
+  "title": "",
+  "url": "/concerns/applicant/psychological"
+}

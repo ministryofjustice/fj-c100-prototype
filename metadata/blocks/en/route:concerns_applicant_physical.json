@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_physical",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_applicant_physical"
+  ],
+  "body": "Physical abuse includes actions such as pushing, punching, slapping, kicking, choking and using weapons.",
+  "heading": "!concerns_applicant_physical#label!",
+  "title": "",
+  "url": "/concerns/applicant/physical"
+}

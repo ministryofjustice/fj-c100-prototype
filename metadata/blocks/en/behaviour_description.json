@@ -1,7 +1,9 @@
 {
   "_blockType": "Text",
   "_id": "behaviour_description",
+  "hint": "Give a short description of what happened",
   "label": "Provide details of the behaviour",
   "multiline": true,
-  "required": true
+  "required": true,
+  "visuallyhidden": true
 }

@@ -1,7 +1,7 @@
 {
   "_id": "behaviour_help-action",
   "_isa": "radio_group:yes-no",
-  "label": "Did they do anything to help?",
+  "label": "Did they help you?",
   "requiredWhen": [
     {
       "[multiple_route]behaviour_help": "yes"

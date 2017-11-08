@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_children_other-details",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_children_other-details"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "concerns_children_other": "yes"
+    }
+  ],
+  "heading": "!concerns_children_other-details#label!",
+  "title": "",
+  "url": "/concerns/children/other"
+}

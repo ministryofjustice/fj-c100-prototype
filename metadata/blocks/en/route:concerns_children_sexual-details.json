@@ -1,0 +1,11 @@
+{
+  "_id": "route:concerns_children_sexual-details",
+  "_isa": "route:concerns_applicant_sexual-details",
+  "depends": [
+    {
+      "concerns_children_sexual": "yes"
+    }
+  ],
+  "url": "/concerns/children/sexual/details",
+  "var:behaviour_you": "your children"
+}

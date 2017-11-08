@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "view:concerns-details",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_incident"
+  ],
+  "body": "",
+  "heading": "Provide details of the {var:behaviour_name} abuse",
+  "multiple": true,
+  "multiple_max": 1,
+  "multiple_min": 1,
+  "title": "",
+  "var:behaviour_adverb": "var:behaviour_adverb",
+  "var:behaviour_name": "var:behaviour_name",
+  "var:behaviour_you": "you"
+}

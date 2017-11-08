@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_sexual",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_applicant_sexual"
+  ],
+  "body": "Examples of sexual abuse include:\r\n\r\n- being forced or pressured to have sex without consent \r\n- threatening someone into an unwanted sexual activity\r\n- unwanted touching or groping",
+  "heading": "!concerns_applicant_sexual#label!",
+  "title": "",
+  "url": "/concerns/applicant/sexual"
+}

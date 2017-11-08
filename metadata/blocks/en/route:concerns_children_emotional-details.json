@@ -1,0 +1,11 @@
+{
+  "_id": "route:concerns_children_emotional-details",
+  "_isa": "route:concerns_applicant_emotional-details",
+  "depends": [
+    {
+      "concerns_children_emotional": "yes"
+    }
+  ],
+  "url": "/concerns/children/emotional/details",
+  "var:behaviour_you": "your children"
+}

@@ -1,0 +1,6 @@
+{
+  "_id": "concerns_applicant_financial",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Have you suffered from any form of financial abuse?",
+  "visuallyhidden": true
+}

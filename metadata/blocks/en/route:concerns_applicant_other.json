@@ -1,0 +1,11 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_other",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_applicant_other"
+  ],
+  "heading": "!concerns_applicant_other#label!",
+  "title": "",
+  "url": "/concerns/applicant/other"
+}

@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_physical-details",
+  "_isa": "view:concerns-details",
+  "depends": [
+    {
+      "concerns_applicant_physical": "yes"
+    }
+  ],
+  "url": "/concerns/applicant/physical/details",
+  "var:behaviour_adverb": "physically",
+  "var:behaviour_name": "physical"
+}

@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_financial-details",
+  "_isa": "view:concerns-details",
+  "depends": [
+    {
+      "concerns_applicant_financial": "yes"
+    }
+  ],
+  "url": "/concerns/applicant/financial/details",
+  "var:behaviour_adverb": "financially",
+  "var:behaviour_name": "financial"
+}

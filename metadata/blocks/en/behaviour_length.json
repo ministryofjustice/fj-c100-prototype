@@ -6,8 +6,8 @@
       "behaviour_ongoing": "no"
     }
   ],
-  "hint": "Does not need to be an exact length of time",
-  "label": "How long did the behaviour continue for?",
+  "hint": "Add an approximate date if you’re unsure",
+  "label": "When did the {var:behaviour_name} abuse stop?",
   "requiredWhen": [
     {
       "[multiple_route]behaviour_ongoing": "no"

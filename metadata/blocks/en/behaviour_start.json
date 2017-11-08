@@ -1,7 +1,7 @@
 {
   "_blockType": "Text",
   "_id": "behaviour_start",
-  "hint": "Does not need to be an exact date",
-  "label": "When did the behaviour start?",
+  "hint": "Add an approximate date if you’re unsure",
+  "label": "When did the {var:behaviour_name} abuse start?",
   "required": true
 }

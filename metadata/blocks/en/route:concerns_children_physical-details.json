@@ -1,0 +1,11 @@
+{
+  "_id": "route:concerns_children_physical-details",
+  "_isa": "route:concerns_applicant_physical-details",
+  "depends": [
+    {
+      "concerns_children_physical": "yes"
+    }
+  ],
+  "url": "/concerns/children/physical/details",
+  "var:behaviour_you": "your children"
+}

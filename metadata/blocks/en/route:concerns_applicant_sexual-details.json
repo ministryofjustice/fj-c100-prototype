@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_applicant_sexual-details",
+  "_isa": "view:concerns-details",
+  "depends": [
+    {
+      "concerns_applicant_sexual": "yes"
+    }
+  ],
+  "url": "/concerns/applicant/sexual/details",
+  "var:behaviour_adverb": "sexually",
+  "var:behaviour_name": "sexual"
+}

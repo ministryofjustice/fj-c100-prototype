@@ -1,6 +1,6 @@
 {
   "_id": "behaviour_ongoing",
   "_isa": "radio_group:yes-no-required",
-  "label": "Is the abusive behaviour still happening?",
+  "label": "Are {var:behaviour_you} still being {var:behaviour_adverb} abused?",
   "subblock": "behaviour_length"
 }

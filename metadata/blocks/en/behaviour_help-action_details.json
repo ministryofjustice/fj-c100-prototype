@@ -6,7 +6,7 @@
       "behaviour_help-action": "yes"
     }
   ],
-  "label": "What did they do to help?",
+  "label": "What did they do?",
   "multiline": true,
   "requiredWhen": [
     {

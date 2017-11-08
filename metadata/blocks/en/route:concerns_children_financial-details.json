@@ -1,0 +1,11 @@
+{
+  "_id": "route:concerns_children_financial-details",
+  "_isa": "route:concerns_applicant_financial-details",
+  "depends": [
+    {
+      "concerns_children_financial": "yes"
+    }
+  ],
+  "url": "/concerns/children/financial/details",
+  "var:behaviour_you": "your children"
+}
