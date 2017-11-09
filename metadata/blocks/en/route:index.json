@@ -16,7 +16,6 @@
     "route:order",
     "route:concerns",
     "route:substance-abuse",
-    "route:substance-abuse-details",
     "route:concerns_applicant_physical",
     "route:concerns_applicant_physical-details",
     "route:concerns_applicant_emotional",
