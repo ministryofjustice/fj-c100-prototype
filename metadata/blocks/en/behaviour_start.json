@@ -1,7 +1,8 @@
 {
-  "_blockType": "Text",
+  "_blockType": "Date",
   "_id": "behaviour_start",
+  "date_type": "month-year",
   "hint": "Add an approximate date if you’re unsure",
-  "label": "When did the {var:behaviour_name} abuse start?",
+  "label": "!{app:routeId}#behaviour_start!",
   "required": true
 }

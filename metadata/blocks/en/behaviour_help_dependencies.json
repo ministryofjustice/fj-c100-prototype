@@ -3,7 +3,8 @@
   "_id": "behaviour_help_dependencies",
   "blocks": [
     "behaviour_help-party",
-    "behaviour_help-action"
+    "behaviour_help-action",
+    "behaviour_help-action_details"
   ],
   "body": "",
   "depends": [

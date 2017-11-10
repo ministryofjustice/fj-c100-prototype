@@ -1,6 +1,6 @@
 {
   "_id": "behaviour_ongoing",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are {var:behaviour_you} still being {var:behaviour_adverb} abused?",
+  "label": "!{app:routeId}#behaviour_ongoing!",
   "subblock": "behaviour_length"
 }

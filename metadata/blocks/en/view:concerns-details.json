@@ -2,16 +2,20 @@
   "_blockType": "Route",
   "_id": "view:concerns-details",
   "_isa": "view:form",
+  "behaviour_length": "When did the {var:behaviour_name} abuse stop?",
+  "behaviour_ongoing": "Are {var:behaviour_you} still being {var:behaviour_adverb} abused?",
+  "behaviour_start": "When did the {var:behaviour_name} abuse start?",
   "blocks": [
     "concerns_incident"
   ],
   "body": "",
-  "heading": "Provide details of the {var:behaviour_name} abuse",
+  "heading": "Provide details of  {var:behaviour_the} {var:behaviour_name} abuse",
   "multiple": true,
   "multiple_max": 1,
   "multiple_min": 1,
   "title": "",
   "var:behaviour_adverb": "var:behaviour_adverb",
   "var:behaviour_name": "var:behaviour_name",
+  "var:behaviour_the": "the",
   "var:behaviour_you": "you"
 }

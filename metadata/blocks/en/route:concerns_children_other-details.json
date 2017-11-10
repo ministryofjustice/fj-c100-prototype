@@ -1,17 +1,15 @@
 {
   "_blockType": "Route",
   "_id": "route:concerns_children_other-details",
-  "_isa": "view:form",
-  "blocks": [
-    "concerns_children_other-details"
-  ],
-  "body": "",
+  "_isa": "view:concerns-details",
+  "behaviour_length": "When did you stop being concerned about the issue affecting your children?",
+  "behaviour_ongoing": "Are you concerned the issue is still affecting your children?",
+  "behaviour_start": "When did your concerns about your children start?",
   "depends": [
     {
       "concerns_children_other": "yes"
     }
   ],
-  "heading": "!concerns_children_other-details#label!",
-  "title": "",
-  "url": "/concerns/children/other"
+  "heading": "Provide details of your other concerns about your children",
+  "url": "/concerns/children/other/details"
 }

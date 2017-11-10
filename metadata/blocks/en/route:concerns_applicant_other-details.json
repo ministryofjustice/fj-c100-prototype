@@ -1,17 +1,15 @@
 {
   "_blockType": "Route",
   "_id": "route:concerns_applicant_other-details",
-  "_isa": "view:form",
-  "blocks": [
-    "concerns_applicant_other-details"
-  ],
-  "body": "",
+  "_isa": "view:concerns-details",
+  "behaviour_length": "When did you stop being concerned about the issue?",
+  "behaviour_ongoing": "Are you still concerned about the issue?",
+  "behaviour_start": "When did your concerns start?",
   "depends": [
     {
       "concerns_applicant_other": "yes"
     }
   ],
-  "heading": "! concerns_applicant_other-details#label!",
-  "title": "",
-  "url": "/concerns/other/details"
+  "heading": "Provide details of your other concerns",
+  "url": "/concerns/applicant/other/details"
 }

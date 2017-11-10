@@ -1,13 +1,14 @@
 {
-  "_blockType": "Text",
+  "_blockType": "Date",
   "_id": "behaviour_length",
+  "date_type": "month-year",
   "depends": [
     {
       "behaviour_ongoing": "no"
     }
   ],
   "hint": "Add an approximate date if you’re unsure",
-  "label": "When did the {var:behaviour_name} abuse stop?",
+  "label": "!{app:routeId}#behaviour_length!",
   "requiredWhen": [
     {
       "[multiple_route]behaviour_ongoing": "no"

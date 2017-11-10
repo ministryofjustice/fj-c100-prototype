@@ -6,6 +6,5 @@
     {
       "[multiple_route]behaviour_help": "yes"
     }
-  ],
-  "subblock": "behaviour_help-action_details"
+  ]
 }

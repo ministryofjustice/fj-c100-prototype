@@ -2,6 +2,5 @@
   "_id": "concerns_applicant_other",
   "_isa": "radio_group:yes-no-required",
   "label": "Do you have any other concerns about your welfare?",
-  "subblock": "concerns_applicant_other-details",
   "visuallyhidden": true
 }
