@@ -1,0 +1,6 @@
+{% extends "templates/app-base/app-base.html" %}
+{% import "components/Utils/Utils.njk" as Utils with context %}
+
+{{ Utils.registerBlocks([
+  "components/Playback/Playback.njk"
+]) }}

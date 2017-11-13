@@ -3,8 +3,9 @@
   "_id": "route:jtbd_playback",
   "_isa": "view:form",
   "blocks": [
-    "to-be-done"
+    "jtbd_playback"
   ],
+  "controller": "app/templates/jtbd_playback/jtbd_playback",
   "heading": "What you’re asking the court to do about your children",
   "url": "/order-type/playback"
 }

@@ -1,0 +1,10 @@
+{
+  "_blockType": "Collection",
+  "_id": "collection:order-types",
+  "items": [
+    "collection:child-arrangements-order",
+    "collection:specific-issue-order",
+    "collection:prohibited-steps-order"
+  ],
+  "title": "Order types"
+}

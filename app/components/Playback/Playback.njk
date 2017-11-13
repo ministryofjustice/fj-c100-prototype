@@ -1,0 +1,15 @@
+{% macro Playback() %}
+{% for section in route.playbackValues %}
+{% set playbackSection = getBlockProp(section.collection, 'title') %}
+{% set updateFormatSink = updateFormat({playback_count: loop.index, playback_section: playbackSection}) %}
+<div class="playback--section" data-block-name="{{ section.collection }}">
+<p>{{ getFormattedProp(section.collection, 'playback_ask') }}</p>
+<ul class="{{ govukClassname('list') }}">
+{% for option in section.selected %}
+<li>{{ getFormattedBodyContent(option, ['displayLabel', 'label']) | safe }}</li>
+{% endfor %}
+</ul>
+<p>{{ getFormattedBodyContent(section.collection, 'playback_order') | safe }}</p>
+</div>
+{% endfor %}
+{% endmacro %}
