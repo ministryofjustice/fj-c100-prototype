@@ -7,7 +7,7 @@
   "main": "lib/start.js",
   "license": "MIT",
   "dependencies": {
-    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#section-classname"
+    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#better-ledes"
   },
   "scripts": {
     "build": "build",

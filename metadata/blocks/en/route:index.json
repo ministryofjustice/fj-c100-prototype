@@ -18,6 +18,7 @@
     "route:residence-known",
     "route:jtbd",
     "route:order",
+    "route:jtbd_playback",
     "route:concerns",
     "route:substance-abuse",
     "route:concerns_applicant_financial",
