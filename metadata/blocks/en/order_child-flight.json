@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
   "_id": "order_child-flight",
-  "label": "Stop the other parent taking my children abroad or moving location without my permission",
+  "label": "Stop the other parent taking them abroad or moving location without your permission",
   "value": "yes"
 }

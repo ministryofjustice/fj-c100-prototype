@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
   "_id": "order_child-contact",
-  "label": "Confirm when and what other types of contact will take place (for example, phone calls)",
+  "label": "Confirm when and what other types of contact will take place with them (for example, phone calls)",
   "value": "yes"
 }

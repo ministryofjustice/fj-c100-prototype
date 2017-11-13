@@ -2,6 +2,6 @@
   "_blockType": "Option",
   "_id": "order_other",
   "excludes": true,
-  "label": "Something else",
+  "label": "Resolve another issue",
   "value": "yes"
 }
