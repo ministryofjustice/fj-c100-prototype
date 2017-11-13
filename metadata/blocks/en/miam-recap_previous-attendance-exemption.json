@@ -1,5 +1,6 @@
 {
   "_id": "miam-recap_previous-attendance-exemption",
   "_isa": "option:yes",
+  "hint": "For example, in the past 4 months you’ve either been to a MIAM about your dispute or claimed an exemption.",
   "label": "Previous MIAM attendance or previous MIAM exemption"
 }

@@ -11,8 +11,7 @@
       "miam_exemption-claimed": "yes"
     }
   ],
-  "heading": "Applicant claims exemption(s) from attendance at a Mediation, Information and Assessment Meeting (MIAM)",
-  "lede": "(To be completed by the person intending to make a court application or their solicitor)",
+  "heading": "! checkbox_group:miam-exemption_recap#label!",
   "steps": [
     "route:miam-exemption_domestic-violence",
     "route:miam-exemption_child-protection",

@@ -5,8 +5,8 @@
   "blocks": [
     "miam_attended"
   ],
-  "body": "",
   "heading": "! miam_attended#label!",
+  "lede": "You must attend a MIAM before applying to court, unless [you’re exempt]({app:urls:url:miams-exemptions}).",
   "steps": [
     "route:miam_exemption-claimed",
     "route:miam_informed-by-mediator"

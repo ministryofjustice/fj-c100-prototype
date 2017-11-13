@@ -12,6 +12,7 @@
     }
   ],
   "heading": "!miam_exemption-claimed#label!",
+  "lede": "You’ll be asked to provide additional information and evidence to support your exemption claim.",
   "redirectConditions": {
     "route:end_miam_not-completed": [
       {

@@ -1,5 +1,6 @@
 {
   "_id": "miam-recap_urgency",
   "_isa": "option:yes",
+  "hint": "For example, your children are at risk of harm or abduction",
   "label": "Urgency"
 }

@@ -1,5 +1,6 @@
 {
   "_id": "miam-recap_child-protection",
   "_isa": "option:yes",
+  "hint": "For example, a local authority has made enquiries about the children in this application or has issued a child protection plan for them.",
   "label": "Child protection concerns"
 }
