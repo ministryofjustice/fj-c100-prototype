@@ -12,17 +12,16 @@ s {
   display: none;
 }
 
-[data-block-name="section:miam-requirement_accept"] {
-  /* background-color: #dbead3; */
-  background-color: #e7ebda; /* --grass-green-25 */
-  padding: 1rem;
-  margin: 1.25rem -1rem 0;
+.start_callout {
+  border: solid 1px #000;
+  padding: 1.5rem;
+  margin-top: 3rem;
 
-  & .moj-Section__heading--2 {
+  & .moj-Section__heading {
     margin-top: 0;
   }
+}
 
-  & .multiple-choice [type=radio] + label::before {
-    background-color: #fff;
-  }
+.start_callout__content p:last-child {
+  margin-bottom: 0;
 }

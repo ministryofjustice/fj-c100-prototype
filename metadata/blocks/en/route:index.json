@@ -2,7 +2,11 @@
   "_blockType": "Route",
   "_id": "route:index",
   "_isa": "view:start",
-  "body": "You can use this service to apply for a court order about your child arrangements in England and Wales.\r\n\r\n(i) The process is different if you’re applying in [Scotland]({app:urls:url:court-process-scotland}) and [Northern Ireland]({app:urls:url:court-process-northern-ireland}).\r\n\r\n## Before you apply\r\n\r\nThere may be more suitable ways for you to agree child arrangements than going to court.\r\n\r\nOutcomes for children are usually better if you can reach an agreement another way. For example, mediation can be quicker than court and cheaper than using a lawyer.\r\n\r\n(!) If you’re worried about your or your children’s safety you should continue with this application.\r\n\r\n### Check alternatives to court\r\n\r\nIt’s recommended you check alternatives to court before continuing with your application.  \r\n\r\nThe child arrangements guide compares available options and gives advice on preparing to make arrangements.\r\n\r\n[Find out more about alternatives to court]({app:urls:url:cait})\r\n\r\n### Attend a Mediation Information and Assessment Meeting (MIAM)\r\n\r\nBefore using this service you must attend a [MIAM]({app:urls:url:professional-mediation}), unless [you're exempt]({app:urls:url:miams-exemptions}).\r\n\r\nThe MIAM will assess if mediation is right for you and whether you can agree arrangements out of court.\r\n\r\n[Find out more about mediation]({app:urls:url:professional-mediation})\r\n\r\n## Fees\r\n\r\nIt costs £215 to apply. Only the applicant (the person applying to court) needs to pay.\r\n\r\nYou may be able to [get help paying the fee]({app:urls:url:help-with-fees}) if you’re on a low income, receive certain benefits or have little or no savings. Apply online before you start if you think you're eligible.",
+  "blocks": [
+    "before-applying",
+    "fees-explanation"
+  ],
+  "body": "You can use this service to apply for a court order about your child arrangements in England and Wales.\r\n\r\n(i) The process is different if you’re applying in [Scotland]({app:urls:url:court-process-scotland}) and [Northern Ireland]({app:urls:url:court-process-northern-ireland}).",
   "heading": "Apply to court about your child arrangements",
   "start": true,
   "steps": [
