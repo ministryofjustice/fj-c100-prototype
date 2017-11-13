@@ -6,7 +6,7 @@
     "concerns_contact",
     "concerns_contact-other"
   ],
-  "body": "The court needs to know if you will allow your children to have contact with the other person while you wait for a court date.\r\n\r\nIf you have no safety concerns it’s better for your children to have regular contact with both parents.",
+  "body": "The court needs to know if you will allow your children to have contact with the other person while you wait for a court date.\r\n\r\n(i) If you have no safety concerns it’s better for your children to have regular contact with both parents.",
   "depends": [
     {
       "concerns_children_[^_]+$": "yes"
