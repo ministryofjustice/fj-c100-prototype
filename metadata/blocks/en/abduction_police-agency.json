@@ -6,7 +6,8 @@
       "abduction_previous": "yes"
     }
   ],
-  "label": "Were the police in this and/or another country or any organisation or agency including any private investigators involved in any previous incident of attempted abduction or abduction?",
+  "hint": "Including in the UK or abroad",
+  "label": "Were the police, private investigators or any other organisation involved?",
   "requiredWhen": [
     {
       "abduction_previous": "yes"
