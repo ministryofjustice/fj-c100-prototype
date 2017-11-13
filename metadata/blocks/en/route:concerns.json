@@ -2,8 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns",
   "_isa": "view:form",
-  "body": "In the following section we will ask whether you or your children have experienced, or are at risk of experiencing, any form of harm.\r\n\r\n(!)You could be fined or imprisoned for contempt of court if you deliberately submit false information.\r\n",
-  "heading": "Risk of harm concerns",
+  "body": "The following questions will ask whether you or your children have experienced, or are at risk of experiencing, any form of harm\r\n\r\n(!)You could be fined or imprisoned for contempt of court if you deliberately submit false information.\r\n",
+  "heading": "Safety concerns",
   "lede": "The court needs to know if you think the other person is a threat to the safety of you or your children.",
   "title": "",
   "url": "/concerns"

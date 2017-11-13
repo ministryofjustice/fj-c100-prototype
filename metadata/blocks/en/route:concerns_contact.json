@@ -9,19 +9,10 @@
   "body": "",
   "depends": [
     {
-      "concern_domestic-violence": "yes"
+      "concerns_children_[^_]+$": "yes"
     },
     {
-      "concern_child-abuse": "yes"
-    },
-    {
-      "concern_child-abduction": "yes"
-    },
-    {
-      "concern_substance-abuse": "yes"
-    },
-    {
-      "concern_other": "yes"
+      "concerns_applicant_[^_]+$": "yes"
     }
   ],
   "heading": "Contact",

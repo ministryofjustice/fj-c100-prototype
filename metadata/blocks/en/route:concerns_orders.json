@@ -6,14 +6,6 @@
     "concerns_orders"
   ],
   "body": "",
-  "depends": [
-    {
-      "concern_domestic-violence": "yes"
-    },
-    {
-      "concern_child-abuse": "yes"
-    }
-  ],
   "heading": "!concerns_orders#label!",
   "title": "",
   "url": "/concerns/orders"
