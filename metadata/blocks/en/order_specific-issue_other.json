@@ -1,7 +1,7 @@
 {
   "_blockType": "Option",
   "_id": "order_specific-issue_other",
-  "label": "Other",
+  "label": "Another issue",
   "subblock": "order_specific-issues_other_details",
   "value": "yes"
 }

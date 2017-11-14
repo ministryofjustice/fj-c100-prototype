@@ -3,14 +3,15 @@
   "_id": "route:children_number",
   "_isa": "view:form",
   "blocks": [
-    "children_number"
+    "child-name-group"
   ],
   "depends": [
     {
       "flag-children-number": true
     }
   ],
-  "heading": "!children_number#label!",
+  "heading": "What are the names of your children?",
+  "lede": "Only include the children you’re making this application for",
   "title": "",
-  "url": "/how-many-children"
+  "url": "/children/names"
 }

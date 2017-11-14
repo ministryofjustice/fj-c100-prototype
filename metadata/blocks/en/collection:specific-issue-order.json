@@ -11,6 +11,6 @@
     "order_specific-issue_other",
     "order_child-return"
   ],
-  "playback_ask": "!jtbd_playback#playback_ask! resolve a dispute over",
+  "playback_ask": "!jtbd_playback#playback_ask! resolve a dispute about",
   "title": "Specific Issue Order"
 }

@@ -1,6 +1,7 @@
 {
   "_blockType": "Option",
   "_id": "order_specific-issue_abroad",
+  "displayLabel": "Moving location",
   "label": "Moving location (including moving abroad)",
   "value": "yes"
 }

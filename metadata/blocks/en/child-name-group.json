@@ -1,0 +1,14 @@
+{
+  "_blockType": "Group",
+  "_id": "child-name-group",
+  "blocks": [
+    "child_name"
+  ],
+  "body": "Blah blah blah",
+  "heading": "",
+  "multiple": true,
+  "multiple_autosuffix": false,
+  "multiple_heading": "Child",
+  "multiple_max": 10,
+  "multiple_min": 1
+}
