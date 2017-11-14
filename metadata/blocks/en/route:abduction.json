@@ -5,6 +5,14 @@
   "blocks": [
     "concern_child-abduction"
   ],
+  "depends": [
+    {
+      "concerns_children_[^_]+$": "yes"
+    },
+    {
+      "concerns_applicant_[^_]+$": "yes"
+    }
+  ],
   "heading": "!concern_child-abduction#label!",
   "title": "",
   "url": "/concerns/abduction"
