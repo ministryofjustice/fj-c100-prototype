@@ -2,7 +2,7 @@
   "_blockType": "CheckboxGroup",
   "_id": "checkbox_group:order_type",
   "hint": "Select any that apply",
-  "label": "What orders are you applying for?",
+  "label": "What orders are you applying for? (optional)",
   "options": [
     "option:child-arrangements-order",
     "option:prohibited-steps-order",

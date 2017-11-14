@@ -25,3 +25,15 @@ s {
 .start_callout__content p:last-child {
   margin-bottom: 0;
 }
+
+/*
+fieldset {
+  & span.labelLine + span.labelLine:last-child {
+    margin-bottom: -1rem;
+  }
+  & span.sublabel:last-child,
+  & span.form-hint {
+    margin-bottom: -1.5rem;
+  }
+}
+*/
