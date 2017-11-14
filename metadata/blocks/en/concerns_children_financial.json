@@ -1,6 +1,6 @@
 {
   "_id": "concerns_children_financial",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have your children suffered from any form of financial abuse?",
+  "label": "Has the other person ever financially abused your children?",
   "visuallyhidden": true
 }

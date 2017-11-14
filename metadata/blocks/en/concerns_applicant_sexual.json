@@ -1,6 +1,6 @@
 {
   "_id": "concerns_applicant_sexual",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you suffered from any form of sexual abuse?",
+  "label": "Has the other person ever sexually abused you?",
   "visuallyhidden": true
 }

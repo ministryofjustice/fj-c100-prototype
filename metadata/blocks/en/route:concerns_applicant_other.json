@@ -5,11 +5,6 @@
   "blocks": [
     "concerns_applicant_other"
   ],
-  "depends": [
-    {
-      "concerns_applicant_[^_]+$": "yes"
-    }
-  ],
   "heading": "!concerns_applicant_other#label!",
   "title": "",
   "url": "/concerns/applicant/other"

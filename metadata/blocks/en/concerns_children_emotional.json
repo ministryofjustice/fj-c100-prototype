@@ -1,6 +1,6 @@
 {
   "_id": "concerns_children_emotional",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have your children suffered from any form of emotional abuse?",
+  "label": "Has the other person ever emotionally abused your children?",
   "visuallyhidden": true
 }

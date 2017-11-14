@@ -1,6 +1,6 @@
 {
   "_id": "concerns_applicant_physical",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you suffered from any form of physical abuse?",
+  "label": "Has the other person ever physically abused you?",
   "visuallyhidden": true
 }
