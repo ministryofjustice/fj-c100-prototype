@@ -1,6 +1,6 @@
 {
   "_id": "additional-info_previous-proceedings",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are there previous or ongoing proceedings for the !string:children!?",
+  "label": "Have any of the children in this application been involved in another family court case?",
   "visuallyhidden": true
 }
