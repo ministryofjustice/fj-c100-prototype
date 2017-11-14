@@ -5,6 +5,7 @@
   "blocks": [
     "jtbd_playback"
   ],
+  "continue": "continue",
   "controller": "app/templates/jtbd_playback/jtbd_playback",
   "heading": "What you’re asking the court to do about your children",
   "url": "/order-type/playback"

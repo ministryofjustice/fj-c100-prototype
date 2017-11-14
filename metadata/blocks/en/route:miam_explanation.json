@@ -2,17 +2,15 @@
   "_blockType": "Route",
   "_id": "route:miam_explanation",
   "_isa": "view:form",
-  "blocks": [
-    "miam-exemption-reasons"
-  ],
+  "body": "A MIAM will assess if mediation is right for you and whether it can help you reach an agreement out of court.\r\n\r\nYou don’t legally have to attend a MIAM if you have a valid reason. Examples of exemptions include: \r\n\r\n- if there’s been domestic abuse\r\n- your children are at immediate risk of harm\r\n- you live too far from a mediator\r\n- the other person refuses to attend\r\n\r\n[Read full list of MIAM exemptions]({app:urls:url:miams-exemptions})\r\n",
   "continue": "continue",
   "depends": [
     {
       "!miam_emergency-proceedings": "yes"
     }
   ],
-  "heading": "Requirement to attend a Mediation Information and Assessment Meeting (MIAM)",
-  "lede": "You must attend a MIAM before applying to court, unless you’re exempt.",
+  "heading": "Attending a Mediation Information and Assessment Meeting (MIAM)",
+  "lede": "Before applying to court you must have attended a MIAM, unless you're exempt.",
   "steps": [
     "route:miam_attended",
     "route:miam-exemption_certification"
