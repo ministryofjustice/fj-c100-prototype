@@ -1,8 +1,9 @@
 {
   "_blockType": "Text",
   "_id": "order_nature",
-  "hint": "For example, an order about with whom a child is to live, or how often they spend time with the applicant and for how long",
-  "label": "Please specify the nature of the order you seek",
+  "hint": "Give a short description",
+  "label": "Provide details of the issue you are asking the court to resolve",
   "multiline": true,
-  "required": true
+  "required": true,
+  "visuallyhidden": true
 }

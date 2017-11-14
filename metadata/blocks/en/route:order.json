@@ -3,15 +3,14 @@
   "_id": "route:order",
   "_isa": "view:form",
   "blocks": [
-    "checkbox_group:order_type",
-    "order_nature"
+    "order_nature",
+    "checkbox_group:order_type"
   ],
   "depends": [
     {
       "order_other": "yes"
     }
   ],
-  "heading": "Provide more information",
-  "lede": "Please give more details or, if you know the name of the order, select the appropriate option",
-  "url": "/order"
+  "heading": "!order_nature#label!",
+  "url": "/order/other-issue"
 }
