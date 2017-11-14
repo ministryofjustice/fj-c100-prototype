@@ -5,7 +5,7 @@
   "blocks": [
     "concerns_applicant_physical"
   ],
-  "body": "Physical abuse includes actions such as pushing, punching, slapping, kicking, choking and using weapons.",
+  "body": "Physical abuse includes actions such as pushing, punching, slapping, kicking, choking and hitting with an object.",
   "heading": "!concerns_applicant_physical#label!",
   "title": "",
   "url": "/concerns/applicant/physical"

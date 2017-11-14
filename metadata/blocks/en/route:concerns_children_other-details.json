@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:concerns_children_other-details",
   "_isa": "view:concerns-details",
-  "behaviour_length": "When did you stop being concerned about the issue affecting your children?",
+  "behaviour_length": "When did you stop being concerned about the issue?",
   "behaviour_ongoing": "Are you concerned the issue is still affecting your children?",
   "behaviour_start": "When did your concerns about your children start?",
   "depends": [

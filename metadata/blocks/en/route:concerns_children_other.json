@@ -5,11 +5,6 @@
   "blocks": [
     "concerns_children_other"
   ],
-  "depends": [
-    {
-      "concerns_children_[^_]+$": "yes"
-    }
-  ],
   "heading": "!concerns_children_other#label!",
   "title": "",
   "url": "/concerns/children/other"

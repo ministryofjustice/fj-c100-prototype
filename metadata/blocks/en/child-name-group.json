@@ -2,13 +2,15 @@
   "_blockType": "Group",
   "_id": "child-name-group",
   "blocks": [
-    "child_name"
+    "child_fullname"
   ],
-  "body": "Blah blah blah",
+  "body": "",
   "heading": "",
   "multiple": true,
+  "multiple_add": "Add another child",
   "multiple_autosuffix": false,
-  "multiple_heading": "Child",
+  "multiple_delete": "Remove child",
+  "multiple_heading": "",
   "multiple_max": 10,
   "multiple_min": 1
 }

@@ -1,5 +1,5 @@
 {
-  "_blockType": "Text",
+  "_blockType": "Date",
   "_id": "text:date-issued",
   "label": "What date was it issued?"
 }

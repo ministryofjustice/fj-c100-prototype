@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "child_fullname",
+  "_isa": "text:full-name",
+  "label": "Full name of child",
+  "required": true
+}
