@@ -2,6 +2,6 @@
   "_blockType": "Text",
   "_id": "child_fullname",
   "_isa": "text:full-name",
-  "label": "Full name of child {child-name-group, plural, =1 {{child-name-group-current, plural, =1 {} other {1}}} other {{child-name-group}}}",
+  "label": "Full name of child",
   "required": true
 }
