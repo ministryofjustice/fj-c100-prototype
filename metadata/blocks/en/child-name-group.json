@@ -8,7 +8,7 @@
   "heading": "",
   "multiple": true,
   "multiple_add": "Add another child",
-  "multiple_autosuffix": true,
+  "multiple_autosuffix": false,
   "multiple_delete": "Remove child",
   "multiple_heading": "",
   "multiple_max": 10,

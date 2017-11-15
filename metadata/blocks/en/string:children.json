@@ -1,5 +1,5 @@
 {
   "_blockType": "String",
   "_id": "string:children",
-  "value": "{children_number, plural, =1 {child} other {children}}"
+  "value": "{child-name-group, plural, =1 {child} other {children}}"
 }

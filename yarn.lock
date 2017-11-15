@@ -4024,6 +4024,10 @@ map-stream@~0.1.0:
   version "0.1.0"
   resolved "https://registry.yarnpkg.com/map-stream/-/map-stream-0.1.0.tgz#e56aa94c4c8055a16404a0674b78f215f7c8e194"
 
+markdown-it-abbr@^1.0.4:
+  version "1.0.4"
+  resolved "https://registry.yarnpkg.com/markdown-it-abbr/-/markdown-it-abbr-1.0.4.tgz#d66b5364521cbb3dd8aa59dadfba2fb6865c8fd8"
+
 markdown-it-deflist@^2.0.2:
   version "2.0.3"
   resolved "https://registry.yarnpkg.com/markdown-it-deflist/-/markdown-it-deflist-2.0.3.tgz#5727db04184d3cb2bc6ee4a9641e3a1091d5fd6f"
@@ -4812,9 +4816,9 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#group-buttons-restyle":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#markdown-it-abbr":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#110f090c5f3ae10373b5439025c011cecc088457"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#c4492ab351c1c0bded9999ec1c349c091d2dfc3b"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4842,6 +4846,7 @@ performance-now@^0.2.0:
     lodash "^4.17.4"
     markdown "^0.5.0"
     markdown-it "^8.3.1"
+    markdown-it-abbr "^1.0.4"
     markdown-it-deflist "^2.0.2"
     markdown-it-sub "^1.0.0"
     markdown-it-sup "^1.0.0"
@@ -4879,9 +4884,9 @@ performance-now@^0.2.0:
     the-a11y-machine "^0.9.3"
     webdriverio "^4.8.0"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#prog-rock":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#update-format-array":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#8c4bab23e7f96349bfe3048cd0ad52699fe8a5e5"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#9277ea0b0ab1359d8c8ba63e732957085616dceb"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4909,6 +4914,7 @@ performance-now@^0.2.0:
     lodash "^4.17.4"
     markdown "^0.5.0"
     markdown-it "^8.3.1"
+    markdown-it-abbr "^1.0.4"
     markdown-it-deflist "^2.0.2"
     markdown-it-sub "^1.0.0"
     markdown-it-sup "^1.0.0"
