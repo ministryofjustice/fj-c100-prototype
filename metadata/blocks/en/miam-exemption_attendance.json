@@ -1,17 +1,18 @@
 {
-  "_blockType": "RadioGroup",
+  "_blockType": "CheckboxGroup",
   "_id": "miam-exemption_attendance",
   "depends": [
     {
-      "miam_attended": "yes"
+      "miam-recap_previous-attendance-exemption": "yes"
     }
   ],
-  "label": "The prospective applicant attended a MIAM",
+  "label": "The applicant confirms that one of the following applies",
   "options": [
-    "attendance_alone",
-    "attendance_together",
-    "attendance_separately",
-    "attendance_separate-arrangements"
+    "exemption_attended",
+    "exemption_adr",
+    "exemption_previous-exemption",
+    "exemption_existing-attendance",
+    "exemption_existing-exemption"
   ],
   "required": true
 }

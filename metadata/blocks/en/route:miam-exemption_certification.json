@@ -3,9 +3,9 @@
   "_id": "route:miam-exemption_certification",
   "_isa": "view:form",
   "blocks": [
-    "miam-exemption_mediator",
-    "miam-exemption_attendance",
-    "miam-exemption_not-proceeding",
+    "miam-certification_mediator",
+    "miam-certification_attendance",
+    "miam-certification_not-proceeding",
     "mediator_details"
   ],
   "depends": [

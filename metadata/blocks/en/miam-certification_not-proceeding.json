@@ -1,6 +1,6 @@
 {
   "_blockType": "RadioGroup",
-  "_id": "miam-exemption_not-proceeding",
+  "_id": "miam-certification_not-proceeding",
   "depends": [
     {
       "miam_attended": "yes"

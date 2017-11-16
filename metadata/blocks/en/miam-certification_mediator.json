@@ -1,6 +1,6 @@
 {
   "_blockType": "RadioGroup",
-  "_id": "miam-exemption_mediator",
+  "_id": "miam-certification_mediator",
   "depends": [
     {
       "miam_informed-by-mediator": "yes"
