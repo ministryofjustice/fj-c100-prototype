@@ -12,6 +12,13 @@
     }
   ],
   "heading": "! concerns_substance-abuse-details#label!",
+  "redirectConditions": {
+    "route:concerns_further-questions": [
+      {
+        "concern_substance-abuse": "yes"
+      }
+    ]
+  },
   "title": "",
   "url": "/concerns/substance-abuse/details"
 }

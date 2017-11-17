@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_domestic-abuse",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_domestic-abuse"
+  ],
+  "heading": "! concerns_domestic-abuse#label!",
+  "redirectConditions": {
+    "route:concerns_further-questions": [
+      {
+        "concerns_domestic-abuse": "yes"
+      }
+    ]
+  },
+  "title": "",
+  "url": "/concerns/domestic-abuse"
+}

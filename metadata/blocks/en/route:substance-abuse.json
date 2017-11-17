@@ -7,6 +7,14 @@
   ],
   "body": "For example, you think your children are affected by being in contact with someone who may have a drug, alcohol or substance problem.",
   "heading": "!concern_substance-abuse#label!",
+  "redirectConditions": {
+    "route:concerns_further-questions": [
+      {
+        "concern_child-abduction": "yes",
+        "concern_substance-abuse": "no"
+      }
+    ]
+  },
   "title": "",
   "url": "/concerns/substance-abuse"
 }

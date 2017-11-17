@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_child-abuse",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_child-abuse"
+  ],
+  "heading": "! concerns_child-abuse#label!",
+  "redirectConditions": {
+    "route:concerns_further-questions": [
+      {
+        "concerns_child-abuse": "yes"
+      }
+    ]
+  },
+  "title": "",
+  "url": "/concerns/child-abuse"
+}

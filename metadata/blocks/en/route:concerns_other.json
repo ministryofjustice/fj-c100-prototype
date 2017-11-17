@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_other",
+  "_isa": "view:form",
+  "blocks": [
+    "concerns_other"
+  ],
+  "heading": "! concerns_other#label!",
+  "redirectConditions": {
+    "route:concerns_further-questions": [
+      {
+        "concerns_other": "yes"
+      }
+    ]
+  },
+  "title": "",
+  "url": "/concerns/other"
+}
