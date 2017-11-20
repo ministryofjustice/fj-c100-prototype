@@ -1,0 +1,6 @@
+{
+  "_blockType": "Date",
+  "_id": "miam_certification_date",
+  "label": "Date of attendance",
+  "required": true
+}

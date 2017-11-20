@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_certification-details",
+  "_isa": "view:form",
+  "blocks": [
+    "miam_certification_code",
+    "miam_certification_date"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "miam_certification": "yes"
+    }
+  ],
+  "heading": "Please enter the details from the MIAM certification",
+  "title": "",
+  "url": "/miam/certification/details"
+}

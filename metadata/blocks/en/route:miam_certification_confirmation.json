@@ -1,0 +1,15 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_certification_confirmation",
+  "_isa": "view:form",
+  "body": "We will contact your mediator <name> to confirm that you attended mediation on <date>.",
+  "depends": [
+    {
+      "miam_certification": "yes"
+    }
+  ],
+  "heading": "MIAM attendance confirmation",
+  "noblocks": true,
+  "title": "",
+  "url": "/miam/certification/confirmation"
+}

@@ -1,0 +1,6 @@
+{
+  "_blockType": "Text",
+  "_id": "miam_certification_code",
+  "label": "FMC number",
+  "required": true
+}

@@ -1,0 +1,28 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_certification",
+  "_isa": "view:form",
+  "blocks": [
+    "miam_certification"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "miam_attended": "yes"
+    }
+  ],
+  "heading": "!miam_certification#label!",
+  "redirectConditions": {
+    "route:end_miam_no-certification": [
+      {
+        "miam_certification": "no"
+      }
+    ]
+  },
+  "steps": [
+    "route:miam_certification-details",
+    "route:miam_certification_confirmation"
+  ],
+  "title": "",
+  "url": "/miam/certification"
+}

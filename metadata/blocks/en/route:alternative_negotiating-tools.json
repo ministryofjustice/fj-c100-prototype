@@ -1,0 +1,20 @@
+{
+  "_blockType": "Route",
+  "_id": "route:alternative_negotiating-tools",
+  "_isa": "view:form",
+  "body": "If you still communicate with the other person, and there are no concerns about domestic or child abuse, the cheapest and easiest way to make arrangements is to negotiate with each other.\r\n\r\nThere are free tools and services such as parenting plans that can help you reach an agreement.",
+  "continue": "continue",
+  "heading": "Safety concerns",
+  "steps": [
+    "route:abduction",
+    "route:abduction-details",
+    "route:substance-abuse",
+    "route:substance-abuse-details",
+    "route:concerns_child-abuse",
+    "route:concerns_domestic-abuse",
+    "route:concerns_other",
+    "route:concerns_further-questions"
+  ],
+  "title": "",
+  "url": "/alternatives/negotiating-tools"
+}

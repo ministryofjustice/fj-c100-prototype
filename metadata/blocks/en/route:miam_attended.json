@@ -7,9 +7,12 @@
   ],
   "heading": "! miam_attended#label!",
   "steps": [
-    "route:miam_informed-by-mediator",
-    "route:miam-exemption_certification"
+    "route:miam_certification"
   ],
   "title": "",
-  "url": "/miam/attended"
+  "url": "/miam/attended",
+  "xsteps": [
+    "route:miam_informed-by-mediator",
+    "route:miam-exemption_certification"
+  ]
 }

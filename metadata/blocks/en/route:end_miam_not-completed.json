@@ -1,9 +1,8 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_not-completed",
-  "body": "",
-  "heading": "End",
-  "lede": "You cannot make this application as you have not attended a MIAM.",
+  "body": "1. Book mediator\r\n2. Attend MIAM\r\n3. Ask for certificate\r\n4. Return to continue",
+  "heading": "You need to attend a MIAM and obtain a certificate",
   "template": "generic",
   "title": "",
   "url": "/miam/not-completed"

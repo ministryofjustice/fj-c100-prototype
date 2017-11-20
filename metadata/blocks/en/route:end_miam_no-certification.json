@@ -1,0 +1,9 @@
+{
+  "_blockType": "Route",
+  "_id": "route:end_miam_no-certification",
+  "body": "1. Go to mediator\r\n2. Ask for certificate\r\n3. Return to continue",
+  "heading": "You need a signed MIAM certificate from your mediator",
+  "template": "generic",
+  "title": "",
+  "url": "/miam/no-certification"
+}
