@@ -26,6 +26,10 @@ s {
   margin-bottom: 0;
 }
 
+#miam-requirement_acknowledgement {
+  margin-top: 6rem;
+}
+
 /*
 fieldset {
   & span.labelLine + span.labelLine:last-child {
