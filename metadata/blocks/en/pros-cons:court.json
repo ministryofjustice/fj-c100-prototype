@@ -1,0 +1,15 @@
+{
+  "_blockType": "ProsCons",
+  "_id": "pros-cons:court",
+  "cons": [
+    "can be expensive",
+    "court process takes a long time",
+    "you might not get what you want - a judge makes the decision",
+    "can be more stressful for you and your children",
+    "may increase conflict between you and the other parent"
+  ],
+  "pros": [
+    "a decision is made in your child’s best interest",
+    "legally binding outcome"
+  ]
+}

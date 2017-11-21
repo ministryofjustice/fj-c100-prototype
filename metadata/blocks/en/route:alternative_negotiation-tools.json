@@ -1,0 +1,20 @@
+{
+  "_blockType": "Route",
+  "_id": "route:alternative_negotiation-tools",
+  "_isa": "view:alternative",
+  "blocks": [
+    "pros-cons:negotiation-tools",
+    "call-to-action:negotiation-tools",
+    "alternative_negotiation-tools"
+  ],
+  "body": "If you still communicate with the other person, and there are no concerns about domestic or child abuse, the cheapest and easiest way to make arrangements is to negotiate with each other.\r\n\r\nThere are free tools and services such as [parenting plans]({app:urls:url:splittingup-putkidsfirst}) that can help you reach an agreement.",
+  "heading": "Negotiation tools and services",
+  "steps": [
+    "route:alternative_mediation",
+    "route:alternative_lawyer-negotiation",
+    "route:alternative_collaborative-law",
+    "route:alternative_court"
+  ],
+  "title": "",
+  "url": "/alternatives/negotiation-tools"
+}

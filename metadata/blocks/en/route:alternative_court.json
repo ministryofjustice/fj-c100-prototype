@@ -1,0 +1,14 @@
+{
+  "_blockType": "Route",
+  "_id": "route:alternative_court",
+  "_isa": "view:alternative",
+  "blocks": [
+    "pros-cons:court",
+    "call-to-action:court",
+    "alternative_court"
+  ],
+  "body": "You’ll need to go to court if you’ve tried other suitable options and still can’t agree arrangements.\r\n\r\nBefore applying to court you should see if you can resolve your dispute another way unless you’re worried about your or your children’s safety.",
+  "heading": "Going to court",
+  "title": "",
+  "url": "/alternatives/court"
+}

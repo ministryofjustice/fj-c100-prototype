@@ -1,0 +1,5 @@
+{
+  "_id": "alternative_negotiation-tools",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Have you tried any negotiation tools or services?"
+}

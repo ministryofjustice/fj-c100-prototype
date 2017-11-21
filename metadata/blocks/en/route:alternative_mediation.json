@@ -1,0 +1,14 @@
+{
+  "_blockType": "Route",
+  "_id": "route:alternative_mediation",
+  "_isa": "view:alternative",
+  "blocks": [
+    "pros-cons:mediation",
+    "call-to-action:mediation",
+    "alternative_mediation"
+  ],
+  "body": "Mediation sessions are run by professionals who help you try to reach an agreement without going to court.\r\n\r\nMediation isn’t relationship counselling and you don’t have to be in the same room as the other parent.\r\n\r\nMediation is suitable for people who want to reach an agreement but need help from someone who is independent.",
+  "heading": "Professional mediation",
+  "title": "",
+  "url": "/alternatives/mediation"
+}

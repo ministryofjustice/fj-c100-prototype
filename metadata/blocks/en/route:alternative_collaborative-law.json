@@ -1,0 +1,14 @@
+{
+  "_blockType": "Route",
+  "_id": "route:alternative_collaborative-law",
+  "_isa": "view:alternative",
+  "blocks": [
+    "pros-cons:collaborative-law",
+    "call-to-action:collaborative-law",
+    "alternative_collaborative-law"
+  ],
+  "body": "Collaborative lawyers work with you and the other parent to resolve your issues out of court. You each hire a lawyer then all meet to negotiate face-to-face.\r\n\r\nThe collaborative process involves several steps but is usually quicker and cheaper than going to court.\r\n\r\nCollaborative law is suitable for people who can still communicate with each other but may have complex legal issues to resolve.",
+  "heading": "Collaborative law",
+  "title": "",
+  "url": "/alternatives/collaborative-law"
+}

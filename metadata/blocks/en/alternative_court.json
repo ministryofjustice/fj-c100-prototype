@@ -1,0 +1,5 @@
+{
+  "_id": "alternative_court",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Have you been to court before about your situation?"
+}

@@ -1,4 +1,4 @@
-{% macro ProsCons(name, modifier='', level=4) %}
+{% macro ProsCons(name, modifier='', level=2) %}
   {% set pros = getBlockProp(name, 'pros') %}
   {% if pros %}
   <div class="ProsCons{% if modifier %} ProsCons--{{ modifier }}{% endif %}">
