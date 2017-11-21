@@ -2,7 +2,8 @@
   "_blockType": "Route",
   "_id": "route:miam_certification_confirmation",
   "_isa": "view:form",
-  "body": "We will contact your mediator <name> to confirm that you attended mediation on <date>.",
+  "body": "We will contact your mediator {app:route:mediatorName} to confirm that you attended the MIAM on {app:route:miamDate}.",
+  "controller": "app/templates/miam_certification/miam_certification_confirmation.controller",
   "depends": [
     {
       "miam_certification": "yes"

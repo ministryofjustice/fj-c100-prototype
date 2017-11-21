@@ -1,9 +1,9 @@
 {
   "_blockType": "Text",
   "_id": "miam_certification_code",
-  "error-header_invalid-code": "!miam_certification_code#error-header_pattern!",
+  "error-header_code-invalid": "!miam_certification_code#error-header_pattern!",
   "error-header_pattern": "The answer for “{control}” is not a valid MIAM attendance code",
-  "error_invalid-code": "!miam_certification_code#error_pattern!",
+  "error_code-invalid": "!miam_certification_code#error_pattern!",
   "error_pattern": "This is not a valid MIAM attendance code",
   "label": "FMC number",
   "pattern": "^\\d{4}[a-zA-Z](-.{5}){0,1}$",
