@@ -3,6 +3,7 @@
   "_id": "error-header",
   "format": "The answer for “{control}” is not in the correct format",
   "heading": "There {app:errors:length, plural, 1 {was a problem} other {were problems}} on the page",
+  "pattern": "The answer for “{control}” is not in the correct format",
   "required": "Please answer the question “{control}”",
   "requiredCheckboxGroup": "Please choose at least one of the options for “{control}”",
   "requiredRadioGroup": "Please choose one of the answers for “{control}”"
