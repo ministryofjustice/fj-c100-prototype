@@ -1,0 +1,23 @@
+{% macro ProsCons(name, modifier='', level=4) %}
+  {% set pros = getBlockProp(name, 'pros') %}
+  {% if pros %}
+  <div class="ProsCons{% if modifier %} ProsCons--{{ modifier }}{% endif %}">
+  <div class="Pros">
+  <h{{ level}} class="ProsCons__heading ProsCons__heading--pros {{ govukClassname('heading-small') }}" aria-label="{{ getString('ProsCons__heading--pros__aria-label') }} {{ getBlockProp(name, 'heading') }}">{{ Block.String('ProsCons__heading--pros') }}</h{{ level}}>
+  <ul class="ProsCons__list ProsCons__list--pros">
+  {% for pro in pros %}
+    <li class="ProsCons__item ProsCons__item--pros">{{ pro }}</li>
+  {% endfor %}
+  </ul>
+  </div>
+  <div class="Cons">
+  <h{{ level}} class="ProsCons__heading ProsCons__heading--cons {{ govukClassname('heading-small') }}" aria-label="{{ getString('ProsCons__heading--cons__aria-label') }} {{ getBlockProp(name, 'heading') }}">{{ Block.String('ProsCons__heading--cons') }}</h{{ level}}>
+  <ul class="ProsCons__list ProsCons__list--cons">
+  {% for con in getBlockProp(name, 'cons') %}
+    <li class="ProsCons__item ProsCons__item--cons">{{ con }}</li>
+  {% endfor %}
+  </ul>
+  </div>
+  </div>
+  {% endif %}
+{% endmacro %}
