@@ -28,6 +28,32 @@ s {
   margin-bottom: 0;
 }
 
+#before-applying {
+  & ol {
+    padding-left: 0;
+  }
+
+  & ol > li {
+    background-position: 0 0.87em;
+    background-repeat: no-repeat;
+    list-style-type: none;
+    margin-left: 0;
+    padding: 0.75em 0 0.75em 2.2em;
+  }
+
+  & ol > li:nth-child(1) {
+    background-image: url(https://assets.publishing.service.gov.uk/static/icon-steps/icon-step-1-4d6351dedaee517e9fc84bc030fe7a9f04f876a30dc95ec28bbd0cabd1d94210.png);
+  }
+
+  & ol > li:nth-child(2) {
+    background-image: url(https://assets.publishing.service.gov.uk/static/icon-steps/icon-step-2-fe28a816d0187a23b9c4164f92ef7f7d494ea9d5d92fbcdb43b441981083c342.png);
+  }
+
+  & ol > li:nth-child(3) {
+    background-image: url(https://assets.publishing.service.gov.uk/static/icon-steps/icon-step-3-b67cbca60331ec32261cb20b126924eb983e7f92e5f673162beeb2b77a18a03c.png);
+  }
+}
+
 #miam-requirement_acknowledgement {
   padding-top: 6rem;
 }

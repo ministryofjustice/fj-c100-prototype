@@ -7,8 +7,6 @@ main {
 .ProsCons {
   padding: 1.5rem 1.5rem 0;
   background: #f6f6f6;
-  /* var(--ProsCons--background); */
-  /* border-top: var(--border-brand); */
   margin-top: 2rem;
 }
 
@@ -23,14 +21,15 @@ main {
 }
 
 .ProsCons {
-
   & .ProsCons--header {
     margin-top: 3.25rem;
   }
 
   & .ProsCons__heading {
     @apply --gv-u-heading-small;
+
     margin-top: 0;
+
     @media (--kit-medium) {
       margin-top: 0;
     }
