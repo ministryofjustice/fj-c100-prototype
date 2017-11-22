@@ -21,7 +21,7 @@
       "concerns_other": "yes"
     }
   ],
-  "heading": "Safety concerns - we need to ask more questions",
+  "heading": "You and your children’s safety",
   "steps": [
     "route:concerns_children_sexual",
     "route:concerns_children_sexual-details",
