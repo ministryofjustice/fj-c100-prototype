@@ -6,3 +6,15 @@
   "components/ProsCons/ProsCons.njk",
   "components/CallToAction/CallToAction.njk"
 ]) }}
+
+{% block body_end %}
+{{ super() }}
+<script>
+jQuery('a[href]').each(function() {
+  var $a = jQuery(this)
+  if ($a.attr('href').indexOf(document.location.origin) !== 0) {
+    $a.attr('target', 'external_link')
+  }
+})
+</script>
+{% endblock %}
