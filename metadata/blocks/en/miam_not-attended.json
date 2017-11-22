@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "miam_not-attended",
   "_isa": "view:form",
-  "body": "The following questions are to check whether you have a valid reason. If you don’t, you may not be able to complete this application.\r\n",
+  "body": "We’ll need to ask some questions to check whether you have a valid reason not to attend. You will not be able to complete this application if you don’t.",
   "continue": "continue",
   "depends": [
     {

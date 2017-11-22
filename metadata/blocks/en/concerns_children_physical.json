@@ -1,6 +1,6 @@
 {
   "_id": "concerns_children_physical",
   "_isa": "radio_group:yes-no-required",
-  "label": "Has the other person ever physically abused your children?",
+  "label": "Have your children ever been physically abused?",
   "visuallyhidden": true
 }

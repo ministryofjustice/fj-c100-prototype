@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:concerns_further-questions",
   "_isa": "view:form",
-  "body": "Because you answered x - blah blah blah\r\n",
+  "body": "Based on your previous answer, we’ll need to ask you some questions about the abuse.\r\n\r\nThe aim of the following questions is to provide more information for an advisor from the [Children and Family Court Advisory and Support Service (Cafcass)]({app:urls:url:cafcass}). They will carry out background checks before the first hearing.\r\n\r\nDue to the sensitive nature of the questions you may find some of them difficult to answer. \r\nIf you don’t know an answer you can select ‘Don’t know’.",
   "continue": "continue",
   "depends": [
     {

@@ -1,6 +1,6 @@
 {
   "_id": "concerns_children_psychological",
   "_isa": "radio_group:yes-no-required",
-  "label": "Has the other person ever psychologically abused your children?",
+  "label": "Have your children ever been psychologically abused?",
   "visuallyhidden": true
 }

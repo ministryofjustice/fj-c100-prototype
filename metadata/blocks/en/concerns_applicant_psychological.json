@@ -1,6 +1,6 @@
 {
   "_id": "concerns_applicant_psychological",
   "_isa": "radio_group:yes-no-required",
-  "label": "Has the other person ever psychologically abused you?",
+  "label": "Have you ever been psychologically abused?",
   "visuallyhidden": true
 }

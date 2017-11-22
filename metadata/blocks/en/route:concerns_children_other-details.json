@@ -4,7 +4,7 @@
   "_isa": "view:concerns-details",
   "behaviour_length": "When did you stop being concerned about the issue?",
   "behaviour_ongoing": "Are you concerned the issue is still affecting your children?",
-  "behaviour_start": "When did your concerns about your children start?",
+  "behaviour_start": "When did your concerns start?",
   "depends": [
     {
       "concerns_children_other": "yes"
