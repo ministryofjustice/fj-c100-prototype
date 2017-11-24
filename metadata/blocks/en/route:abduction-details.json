@@ -3,9 +3,7 @@
   "_id": "route:abduction-details",
   "_isa": "view:form",
   "blocks": [
-    "abduction_reasons",
-    "abduction_previous",
-    "abduction_abroad"
+    "abduction_reasons"
   ],
   "body": "",
   "depends": [

@@ -3,8 +3,7 @@
   "_id": "abduction_abroad_dependencies",
   "blocks": [
     "abduction_passport-office",
-    "abduction_passport-multiple",
-    "abduction_passport-possession"
+    "abduction_passport-office_not-informed"
   ],
   "body": "",
   "depends": [

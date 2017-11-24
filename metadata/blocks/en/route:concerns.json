@@ -7,7 +7,7 @@
   "heading": "Safety concerns",
   "steps": [
     "route:abduction",
-    "route:abduction-details",
+    "route:abduction-passport",
     "route:substance-abuse",
     "route:substance-abuse-details",
     "route:concerns_child-abuse",

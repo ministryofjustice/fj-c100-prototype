@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:abduction-previous-details",
+  "_isa": "view:form",
+  "blocks": [
+    "abduction_previous_dependencies"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "abduction_previous": "yes"
+    }
+  ],
+  "heading": "!abduction_previous_details#label!",
+  "title": "",
+  "url": "/concerns/abduction/previous/details"
+}
