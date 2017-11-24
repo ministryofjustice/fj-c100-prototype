@@ -12,8 +12,7 @@
     "order_specific-issue_religion",
     "order_specific-issue_name",
     "order_specific-issue_medical",
-    "order_specific-issue_abroad",
-    "order_specific-issue_other"
+    "order_specific-issue_abroad"
   ],
   "requiredWhen": [
     {
