@@ -17,6 +17,9 @@
   "multiple_heading": "Child",
   "multiple_max": 10,
   "multiple_min": 1,
+  "steps": [
+    "route:children-substep"
+  ],
   "title": "",
   "url": "/children/details"
 }

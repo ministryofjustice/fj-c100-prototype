@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:children-substep",
+  "_isa": "view:form",
+  "blocks": [
+    "children-substep",
+    "add:child"
+  ],
+  "body": "Substep ahoy!",
+  "heading": "Kids substep {app:route:_index}",
+  "title": "",
+  "url": "/children/details/substep"
+}

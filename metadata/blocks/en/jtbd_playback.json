@@ -2,5 +2,5 @@
   "_blockType": "Playback",
   "_id": "jtbd_playback",
   "playback_ask": "You’d {playback_count, plural, =1 {} other {also}} like the court to",
-  "playback_order": "This is known as a **{playback_section}**."
+  "playback_order": "This is known as a {playback_section}."
 }
