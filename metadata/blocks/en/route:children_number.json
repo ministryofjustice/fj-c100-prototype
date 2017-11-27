@@ -3,7 +3,7 @@
   "_id": "route:children_number",
   "_isa": "view:form",
   "blocks": [
-    "child-name-group"
+    "children"
   ],
   "depends": [
     {

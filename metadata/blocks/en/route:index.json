@@ -14,7 +14,7 @@
     "route:miam_requirement",
     "route:miam_attended",
     "miam_not-attended",
-    "route:children_instructions",
+    "route:children_number",
     "route:children",
     "route:children_further-details",
     "route:other-children",

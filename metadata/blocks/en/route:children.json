@@ -3,18 +3,19 @@
   "_id": "route:children",
   "_isa": "view:form",
   "blocks": [
-    "child_name-used"
+    "child_name",
+    "child_dob",
+    "child_dob_unsure",
+    "child_gender"
   ],
-  "heading": "Child {app:route:_index}",
+  "heading": "Provide details for {{child_used-name_{app:route:_index} }}",
   "multiple": true,
   "multiple_autosuffix": false,
-  "multiple_heading": "Child",
+  "multiple_heading": "Provide details for {child_used-name_1}",
   "multiple_max": 10,
   "multiple_min": 1,
+  "multiple_start": "route:children_number",
   "multiple_summary": "route:children-summary",
-  "steps": [
-    "route:children-details"
-  ],
   "title": "",
-  "url": "/children"
+  "url": "/children/details"
 }

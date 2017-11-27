@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "child_used-name",
+  "_isa": "text:used-name",
+  "label": "Used name of child",
+  "required": true
+}
