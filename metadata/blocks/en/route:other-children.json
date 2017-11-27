@@ -5,8 +5,8 @@
   "blocks": [
     "other-children"
   ],
-  "body": "",
-  "heading": "Other children who should be given notice",
+  "body": "Examples of other children to include:\r\n\r\n- example 1\r\n- example 2",
+  "heading": "!other-children#label!",
   "title": "",
   "url": "/other-children"
 }

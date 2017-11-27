@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:children-summary",
+  "_isa": "view:form",
+  "blocks": [
+    "add:child"
+  ],
+  "body": "Summary of the children’s details goes here ",
+  "heading": "Children summary",
+  "title": "",
+  "url": "/children/summary"
+}

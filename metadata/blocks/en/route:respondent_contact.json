@@ -1,0 +1,20 @@
+{
+  "_blockType": "Route",
+  "_id": "route:respondent_contact",
+  "_isa": "view:form",
+  "blocks": [
+    "address-for-documents",
+    "postcode",
+    "address_unsure",
+    "phone-home",
+    "phone-mobile",
+    "phone_unsure",
+    "email",
+    "email_unsure",
+    "residence-duration-sufficient"
+  ],
+  "body": "",
+  "heading": "Contact details for respondent {app:route:_index}",
+  "title": "",
+  "url": "/respondent/contact-details"
+}

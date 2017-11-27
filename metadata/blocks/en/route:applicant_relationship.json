@@ -5,12 +5,8 @@
   "blocks": [
     "applicant_relationship"
   ],
-  "depends": [
-    {
-      "flag-applicant_relationship": true
-    }
-  ],
-  "heading": "!applicant_relationship#label!",
+  "body": "",
+  "heading": "Relationship of applicant {app:route:_index} to children",
   "title": "",
-  "url": "/applicant-relationship"
+  "url": "/applicant/relaionship-details"
 }

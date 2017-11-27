@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_contact",
+  "_isa": "view:form",
+  "blocks": [
+    "address-privacy-warning",
+    "address_applicant",
+    "postcode_applicant",
+    "phone-home_applicant",
+    "phone-mobile_applicant",
+    "email_applicant",
+    "residence-duration-sufficient_required"
+  ],
+  "body": "",
+  "heading": "Contact details for applicant {app:route:_index}",
+  "title": "",
+  "url": "/applicant/contact-details"
+}

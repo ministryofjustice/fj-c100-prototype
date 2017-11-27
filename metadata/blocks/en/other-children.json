@@ -1,5 +1,6 @@
 {
   "_id": "other-children",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are there any other children who should be given notice who are not part of the application?"
+  "label": "Are there any other children who should be given notice who are not part of the application?",
+  "visuallyhidden": true
 }

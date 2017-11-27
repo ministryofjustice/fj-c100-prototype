@@ -8,22 +8,18 @@
     "gender",
     "dob-check-18",
     "dob-check-18_unsure",
-    "birthplace",
-    "address-for-documents",
-    "postcode",
-    "address_unsure",
-    "phone-home",
-    "phone-mobile",
-    "phone_unsure",
-    "email",
-    "email_unsure",
-    "residence-duration-sufficient"
+    "birthplace"
   ],
   "body": "",
   "heading": "The respondent(s)",
   "multiple": true,
-  "multiple_max": 2,
+  "multiple_max": 5,
   "multiple_min": 1,
+  "steps": [
+    "route:respondent_relationship",
+    "route:respondent_responsibility",
+    "route:respondent_contact"
+  ],
   "title": "",
   "url": "/respondent/details"
 }

@@ -1,9 +1,12 @@
 {
   "_blockType": "Route",
-  "_id": "route:children",
+  "_id": "route:children-details",
   "_isa": "view:form",
   "blocks": [
-    "child_name-used"
+    "child_name",
+    "child_dob",
+    "child_dob_unsure",
+    "child_gender"
   ],
   "heading": "Child {app:route:_index}",
   "multiple": true,
@@ -12,9 +15,6 @@
   "multiple_max": 10,
   "multiple_min": 1,
   "multiple_summary": "route:children-summary",
-  "steps": [
-    "route:children-details"
-  ],
   "title": "",
-  "url": "/children"
+  "url": "/children/details"
 }

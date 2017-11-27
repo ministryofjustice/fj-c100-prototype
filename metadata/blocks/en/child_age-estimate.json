@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "child_age-estimate",
+  "depends": [
+    {
+      "child_dob_unsure": "yes"
+    }
+  ],
+  "hint": "Enter rough age / year when child was born",
+  "label": "Age of child"
+}

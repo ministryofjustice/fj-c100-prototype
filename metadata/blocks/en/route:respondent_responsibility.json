@@ -1,0 +1,19 @@
+{
+  "_blockType": "Route",
+  "_id": "route:respondent_responsibility",
+  "_isa": "view:form",
+  "blocks": [
+    "parental-responsibility"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "!respondent_relationship": "mother",
+      "flag-applicant_relationship": true
+    }
+  ],
+  "heading": "!parental-responsibility#label!",
+  "lede": "Is the father's name on the birth certificate etc?",
+  "title": "",
+  "url": "/respondent/parental-responsibility"
+}

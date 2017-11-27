@@ -3,11 +3,10 @@
   "_id": "route:children-substep",
   "_isa": "view:form",
   "blocks": [
-    "children-substep",
-    "add:child"
+    "to-be-done"
   ],
-  "body": "Substep ahoy!",
-  "heading": "Kids substep {app:route:_index}",
+  "body": "Summary of the children goes here",
+  "heading": "Children substep",
   "title": "",
-  "url": "/children/details/substep"
+  "url": "/children/summary"
 }

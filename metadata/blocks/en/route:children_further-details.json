@@ -4,10 +4,7 @@
   "_isa": "view:form",
   "blocks": [
     "children_known-to-authorities",
-    "children_child-protection-plan",
-    "children_same-parents",
-    "children_parental-responsibility",
-    "children_residence"
+    "children_child-protection-plan"
   ],
   "body": "",
   "heading": "Further information about the child(ren)",
