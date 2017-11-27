@@ -1,6 +1,6 @@
 {
   "_blockType": "Route",
-  "_id": "route:applicant-details",
+  "_id": "route:applicants",
   "_isa": "view:form",
   "blocks": [
     "full-name",
@@ -10,10 +10,11 @@
     "birthplace_required"
   ],
   "body": "",
-  "heading": "About you (the applicant(s)) - Applicant {app:route:_index}",
+  "heading": "About {app:route:_index, select, 1 {you} other {applicant {app:route:_index}}}",
   "multiple": true,
   "multiple_max": 5,
   "multiple_min": 1,
+  "multiple_summary": "route:applicants-summary",
   "steps": [
     "route:applicant_relationship",
     "route:applicant_responsibility",

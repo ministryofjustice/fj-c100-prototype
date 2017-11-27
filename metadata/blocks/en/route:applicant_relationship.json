@@ -6,7 +6,7 @@
     "applicant_relationship"
   ],
   "body": "",
-  "heading": "Relationship of applicant {app:route:_index} to children",
+  "heading": "What is {app:route:_index, select, 1 {your} other {[{applicants_{app:route:_index}_full-name}]’s}} relationship to the children?",
   "title": "",
   "url": "/applicant/relationship-details"
 }

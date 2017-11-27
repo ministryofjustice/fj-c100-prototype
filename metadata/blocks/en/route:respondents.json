@@ -1,6 +1,6 @@
 {
   "_blockType": "Route",
-  "_id": "route:respondent-details",
+  "_id": "route:respondents",
   "_isa": "view:form",
   "blocks": [
     "full-name",
@@ -15,6 +15,7 @@
   "multiple": true,
   "multiple_max": 5,
   "multiple_min": 1,
+  "multiple_summary": "route:respondents-summary",
   "steps": [
     "route:respondent_relationship",
     "route:respondent_responsibility",
