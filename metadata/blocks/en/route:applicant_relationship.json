@@ -6,7 +6,11 @@
     "applicant_relationship"
   ],
   "body": "",
-  "heading": "What is {app:route:_index, select, 1 {your} other {[{applicants_{app:route:_index}_full-name}]’s}} relationship to the children?",
+  "dynamic_multiple": "children",
+  "heading": "What is {app:route:_index, select, 1 {your} other {[{applicants_{app:route:_index}_full-name}]’s}} relationship to  [{child_used-name_{app:route:dynamicIndex}}]?",
   "title": "",
-  "url": "/applicant/relationship-details"
+  "url": "/applicant/relationship-details",
+  "xsteps": [
+    "route:applicant_responsibility"
+  ]
 }

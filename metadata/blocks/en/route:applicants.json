@@ -17,7 +17,6 @@
   "multiple_summary": "route:applicants-summary",
   "steps": [
     "route:applicant_relationship",
-    "route:applicant_responsibility",
     "route:applicant_contact"
   ],
   "title": "",

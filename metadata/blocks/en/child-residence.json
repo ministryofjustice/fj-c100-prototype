@@ -1,0 +1,7 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "child-residence",
+  "hint": "Select all that apply",
+  "label": "Who does [{child_used-name_{app:route:dynamicIndex}}] live with?",
+  "visuallyhidden": true
+}

@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:children-residence",
+  "_isa": "view:form",
+  "blocks": [
+    "children-residence"
+  ],
+  "controller": "app/templates/children-residence/children-residence.controller",
+  "dynamic_multiple": "children",
+  "heading": "!child-residence#label!",
+  "url": "/children/residence"
+}
