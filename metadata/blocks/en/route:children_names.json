@@ -1,14 +1,9 @@
 {
   "_blockType": "Route",
-  "_id": "route:children_number",
+  "_id": "route:children_names",
   "_isa": "view:form",
   "blocks": [
     "children"
-  ],
-  "depends": [
-    {
-      "flag-children-number": true
-    }
   ],
   "heading": "What are the names of your children?",
   "lede": "Only include the children you’re making this application for",

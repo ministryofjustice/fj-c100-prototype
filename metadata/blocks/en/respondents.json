@@ -1,16 +1,16 @@
 {
   "_blockType": "Group",
-  "_id": "other-parties",
+  "_id": "respondents",
   "blocks": [
-    "other-party_full-name"
+    "respondents_full-name"
   ],
   "body": "",
   "heading": "",
   "multiple": true,
-  "multiple_add": "Add another party",
+  "multiple_add": "Add another respondent",
   "multiple_autosuffix": true,
-  "multiple_delete": "Remove party",
+  "multiple_delete": "Remove respondent",
   "multiple_heading": "",
-  "multiple_max": 2,
+  "multiple_max": 5,
   "multiple_min": 1
 }

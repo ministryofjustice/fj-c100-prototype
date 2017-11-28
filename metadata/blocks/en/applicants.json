@@ -1,16 +1,16 @@
 {
   "_blockType": "Group",
-  "_id": "other-parties",
+  "_id": "applicants",
   "blocks": [
-    "other-party_full-name"
+    "applicants_full-name"
   ],
   "body": "",
   "heading": "",
   "multiple": true,
-  "multiple_add": "Add another party",
+  "multiple_add": "Add another applicant",
   "multiple_autosuffix": true,
-  "multiple_delete": "Remove party",
+  "multiple_delete": "Remove applicant",
   "multiple_heading": "",
-  "multiple_max": 2,
+  "multiple_max": 5,
   "multiple_min": 1
 }

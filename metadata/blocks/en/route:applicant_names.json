@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_names",
+  "_isa": "view:form",
+  "blocks": [
+    "applicants"
+  ],
+  "heading": "What are the names of the applicants?",
+  "lede": "What is an applicant?",
+  "title": "",
+  "url": "/applicants/names"
+}

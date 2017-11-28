@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "other-parties_full-name",
+  "_isa": "text:full-name",
+  "label": "Full name of other party",
+  "required": true
+}

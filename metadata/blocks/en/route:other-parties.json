@@ -3,7 +3,7 @@
   "_id": "route:other-parties",
   "_isa": "view:form",
   "blocks": [
-    "other-parties"
+    "other-parties-required"
   ],
   "body": "",
   "heading": "Others who should be given notice",
