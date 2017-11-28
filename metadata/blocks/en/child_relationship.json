@@ -1,0 +1,18 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "child_relationship",
+  "inline": false,
+  "label": "What is !string:your! relationship to the !string:children!?",
+  "options": [
+    "option:mother",
+    "option:father",
+    "option:guardian",
+    "option:grandparent",
+    "option:family-member",
+    "option:family-friend",
+    "option:social-worker",
+    "option:relationship_other"
+  ],
+  "required": true,
+  "visuallyhidden": true
+}

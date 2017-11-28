@@ -6,7 +6,7 @@
   "_id": "route:applicant_relationship",
   "_isa": "view:form",
   "blocks": [
-    "applicant_relationship"
+    "child_relationship"
   ],
   "body": "",
   "dynamic_multiple": "children",

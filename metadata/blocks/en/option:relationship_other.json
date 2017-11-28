@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "option:relationship_other",
+  "label": "Other",
+  "subblock": "relationship_other_details",
+  "value": "other"
+}
