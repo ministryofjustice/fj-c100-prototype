@@ -4,13 +4,6 @@
   ],
   "_blockType": "Route",
   "_id": "route:other-parties_relationship",
-  "_isa": "view:form",
-  "blocks": [
-    "other-party_relationship"
-  ],
-  "body": "",
-  "dynamic_multiple": "children",
-  "heading": "What is !route_party_full-name!’s relationship to !route_child_used-name!?",
-  "title": "",
+  "_isa": "view:relationship",
   "url": "/other-parties/relationship"
 }
