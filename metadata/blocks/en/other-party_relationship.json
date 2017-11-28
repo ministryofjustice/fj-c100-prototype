@@ -1,8 +1,15 @@
 {
-  "_blockType": "Text",
+  "_blockType": "RadioGroup",
   "_id": "other-party_relationship",
-  "hint": "If their relationship is not the same to each child please state their relationship to each child",
-  "label": "Please state their relationship to the children listed in the application",
-  "multiline": true,
-  "required": true
+  "inline": false,
+  "label": "What is !string:your! relationship to the !string:children!?",
+  "options": [
+    "option:mother",
+    "option:father",
+    "option:grandparent",
+    "option:social-worker",
+    "applicant_relationship_other"
+  ],
+  "required": true,
+  "visuallyhidden": true
 }

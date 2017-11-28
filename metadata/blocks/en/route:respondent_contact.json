@@ -14,7 +14,7 @@
     "residence-duration-sufficient"
   ],
   "body": "",
-  "heading": "Contact details for respondent {app:route:_index}",
+  "heading": "Contact details for !route_party_full-name!",
   "title": "",
   "url": "/respondent/contact-details"
 }

@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-parties-required",
+  "_isa": "view:form",
+  "blocks": [
+    "other-parties-required"
+  ],
+  "body": "",
+  "heading": "Others who should be given notice",
+  "title": "",
+  "url": "/other-parties/required"
+}

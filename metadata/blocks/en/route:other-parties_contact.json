@@ -1,0 +1,14 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-parties_contact",
+  "_isa": "view:form",
+  "blocks": [
+    "address",
+    "postcode",
+    "address_unsure"
+  ],
+  "body": "",
+  "heading": "Contact details for !route_party_full-name!",
+  "title": "",
+  "url": "/other-party/contact"
+}

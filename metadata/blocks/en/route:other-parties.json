@@ -3,10 +3,25 @@
   "_id": "route:other-parties",
   "_isa": "view:form",
   "blocks": [
-    "other-parties-required"
+    "has_previous-name",
+    "gender",
+    "dob-other",
+    "dob-other_unsure"
   ],
   "body": "",
-  "heading": "Others who should be given notice",
+  "depends": [
+    {
+      "other-parties-required": "yes"
+    }
+  ],
+  "heading": "About !route_party_full-name!",
+  "multiple": true,
+  "multiple_max": 2,
+  "multiple_min": 1,
+  "steps": [
+    "route:other-parties_relationship",
+    "route:other-parties_contact"
+  ],
   "title": "",
-  "url": "/other-parties"
+  "url": "/other-party/details"
 }

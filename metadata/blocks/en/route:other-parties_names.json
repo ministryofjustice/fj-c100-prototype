@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-parties_names",
+  "_isa": "view:form",
+  "blocks": [
+    "other-parties"
+  ],
+  "depends": [
+    {
+      "other-parties-required": "yes"
+    }
+  ],
+  "heading": "What are the names of the other parties?",
+  "lede": "What is an other party?",
+  "title": "",
+  "url": "/other-parties/names"
+}

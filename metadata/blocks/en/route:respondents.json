@@ -1,9 +1,9 @@
 {
+  "Xmultiple_summary": "route:respondents-summary",
   "_blockType": "Route",
   "_id": "route:respondents",
   "_isa": "view:form",
   "blocks": [
-    "full-name",
     "has_previous-name",
     "gender",
     "dob-check-18",
@@ -11,14 +11,12 @@
     "birthplace"
   ],
   "body": "",
-  "heading": "The respondent(s)",
+  "heading": "About !route_party_full-name!",
   "multiple": true,
   "multiple_max": 5,
   "multiple_min": 1,
-  "multiple_summary": "route:respondents-summary",
   "steps": [
     "route:respondent_relationship",
-    "route:respondent_responsibility",
     "route:respondent_contact"
   ],
   "title": "",

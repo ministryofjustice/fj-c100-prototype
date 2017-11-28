@@ -1,19 +1,16 @@
 {
+  "Xsteps": [
+    "route:other-parties_responsibility"
+  ],
   "_blockType": "Route",
-  "_id": "route:respondent_relationship",
+  "_id": "route:other-parties_relationship",
   "_isa": "view:form",
   "blocks": [
-    "respondent_relationship"
+    "other-party_relationship"
   ],
   "body": "",
   "dynamic_multiple": "children",
   "heading": "What is !route_party_full-name!’s relationship to !route_child_used-name!?",
-  "steps": [
-    "route:respondent_responsibility"
-  ],
   "title": "",
-  "url": "/respondent/relationship",
-  "xblocks": [
-    "respondent_relationship"
-  ]
+  "url": "/other-parties/relationship"
 }
