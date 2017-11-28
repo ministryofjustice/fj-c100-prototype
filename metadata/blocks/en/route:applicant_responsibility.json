@@ -8,7 +8,9 @@
   "body": "",
   "depends": [
     {
-      "!applicant_relationship": "mother",
+      "![route._prefix]applicant_relationship": "mother"
+    },
+    {
       "flag-applicant_relationship": true
     }
   ],

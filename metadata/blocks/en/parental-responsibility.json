@@ -1,6 +1,6 @@
 {
   "_id": "parental-responsibility",
   "_isa": "radio_group:yes-no-required",
-  "label": "!string:do-you! have parental responsibility for the !string:children!?",
+  "label": "Does [{{app:route:multiple_counter}_{app:route:_index}_full-name}] have parental responsibility for  [{child_used-name_{app:route:dynamicIndex}}]?",
   "visuallyhidden": true
 }
