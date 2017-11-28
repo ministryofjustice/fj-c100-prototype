@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-children-required",
+  "_isa": "view:form",
+  "blocks": [
+    "other-children-required"
+  ],
+  "body": "Examples of other children to include:\r\n\r\n- example 1\r\n- example 2",
+  "heading": "!other-children-required#label!",
+  "title": "",
+  "url": "/other-children/required"
+}

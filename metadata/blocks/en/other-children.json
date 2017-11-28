@@ -1,6 +1,16 @@
 {
+  "_blockType": "Group",
   "_id": "other-children",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Are there any other children who should be given notice who are not part of the application?",
-  "visuallyhidden": true
+  "blocks": [
+    "other-children_full-name"
+  ],
+  "body": "",
+  "heading": "",
+  "multiple": true,
+  "multiple_add": "Add another child",
+  "multiple_autosuffix": true,
+  "multiple_delete": "Remove child",
+  "multiple_heading": "",
+  "multiple_max": 5,
+  "multiple_min": 1
 }

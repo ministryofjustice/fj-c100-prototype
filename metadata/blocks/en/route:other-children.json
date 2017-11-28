@@ -1,12 +1,18 @@
 {
+  "Xmultiple_summary": "route:other-children-summary",
   "_blockType": "Route",
   "_id": "route:other-children",
   "_isa": "view:form",
   "blocks": [
-    "other-children"
+    "dob-other",
+    "dob-other_unsure",
+    "gender"
   ],
-  "body": "Examples of other children to include:\r\n\r\n- example 1\r\n- example 2",
-  "heading": "!other-children#label!",
+  "body": "",
+  "heading": "About !route_party_full-name!",
+  "multiple": true,
+  "multiple_max": 5,
+  "multiple_min": 1,
   "title": "",
-  "url": "/other-children"
+  "url": "/other-children/details"
 }
