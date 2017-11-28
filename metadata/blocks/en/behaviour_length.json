@@ -1,5 +1,5 @@
 {
-  "_blockType": "Date",
+  "_blockType": "Text",
   "_id": "behaviour_length",
   "date_type": "month-year",
   "depends": [
