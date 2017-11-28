@@ -2,15 +2,15 @@
   "_blockType": "Route",
   "_id": "miam_not-attended",
   "_isa": "view:form",
-  "body": "We’ll need to ask some questions to check whether you have a valid reason not to attend. You will not be able to complete this application if you don’t.",
-  "continue": "continue",
+  "body": "[Check if you have a valid reason]({app:urls:url:miams-exemptions}) before you continue with your application.",
+  "continue": "confirm-continue",
   "depends": [
     {
       "miam_attended": "no"
     }
   ],
-  "heading": "You have not attended a MIAM",
-  "lede": "Before completing this application you’re legally required to attend a MIAM, unless you have a valid reason.\r\n!abbr:MIAM!",
+  "heading": "You haven’t attended a MIAM",
+  "lede": "You’re legally required to attend a MIAM, unless you have a valid reason.\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/not-attended",
   "xblocks": [

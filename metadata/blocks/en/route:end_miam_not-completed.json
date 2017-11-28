@@ -1,8 +1,8 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_not-completed",
-  "body": "1. Book mediator\r\n2. Attend MIAM\r\n3. Ask for certificate\r\n4. Return to continue",
-  "heading": "You need to attend a MIAM and obtain a certificate",
+  "body": "You won’t be able to continue with your application until you follow these steps.\r\n\r\n- [Find a mediator]({app:urls:url:fmc_find-mediator}) and book a MIAM\r\n- Attend the MIAM\r\n- Ask the mediator for a certificate confirming your attendance\r\n- Return to this application to continue\r\n\r\n!abbr:MIAM!\r\n",
+  "heading": "You need to attend a MIAM and get a certificate\r\n!abbr:MIAM!",
   "template": "generic",
   "title": "",
   "url": "/miam/not-completed"

@@ -1,8 +1,8 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_no-certification",
-  "body": "1. Go to mediator\r\n2. Ask for certificate\r\n3. Return to continue",
-  "heading": "You need a signed MIAM certificate from your mediator",
+  "body": "You’ll need to contact your mediator who carried out the MIAM and ask for a signed certificate confirming your attendance.\r\n\r\nWhen you receive the certificate you can return to the application.\r\n\r\n!abbr:MIAM!",
+  "heading": "You need a signed MIAM certificate from your mediator\r\n!abbr:MIAM!",
   "template": "generic",
   "title": "",
   "url": "/miam/no-certification"
