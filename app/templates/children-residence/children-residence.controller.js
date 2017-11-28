@@ -5,23 +5,27 @@ const PlaybackController = (req, res) => {
       const autofields = routeInstance.autofields
       const applicants = methods.getValue('applicants', 1)
       const respondents = methods.getValue('respondents', 1)
+      const other_parties = methods.getValue('other-parties', 0)
       let options = []
       const getOptions = (type, counter, options) => {
         for (let index = 1; index <= counter; index++) {
-          const label = methods.getValue(`${type}s_full-name_${index}`)
-          const name = `${type}_${index}`
-          const prefixedName = routeInstance._prefix + name
-          const checked = !!methods.getValue(prefixedName)
-          options.push({
-            name,
-            label,
-            checked
-          })
+          const label = methods.getValue(`${type}_full-name_${index}`)
+          if (label) {
+            const name = `${type}_${index}`
+            const prefixedName = routeInstance._prefix + name
+            const checked = !!methods.getValue(prefixedName)
+            options.push({
+              name,
+              label,
+              checked
+            })
+          }
         }
         return options
       }
-      options = getOptions('applicant', applicants, options)
-      options = getOptions('respondent', respondents, options)
+      options = getOptions('applicants', applicants, options)
+      options = getOptions('respondents', respondents, options)
+      options = getOptions('other-parties', other_parties, options)
       routeInstance.residenceOptions = options
       routeInstance.residenceName = 'child-residence'
 

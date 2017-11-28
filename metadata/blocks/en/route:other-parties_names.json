@@ -10,7 +10,7 @@
       "other-parties-required": "yes"
     }
   ],
-  "heading": "Enter the names of the other parties",
+  "heading": "{other-parties, select, 1{Enter the other party’s name} other{Enter the other parties’ names} undefined{Enter the other party’s name}}",
   "title": "",
   "url": "/other-parties/names"
 }

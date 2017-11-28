@@ -6,7 +6,7 @@
     "applicants"
   ],
   "body": "Anyone who is making this application is known as the applicant.",
-  "heading": "Enter the names of the applicants",
+  "heading": "{applicants, select, 1{Enter the applicant’s name} other{Enter the applicants’ names} undefined{Enter the applicant’s name}}",
   "title": "",
   "url": "/applicants/names"
 }

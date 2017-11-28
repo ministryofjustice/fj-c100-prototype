@@ -6,7 +6,7 @@
     "respondents"
   ],
   "body": "The other person who will receive this application is known as the respondent.",
-  "heading": "Enter the names of the respondents",
+  "heading": "{respondents, select, 1{Enter the respondent’s name} other{Enter the respondents’ names} undefined{Enter the respondent’s name}}",
   "title": "",
   "url": "/respondents/names"
 }
