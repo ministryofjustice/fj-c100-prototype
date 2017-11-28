@@ -6,7 +6,8 @@
       "residence-duration-sufficient_required": "no"
     }
   ],
-  "label": "Please provide details of all previous addresses for the last 5 years below (if known, including the dates and starting with the most recent)",
+  "hint": "Start with the most recent",
+  "label": "Provide details and dates of all previous addresses for the last 5 years",
   "multiline": true,
   "requiredWhen": [
     {

@@ -5,8 +5,8 @@
   "blocks": [
     "applicants"
   ],
-  "heading": "What are the names of the applicants?",
-  "lede": "What is an applicant?",
+  "body": "Anyone who is making this application is known as the applicant.",
+  "heading": "Enter the names of the applicants",
   "title": "",
   "url": "/applicants/names"
 }

@@ -5,7 +5,7 @@
   "blocks": [
     "abduction_previous_dependencies"
   ],
-  "body": "",
+  "body": "Include any previous attempts or threats to abduct your children",
   "depends": [
     {
       "abduction_previous": "yes"

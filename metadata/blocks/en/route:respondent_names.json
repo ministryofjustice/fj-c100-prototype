@@ -5,8 +5,8 @@
   "blocks": [
     "respondents"
   ],
-  "heading": "What are the names of the respondents?",
-  "lede": "What is a respondent?",
+  "body": "The other person who will receive this application is known as the respondent.",
+  "heading": "Enter the names of the respondents",
   "title": "",
   "url": "/respondents/names"
 }

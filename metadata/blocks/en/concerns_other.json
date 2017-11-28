@@ -1,6 +1,6 @@
 {
   "_id": "concerns_other",
   "_isa": "radio_group:yes-no-required",
-  "label": "Any other concerns?",
+  "label": "Do you have any other concerns?",
   "visuallyhidden": true
 }

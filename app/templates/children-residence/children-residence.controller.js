@@ -8,11 +8,10 @@ const PlaybackController = (req, res) => {
       let options = []
       const getOptions = (type, counter, options) => {
         for (let index = 1; index <= counter; index++) {
-          const label = methods.getValue(`${type}s_${index}_full-name`)
+          const label = methods.getValue(`${type}s_full-name_${index}`)
           const name = `${type}_${index}`
           const prefixedName = routeInstance._prefix + name
           const checked = !!methods.getValue(prefixedName)
-          console.log({prefixedName}, checked)
           options.push({
             name,
             label,

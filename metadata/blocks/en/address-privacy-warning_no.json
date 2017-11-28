@@ -1,0 +1,11 @@
+{
+  "_blockType": "Section",
+  "_id": "address-privacy-warning_no",
+  "body": "(i) The other person will be able to see the contact details for you and your children as you haven’t chosen to keep them private.",
+  "depends": [
+    {
+      "address-confidentiality": "no"
+    }
+  ],
+  "heading": ""
+}

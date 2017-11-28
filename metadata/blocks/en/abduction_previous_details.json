@@ -2,7 +2,7 @@
   "_blockType": "Text",
   "_id": "abduction_previous_details",
   "hint": "Give a short description",
-  "label": "Provide more details of the previous attempts or threats to abduct your children",
+  "label": "Provide details of the previous abductions",
   "multiline": true,
   "requiredWhen": [
     {

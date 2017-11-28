@@ -1,5 +1,6 @@
 {
   "_id": "address-for-documents",
   "_isa": "address",
-  "label": "Address (to which documents relating to this application should be sent)"
+  "hint": "Documents for this application will be sent here",
+  "label": "Address"
 }

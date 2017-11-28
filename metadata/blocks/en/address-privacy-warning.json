@@ -1,6 +1,11 @@
 {
   "_blockType": "Section",
   "_id": "address-privacy-warning",
-  "body": "**If you do not wish your address to be made known to the respondent**, leave the details below blank and complete [Confidential contact details Form C8]({app:urls:url:c8-en}). Please ensure that any documents submitted with this form or at a later date, **do not** disclose the confidential contact details you wish to withhold.",
+  "body": "(i) The other person won’t be able to see the contact details for you and your children as you’ve chosen to keep them private.",
+  "depends": [
+    {
+      "address-confidentiality": "yes"
+    }
+  ],
   "heading": ""
 }

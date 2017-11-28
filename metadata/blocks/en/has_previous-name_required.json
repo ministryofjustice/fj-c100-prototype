@@ -1,6 +1,6 @@
 {
   "_id": "has_previous-name_required",
   "_isa": "radio_group:yes-no-required",
-  "label": "Previous name?",
+  "label": "Previous name",
   "subblock": "previous-name_required"
 }

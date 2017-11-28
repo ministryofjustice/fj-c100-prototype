@@ -8,6 +8,8 @@
     "option:father",
     "option:grandparent",
     "option:social-worker",
+    "option:family-member",
+    "option:family-friend",
     "applicant_relationship_other"
   ],
   "required": true,

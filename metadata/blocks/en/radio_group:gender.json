@@ -1,7 +1,7 @@
 {
   "_blockType": "RadioGroup",
   "_id": "radio_group:gender",
-  "label": "Gender",
+  "label": "Sex",
   "options": [
     "option:female",
     "option:male"

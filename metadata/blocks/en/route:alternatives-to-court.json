@@ -1,0 +1,24 @@
+{
+  "_blockType": "Route",
+  "_id": "route:alternatives-to-court",
+  "_isa": "view:alternative",
+  "body": "As you have no safety concerns you should see if there’s a more suitable way to agree child arrangements than going to court.\r\n\r\nOutcomes for children are usually better if you can reach an agreement another way. For example, mediation can be quicker than court and cheaper than using a lawyer.\r\n\r\n(i) If you can make your arrangements out of court you’ll help families in urgent situations that involve domestic abuse get to court quicker.",
+  "depends": [
+    {
+      "concern_child-abduction": "no",
+      "concern_substance-abuse": "no",
+      "concerns_child-abuse": "no",
+      "concerns_domestic-abuse": "no",
+      "concerns_other": "no"
+    }
+  ],
+  "heading": "Alternative ways to reach an agreement",
+  "steps": [
+    "route:alternative_negotiation-tools",
+    "route:alternative_mediation",
+    "route:alternative_lawyer-negotiation",
+    "route:alternative_collaborative-law"
+  ],
+  "title": "",
+  "url": "/alternatives-to-court"
+}

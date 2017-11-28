@@ -5,8 +5,8 @@
   "blocks": [
     "other-parties-required"
   ],
-  "body": "",
-  "heading": "Others who should be given notice",
+  "body": "Who else should be told?",
+  "heading": "!other-parties-required#label!",
   "title": "",
   "url": "/other-parties/required"
 }

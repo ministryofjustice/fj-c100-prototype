@@ -3,10 +3,10 @@
   "_id": "route:address-confidentiality",
   "_isa": "view:start",
   "blocks": [
-    "to-be-done"
+    "address-confidentiality"
   ],
-  "body": "If you don't want us to share your contact details...\r\n\r\nC8 stuff goes here",
-  "heading": "Keeping your contact details safe",
+  "body": "A copy of your court application will be sent to the other person.\r\n\r\nThe court won’t include the contact details for you and your children if you prefer to keep them private.",
+  "heading": "Keeping your contact details private",
   "title": "",
   "url": "/confidentiality",
   "xlede": "Make an application under section 8 of the Children Act 1989 for a child arrangements, prohibited steps, specific issue order or to vary or discharge or ask permission to make a section 8 order"

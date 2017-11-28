@@ -1,0 +1,10 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "address-confidentiality",
+  "label": "Do you want to keep your contact details private?",
+  "options": [
+    "confidentiality-yes",
+    "confidentiality-no"
+  ],
+  "required": true
+}

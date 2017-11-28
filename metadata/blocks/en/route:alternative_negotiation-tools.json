@@ -8,22 +8,7 @@
     "alternative_negotiation-tools"
   ],
   "body": "If you still communicate with the other person, and there are no concerns about domestic or child abuse, the cheapest and easiest way to make arrangements is to negotiate with each other.\r\n\r\nThere are free tools and services such as [parenting plans]({app:urls:url:splittingup-putkidsfirst}) that can help you reach an agreement.",
-  "depends": [
-    {
-      "concern_child-abduction": "no",
-      "concern_substance-abuse": "no",
-      "concerns_child-abuse": "no",
-      "concerns_domestic-abuse": "no",
-      "concerns_other": "no"
-    }
-  ],
   "heading": "Negotiation tools and services",
-  "steps": [
-    "route:alternative_mediation",
-    "route:alternative_lawyer-negotiation",
-    "route:alternative_collaborative-law",
-    "route:alternative_court"
-  ],
   "title": "",
   "url": "/alternatives/negotiation-tools"
 }

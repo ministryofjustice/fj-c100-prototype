@@ -6,6 +6,5 @@
       "child_dob_unsure": "yes"
     }
   ],
-  "hint": "Enter rough age / year when child was born",
-  "label": "Age of child"
+  "label": "Approximate age or year your child was born\r\n"
 }

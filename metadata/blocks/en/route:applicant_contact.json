@@ -4,6 +4,7 @@
   "_isa": "view:form",
   "blocks": [
     "address-privacy-warning",
+    "address-privacy-warning_no",
     "address_applicant",
     "postcode_applicant",
     "phone-home_applicant",

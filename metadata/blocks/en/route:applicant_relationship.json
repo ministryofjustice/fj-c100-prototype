@@ -1,4 +1,7 @@
 {
+  "Xsteps": [
+    "route:applicant_responsibility"
+  ],
   "_blockType": "Route",
   "_id": "route:applicant_relationship",
   "_isa": "view:form",
@@ -8,9 +11,6 @@
   "body": "",
   "dynamic_multiple": "children",
   "heading": "What is {app:route:_index, select, 1 {your} other {!route_party_full-name!’s}} relationship to !route_child_used-name!?",
-  "steps": [
-    "route:applicant_responsibility"
-  ],
   "title": "",
   "url": "/applicant/relationship-details"
 }
