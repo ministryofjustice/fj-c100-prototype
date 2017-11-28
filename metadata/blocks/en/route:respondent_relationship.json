@@ -1,4 +1,7 @@
 {
+  "Xsteps": [
+    "route:respondent_responsibility"
+  ],
   "_blockType": "Route",
   "_id": "route:respondent_relationship",
   "_isa": "view:form",
@@ -8,12 +11,6 @@
   "body": "",
   "dynamic_multiple": "children",
   "heading": "What is !route_party_full-name!’s relationship to !route_child_used-name!?",
-  "steps": [
-    "route:respondent_responsibility"
-  ],
   "title": "",
-  "url": "/respondent/relationship",
-  "xblocks": [
-    "respondent_relationship"
-  ]
+  "url": "/respondent/relationship"
 }
