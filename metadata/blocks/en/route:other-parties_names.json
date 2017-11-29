@@ -11,6 +11,10 @@
     }
   ],
   "heading": "{other-parties, select, 1{Enter the other party’s name} other{Enter the other parties’ names} undefined{Enter the other party’s name}}",
+  "steps": [
+    "route:other-parties"
+  ],
+  "steps_heading": "About the other {other-parties, select, 1{party} other{parties}}",
   "title": "",
   "url": "/other-parties/names"
 }

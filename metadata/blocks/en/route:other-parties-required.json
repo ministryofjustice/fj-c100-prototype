@@ -6,6 +6,9 @@
     "other-parties-required"
   ],
   "heading": "!other-parties-required#label!",
+  "steps": [
+    "route:other-parties_names"
+  ],
   "title": "",
   "url": "/other-parties/required"
 }

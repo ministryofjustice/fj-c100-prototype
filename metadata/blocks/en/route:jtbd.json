@@ -7,5 +7,9 @@
   ],
   "heading": "!checkbox_group:order_jtbd#label!",
   "lede": "Select all that apply",
+  "steps": [
+    "route:order",
+    "route:jtbd_playback"
+  ],
   "url": "/order-type"
 }

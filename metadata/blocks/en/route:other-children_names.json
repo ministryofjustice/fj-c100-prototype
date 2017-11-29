@@ -10,7 +10,11 @@
       "other-children-required": "yes"
     }
   ],
-  "heading": "Enter names of your other children",
+  "heading": "Enter your other {other-children, select, 1{child’s name} undefined{child’s name} other{children’s names}}",
+  "steps": [
+    "route:other-children"
+  ],
+  "steps_heading": "About your other {other-children, select, 1{child} other{children}}",
   "title": "",
   "url": "/other-children/names"
 }

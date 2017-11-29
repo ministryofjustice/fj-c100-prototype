@@ -7,6 +7,10 @@
   ],
   "body": "Anyone who is making this application is known as the applicant.",
   "heading": "{applicants, select, 1{Enter the applicant’s name} other{Enter the applicants’ names} undefined{Enter the applicant’s name}}",
+  "steps": [
+    "route:applicants"
+  ],
+  "steps_heading": "About the {applicants, select, 1{applicant} other {applicants}}",
   "title": "",
   "url": "/applicants/names"
 }

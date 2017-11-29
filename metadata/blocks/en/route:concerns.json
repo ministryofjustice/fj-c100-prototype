@@ -15,6 +15,7 @@
     "route:concerns_other",
     "route:concerns_further-questions"
   ],
+  "steps_heading": "!route:concerns#heading!",
   "title": "",
   "url": "/concerns"
 }

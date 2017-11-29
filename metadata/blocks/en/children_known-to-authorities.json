@@ -1,7 +1,7 @@
 {
   "_id": "children_known-to-authorities",
   "_isa": "radio_group:yes-no-unsure",
-  "label": "Are any of the children known to the local authority children’s services?",
+  "label": "{children, select, 1{Is {child_used-name_1}} other {Are any of the children}} known to the local authority children’s services?",
   "required": true,
   "subblock": "children_known-to-authorities-details"
 }

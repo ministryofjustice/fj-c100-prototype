@@ -6,6 +6,6 @@
       "children_known-to-authorities": "yes"
     }
   ],
-  "label": "Please state which child and the name of the Local Authority and Social worker (if known)",
+  "label": "State{children, select, 1{} other{ which child and}} the name of the local authority and social worker (if known)",
   "multiline": true
 }

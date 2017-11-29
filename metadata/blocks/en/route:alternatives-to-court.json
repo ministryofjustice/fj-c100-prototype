@@ -19,6 +19,7 @@
     "route:alternative_lawyer-negotiation",
     "route:alternative_collaborative-law"
   ],
+  "steps_heading": "!route:alternatives-to-court#heading!",
   "title": "",
   "url": "/alternatives-to-court"
 }

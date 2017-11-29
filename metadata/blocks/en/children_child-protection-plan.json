@@ -1,6 +1,6 @@
 {
   "_id": "children_child-protection-plan",
   "_isa": "radio_group:yes-no-unsure",
-  "label": "Are any of the children the subject of a child protection plan?",
+  "label": "{children, select, 1{Is {child_used-name_1}} other {Are any of the children}} the subject of a child protection plan?",
   "required": true
 }

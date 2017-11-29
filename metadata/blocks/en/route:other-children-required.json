@@ -7,6 +7,9 @@
   ],
   "body": "",
   "heading": "!other-children-required#label!",
+  "steps": [
+    "route:other-children_names"
+  ],
   "title": "",
   "url": "/other-children/required"
 }

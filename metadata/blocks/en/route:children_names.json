@@ -7,6 +7,11 @@
   ],
   "heading": "Enter the names of your children",
   "lede": "Only include the children you’re making this application for",
+  "steps": [
+    "route:children",
+    "route:children_further-details"
+  ],
+  "steps_heading": "About the {children, select, 1{child} other{children}}",
   "title": "",
   "url": "/children/names"
 }
