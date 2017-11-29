@@ -1,0 +1,10 @@
+{
+  "_blockType": "Text",
+  "_id": "dob-other-estimate",
+  "depends": [
+    {
+      "dob-other_unsure": "yes"
+    }
+  ],
+  "label": "Approximate age or year born"
+}
