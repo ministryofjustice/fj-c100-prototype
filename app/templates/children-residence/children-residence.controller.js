@@ -1,4 +1,4 @@
-const PlaybackController = (req, res) => {
+const ResidenceController = (req, res) => {
   return (routeInstance, methods) => {
     const controller = new Promise(resolve => {
 
@@ -50,7 +50,7 @@ const PlaybackController = (req, res) => {
   }
 }
 
-module.exports = PlaybackController
+module.exports = ResidenceController
 
 //   "controller": "app/templates/message/message",
 
