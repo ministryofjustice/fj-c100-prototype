@@ -5,7 +5,10 @@ const PlaybackController = (req, res) => {
       const autofields = routeInstance.autofields
       const applicants = methods.getValue('applicants', 1)
       const respondents = methods.getValue('respondents', 1)
-      const other_parties = methods.getValue('other-parties', 0)
+      let other_parties = methods.getValue('other-parties', 0)
+      if (methods.getValue('other-parties-required') !== 'yes') {
+        other_parties = 0
+      }
       let options = []
       const getOptions = (type, counter, options) => {
         for (let index = 1; index <= counter; index++) {
