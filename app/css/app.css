@@ -34,7 +34,7 @@ s {
   }
 
   & ol > li {
-    background-position: 0 0.87em;
+    background-position: 0 0.75em;
     background-repeat: no-repeat;
     list-style-type: none;
     margin-left: 0;
