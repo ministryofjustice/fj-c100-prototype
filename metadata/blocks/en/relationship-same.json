@@ -1,0 +1,6 @@
+{
+  "_id": "relationship-same",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Is {app:route:multiple_counter, select, applicants{{app:route:_index, select, 1{your} other{!route_party_full-name!’s}}} other{!route_party_full-name!’s}} relationship to {childrenNames, concat} the same as it is to !route_child_used-name!?",
+  "visuallyhidden": true
+}

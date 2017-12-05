@@ -2,7 +2,7 @@
   "_blockType": "Section",
   "_id": "before-applying",
   "body": "Follow these steps before you continue.\r\n\r\n1. Read the [child arrangements guide]({app:urls:url:cait}) to see if you need to go to court - there may be a more suitable way to reach an agreement.\r\n2. If you do need to go you must attend a Mediation Information and Assessment Meeting (MIAM) or [check if you're exempt]({app:urls:url:miams-exemptions}).\r\n3. Check if you can [get help paying the court fee]({app:urls:url:help-with-fees}).",
-  "heading": "Before you start you application",
+  "heading": "Before you start your application",
   "xblocks": [
     "before-applying-alternatives",
     "before-applying-miam"
