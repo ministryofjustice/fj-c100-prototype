@@ -4,6 +4,9 @@
   "_isa": "view:form",
   "body": "The court needs to know if you have safety concerns about anyone you or your children are in contact with.\r\n\r\nThe following questions will ask whether you or your children have experienced, or are at risk of experiencing, any form of harm. \r\n\r\nFind out about the [signs of child abuse]({app:urls:url:nspcc-child-abuse}) and [domestic abuse]({app:urls:url:refuge-domestic-abuse}).\r\n",
   "continue": "continue",
+  "extraBlocks": [
+    "safety-concerns-reasons"
+  ],
   "heading": "Safety concerns",
   "steps": [
     "route:abduction",

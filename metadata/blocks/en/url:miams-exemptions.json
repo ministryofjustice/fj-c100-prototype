@@ -1,6 +1,6 @@
 {
   "_blockType": "Url",
   "_id": "url:miams-exemptions",
-  "description": "MIAM exemptions (FMC)",
-  "value": "https://www.familymediationcouncil.org.uk/family-mediation/assessment-meeting-miam/miams-exemptions/"
+  "description": "MIAM exemptions (local)",
+  "value": "/miam/exemptions"
 }

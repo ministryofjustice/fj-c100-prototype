@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:court",
+  "_isa": "view:alternative",
+  "blocks": [
+    "pros-cons:court",
+    "call-to-action:court"
+  ],
+  "body": "Before you continue with your court application you should consider the following.\r\n\r\n## Your hearing\r\n\r\nA court will always put your children first. What you want may not be the best thing for your children. You must be prepared to accept the judge’s decision, even if you find it difficult.\r\n\r\nIf you disagree with the decision you will need to apply to court again to have the order varied or discharged. \r\n\r\n## Benefits of resolving issues out of court\r\n\r\nEvidence shows it’s usually better for your children if you can reach an agreement another way.\r\n\r\nBy reaching an agreement out of court you may be able to:\r\n\r\n- save time and money\r\n- reduce conflict with the other person\r\n- make the situation less stressful\r\n- help your children continue family relationships \r\n\r\n(i) If you decide not to go to court you’ll be helping cases involving vulnerable children get to court quicker.\r\n\r\n[Look at alternative options]({app:urls:url:cait})\r\n",
+  "heading": "Going to court",
+  "title": "",
+  "url": "/going-to-court"
+}

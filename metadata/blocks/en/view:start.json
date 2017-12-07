@@ -1,5 +1,5 @@
 {
   "_blockType": "View",
   "_id": "view:start",
-  "template": "form"
+  "_isa": "view:form"
 }

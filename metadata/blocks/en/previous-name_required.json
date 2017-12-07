@@ -6,7 +6,7 @@
       "has_previous-name_required": "yes"
     }
   ],
-  "label": "Enter previous name",
+  "label": "What was {route:_index, select, 1{your} other{their} undefined{your}} previous name?",
   "requiredWhen": [
     {
       "[multiple_route]has_previous-name_required": "yes"

@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam_exemptions_list",
+  "body": "You don’t have to attend a MIAM if any of the following apply:\r\n\r\n- your application is urgent because there’s a risk to your or your children’s safety\r\n- you or the other person has made an allegation of domestic abuse\r\n- you’re already involved with social services due to concerns about your children’s safety or wellbeing\r\n- your situation is about money and you or the other person is bankrupt\r\n- you don’t want the other person to know you’re applying to court, and you have a good reason why they shouldn’t know (for example there’s safety concerns) \r\n- you or the other person is in prison or subject to bail conditions that prevent contact with each other\r\n- you don’t know where the other person is\r\n- you or the other person don’t normally live in either England or Wales\r\n- you live further than 15 miles from a mediator\r\n- you’ve contacted 3 mediators and can’t get an appointment within 15 working days \r\n- you or the other person has a disability and the mediator doesn’t have disabled facilities\r\n- a mediator has stated mediation isn’t suitable or hasn’t worked - for example the other person isn’t willing to attend or you’ve tried - mediation and it’s been unsuccessful\r\n- your application relates to another family issue that a court is dealing with\r\n- you and the other person agree about arrangements and are applying for a consent order\r\n",
+  "heading": "Valid reasons not to attend a MIAM\r\n!abbr:MIAM!",
+  "lede": "",
+  "template": "generic",
+  "title": "",
+  "url": "/miam/exemptions"
+}

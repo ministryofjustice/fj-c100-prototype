@@ -1,6 +1,6 @@
 {
   "_blockType": "View",
   "_id": "view:alternative",
-  "continue": "continue",
-  "template": "form"
+  "_isa": "view:form",
+  "continue": "continue"
 }

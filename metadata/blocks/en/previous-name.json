@@ -6,7 +6,7 @@
       "has_previous-name": "yes"
     }
   ],
-  "label": "Please enter previous name",
+  "label": "What was their previous name?",
   "requiredWhen": [
     {
       "[multiple_route]has_previous-name": "yes"
