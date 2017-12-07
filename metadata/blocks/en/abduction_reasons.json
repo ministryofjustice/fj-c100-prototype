@@ -2,7 +2,7 @@
   "_blockType": "Text",
   "_id": "abduction_reasons",
   "hint": "Give a short description",
-  "label": "Provide details of why you think your children may be abducted",
+  "label": "Why do you think your children may be abducted?",
   "multiline": true,
   "required": true,
   "visuallyhidden": true
