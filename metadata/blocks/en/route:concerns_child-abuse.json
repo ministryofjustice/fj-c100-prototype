@@ -5,7 +5,7 @@
   "blocks": [
     "concerns_child-abuse"
   ],
-  "body": "Child abuse is any action that causes significant harm to a child.\r\n\r\nExamples include: \r\n\r\n- emotional or psychological abuse\r\n- a lack of love, care and attention\r\n- physical abuse\r\n- sexual abuse",
+  "body": "Child abuse is any action that causes significant harm to a child.\r\n\r\nExamples include: \r\n\r\n- emotional or psychological abuse\r\n- physical abuse\r\n- sexual abuse",
   "heading": "! concerns_child-abuse#label!",
   "redirectConditions": {
     "route:concerns_further-questions": [

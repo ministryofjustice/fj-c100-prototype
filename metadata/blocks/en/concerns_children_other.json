@@ -1,6 +1,6 @@
 {
   "_id": "concerns_children_other",
   "_isa": "radio_group:yes-no-required",
-  "label": "Do you have any other concerns about your children’s welfare?",
+  "label": "Do you have any other safety or welfare concerns about your children?",
   "visuallyhidden": true
 }
