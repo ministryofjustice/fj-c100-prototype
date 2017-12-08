@@ -16,7 +16,7 @@ const MIAMCertificationConfirmationController = (req, res) => {
           mediatorName = mediatorAPI.getMediatorName(fmcURN)
           mediatorAddress = mediatorAPI.getMediatorAddresses(fmcURN)[0]
           if (mediatorAddress) {
-            mediatorAddress = mediatorAddress.replace(/\s+(\S{3,4}\s*\S{3,4})$/, ', $1')
+            mediatorAddress = mediatorAddress.replace(/\s+(\S{2,4}\s*\S{3,4})$/, ', $1')
                                              .replace(/,/g, '  \n')
           }
         }
