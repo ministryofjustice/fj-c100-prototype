@@ -11,7 +11,7 @@
     "birthplace"
   ],
   "body": "",
-  "heading": "Provide details for !route_party_full-name!",
+  "heading": "!route_party_full-name!’s details",
   "multiple": true,
   "multiple_max": 5,
   "multiple_min": 1,

@@ -9,6 +9,7 @@
   ],
   "heading": "Safety concerns",
   "steps": [
+    "route:address-confidentiality",
     "route:abduction",
     "route:abduction-passport",
     "route:substance-abuse",

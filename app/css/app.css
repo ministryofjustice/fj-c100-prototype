@@ -54,8 +54,9 @@ s {
   }
 }
 
-#miam-requirement_acknowledgement {
-  padding-top: 6rem;
+#miam-requirement_acknowledgement,
+#court-info_acknowledgement {
+  margin-top: 6rem;
 }
 
 /*

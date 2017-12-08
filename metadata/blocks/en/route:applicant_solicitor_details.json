@@ -20,7 +20,7 @@
       "[route:_prefix]applicant_solicitor": "yes"
     }
   ],
-  "heading": "{app:route:_index, select, 1{Your} other{!route_party_full-name!’s}} solicitor’s details",
+  "heading": "{app:route:_index, select, 1{Your solicitor’s details} other{Details for !route_party_full-name!’s solicitor}}",
   "steps": [
     "route:applicant_solicitor-same"
   ],

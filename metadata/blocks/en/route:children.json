@@ -9,7 +9,7 @@
     "child_dob_unsure",
     "child_gender"
   ],
-  "heading": "Provide details for [{child_used-name_{app:route:_index}}]",
+  "heading": "[{child_used-name_{app:route:_index}}]’s details",
   "multiple": true,
   "multiple_autosuffix": false,
   "multiple_heading": "Provide details for {child_used-name_1}",

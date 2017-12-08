@@ -1,0 +1,6 @@
+{
+  "_blockType": "Checkbox",
+  "_id": "court-info_acknowledgement",
+  "label": " I understand what’s involved if I decide to go to court",
+  "required": true
+}
