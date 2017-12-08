@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_solicitor-same",
+  "_isa": "view:form",
+  "blocks": [
+    "solicitor-same"
+  ],
+  "controller": "app/templates/solicitor-same/solicitor-same.controller",
+  "depends": [
+    {
+      "route:_index": "1",
+      "applicants": ">1"
+    }
+  ],
+  "heading": "!solicitor-same#label!",
+  "title": "",
+  "url": "/applicant/solicitor/same"
+}

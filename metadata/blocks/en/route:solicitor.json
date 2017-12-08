@@ -6,7 +6,15 @@
     "solicitor"
   ],
   "body": "",
+  "depends": [
+    {
+      "flag-solicitor-standalone": true
+    }
+  ],
   "heading": "Solicitor’s details",
+  "steps": [
+    "route:solicitor_details"
+  ],
   "title": "",
   "url": "/solicitor"
 }

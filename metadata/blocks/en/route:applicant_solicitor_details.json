@@ -1,0 +1,29 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_solicitor_details",
+  "_isa": "view:form",
+  "blocks": [
+    "solicitor_name",
+    "solicitor_firm",
+    "solicitor_address",
+    "solicitor_postcode",
+    "solicitor_phone",
+    "solicitor_fax",
+    "solicitor_dx",
+    "solicitor_reference",
+    "solicitor_fee-account",
+    "solicitor_email"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "[route:_prefix]applicant_solicitor": "yes"
+    }
+  ],
+  "heading": "{app:route:_index, select, 1{Your} other{!route_party_full-name!’s}} solicitor’s details",
+  "steps": [
+    "route:applicant_solicitor-same"
+  ],
+  "title": "",
+  "url": "/applicant/solicitor/details"
+}

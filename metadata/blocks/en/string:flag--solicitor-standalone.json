@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "string:flag--solicitor-standalone",
+  "value": "Whether to ask about solicitors at the end of the form or while getting other details of the applicant"
+}

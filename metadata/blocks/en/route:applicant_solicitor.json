@@ -1,0 +1,25 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_solicitor",
+  "_isa": "view:form",
+  "blocks": [
+    "applicant_solicitor"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "!flag-solicitor-standalone": true,
+      "route:_index": "1"
+    },
+    {
+      "!flag-solicitor-standalone": true,
+      "!applicants_1_solicitor-same": "yes"
+    }
+  ],
+  "heading": "!applicant_solicitor#label!",
+  "steps": [
+    "route:applicant_solicitor_details"
+  ],
+  "title": "",
+  "url": "/applicant/solicitor"
+}

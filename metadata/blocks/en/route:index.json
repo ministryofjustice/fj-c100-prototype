@@ -15,9 +15,9 @@
     "route:miam_attended",
     "miam_not-attended",
     "route:concerns",
-    "route:alternatives-to-court",
-    "route:court",
     "route:jtbd",
+    "route:court",
+    "route:alternatives-to-court",
     "route:children_names",
     "route:other-children-required",
     "route:address-confidentiality",
@@ -38,14 +38,11 @@
     "route:participation",
     "route:attending",
     "route:solicitor",
-    "route:solicitor_details",
     "route:help-with-fees",
-    "route:signatory-identity",
     "route:statement-of-truth",
     "route:summary",
     "route:end"
   ],
   "title": "",
-  "url": "/",
-  "xlede": "Make an application under section 8 of the Children Act 1989 for a child arrangements, prohibited steps, specific issue order or to vary or discharge or ask permission to make a section 8 order"
+  "url": "/"
 }

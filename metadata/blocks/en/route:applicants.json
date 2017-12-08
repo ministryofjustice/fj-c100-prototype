@@ -16,7 +16,8 @@
   "multiple_min": 1,
   "steps": [
     "route:applicant_relationship",
-    "route:applicant_contact"
+    "route:applicant_contact",
+    "route:applicant_solicitor"
   ],
   "title": "",
   "url": "/applicant/details"

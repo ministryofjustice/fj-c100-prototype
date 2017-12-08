@@ -2,5 +2,6 @@
   "residence-known": false,
   "applicant-establish": false,
   "children-number": true,
-  "applicant_relationship": false
+  "applicant_relationship": false,
+  "solicitor-standalone": false
 }

@@ -2,12 +2,9 @@ const RelationshipController = (req, res) => {
   return (routeInstance, methods) => {
     const controller = new Promise(resolve => {
 
-      const childrenNames = []
-      const children = methods.getValue('children', 0)
-      for (let index = 1; index < children; index++) {
-        childrenNames.push(methods.getValue(`child_used-name_${index + 1}`))
-      }
-      routeInstance.autofields.childrenNames = childrenNames
+       const childrenNames = methods.getMultipleValues('children', 'child_used-name_')
+       childrenNames.shift()
+       routeInstance.autofields.childrenNames = childrenNames
 
       resolve(routeInstance)
     })
