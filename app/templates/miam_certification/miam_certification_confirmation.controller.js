@@ -10,9 +10,15 @@ const MIAMCertificationConfirmationController = (req, res) => {
         const code = autofields.miam_certification_code
         const fmcURN = (code ? code.substr(0,5) : '').toUpperCase()
         const codeValid = mediatorAPI.getMediator(fmcURN)
-        let mediatorName = 'the mediator'
+        let mediatorName = 'Mediator could not be found'
+        let mediatorAddress = ''
         if (codeValid) {
           mediatorName = mediatorAPI.getMediatorName(fmcURN)
+          mediatorAddress = mediatorAPI.getMediatorAddresses(fmcURN)[0]
+          if (mediatorAddress) {
+            mediatorAddress = mediatorAddress.replace(/\s+(\S{3,4}\s*\S{3,4})$/, ', $1')
+                                             .replace(/,/g, '  \n')
+          }
         }
         const miamDate = DateController.getDisplayValue('miam_certification_date', null, {
           day: autofields['miam_certification_date.day'],
@@ -21,6 +27,7 @@ const MIAMCertificationConfirmationController = (req, res) => {
         })
 
         routeInstance.mediatorName = mediatorName
+        routeInstance.mediatorAddress = mediatorAddress
         routeInstance.miamDate = miamDate
 
       resolve(routeInstance)

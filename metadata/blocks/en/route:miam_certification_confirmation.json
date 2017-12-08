@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:miam_certification_confirmation",
   "_isa": "view:form",
-  "body": "We will contact your mediator {app:route:mediatorName} to confirm that you attended the MIAM on {app:route:miamDate}.",
+  "body": "We will contact the following mediator  to confirm that you attended a MIAM on {app:route:miamDate}.\r\n\r\n{app:route:mediatorName}  \r\n{app:route:mediatorAddress}\r\n\r\n(!) You could be fined or imprisoned for contempt of court if you deliberately submit false information about attending a MIAM.\r\n\r\n!abbr:MIAM!",
   "continue": "continue",
   "controller": "app/templates/miam_certification/miam_certification_confirmation.controller",
   "depends": [

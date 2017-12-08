@@ -5,7 +5,7 @@
   "blocks": [
     "miam_certification_date"
   ],
-  "body": "",
+  "body": "You can find the date at the bottom of the form your mediator signed.",
   "controller": "app/templates/miam_certification/miam_date.controller",
   "depends": [
     {
