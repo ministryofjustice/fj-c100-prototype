@@ -16,9 +16,6 @@ const PlaybackController = (req, res) => {
         }
       })
 
-      // const jtbds = Object.keys(autofields).filter(key => key.startsWith('order-jtbd') && autofields[key])
-      // routeInstance.autofields.jtbdCount = jtbds.length
-
       // routeInstance.blocks = []
       routeInstance.playbackValues = optionsBundle
 

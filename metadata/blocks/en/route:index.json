@@ -32,7 +32,7 @@
     "route:without-notice",
     "route:court-proceedings",
     "route:application-details",
-    "route:international",
+    "route:international_resident",
     "route:participation",
     "route:attending",
     "route:solicitor",

@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:international_request",
+  "_isa": "view:form",
+  "blocks": [
+    "international_request"
+  ],
+  "body": "",
+  "heading": "!international_request#label!",
+  "title": "",
+  "url": "/international/request"
+}

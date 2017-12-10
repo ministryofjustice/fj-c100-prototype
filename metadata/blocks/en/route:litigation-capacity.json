@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:litigation-capacity",
+  "_isa": "view:form",
+  "blocks": [
+    "litigation-capacity"
+  ],
+  "body": "",
+  "heading": "!litigation-capacity#label!",
+  "title": "",
+  "url": "/litigation-capacity"
+}

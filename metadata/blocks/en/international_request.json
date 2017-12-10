@@ -2,5 +2,6 @@
   "_id": "international_request",
   "_isa": "radio_group:yes-no-required",
   "label": "Has a request been made or should a request be made to a Central Authority or other competent authority in a foreign state or a consular authority in England and Wales?",
-  "subblock": "international_request_details"
+  "subblock": "international_request_details",
+  "visuallyhidden": true
 }

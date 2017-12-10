@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:international_jurisdiction",
+  "_isa": "view:form",
+  "blocks": [
+    "international_jurisdiction"
+  ],
+  "body": "",
+  "heading": "!international_jurisdiction#label!",
+  "title": "",
+  "url": "/international/jurisdiction"
+}
