@@ -3,7 +3,7 @@
   "_id": "route:court-proceedings",
   "_isa": "view:form",
   "blocks": [
-    "court-proceedings_child-group",
+    "proceedings-children",
     "court-name",
     "case-number",
     "proceedings-date",
@@ -20,6 +20,7 @@
     "case_child-arrangements-order"
   ],
   "body": "",
+  "controller": "app/templates/court-proceedings/court-proceedings.controller",
   "depends": [
     {
       "additional-info_previous-proceedings": "yes"

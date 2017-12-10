@@ -1,0 +1,6 @@
+{
+  "_id": "previous-proceedings",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Have any of the children in this application been involved in another family court case?",
+  "visuallyhidden": true
+}
