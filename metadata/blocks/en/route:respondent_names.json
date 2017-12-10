@@ -8,7 +8,8 @@
   "body": "The other person who will receive this application is known as the respondent.",
   "heading": "{respondents, select, 1{Enter the respondent’s name} other{Enter the respondents’ names} undefined{Enter the respondent’s name}}",
   "steps": [
-    "route:respondents"
+    "route:respondents",
+    "route:respondent_no-address"
   ],
   "steps_heading": "About the {respondents, select, 1{respondent} other{respondents}}",
   "title": "",

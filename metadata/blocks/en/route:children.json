@@ -16,6 +16,9 @@
   "multiple_max": 10,
   "multiple_min": 1,
   "multiple_start": "route:children_number",
+  "steps": [
+    "route:children-order"
+  ],
   "title": "",
   "url": "/children/details"
 }

@@ -3,9 +3,9 @@
   "_id": "collection:child-arrangements-order",
   "_isa": "collection:playback-base",
   "items": [
-    "order_child-home",
-    "order_child-times",
-    "order_child-contact"
+    "order-jtbd_child-home",
+    "order-jtbd_child-times",
+    "order-jtbd_child-contact"
   ],
   "title": "Child Arrangements Order"
 }

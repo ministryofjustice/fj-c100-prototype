@@ -8,11 +8,11 @@
   ],
   "label": "What is the issue you’d like the court to resolve?",
   "options": [
-    "order_specific-issue_school",
-    "order_specific-issue_religion",
-    "order_specific-issue_name",
-    "order_specific-issue_medical",
-    "order_specific-issue_abroad"
+    "order-jtbd_specific-issue_school",
+    "order-jtbd_specific-issue_religion",
+    "order-jtbd_specific-issue_name",
+    "order-jtbd_specific-issue_medical",
+    "order-jtbd_specific-issue_abroad"
   ],
   "requiredWhen": [
     {

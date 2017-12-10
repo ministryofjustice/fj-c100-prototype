@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
-  "_id": "order_specific-issue_medical",
+  "_id": "order-jtbd_specific-issue_medical",
   "label": "Medical treatment",
   "value": "yes"
 }

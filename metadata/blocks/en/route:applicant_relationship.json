@@ -1,4 +1,8 @@
 {
+  "Xsteps": [
+    "route:applicant_responsibility",
+    "route:applicant_relationship-same"
+  ],
   "_blockType": "Route",
   "_id": "route:applicant_relationship",
   "_isa": "view:relationship",
@@ -11,7 +15,6 @@
     }
   ],
   "steps": [
-    "route:applicant_responsibility",
     "route:applicant_relationship-same"
   ],
   "url": "/applicant/relationship-details"
