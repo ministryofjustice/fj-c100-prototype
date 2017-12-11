@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:special-assistance",
+  "_isa": "view:form",
+  "blocks": [
+    "attending_assistance",
+    "attending_special-arrangements"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "litigation-capacity": "yes"
+    }
+  ],
+  "heading": "Attending the court",
+  "title": "",
+  "url": "/special-assistance"
+}

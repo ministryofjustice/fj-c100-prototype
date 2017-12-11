@@ -1,6 +1,6 @@
 {
   "_id": "other-parties-required",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are there any other people who should be given notice of the hearing?",
+  "label": "Is there anyone else who should know about your application?",
   "visuallyhidden": true
 }

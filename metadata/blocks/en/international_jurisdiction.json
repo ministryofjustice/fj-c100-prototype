@@ -1,8 +1,8 @@
 {
   "_id": "international_jurisdiction",
   "_isa": "radio_group:yes-no-required",
+  "hint": "For example under Brussels 2 revised",
   "label": "Do you have any reason to believe that there may be an issue as to jurisdiction in this case?",
   "subblock": "international_jurisdiction_details",
-  "sublabel": "For example under Brussels 2 revised",
   "visuallyhidden": true
 }

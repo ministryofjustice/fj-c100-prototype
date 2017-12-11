@@ -26,7 +26,7 @@
       "additional-info_previous-proceedings": "yes"
     }
   ],
-  "heading": "Court case {app:route:_index}",
+  "heading": "Details of court case",
   "multiple": true,
   "multiple_add": "Add another court case",
   "multiple_delete": "Delete court case",

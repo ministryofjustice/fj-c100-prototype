@@ -1,6 +1,6 @@
 {
   "_id": "applicant_solicitor",
   "_isa": "radio_group:yes-no-required",
-  "label": "{app:route:_index, select, 1{Do you} other{Does !route_party_full-name!}} have a solicitor acting for {app:route:_index, select, 1{you} other{them}}?",
+  "label": "Is a solicitor acting for {app:route:_index, select, 1{you} other{!route_party_full-name!}}?",
   "visuallyhidden": true
 }

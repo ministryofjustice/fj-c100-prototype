@@ -1,0 +1,19 @@
+{
+  "_blockType": "Route",
+  "_id": "route:without-notice-details",
+  "_isa": "view:form",
+  "blocks": [
+    "without-notice_reasons",
+    "without-notice_notice-impossible",
+    "without-notice_notice-will-frustrate"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "without-notice": "yes"
+    }
+  ],
+  "heading": "Details of without notice hearing",
+  "title": "",
+  "url": "/without-notice/details"
+}

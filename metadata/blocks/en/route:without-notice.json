@@ -3,17 +3,13 @@
   "_id": "route:without-notice",
   "_isa": "view:form",
   "blocks": [
-    "without-notice_reasons",
-    "without-notice_notice-impossible",
-    "without-notice_notice-will-frustrate"
+    "without-notice"
   ],
   "body": "",
-  "depends": [
-    {
-      "hearing-type": "without-notice-hearing"
-    }
+  "heading": "!without-notice#label!",
+  "steps": [
+    "route:without-notice-details"
   ],
-  "heading": "Without notice hearing",
   "title": "",
   "url": "/without-notice"
 }

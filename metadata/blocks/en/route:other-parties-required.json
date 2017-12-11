@@ -5,6 +5,7 @@
   "blocks": [
     "other-parties-required"
   ],
+  "body": "For example, you should tell anyone else with parental responsibility.",
   "heading": "!other-parties-required#label!",
   "steps": [
     "route:other-parties_names"

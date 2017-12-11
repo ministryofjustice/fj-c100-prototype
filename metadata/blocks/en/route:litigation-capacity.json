@@ -8,7 +8,8 @@
   "body": "",
   "heading": "!litigation-capacity#label!",
   "steps": [
-    "route:participation"
+    "route:participation",
+    "route:special-assistance"
   ],
   "title": "",
   "url": "/litigation-capacity"

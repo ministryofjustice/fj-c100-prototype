@@ -29,6 +29,7 @@ const ResidenceController = (req, res) => {
       options = getOptions('applicants', applicants, options)
       options = getOptions('respondents', respondents, options)
       options = getOptions('other-parties', other_parties, options)
+      options.push('option:other')
       routeInstance.residenceOptions = options
       routeInstance.residenceName = 'child-residence'
 
