@@ -34,6 +34,7 @@
     "route:application-details",
     "route:international_resident",
     "route:participation",
+    "route:language",
     "route:attending",
     "route:solicitor",
     "route:help-with-fees",

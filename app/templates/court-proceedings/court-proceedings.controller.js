@@ -21,6 +21,12 @@ const ProceedingsController = (req, res) => {
           }
         })
         proceedingsOptions = [].concat(childrenOptions, otherChildrenOptions)
+        // routeInstance.blocks.push({
+        //   _id: 'kazaam',
+        //   _blockType: 'Section',
+        //   heading: 'Oh My Word',
+        //   content: 'Tish-alish'
+        // }, 'proceedings-children')
         routeInstance.proceedingsOptions = proceedingsOptions
         routeInstance.proceedingsName = 'proceedings-children-options'
       }
