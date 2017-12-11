@@ -3,12 +3,12 @@
   "_id": "route:language",
   "_isa": "view:form",
   "blocks": [
-    "language"
+    "language-requirements"
   ],
-  "body": "",
-  "heading": "!language#label!",
+  "heading": "!language-requirements#label!",
   "steps": [
-    "route:language-welsh"
+    "route:language-welsh",
+    "route:language-other"
   ],
   "title": "",
   "url": "/language"

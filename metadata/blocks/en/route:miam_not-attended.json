@@ -1,12 +1,12 @@
 {
   "_blockType": "Route",
-  "_id": "miam_not-attended",
+  "_id": "route:miam_not-attended",
   "_isa": "view:form",
   "body": "[Check if you have a valid reason]({app:urls:url:miams-exemptions}) before you continue with your application.",
   "continue": "confirm-continue",
   "depends": [
     {
-      "miam_attended": "no"
+      "! miam_certification": "yes"
     }
   ],
   "heading": "You haven’t attended a MIAM",

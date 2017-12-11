@@ -1,0 +1,6 @@
+{
+  "_id": "special-assistance",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Does anyone in this application need help attending court?",
+  "visuallyhidden": true
+}

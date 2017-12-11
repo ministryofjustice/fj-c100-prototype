@@ -5,11 +5,10 @@
   "blocks": [
     "litigation-capacity"
   ],
-  "body": "",
+  "body": "For example:\r\n\r\n- if someone has learning difficulties",
   "heading": "!litigation-capacity#label!",
   "steps": [
-    "route:participation",
-    "route:special-assistance"
+    "route:participation"
   ],
   "title": "",
   "url": "/litigation-capacity"

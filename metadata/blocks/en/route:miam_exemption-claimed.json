@@ -1,4 +1,9 @@
 {
+  "Xdepends": [
+    {
+      "miam_attended": "no"
+    }
+  ],
   "_blockType": "Route",
   "_id": "route:miam_exemption-claimed",
   "_isa": "view:form",
@@ -8,7 +13,7 @@
   "body": "",
   "depends": [
     {
-      "miam_attended": "no"
+      "!miam_certification": "yes"
     }
   ],
   "heading": "!miam_exemption-claimed#label!",

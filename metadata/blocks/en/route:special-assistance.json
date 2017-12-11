@@ -3,16 +3,13 @@
   "_id": "route:special-assistance",
   "_isa": "view:form",
   "blocks": [
-    "attending_assistance",
-    "attending_special-arrangements"
+    "special-assistance"
   ],
   "body": "",
-  "depends": [
-    {
-      "litigation-capacity": "yes"
-    }
+  "heading": "!special-assistance#label!",
+  "steps": [
+    "route:special-assistance-details"
   ],
-  "heading": "Attending the court",
   "title": "",
   "url": "/special-assistance"
 }

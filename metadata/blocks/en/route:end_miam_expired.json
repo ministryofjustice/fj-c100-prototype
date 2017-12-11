@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_expired",
-  "body": "! route:end_miam_not-completed#body!\r\n",
+  "body": "! route:end_miam_not-completed#body!\r\n\r\n!include:miam-continue#value!",
   "heading": "Your MIAM is out of date\r\n!abbr:MIAM!",
   "template": "generic",
   "title": "",

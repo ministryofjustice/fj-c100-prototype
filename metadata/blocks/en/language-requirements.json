@@ -1,0 +1,10 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "language-requirements",
+  "label": "Does anyone in this application require any language help?",
+  "options": [
+    "language-welsh",
+    "language-other"
+  ],
+  "visuallyhidden": true
+}

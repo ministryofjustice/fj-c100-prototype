@@ -3,17 +3,14 @@
   "_id": "route:language-welsh",
   "_isa": "view:form",
   "blocks": [
-    "language-welsh"
+    "attending_welsh-required-group"
   ],
   "depends": [
     {
-      "language": "yes"
+      "language-welsh": "yes"
     }
   ],
-  "heading": "!attending_welsh-required#label!",
-  "steps": [
-    "route:language-welsh-details"
-  ],
+  "heading": "Who needs helps with Welsh",
   "title": "",
   "url": "/language/welsh"
 }

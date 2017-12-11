@@ -1,6 +1,6 @@
 {
   "_id": "language",
   "_isa": "radio_group:yes-no-required",
-  "label": "Does anyone involved require any language help?",
+  "label": "Does anyone in the application have any language requirements?",
   "visuallyhidden": true
 }

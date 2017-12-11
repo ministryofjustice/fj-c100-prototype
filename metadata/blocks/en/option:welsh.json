@@ -1,6 +1,6 @@
 {
   "_blockType": "Option",
-  "_id": "language-welsh",
+  "_id": "option:welsh",
   "label": "Welsh",
-  "value": "yes"
+  "value": "welsh"
 }

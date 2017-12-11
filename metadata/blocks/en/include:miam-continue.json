@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "include:miam-continue",
+  "value": "Alternatively, if you think you might have a valid reason not to attend a MIAM, you can [continue with your application]({app:urls:route:miam_not-attended}).\r\n\r\n!abbr:MIAM!"
+}

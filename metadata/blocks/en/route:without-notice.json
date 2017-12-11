@@ -5,7 +5,7 @@
   "blocks": [
     "without-notice"
   ],
-  "body": "",
+  "body": "Is any reason the respondent should not be informed about the hearing before it takes place?",
   "heading": "!without-notice#label!",
   "steps": [
     "route:without-notice-details"
