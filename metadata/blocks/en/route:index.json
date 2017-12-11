@@ -33,7 +33,7 @@
     "route:court-proceedings",
     "route:application-details",
     "route:international_resident",
-    "route:participation",
+    "route:litigation-capacity",
     "route:language",
     "route:attending",
     "route:solicitor",

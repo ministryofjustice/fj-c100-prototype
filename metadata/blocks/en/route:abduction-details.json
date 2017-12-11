@@ -5,7 +5,7 @@
   "blocks": [
     "abduction_reasons"
   ],
-  "body": "",
+  "body": "Briefly explain your concerns, including:\r\n\r\n- who might take them\r\n- where they might be taken",
   "depends": [
     {
       "concern_child-abduction": "yes"

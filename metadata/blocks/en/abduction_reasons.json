@@ -1,7 +1,6 @@
 {
   "_blockType": "Text",
   "_id": "abduction_reasons",
-  "hint": "Give a short description",
   "label": "Why do you think your children may be abducted?",
   "multiline": true,
   "required": true,

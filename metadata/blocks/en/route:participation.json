@@ -10,7 +10,7 @@
   "body": "",
   "depends": [
     {
-      "additional-info_litigation-capacity": "yes"
+      "litigation-capacity": "yes"
     }
   ],
   "heading": "Factors affecting ability to participate in proceedings",

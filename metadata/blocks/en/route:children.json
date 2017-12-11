@@ -4,7 +4,6 @@
   "_id": "route:children",
   "_isa": "view:form",
   "blocks": [
-    "child_name",
     "child_dob",
     "child_dob_unsure",
     "child_gender"

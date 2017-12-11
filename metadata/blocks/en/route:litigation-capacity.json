@@ -7,6 +7,9 @@
   ],
   "body": "",
   "heading": "!litigation-capacity#label!",
+  "steps": [
+    "route:participation"
+  ],
   "title": "",
   "url": "/litigation-capacity"
 }
