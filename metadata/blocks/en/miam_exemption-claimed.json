@@ -1,6 +1,6 @@
 {
   "_id": "miam_exemption-claimed",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are you exempt from attending a MIAM?\r\n!abbr:MIAM!",
-  "visuallyhidden": true
+  "hint": "If you claim an exemption you’ll be asked to provide additional information and evidence",
+  "label": "Do you want to claim an exemption from attending a MIAM?\r\n!abbr:MIAM!"
 }
