@@ -5,7 +5,7 @@
   "blocks": [
     "applicants"
   ],
-  "body": "Anyone who is making this application is known as the applicant.",
+  "body": "You and anyone else making this application are known as the applicant.",
   "heading": "{applicants, select, 1{Enter the applicant’s name} other{Enter the applicants’ names} undefined{Enter the applicant’s name}}",
   "steps": [
     "route:applicants"
