@@ -4884,9 +4884,9 @@ performance-now@^0.2.0:
     the-a11y-machine "^0.9.3"
     webdriverio "^4.8.0"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#get-multiple-values":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#dynamic-checked":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#554ffb3f149870f83861db7143036d35e22cae79"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#429b363b84377f5e6074e748b0da3fbdfd1e75fe"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"

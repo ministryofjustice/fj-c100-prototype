@@ -3,7 +3,8 @@
   "_id": "route:children-residence",
   "_isa": "view:form",
   "blocks": [
-    "children-residence"
+    "children-residence",
+    "child-residence"
   ],
   "controller": "app/templates/children-residence/children-residence.controller",
   "dynamic_multiple": "children",

@@ -3,6 +3,9 @@
   "_id": "child-residence",
   "hint": "Select all that apply",
   "label": "Who does !route_child_used-name! live with?",
+  "options": [
+    "residence-other"
+  ],
   "or": true,
   "visuallyhidden": true
 }

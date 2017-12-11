@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "residence-other",
+  "label": "Other",
+  "subblock": "residence-other-details",
+  "value": "yes"
+}
