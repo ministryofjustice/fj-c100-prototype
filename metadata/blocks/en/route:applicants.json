@@ -10,7 +10,7 @@
     "birthplace_required"
   ],
   "body": "",
-  "heading": "{app:route:_index, select, 1 {Your} other {!route_party_full-name!’s}} details",
+  "heading": "{app:route:_index, select, 1 {Your} other {!route_party_full-name!’s}} details{app:route:_index, select, 1 { - !route_party_full-name!} other {}}",
   "multiple": true,
   "multiple_max": 5,
   "multiple_min": 1,
