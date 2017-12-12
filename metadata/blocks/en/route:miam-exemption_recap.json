@@ -18,7 +18,6 @@
     "route:miam-exemption_previous-attendance",
     "route:miam-exemption_other"
   ],
-  "steps_heading": "MIAM exemptions\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/recap"
 }

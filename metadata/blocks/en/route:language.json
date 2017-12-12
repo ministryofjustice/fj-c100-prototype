@@ -6,10 +6,15 @@
     "language-requirements"
   ],
   "heading": "!language-requirements#label!",
+  "section_heading": "Attending court",
   "steps": [
     "route:language-welsh",
-    "route:language-other"
+    "route:language-other",
+    "route:litigation-capacity",
+    "route:special-assistance",
+    "route:special-arrangements"
   ],
+  "steps_heading": "!route:language#section_heading!",
   "title": "",
   "url": "/language"
 }

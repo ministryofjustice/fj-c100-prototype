@@ -6,7 +6,7 @@
       "residence-other": "yes"
     }
   ],
-  "label": "Enter name of other party",
+  "label": "Enter full name",
   "requiredWhen": [
     {
       "residence-other": "yes"

@@ -7,6 +7,10 @@
   ],
   "body": "For example an emergency protection order or supervision order. Include any ongoing cases.",
   "heading": "!additional-info_previous-proceedings#label!",
+  "steps": [
+    "route:court-proceedings"
+  ],
+  "steps_heading": "Previous proceedings",
   "title": "",
   "url": "/previous-proceedings"
 }
