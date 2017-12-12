@@ -1,7 +1,8 @@
 {
   "_blockType": "Text",
   "_id": "without-notice_reasons",
-  "label": "Set out the reasons for the application to be considered without notice. (This information is a requirement, a without notice hearing will not be directed without reason)",
+  "hint": "A court will only accept an order without notice if you give a full account of the evidence",
+  "label": "Give as much information as you can",
   "multiline": true,
   "required": true
 }

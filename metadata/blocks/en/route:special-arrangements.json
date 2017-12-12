@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:special-arrangements",
+  "_isa": "view:form",
+  "blocks": [
+    "special-arrangements"
+  ],
+  "body": "For example you need a separate waiting room to the other person due to safety concerns.",
+  "heading": "!special-arrangements#label!",
+  "title": "",
+  "url": "/specific-arrangements"
+}

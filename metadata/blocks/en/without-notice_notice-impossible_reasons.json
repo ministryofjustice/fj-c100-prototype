@@ -6,7 +6,7 @@
       "without-notice_notice-impossible": "yes"
     }
   ],
-  "label": "Please set out reasons",
+  "label": "Provide details",
   "multiline": true,
   "requiredWhen": [
     {

@@ -1,0 +1,7 @@
+{
+  "_id": "special-arrangements",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Do you or your children need specific arrangements when you attend court?",
+  "subblock": "special-arrangements_details",
+  "visuallyhidden": true
+}

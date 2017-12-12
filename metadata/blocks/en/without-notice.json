@@ -1,6 +1,6 @@
 {
   "_id": "without-notice",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are you asking for a hearing without notice?",
+  "label": "Are you asking for a without notice hearing?",
   "visuallyhidden": true
 }

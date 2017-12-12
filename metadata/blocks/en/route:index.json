@@ -33,6 +33,7 @@
     "route:language",
     "route:litigation-capacity",
     "route:special-assistance",
+    "route:special-arrangements",
     "route:help-with-fees",
     "route:statement-of-truth",
     "route:summary",

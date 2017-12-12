@@ -1,6 +1,7 @@
 {
   "_id": "special-assistance",
   "_isa": "radio_group:yes-no-required",
-  "label": "Does anyone in this application need help attending court?",
+  "label": "Does anyone in this application need assistance or special facilities when attending court?",
+  "subblock": "special-assistance_details",
   "visuallyhidden": true
 }

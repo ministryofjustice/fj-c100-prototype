@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "special-assistance_details",
+  "depends": [
+    {
+      "special-assistance": "yes"
+    }
+  ],
+  "label": "Provide details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "special-assistance": "yes"
+    }
+  ]
+}

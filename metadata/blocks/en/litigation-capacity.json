@@ -1,6 +1,6 @@
 {
   "_id": "litigation-capacity",
   "_isa": "radio_group:yes-no-required",
-  "label": "Does anyone in this application need help understanding the process?",
+  "label": "Does anyone in this application have a condition that may affect their understanding of the court process?",
   "visuallyhidden": true
 }

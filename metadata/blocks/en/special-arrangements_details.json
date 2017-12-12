@@ -1,0 +1,16 @@
+{
+  "_blockType": "Text",
+  "_id": "special-arrangements_details",
+  "depends": [
+    {
+      "special-arrangements": "yes"
+    }
+  ],
+  "label": "Provide details",
+  "multiline": true,
+  "requiredWhen": [
+    {
+      "special-arrangements": "yes"
+    }
+  ]
+}

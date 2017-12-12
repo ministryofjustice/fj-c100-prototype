@@ -5,11 +5,8 @@
   "blocks": [
     "special-assistance"
   ],
-  "body": "",
+  "body": "For example you need a hearing loop or your documents in braille",
   "heading": "!special-assistance#label!",
-  "steps": [
-    "route:special-assistance-details"
-  ],
   "title": "",
   "url": "/special-assistance"
 }
