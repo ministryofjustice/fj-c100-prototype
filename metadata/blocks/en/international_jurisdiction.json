@@ -1,8 +1,8 @@
 {
+  "Xhint": "For example under Brussels 2 revised",
   "_id": "international_jurisdiction",
   "_isa": "radio_group:yes-no-required",
-  "hint": "For example under Brussels 2 revised",
-  "label": "Do you have any reason to believe that there may be an issue as to jurisdiction in this case?",
+  "label": "Do you think the other person may have grounds to apply for a similar order in another country?",
   "subblock": "international_jurisdiction_details",
   "visuallyhidden": true
 }

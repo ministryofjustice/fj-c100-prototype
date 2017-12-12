@@ -5,7 +5,7 @@
   "blocks": [
     "application-details"
   ],
-  "body": "Provide details of:\r\n\r\n- any previous agreements (formal or informal) or parenting plans, and how they have broken down\r\n-  your reasons for bringing this application to the court\r\n- what you want the court to do\r\n- reasons given by the respondent(s) for their actions in relation to this application\r\n\r\n**Do not give a full statement, please provide a summary of any relevant reasons.**\r\n\r\nYou may be asked to provide a full statement later.",
+  "body": "You should include details of any of the following (if they apply):\r\n\r\n- your reasons for bringing this application to court\r\n- any previous parenting plans or agreements (formal or informal), and why they broke down\r\n\r\nYou don’t have to give a full statement although you may be asked to provide one later.",
   "heading": "!application-details#label!",
   "title": "",
   "url": "/application/details"

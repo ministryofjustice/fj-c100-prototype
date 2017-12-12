@@ -1,6 +1,6 @@
 {
   "_id": "relationship-same",
   "_isa": "radio_group:yes-no-required",
-  "label": "{app:route:multiple_counter, select, applicants{{app:route:_index, select, 1{Are you} other{Is !route_party_full-name!}}} other{Is !route_party_full-name!}} related to {childrenNames, concat} in the same way?",
+  "label": "{app:route:multiple_counter, select, applicants{{app:route:_index, select, 1{Are you} other{Is !route_party_full-name!}}} other{Is !route_party_full-name!}} also the [{{app:route:_prefix}child_relationship}] of {childrenNames, concat}?",
   "visuallyhidden": true
 }

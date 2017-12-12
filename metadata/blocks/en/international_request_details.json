@@ -6,7 +6,7 @@
       "international_request": "yes"
     }
   ],
-  "label": "Please give details",
+  "label": "Provide details",
   "multiline": true,
   "requiredWhen": [
     {

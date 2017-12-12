@@ -1,7 +1,7 @@
 {
   "_id": "international_resident",
   "_isa": "radio_group:yes-no-required",
-  "label": "Do you have any reason to believe that any child, parent or potentially significant adult in the child’s life may be habitually resident in another state?",
+  "label": "Does anyone significant to the children live in another country?",
   "subblock": "international_resident_reasons",
   "visuallyhidden": true
 }
