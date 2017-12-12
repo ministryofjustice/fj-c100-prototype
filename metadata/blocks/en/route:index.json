@@ -34,6 +34,7 @@
     "route:litigation-capacity",
     "route:special-assistance",
     "route:special-arrangements",
+    "route:test-end",
     "route:help-with-fees",
     "route:statement-of-truth",
     "route:summary",
