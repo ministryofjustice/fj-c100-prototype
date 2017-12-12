@@ -6,16 +6,15 @@
   "_blockType": "Route",
   "_id": "route:applicant_relationship",
   "_isa": "view:relationship",
+  "controller": "app/templates/applicant-relationship/applicant-relationship.controller",
   "depends": [
     {
+      "applicants_[route._index]_relationship-same": "yes",
       "route:dynamicIndex": "1"
     },
     {
-      "!applicants_[route:_index]_applicant_relationship_1_relationship-same": "yes"
+      "!applicants_[route._index]_relationship-same": "yes"
     }
-  ],
-  "steps": [
-    "route:applicant_relationship-same"
   ],
   "url": "/applicant/relationship-details"
 }

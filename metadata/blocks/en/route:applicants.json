@@ -15,6 +15,7 @@
   "multiple_max": 5,
   "multiple_min": 1,
   "steps": [
+    "route:applicant_relationship-same",
     "route:applicant_relationship",
     "route:applicant_contact",
     "route:applicant_solicitor"
