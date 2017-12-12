@@ -2,7 +2,7 @@
   "_blockType": "RadioGroup",
   "_id": "child_relationship",
   "inline": false,
-  "label": "How  {app:route:multiple_counter, select, applicants{{app:route:_index, select, 1{are you} other{is !route_party_full-name!}}} other{is !route_party_full-name!}} related to {childrenNames, select, undefined{!route_child_used-name!} other{{childrenNames, concat}}}?",
+  "label": "How {app:route:multiple_counter, select, applicants{{app:route:_index, select, 1{are you} other{is !route_party_full-name!}}} other{is !route_party_full-name!}} related to !route_child_used-name!?",
   "options": [
     "option:mother",
     "option:father",

@@ -3,7 +3,7 @@ const RelationshipController = (req, res) => {
     const controller = new Promise(resolve => {
 
       const childrenNames = methods.getMultipleValues('children', 'child_used-name_')
-      // childrenNames.shift()
+      childrenNames.shift()
       routeInstance.autofields.childrenNames = childrenNames
 
       resolve(routeInstance)
