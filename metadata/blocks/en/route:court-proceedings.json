@@ -29,8 +29,10 @@
   "heading": "Details of court case",
   "multiple": true,
   "multiple_add": "Add another court case",
+  "multiple_add_auto": true,
   "multiple_delete": "Delete court case",
-  "multiple_max": 2,
+  "multiple_delete_auto": true,
+  "multiple_max": 3,
   "multiple_min": 1,
   "title": "",
   "url": "/court-proceedings"
