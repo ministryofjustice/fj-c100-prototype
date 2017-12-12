@@ -6,7 +6,7 @@
   "continue": "confirm-continue",
   "depends": [
     {
-      "! miam_certification": "yes"
+      "miam_attended": "no"
     }
   ],
   "heading": "You haven’t attended a MIAM",
