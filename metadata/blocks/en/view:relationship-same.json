@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "view:relationship-same",
+  "_isa": "view:form",
+  "blocks": [
+    "relationship-same"
+  ],
+  "controller": "app/templates/relationship-same/relationship-same.controller",
+  "depends": [
+    {
+      "route:dynamicIndex": "1",
+      "children": ">1"
+    }
+  ],
+  "heading": "!relationship-same#label!",
+  "title": ""
+}

@@ -1,0 +1,6 @@
+{
+  "_blockType": "Route",
+  "_id": "route:respondent_relationship-same",
+  "_isa": "view:relationship-same",
+  "url": "/respondent/relationship/same"
+}

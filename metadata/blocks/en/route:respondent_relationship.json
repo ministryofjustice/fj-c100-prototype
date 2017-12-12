@@ -5,5 +5,16 @@
   "_blockType": "Route",
   "_id": "route:respondent_relationship",
   "_isa": "view:relationship",
+  "depends": [
+    {
+      "route:dynamicIndex": "1"
+    },
+    {
+      "!respondents_[route:_index]_respondent_relationship_1_relationship-same": "yes"
+    }
+  ],
+  "steps": [
+    "route:respondent_relationship-same"
+  ],
   "url": "/respondent/relationship"
 }

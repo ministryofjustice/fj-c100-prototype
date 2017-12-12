@@ -5,5 +5,16 @@
   "_blockType": "Route",
   "_id": "route:other-parties_relationship",
   "_isa": "view:relationship",
+  "depends": [
+    {
+      "route:dynamicIndex": "1"
+    },
+    {
+      "!other-parties_[route:_index]_other-parties_relationship_1_relationship-same": "yes"
+    }
+  ],
+  "steps": [
+    "route:other-parties_relationship-same"
+  ],
   "url": "/other-parties/relationship"
 }
