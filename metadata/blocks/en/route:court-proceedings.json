@@ -8,16 +8,7 @@
     "case-number",
     "proceedings-date",
     "cafcass-officer",
-    "proceedings_type",
-    "case_emergency-protection-order",
-    "case_supervision-order",
-    "case_care-order",
-    "case_child-abduction",
-    "case_fla-1996-pt4",
-    "case_contact-residence-separation",
-    "case_contact-residence-adoption",
-    "case_child-maintenance",
-    "case_child-arrangements-order"
+    "previous-orders"
   ],
   "body": "",
   "controller": "app/templates/court-proceedings/court-proceedings.controller",
