@@ -28,6 +28,8 @@ s {
   margin-bottom: 0;
 }
 
+[data-block-name="route:end_miam_expired"],
+[data-block-name="route:end_miam_not-completed"],
 #before-applying {
   & ol {
     padding-left: 0;

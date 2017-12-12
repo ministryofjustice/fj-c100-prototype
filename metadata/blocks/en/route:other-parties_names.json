@@ -5,6 +5,7 @@
   "blocks": [
     "other-parties"
   ],
+  "body": "(i) The {other-parties, select, 1{name} undefined{name} other{names}} should be as {other-parties, select, 1{it appears} undefined{it appears} other{they appear}} on the birth certificate (including any middle names)",
   "depends": [
     {
       "other-parties-required": "yes"

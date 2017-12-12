@@ -8,16 +8,17 @@
   "_id": "route:miam_exemption-claimed",
   "_isa": "view:form",
   "blocks": [
+    "miam-exemption_evidence-requirements",
     "miam_exemption-claimed"
   ],
-  "body": "However, if you think that you do have a valid reason not to attend, please answer yes to the question below and select the reason that applies to you.\r\n\r\nPlease note that you will be asked to provide evidence at court of the exemption that you are claiming.\r\n\r\n[List of valid reasons for not attending a MIAM]({app:urls:url:miams-exemptions})\r\n\r\n!abbr:MIAM!",
+  "body": "",
   "depends": [
     {
       "!miam_certification": "yes"
     }
   ],
-  "heading": "You are probably not exempt from attending a MIAM\r\n!abbr:MIAM!",
-  "lede": "Based on the answers you have given, you probably need to attend a MIAM before you can make an application to court.\r\n!abbr:MIAM! ",
+  "heading": "Based on your answers, you should attend a MIAM before you can make an application to court\r\n!abbr:MIAM!",
+  "lede": "However, if you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}), please answer yes to the question below and then select any reasons that apply.\r\n!abbr:MIAM!",
   "redirectConditions": {
     "route:end_miam_not-completed": [
       {

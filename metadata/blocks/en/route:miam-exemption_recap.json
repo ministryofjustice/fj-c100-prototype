@@ -3,8 +3,7 @@
   "_id": "route:miam-exemption_recap",
   "_isa": "view:form",
   "blocks": [
-    "checkbox_group:miam-exemption_recap",
-    "miam-exemption_evidence-requirements"
+    "checkbox_group:miam-exemption_recap"
   ],
   "depends": [
     {
