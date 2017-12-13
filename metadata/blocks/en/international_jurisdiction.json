@@ -2,7 +2,7 @@
   "Xhint": "For example under Brussels 2 revised",
   "_id": "international_jurisdiction",
   "_isa": "radio_group:yes-no-required",
-  "label": "Do you think any other person may have grounds to apply for a similar order in another country?",
+  "label": "Do you think the other person may have grounds to apply for a similar order in another country?",
   "subblock": "international_jurisdiction_details",
   "visuallyhidden": true
 }
