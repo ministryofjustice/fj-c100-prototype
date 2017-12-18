@@ -3,9 +3,9 @@
   "_id": "route:language",
   "_isa": "view:form",
   "blocks": [
-    "language-requirements"
+    "language"
   ],
-  "heading": "!language-requirements#label!",
+  "heading": "!language#label!",
   "section_heading": "Attending court",
   "steps": [
     "route:language-welsh",
