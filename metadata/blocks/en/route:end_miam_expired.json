@@ -1,10 +1,16 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_expired",
+  "_isa": "view:form",
   "body": "!include:miam-check!\r\n\r\n!include:miam-no-valid!\r\n\r\n!include:miam-unsure!",
+  "continue": "confirm-continue",
+  "depends": [
+    {
+      "miam_expired": "yes"
+    }
+  ],
   "heading": "Your MIAM is out of date\r\n!abbr:MIAM!",
   "lede": "You’re legally required to attend a MIAM within 4 months of your application, unless you have a valid reason.\r\n!abbr:MIAM!",
-  "template": "generic",
   "title": "",
   "url": "/miam/expired"
 }

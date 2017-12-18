@@ -24,7 +24,6 @@ const MIAMDateController = (req, res) => {
           }
         })
       }
-
       if (!routeInstance.errors || !routeInstance.errors.miam_certification_date) {
         const setDateError = (name, message) => {
           setError('miam_certification_date', name, message, ['day', 'month', 'year'])
@@ -36,6 +35,7 @@ const MIAMDateController = (req, res) => {
         }
         const now = new Date()
         const attendanceDate = new Date(`${dates.year}/${dates.month}/${dates.day}`)
+        delete routeInstance.autofields.miam_expired
         if (attendanceDate > now) {
           setDateError('code-future', 'Date given for MIAM attendance is in the future')
         } else {
@@ -43,7 +43,8 @@ const MIAMDateController = (req, res) => {
           const allowedElapsed = allowedMonths * 31 * 24 * 60 * 60 * 1000
           const elapsed = now.getTime() - attendanceDate.getTime()
           if (elapsed > allowedElapsed) {
-            routeInstance.redirect = 'route:end_miam_expired'
+            routeInstance.autofields.miam_expired = 'yes'
+            // routeInstance.redirect = 'route:end_miam_expired'
             // setDateError('code-expired', 'MIAM attendance took place over 4 months ago')
           }
         }

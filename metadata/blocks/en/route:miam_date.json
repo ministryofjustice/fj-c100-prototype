@@ -5,14 +5,17 @@
   "blocks": [
     "miam_certification_date"
   ],
-  "body": "You can find the date at the bottom of the form your mediator signed.",
+  "body": "You can find the date at the bottom of the certificate your mediator signed.",
   "controller": "app/templates/miam_certification/miam_date.controller",
   "depends": [
     {
-      "miam_attended": "yes"
+      "miam_certification": "yes"
     }
   ],
   "heading": "! miam_certification_date#label!",
+  "steps": [
+    "route:end_miam_expired"
+  ],
   "title": "",
   "url": "/miam/date"
 }

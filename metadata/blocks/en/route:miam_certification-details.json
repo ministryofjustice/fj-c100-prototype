@@ -9,10 +9,14 @@
   "controller": "app/templates/miam_certification/miam_certification.controller",
   "depends": [
     {
-      "miam_certification": "yes"
+      "miam_certification": "yes",
+      "!miam_expired": "yes"
     }
   ],
   "heading": "Enter details of MIAM certification\r\n!abbr:MIAM!",
+  "steps": [
+    "route:miam_certification_confirmation"
+  ],
   "title": "",
   "url": "/miam/certification/details"
 }
