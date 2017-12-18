@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_not-completed",
-  "body": "Since you haven’t provided a valid reason to not attend, you should follow these steps.\r\n\r\n1. [Find a mediator]({app:urls:url:fmc_find-mediator}) and book a MIAM\r\n2. Attend the MIAM\r\n3. Ask the mediator for a certificate confirming your attendance\r\n\r\nYou can then return to this form to continue with your application.\r\n\r\n!abbr:MIAM!\r\n",
+  "body": "Since you haven’t provided a valid reason to not attend, you should follow these steps.\r\n\r\n!include:miam-steps!\r\n",
   "heading": "You need to attend a MIAM and get a certificate\r\n!abbr:MIAM!",
   "lede": "Before making an application you’re legally required to attend a MIAM.",
   "template": "generic",

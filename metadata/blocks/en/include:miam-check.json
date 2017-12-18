@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "include:miam-check",
+  "value": "[Check if you have a valid reason]({app:urls:url:miams-exemptions}) before you continue with your application."
+}

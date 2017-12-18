@@ -17,13 +17,14 @@ jQuery('a[href]').each(function() {
   var $a = jQuery(this)
   var external
   var href = $a.attr('href')
-  if (href.indexOf(document.location.origin) !== 0) {
+  if (href.indexOf(document.location.origin) !== 0 && href.indexOf('#') !== 0) {
     external = true
-  } else if (href.indexOf('/miam/exemptions' !== 0)) {
+  } else if (href.indexOf('/miam/exemptions') !== -1) {
     external = true
   }
   if (external) {
-    $a.attr('target', 'external_link')
+    var targetName = href.replace(/\//g, '-')
+    $a.attr('target', targetName)
   }
 })
 </script>
