@@ -15,19 +15,14 @@ const PartyController = (req, res) => {
                   .map(key => key.replace(/\.day$/, ''))
     const dobField = dobs[0]
     if (dobField) {
-      const day = autofields[`${dobField}.day`]
-      const month = autofields[`${dobField}.month`]
-      const year = autofields[`${dobField}.year`]
+      const dob = autofields[dobField]
       const unsure = autofields[`${dobField}_unsure`]
       const estimate = (autofields[`${dobField}_estimate`] || '').trim()
       let age = 0
-      if (day && month && year) {
-        const dob = new Date()
-        dob.setDate(day)
-        dob.setMonth(month)
-        dob.setYear(year)
-        if (!isNaN(dob)) {
-          age = calculateAge(dob)
+      if (dob) {
+        const dobDate = new Date(dob)
+        if (!isNaN(dobDate)) {
+          age = calculateAge(dobDate)
         }
       }
       if (!age && unsure && estimate) {
