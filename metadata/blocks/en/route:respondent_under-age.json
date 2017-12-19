@@ -1,0 +1,7 @@
+{
+  "_blockType": "Route",
+  "_id": "route:respondent_under-age",
+  "_isa": "route:applicant_under-age",
+  "heading": "The respondent is (or may be) less than 18 years old",
+  "url": "/respondent/under-age"
+}

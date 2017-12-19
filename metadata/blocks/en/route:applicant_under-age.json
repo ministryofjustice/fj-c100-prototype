@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant_under-age",
+  "_isa": "view:form",
+  "blocks": [
+    "to-be-done"
+  ],
+  "body": "CB1 text to go here",
+  "depends": [
+    {
+      "[route:_prefix]age": "<18"
+    }
+  ],
+  "heading": "The applicant is (or may be) less than 18 years old",
+  "title": "",
+  "url": "/applicant/under-age"
+}
