@@ -14,11 +14,12 @@ const PartyController = (req, res) => {
                   .filter(key => key.startsWith(`${routePrefix}dob`) && key.endsWith('.day'))
                   .map(key => key.replace(/\.day$/, ''))
     const dobField = dobs[0]
+
+    let age = 0
     if (dobField) {
       const dob = autofields[dobField]
       const unsure = autofields[`${dobField}_unsure`]
       const estimate = (autofields[`${dobField}_estimate`] || '').trim()
-      let age = 0
       if (dob) {
         const dobDate = new Date(dob)
         if (!isNaN(dobDate)) {
@@ -42,8 +43,8 @@ const PartyController = (req, res) => {
           }
         }
       }
-      autofields[`${routePrefix}age`] = age
     }
+    autofields[`${routePrefix}age`] = age
 
     return Promise.resolve(routeInstance)
   }
