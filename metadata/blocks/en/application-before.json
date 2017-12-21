@@ -1,0 +1,10 @@
+{
+  "_blockType": "Section",
+  "_id": "application-before",
+  "body": "Follow these steps before you continue.\r\n\r\n1. **Check if you need to go to court** Read the [child arrangements guide]({app:urls:url:cait}) to see if there’s a more suitable option\r\n2. **Book a Mediation Information and Assessment Meeting (MIAM)** You’re legally required to attend one unless  [you’re exempt]({app:urls:url:miams-exemptions}). \r\n3. **Get a signed certificate from your mediator** If you’re not exempt you’ll need this to confirm your MIAM attendance.\r\n4. **Find out if you can get help paying the court fee** You may be able to [get your fee paid]({app:urls:url:help-with-fees}) if you’re on a low income or certain benefits.\r\n\r\n!abbr:MIAM!\r\n",
+  "heading": "Before you start your application",
+  "xblocks": [
+    "before-applying-alternatives",
+    "before-applying-miam"
+  ]
+}

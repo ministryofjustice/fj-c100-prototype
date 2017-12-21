@@ -5,7 +5,7 @@
   "blocks": [
     "address-confidentiality"
   ],
-  "body": "A copy of your court application will be sent to the other person.\r\n\r\nThe court won’t include the contact details for you and your children if you prefer to keep them private.",
+  "body": "A copy of your court application will be sent to the other person. This will include your contact details.\r\n\r\nIf you think the other person poses a threat to the safety of you or your children you can keep your contact details private. ",
   "heading": "Keeping your contact details private",
   "title": "",
   "url": "/confidentiality",

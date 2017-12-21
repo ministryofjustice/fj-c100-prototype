@@ -1,7 +1,6 @@
 {
   "_id": "dob-check-18",
   "_isa": "dob",
-  "hint": "If party under 18 read section R of [leaflet CB1]({app:urls:url:cb1-en})",
   "requiredWhen": [
     {
       "![multiple_route]dob-check-18_unsure": "yes"

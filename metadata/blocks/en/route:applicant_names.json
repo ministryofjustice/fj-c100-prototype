@@ -1,4 +1,5 @@
 {
+  "*notes": "Child is the applicant (Me, myself and I) - MIAM exemption (13E-06)",
   "_blockType": "Route",
   "_id": "route:applicant_names",
   "_isa": "view:form",

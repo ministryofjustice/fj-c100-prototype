@@ -1,4 +1,5 @@
 {
+  "*notes": "Don't know address - MIAM exemption (13E-01)\r\n\r\nIf abroad, MIAM exemption (13E-05)",
   "_blockType": "Route",
   "_id": "route:respondent_contact",
   "_isa": "view:form",

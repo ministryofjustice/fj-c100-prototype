@@ -1,4 +1,5 @@
 {
+  "*notes": "If abroad, MIAM exemption (13E-05)",
   "_blockType": "Route",
   "_id": "route:applicant_contact",
   "_isa": "view:form",

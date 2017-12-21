@@ -1,4 +1,5 @@
 {
+  "*notes": "MIAM exemption (13E-02)",
   "_blockType": "Route",
   "_id": "route:without-notice",
   "_isa": "view:form",
