@@ -1,0 +1,16 @@
+{
+  "_blockType": "Route",
+  "_id": "route:cases_child-protection_info",
+  "_isa": "view:form",
+  "body": "As there are or have been child protection issues, you do not have to attend a MIAM.\r\n\r\nWe will ask you about these cases later in the application.\r\n\r\n!abbr:MIAM!",
+  "continue": "continue",
+  "depends": [
+    {
+      "cases_child-protection": "yes"
+    }
+  ],
+  "heading": "You do not have to attend a MIAM\r\n!abbr:MIAM!",
+  "lede": "This page is placeholder copy",
+  "title": "",
+  "url": "/proceedings-protection-check/info"
+}

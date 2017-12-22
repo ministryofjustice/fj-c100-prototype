@@ -1,26 +1,18 @@
 {
   "_blockType": "Route",
-  "_id": "route:miam_requirement",
+  "_id": "route:consent-order_sought",
   "_isa": "view:form",
-  "blocks": [
-    "section:miam-requirement_accept"
-  ],
-  "body": "A MIAM isn’t mediation but an introductory meeting that explains the mediation process. \r\n\r\n(!) You don’t have to attend a MIAM if you have a valid reason. For example you or your children are at risk of harm.\r\n\r\n[List of valid reasons for not attending a MIAM]({app:urls:url:miams-exemptions})\r\n\r\n[Find a mediator to book a MIAM]({app:urls:url:fmc_find-mediator})\r\n\r\n## What happens at a MIAM\r\n\r\nAt the MIAM a mediator will explain:\r\n\r\n- how mediation works\r\n- the benefits\r\n- whether it’s right for you\r\n- the likely costs\r\n- [if you’re eligible for mediation through legal aid]({app:urls:url:check-legal-aid})\r\n- other options available to you\r\n\r\n[Find out more about professional mediation]({app:urls:url:cait_mediation})\r\n\r\n## If you’ve already attended a MIAM\r\n\r\nIf you’ve been to a MIAM it must have taken place within the past 4 months. It must also have been about the same child arrangements issue.\r\n\r\n!abbr:MIAM!\r\n",
+  "body": "As you're applying for a consent order you do not have to attend a MIAM.\r\n\r\n!include:help-vulnerable-nudge!\r\n\r\n## Changing or enforcing an order\r\n\r\nA court order isn’t flexible. You’ll need to apply to court again if you want to change it.\r\n\r\nIf the other person isn’t following the terms of the order, you’ll need to ask the court to enforce it. If you don't follow them, the other person can ask the court to enforce it against you.\r\n\r\n!abbr:MIAM!",
   "continue": "continue",
   "depends": [
     {
-      "!consent-order": "yes",
-      "!cases_child-protection": "yes"
+      "consent-order": "yes"
     }
   ],
-  "heading": "Attending a Mediation Information and Assessment Meeting (MIAM)",
-  "lede": "Before completing this application you’re legally required to attend a Mediation Information and Assessment Meeting (MIAM).",
-  "steps": [
-    "route:miam_attended",
-    "route:miam_not-attended"
-  ],
+  "heading": "You do not have to attend a MIAM\r\n!abbr:MIAM!",
+  "lede": "This page is placeholder copy",
   "title": "",
-  "url": "/miam/requirement",
+  "url": "/consent-order/sought",
   "xblocks": [
     "previous-proceedings_emergency-order",
     "miam_exemption-claimed",

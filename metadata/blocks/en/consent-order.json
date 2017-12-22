@@ -1,0 +1,6 @@
+{
+  "_id": "consent-order",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Are you applying for a consent order?",
+  "visuallyhidden": true
+}

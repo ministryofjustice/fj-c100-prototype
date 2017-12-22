@@ -14,9 +14,9 @@
   "start": true,
   "steps": [
     "route:user-establish",
+    "route:consent-order",
+    "route:cases_child-protection",
     "route:miam_requirement",
-    "route:miam_attended",
-    "route:miam_not-attended",
     "route:concerns",
     "route:jtbd",
     "route:court",

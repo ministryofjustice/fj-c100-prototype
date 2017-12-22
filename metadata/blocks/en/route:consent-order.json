@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:consent-order",
+  "_isa": "view:form",
+  "blocks": [
+    "consent-order"
+  ],
+  "body": "A consent order makes an agreement legally binding.\r\n\r\nYou can only ask for a consent order if you are not in dispute with the other person and the court has no concerns about safety.",
+  "heading": "! consent-order#label!",
+  "steps": [
+    "route:consent-order_sought"
+  ],
+  "title": "",
+  "url": "/consent-order",
+  "xsteps": [
+    "route:miam-exemption_certification"
+  ]
+}
