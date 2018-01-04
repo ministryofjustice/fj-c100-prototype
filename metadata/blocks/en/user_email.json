@@ -1,0 +1,8 @@
+{
+  "_id": "user_email",
+  "_isa": "text:email",
+  "error-header_required": "!user_email#error_required!",
+  "error_required": "Please enter your email address",
+  "label": "Your email address",
+  "required": true
+}

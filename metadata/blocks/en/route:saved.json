@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:saved",
+  "body": "We will keep a draft for **30 days** or until you submit your application. Any information will be automatically deleted for your security after this time.\r\n\r\nYou can return to continue entering details at any time.\r\n\r\n[Continue]({app:last:url})",
+  "heading": "Your application has been saved",
+  "lede": "A confirmation email has been sent to: **{user_email}**",
+  "template": "generic",
+  "title": "",
+  "url": "/saved"
+}
