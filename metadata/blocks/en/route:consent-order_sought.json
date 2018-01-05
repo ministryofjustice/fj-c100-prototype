@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:consent-order_sought",
   "_isa": "view:form",
-  "body": "As you're applying for a consent order you do not have to attend a MIAM.\r\n\r\n(i) You will need to send 3 copies of your proposed agreement along with your application.\r\n\r\n## Changing or enforcing an order\r\n\r\nA court order isn’t flexible. You’ll need to apply to court again if you want to change it.\r\n\r\nIf the other person isn’t following the terms of the order, you’ll need to ask the court to enforce it. If you don't follow them, the other person can ask the court to enforce it against you.\r\n\r\n!abbr:MIAM!",
+  "body": "As you're applying for a consent order you do not have to attend a MIAM.\r\n\r\n(i) You will need to send 3 copies of your proposed agreement along with your application.\r\n\r\n## Changing or enforcing an order\r\n\r\nA court order isn’t flexible. You’ll need to apply to court again if you want to change it.\r\n\r\nYou or the other person can apply to court to enforce the order if either of you aren’t following the terms.\r\n\r\n!abbr:MIAM!",
   "continue": "continue",
   "depends": [
     {
