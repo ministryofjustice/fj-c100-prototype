@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_children_physical",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_children_physical"
-  ],
+  "block": "concerns_children_physical",
   "body": "!route:concerns_applicant_physical#body!",
-  "heading": "!concerns_children_physical#label!",
   "title": "",
   "url": "/concerns/children/physical"
 }

@@ -2,11 +2,13 @@
   "_blockType": "Route",
   "_id": "route:miam_attended",
   "_isa": "view:form",
-  "blocks": [
-    "miam_attended"
-  ],
+  "block": "miam_attended",
   "body": "The MIAM must have: \r\n\r\n- taken place within the past 4 months\r\n- been about the same child arrangements issue\r\n\r\n!abbr:MIAM!",
-  "heading": "! miam_attended#label!",
+  "depends": [
+    {
+      "miam-requirement_acknowledgement": "yes"
+    }
+  ],
   "steps": [
     "route:miam_certification"
   ],

@@ -3,11 +3,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_child-abuse",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_child-abuse"
-  ],
+  "block": "concerns_child-abuse",
   "body": "Child abuse is any action that causes significant harm to a child.\r\n\r\nExamples include: \r\n\r\n- emotional or psychological abuse\r\n- physical abuse\r\n- sexual abuse\r\n\r\n(i) Only include abuse by the other person (the respondent) or someone connected to the other person.",
-  "heading": "! concerns_child-abuse#label!",
   "redirectConditions": {
     "route:concerns_further-questions": [
       {

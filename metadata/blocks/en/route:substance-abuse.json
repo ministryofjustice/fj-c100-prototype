@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:substance-abuse",
   "_isa": "view:form",
-  "blocks": [
-    "concern_substance-abuse"
-  ],
+  "block": "concern_substance-abuse",
   "body": "For example, you think your children are affected by being in contact with someone who may have a drug, alcohol or substance problem.",
-  "heading": "!concern_substance-abuse#label!",
   "redirectConditions": {
     "route:concerns_further-questions": [
       {

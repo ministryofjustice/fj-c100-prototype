@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_applicant_emotional",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_applicant_emotional"
-  ],
+  "block": "concerns_applicant_emotional",
   "body": "Emotional abuse can be verbal or non-verbal. \r\n\r\nExamples include:\r\n\r\n- name calling\r\n- constant criticism\r\n- ignoring someone\r\n- not letting them have an opinion\r\n",
-  "heading": "!concerns_applicant_emotional#label!",
   "title": "",
   "url": "/concerns/applicant/emotional"
 }

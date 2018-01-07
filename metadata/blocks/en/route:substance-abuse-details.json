@@ -2,16 +2,13 @@
   "_blockType": "Route",
   "_id": "route:substance-abuse-details",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_substance-abuse-details"
-  ],
+  "block": "concerns_substance-abuse-details",
   "body": "",
   "depends": [
     {
       "concern_substance-abuse": "yes"
     }
   ],
-  "heading": "! concerns_substance-abuse-details#label!",
   "redirectConditions": {
     "route:concerns_further-questions": [
       {

@@ -2,16 +2,13 @@
   "_blockType": "Route",
   "_id": "route:miam_certification",
   "_isa": "view:form",
-  "blocks": [
-    "miam_certification"
-  ],
+  "block": "miam_certification",
   "body": "",
   "depends": [
     {
       "miam_attended": "yes"
     }
   ],
-  "heading": "!miam_certification#label!",
   "lede": "Your mediator should have signed a certificate confirming your MIAM attendance\r\n!abbr:MIAM!",
   "steps": [
     "route:end_miam_no-certification",

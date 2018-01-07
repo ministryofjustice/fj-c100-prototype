@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_children_other",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_children_other"
-  ],
+  "block": "concerns_children_other",
   "body": "For example, you think the other person is failing to meet their basic needs (known as child neglect) or you’re worried about someone they may have contact with.",
-  "heading": "!concerns_children_other#label!",
   "title": "",
   "url": "/concerns/children/other"
 }

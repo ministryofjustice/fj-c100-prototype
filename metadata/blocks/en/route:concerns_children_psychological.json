@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_children_psychological",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_children_psychological"
-  ],
+  "block": "concerns_children_psychological",
   "body": "!route:concerns_applicant_psychological#body!",
-  "heading": "!concerns_children_psychological#label!",
   "title": "",
   "url": "/concerns/children/psychological"
 }

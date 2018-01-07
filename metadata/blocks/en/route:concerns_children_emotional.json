@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_children_emotional",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_children_emotional"
-  ],
+  "block": "concerns_children_emotional",
   "body": "Examples of emotional abuse can include making the children feel:\r\n\r\n- unloved\r\n- worthless\r\n- humiliated\r\n- ignored ",
-  "heading": "!concerns_children_emotional#label!",
   "title": "",
   "url": "/concerns/children/emotional"
 }

@@ -13,6 +13,7 @@
   "multiple": true,
   "multiple_max": 1,
   "multiple_min": 1,
+  "summary_heading": "",
   "title": "",
   "var:behaviour_adverb": "var:behaviour_adverb",
   "var:behaviour_name": "var:behaviour_name",

@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:consent-order",
   "_isa": "view:form",
-  "blocks": [
-    "consent-order"
-  ],
+  "block": "consent-order",
   "body": "A consent order makes an agreement legally binding.\r\n\r\nYou can only ask for a consent order if:\r\n\r\n- you’re not in dispute with the other person\r\n- the court has no concerns about the safety or welfare of anyone involved",
-  "heading": "! consent-order#label!",
   "steps": [
     "route:consent-order_sought"
   ],

@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_applicant_physical",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_applicant_physical"
-  ],
+  "block": "concerns_applicant_physical",
   "body": "Physical abuse includes actions such as:\r\n\r\n- punching\r\n- choking\r\n- kicking\r\n- hitting with an object\r\n",
-  "heading": "!concerns_applicant_physical#label!",
   "title": "",
   "url": "/concerns/applicant/physical"
 }

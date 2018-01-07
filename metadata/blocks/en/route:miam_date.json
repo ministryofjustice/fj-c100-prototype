@@ -2,9 +2,7 @@
   "_blockType": "Route",
   "_id": "route:miam_date",
   "_isa": "view:form",
-  "blocks": [
-    "miam_certification_date"
-  ],
+  "block": "miam_certification_date",
   "body": "You can find the date at the bottom of the certificate your mediator signed.",
   "controller": "app/templates/miam_certification/miam_date.controller",
   "depends": [
@@ -12,7 +10,6 @@
       "miam_certification": "yes"
     }
   ],
-  "heading": "! miam_certification_date#label!",
   "steps": [
     "route:end_miam_expired"
   ],

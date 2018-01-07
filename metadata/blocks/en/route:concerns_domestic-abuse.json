@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_domestic-abuse",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_domestic-abuse"
-  ],
+  "block": "concerns_domestic-abuse",
   "body": "Domestic abuse is any type of controlling, threatening or violent behaviour between people in a relationship.\r\n\r\nExamples include:\r\n\r\n- financial abuse (withholding child maintenance payments isn’t considered financial abuse)\r\n- emotional or psychological abuse\r\n- physical abuse\r\n- sexual abuse\r\n\r\n(i) Only include abuse by the other person (the respondent) or someone connected to the other person.\r\n",
-  "heading": "! concerns_domestic-abuse#label!",
   "redirectConditions": {
     "route:concerns_further-questions": [
       {

@@ -2,16 +2,13 @@
   "_blockType": "Route",
   "_id": "route:cases_child-protection",
   "_isa": "view:form",
-  "blocks": [
-    "cases_child-protection"
-  ],
+  "block": "cases_child-protection",
   "body": "",
   "depends": [
     {
       "!consent-order": "yes"
     }
   ],
-  "heading": "!cases_child-protection#label!",
   "steps": [
     "route:cases_child-protection_info"
   ],

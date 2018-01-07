@@ -2,16 +2,13 @@
   "_blockType": "Route",
   "_id": "route:abduction-previous",
   "_isa": "view:form",
-  "blocks": [
-    "abduction_previous"
-  ],
+  "block": "abduction_previous",
   "body": "Include any previous attempts or threats to abduct them",
   "depends": [
     {
       "concern_child-abduction": "yes"
     }
   ],
-  "heading": "!abduction_previous#label!",
   "steps": [
     "route:abduction-previous-details"
   ],

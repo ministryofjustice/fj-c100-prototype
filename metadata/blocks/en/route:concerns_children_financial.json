@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:concerns_children_financial",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_children_financial"
-  ],
+  "block": "concerns_children_financial",
   "body": "(i) Withholding child maintenance payments isn’t considered financial abuse.",
-  "heading": "!concerns_children_financial#label!",
   "title": "",
   "url": "/concerns/children/financial"
 }
