@@ -12,6 +12,7 @@
 
 {% block body_end %}
 {{ super() }}
+{% if not flowchart and not edit %}
 <script>
 jQuery('a[href]').each(function() {
   var $a = jQuery(this)
@@ -28,4 +29,5 @@ jQuery('a[href]').each(function() {
   }
 })
 </script>
+{% endif %}
 {% endblock %}
