@@ -5,7 +5,7 @@
   "options": [
     "miam-exemption_group_previous-adr",
     "miam-exemption_group_previous-miam",
-    "miam-exemption_urgency_none"
+    "miam-exemption_adr_none"
   ],
   "required": true
 }
