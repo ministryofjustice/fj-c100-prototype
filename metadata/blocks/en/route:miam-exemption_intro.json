@@ -8,13 +8,15 @@
       "!miam_certification": "yes"
     }
   ],
-  "heading": "Based on your answers, you should attend a MIAM before you can make an application to court\r\n!abbr:MIAM!",
-  "lede": "However, if you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}), please answer yes to the question below and then select any reasons that apply.\r\n!abbr:MIAM!",
+  "heading": "!route:miam-exemption_intro#steps_heading!",
+  "lede": "If you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}), please answer yes to the following questions and select any reasons that apply.\r\n!abbr:MIAM!",
   "steps": [
     "route:miam-exemption_safety",
     "route:miam-exemption_urgency",
     "route:miam-exemption_adr",
-    "route:miam-exemption_misc"
+    "route:miam-exemption_misc",
+    "route:end_miam_not-completed",
+    "route:valid-miam-exemption"
   ],
   "steps_heading": "MIAM exemptions\r\n!abbr:MIAM!",
   "title": "",
