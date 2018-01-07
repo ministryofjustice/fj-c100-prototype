@@ -1,0 +1,7 @@
+{
+  "_id": "miam-exemption_group_previous-miam",
+  "_isa": "option:yes",
+  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
+  "label": "Previous MIAM attendance",
+  "subblock": "miam-exemption_group_previous-miam_options"
+}

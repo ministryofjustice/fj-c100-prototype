@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_adr_ongoing-attendance",
+  "_isa": "option:yes",
+  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.",
+  "label": "At the time of making the application, the person is participating in another form of non-court dispute resolution relating to the same or substantially the same dispute"
+}

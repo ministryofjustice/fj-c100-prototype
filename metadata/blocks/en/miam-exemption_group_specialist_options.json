@@ -1,0 +1,20 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "miam-exemption_group_specialist_options",
+  "depends": [
+    {
+      "miam-exemption_group_specialist": "yes"
+    }
+  ],
+  "label": "Evidence of letter from specialist",
+  "options": [
+    "exemption-claimed_specialist_examination",
+    "exemption-claimed_specialist_referral"
+  ],
+  "requiredWhen": [
+    {
+      "miam-exemption_group_specialist": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

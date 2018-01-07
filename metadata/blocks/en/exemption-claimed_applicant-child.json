@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_applicant-child",
+  "_isa": "option:yes",
+  "hint": "A child is one of the prospective parties by virtue of Rule 12.3(1)",
+  "label": "Applicant is child"
+}

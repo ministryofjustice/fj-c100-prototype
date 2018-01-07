@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_right-to-remain",
+  "_isa": "option:yes",
+  "hint": "A letter from the Secretary of State for the Home Department confirming that\r\na prospective party has been granted leave to remain in the United Kingdom\r\nunder paragraph 289B of the Rules made by the Home Secretary under\r\nsection 3(2) of the Immigration Act 1971, which can be found at https://www.\r\ngov.uk/guidance/immigration-rules/immigration-rules-index",
+  "label": "Letter granting right to remain in the UK"
+}

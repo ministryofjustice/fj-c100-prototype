@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_police_conviction",
+  "_isa": "option:yes",
+  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx.",
+  "label": "Evidence of a relevant conviction for a domestic violence offence"
+}

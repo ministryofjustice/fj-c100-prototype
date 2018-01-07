@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_police_caution",
+  "_isa": "option:yes",
+  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx.",
+  "label": "Evidence of a relevant police caution for a domestic violence offence"
+}

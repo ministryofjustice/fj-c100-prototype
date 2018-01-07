@@ -1,0 +1,7 @@
+{
+  "_id": "miam-exemption_group_local-authority-involvement",
+  "_isa": "option:yes",
+  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
+  "label": "Local authority involvement with children",
+  "subblock": "miam-exemption_group_local-authority-involvement_options"
+}

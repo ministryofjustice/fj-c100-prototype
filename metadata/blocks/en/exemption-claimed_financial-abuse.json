@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_financial-abuse",
+  "_isa": "option:yes",
+  "hint": "Evidence which demonstrates that a prospective party has been, or is at risk\r\nof being, the victim of domestic violence by another prospective party in the\r\nform of abuse which relates to financial matters",
+  "label": "Financial abuse evidence"
+}

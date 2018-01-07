@@ -1,0 +1,22 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "miam-exemption_group_da-service_options",
+  "depends": [
+    {
+      "miam-exemption_group_da-service": "yes"
+    }
+  ],
+  "label": "Evidence of letter from domestic abuse service",
+  "options": [
+    "exemption-claimed_da-service_idva",
+    "exemption-claimed_da-service_isva",
+    "exemption-claimed_da-service_organisation",
+    "exemption-claimed_da-service_refuge-refusal"
+  ],
+  "requiredWhen": [
+    {
+      "miam-exemption_group_da-service": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

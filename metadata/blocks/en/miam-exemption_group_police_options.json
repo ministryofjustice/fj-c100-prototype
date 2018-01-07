@@ -1,0 +1,23 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "miam-exemption_group_police_options",
+  "depends": [
+    {
+      "miam-exemption_group_police": "yes"
+    }
+  ],
+  "label": "Evidence of police involvement",
+  "options": [
+    "exemption-claimed_police_arrested",
+    "exemption-claimed_police_caution",
+    "exemption-claimed_police_ongoing-proceedings",
+    "exemption-claimed_police_conviction",
+    "exemption-claimed_police_dvpn"
+  ],
+  "requiredWhen": [
+    {
+      "miam-exemption_group_police": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

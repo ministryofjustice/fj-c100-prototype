@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_access_prohibited",
+  "_isa": "option:yes",
+  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.",
+  "label": "the prospective applicant or all of the prospective respondents cannot attend a MIAM because he or she is, or they are, as the case may be\r\n\r\n(i) in prison or any other institution in which he or she is or they are required to be detained;\r\n\r\n(ii) subject to conditions of bail that prevent contact with the other person; or\r\n\r\n(iii) subject to a licence with a prohibited contact requirement in relation to the other person."
+}

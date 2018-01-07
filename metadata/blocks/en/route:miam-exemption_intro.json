@@ -1,11 +1,7 @@
 {
   "_blockType": "Route",
-  "_id": "route:miam_exemption-claimed",
+  "_id": "route:miam-exemption_intro",
   "_isa": "view:form",
-  "blocks": [
-    "miam-exemption_evidence-requirements",
-    "miam_exemption-claimed"
-  ],
   "body": "",
   "depends": [
     {
@@ -14,17 +10,13 @@
   ],
   "heading": "Based on your answers, you should attend a MIAM before you can make an application to court\r\n!abbr:MIAM!",
   "lede": "However, if you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}), please answer yes to the question below and then select any reasons that apply.\r\n!abbr:MIAM!",
-  "redirectConditions": {
-    "route:end_miam_not-completed": [
-      {
-        "miam_exemption-claimed": "no"
-      }
-    ]
-  },
   "steps": [
-    "route:miam-exemption_recap"
+    "route:miam-exemption_safety",
+    "route:miam-exemption_urgency",
+    "route:miam-exemption_adr",
+    "route:miam-exemption_misc"
   ],
   "steps_heading": "MIAM exemptions\r\n!abbr:MIAM!",
   "title": "",
-  "url": "/miam/exemption"
+  "url": "/miam/exemption/intro"
 }

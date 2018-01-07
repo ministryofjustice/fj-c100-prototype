@@ -1,0 +1,20 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "miam-exemption_group_risk-children_options",
+  "depends": [
+    {
+      "miam-exemption_group_risk-children": "yes"
+    }
+  ],
+  "label": "Evidence of risk to children",
+  "options": [
+    "exemption-claimed_urgency_risk-children",
+    "exemption-claimed_urgency_unlawful-removal-retention"
+  ],
+  "requiredWhen": [
+    {
+      "miam-exemption_group_risk-children": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

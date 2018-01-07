@@ -1,0 +1,20 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "miam-exemption_group_risk-applicant_options",
+  "depends": [
+    {
+      "miam-exemption_group_risk-applicant": "yes"
+    }
+  ],
+  "label": "Evidence of risk to applicant",
+  "options": [
+    "exemption-claimed_urgency_risk-applicant",
+    "exemption-claimed_urgency_unreasonable-hardship"
+  ],
+  "requiredWhen": [
+    {
+      "miam-exemption_group_risk-applicant": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

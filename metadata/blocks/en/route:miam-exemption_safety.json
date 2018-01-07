@@ -1,9 +1,9 @@
 {
   "_blockType": "Route",
-  "_id": "route:miam-exemption_urgency",
+  "_id": "route:miam-exemption_safety",
   "_isa": "view:form",
-  "block": "miam-exemption_urgency",
+  "block": "miam-exemption_safety",
   "body": "(i) You will need to provide evidence to support your claim",
   "title": "",
-  "url": "/miam/exemption/urgency"
+  "url": "/miam/exemption/safety"
 }

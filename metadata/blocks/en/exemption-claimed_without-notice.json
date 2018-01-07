@@ -1,0 +1,6 @@
+{
+  "_id": "exemption-claimed_without-notice",
+  "_isa": "option:yes",
+  "hint": "The application would be made without notice (Paragraph 5.1 of Practice Direction 18A sets out the circumstances in which applications may be made without notice.)",
+  "label": "Without notice"
+}
