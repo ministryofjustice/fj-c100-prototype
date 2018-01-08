@@ -3,5 +3,6 @@
   "applicant-establish": false,
   "children-number": true,
   "applicant_relationship": false,
-  "solicitor-standalone": false
+  "solicitor-standalone": false,
+  "miam-exemptions-at-start": false
 }

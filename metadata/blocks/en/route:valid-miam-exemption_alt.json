@@ -1,0 +1,6 @@
+{
+  "_blockType": "Route",
+  "_id": "route:valid-miam-exemption_alt",
+  "_isa": "route:valid-miam-exemption",
+  "url": "/miam/valid-reason/alt"
+}

@@ -1,0 +1,20 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_intro_alt",
+  "_isa": "route:miam-exemption_intro",
+  "depends": [
+    {
+      "!miam_certification": "yes",
+      "flag-miam-exemptions-at-start": true
+    }
+  ],
+  "steps": [
+    "route:miam-exemption_safety_alt",
+    "route:miam-exemption_urgency_alt",
+    "route:miam-exemption_adr_alt",
+    "route:miam-exemption_misc_alt",
+    "route:end_miam_not-completed_alt",
+    "route:valid-miam-exemption_alt"
+  ],
+  "url": "/miam/exemption/intro/alt"
+}

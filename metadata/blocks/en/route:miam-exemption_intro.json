@@ -5,7 +5,8 @@
   "body": "",
   "depends": [
     {
-      "!miam_certification": "yes"
+      "!miam_certification": "yes",
+      "!flag-miam-exemptions-at-start": true
     }
   ],
   "heading": "!route:miam-exemption_intro#steps_heading!",
