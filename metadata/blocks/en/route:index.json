@@ -32,7 +32,7 @@
     "route:previous-proceedings",
     "route:without-notice",
     "route:international_resident",
-    "route:miam-exemption_intro",
+    "route:miam_exemption-claimed",
     "route:application-details",
     "route:language",
     "route:test-end",

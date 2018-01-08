@@ -9,7 +9,8 @@
   "body": "",
   "depends": [
     {
-      "!miam_certification": "yes"
+      "!miam_certification": "yes",
+      "!flag-miam-exemptions-at-start": true
     }
   ],
   "heading": "Based on your answers, you should attend a MIAM before you can make an application to court\r\n!abbr:MIAM!",
@@ -22,7 +23,12 @@
     ]
   },
   "steps": [
-    "route:miam-exemption_recap"
+    "route:miam-exemption_safety",
+    "route:miam-exemption_urgency",
+    "route:miam-exemption_adr",
+    "route:miam-exemption_misc",
+    "route:end_miam_not-completed",
+    "route:valid-miam-exemption"
   ],
   "steps_heading": "MIAM exemptions\r\n!abbr:MIAM!",
   "title": "",
