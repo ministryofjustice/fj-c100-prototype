@@ -1,8 +1,9 @@
 {% macro Playback() %}
+<div class="playback--section" data-block-name="{{ section.collection }}">
 {% for section in route.playbackValues %}
 {% set playbackSection = getBlockProp(section.collection, 'title') %}
 {% set updateFormatSink = updateFormat({playback_count: loop.index, playback_section: playbackSection}) %}
-<div class="playback--section" data-block-name="{{ section.collection }}">
+<div class="playback--order-type" data-block-name="{{ section.collection }}">
 <p>{{ getFormattedProp(section.collection, 'playback_ask') }}</p>
 <ul class="{{ govukClassname('list') }}">
 {% for option in section.selected %}
@@ -12,4 +13,11 @@
 <p>{{ getFormattedBodyContent(section.collection, 'playback_order') | safe }}</p>
 </div>
 {% endfor %}
+{% if autofields['order_specific-issues_other_details'] %}
+<div>
+<p>{{Block.String('string:other-issue-provided')}}</p>
+<div class="panel">{{autofields['order_specific-issues_other_details']}}</div>
+</div>
+{% endif %}
+</div>
 {% endmacro %}

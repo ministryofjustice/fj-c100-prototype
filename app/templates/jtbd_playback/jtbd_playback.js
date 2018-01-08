@@ -18,6 +18,7 @@ const PlaybackController = (req, res) => {
 
       // routeInstance.blocks = []
       routeInstance.playbackValues = optionsBundle
+      routeInstance.playbackCount = optionsBundle.length || 0
 
       resolve(routeInstance)
     })

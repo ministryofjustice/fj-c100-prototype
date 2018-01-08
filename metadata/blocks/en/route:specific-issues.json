@@ -1,13 +1,9 @@
 {
   "*notes": "MIAM exemption (13C-03)\r\n\r\nUnlawful removal or retention",
   "_blockType": "Route",
-  "_id": "route:jtbd",
+  "_id": "route:specific-issues",
   "_isa": "view:form",
-  "block": "checkbox_group:order_jtbd",
+  "block": "order_specific-issues",
   "lede": "Select all that apply",
-  "steps": [
-    "route:specific-issues",
-    "route:jtbd_playback"
-  ],
-  "url": "/order/nature"
+  "url": "/order/specific-issue"
 }

@@ -6,12 +6,12 @@
     "order-jtbd_child-home",
     "order-jtbd_child-times",
     "order-jtbd_child-contact",
-    "order_specific-issue",
     "order-jtbd_child-return",
     "order-jtbd_child-abduction",
     "order-jtbd_child-flight",
-    "order_other"
+    "order_specific-issue"
   ],
+  "or": true,
   "required": true,
   "visuallyhidden": true,
   "xhint": "Select all that apply"
