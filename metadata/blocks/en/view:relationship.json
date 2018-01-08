@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "view:relationship",
   "_isa": "view:form",
-  "blocks": [
-    "child_relationship"
-  ],
   "body": "",
   "dynamic_multiple": "children",
-  "heading": "!child_relationship#label!",
-  "title": ""
+  "title": "",
+  "block": "child_relationship"
 }

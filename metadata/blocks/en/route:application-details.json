@@ -2,11 +2,8 @@
   "_blockType": "Route",
   "_id": "route:application-details",
   "_isa": "view:form",
-  "blocks": [
-    "application-details"
-  ],
   "body": "You should include details of any of the following (if they apply):\r\n\r\n- your reasons for bringing this application to court\r\n- any previous parenting plans or agreements (formal or informal), and why they broke down\r\n\r\nYou don’t have to give a full statement although you may be asked to provide one later.",
-  "heading": "!application-details#label!",
   "title": "",
-  "url": "/application/details"
+  "url": "/application/details",
+  "block": "application-details"
 }

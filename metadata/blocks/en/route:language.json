@@ -2,10 +2,6 @@
   "_blockType": "Route",
   "_id": "route:language",
   "_isa": "view:form",
-  "blocks": [
-    "language"
-  ],
-  "heading": "!language#label!",
   "section_heading": "Attending court",
   "steps": [
     "route:language-welsh",
@@ -16,5 +12,6 @@
   ],
   "steps_heading": "!route:language#section_heading!",
   "title": "",
-  "url": "/language"
+  "url": "/language",
+  "block": "language"
 }

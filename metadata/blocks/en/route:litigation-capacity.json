@@ -2,14 +2,11 @@
   "_blockType": "Route",
   "_id": "route:litigation-capacity",
   "_isa": "view:form",
-  "blocks": [
-    "litigation-capacity"
-  ],
   "body": "For example dyslexia or Attention deficit hyperactivity disorder (ADHD)",
-  "heading": "!litigation-capacity#label!",
   "steps": [
     "route:participation"
   ],
   "title": "",
-  "url": "/litigation-capacity"
+  "url": "/litigation-capacity",
+  "block": "litigation-capacity"
 }

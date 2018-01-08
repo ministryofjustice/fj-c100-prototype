@@ -3,11 +3,8 @@
   "_blockType": "Route",
   "_id": "route:special-assistance",
   "_isa": "view:form",
-  "blocks": [
-    "special-assistance"
-  ],
   "body": "For example you need a hearing loop or your documents in braille",
-  "heading": "!special-assistance#label!",
   "title": "",
-  "url": "/special-assistance"
+  "url": "/special-assistance",
+  "block": "special-assistance"
 }

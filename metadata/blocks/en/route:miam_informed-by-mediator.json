@@ -2,16 +2,13 @@
   "_blockType": "Route",
   "_id": "route:miam_informed-by-mediator",
   "_isa": "view:form",
-  "blocks": [
-    "miam_informed-by-mediator"
-  ],
   "body": "",
   "depends": [
     {
       "miam_attended": "yes"
     }
   ],
-  "heading": "!miam_informed-by-mediator#label!",
   "title": "",
-  "url": "/miam/informed"
+  "url": "/miam/informed",
+  "block": "miam_informed-by-mediator"
 }

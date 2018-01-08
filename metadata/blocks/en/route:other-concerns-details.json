@@ -2,16 +2,13 @@
   "_blockType": "Route",
   "_id": "route:other-concerns-details",
   "_isa": "view:form",
-  "blocks": [
-    "concerns_other-details"
-  ],
   "body": "",
   "depends": [
     {
       "concern_other": "yes"
     }
   ],
-  "heading": "!concerns_other-details#label!",
   "title": "",
-  "url": "/concerns/other/details"
+  "url": "/concerns/other/details",
+  "block": "concerns_other-details"
 }

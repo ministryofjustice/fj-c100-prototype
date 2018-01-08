@@ -2,9 +2,6 @@
   "_blockType": "Route",
   "_id": "route:other-parties_responsibility",
   "_isa": "view:form",
-  "blocks": [
-    "parental-responsibility"
-  ],
   "body": "",
   "depends": [
     {
@@ -14,8 +11,8 @@
       "flag-applicant_relationship": true
     }
   ],
-  "heading": "!parental-responsibility#label!",
   "lede": "Is the father's name on the birth certificate etc?",
   "title": "",
-  "url": "/other-parties/parental-responsibility"
+  "url": "/other-parties/parental-responsibility",
+  "block": "parental-responsibility"
 }

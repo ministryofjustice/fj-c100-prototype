@@ -3,16 +3,12 @@
   "_blockType": "Route",
   "_id": "route:residence-known",
   "_isa": "view:form",
-  "blocks": [
-    "residence-known"
-  ],
   "body": "",
   "depends": [
     {
       "flag-residence-known": true
     }
   ],
-  "heading": "!residence-known#label!",
   "redirectConditions": {
     "route:end_residence-unknown": [
       {
@@ -21,5 +17,6 @@
     ]
   },
   "title": "",
-  "url": "/residence-known"
+  "url": "/residence-known",
+  "block": "residence-known"
 }

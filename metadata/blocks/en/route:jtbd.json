@@ -3,14 +3,11 @@
   "_blockType": "Route",
   "_id": "route:jtbd",
   "_isa": "view:form",
-  "blocks": [
-    "checkbox_group:order_jtbd"
-  ],
-  "heading": "!checkbox_group:order_jtbd#label!",
   "lede": "Select all that apply",
   "steps": [
     "route:order",
     "route:jtbd_playback"
   ],
-  "url": "/order-type"
+  "url": "/order-type",
+  "block": "checkbox_group:order_jtbd"
 }

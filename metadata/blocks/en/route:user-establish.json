@@ -2,15 +2,12 @@
   "_blockType": "Route",
   "_id": "route:user-establish",
   "_isa": "view:form",
-  "blocks": [
-    "applicant_applying"
-  ],
   "depends": [
     {
       "flag-applicant-establish": true
     }
   ],
-  "heading": "!applicant_applying#label!",
   "title": "",
-  "url": "/who-is-applying"
+  "url": "/who-is-applying",
+  "block": "applicant_applying"
 }

@@ -3,12 +3,9 @@
   "_blockType": "Route",
   "_id": "route:help-with-fees",
   "_isa": "view:form",
-  "blocks": [
-    "help-with-fees"
-  ],
   "body": "",
-  "heading": "!help-with-fees#label!",
   "lede": "You may be able to get help paying the £215 fee if you’re on a low income, receive certain benefits or have little or no savings.",
   "title": "",
-  "url": "/help-with-fees"
+  "url": "/help-with-fees",
+  "block": "help-with-fees"
 }
