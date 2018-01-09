@@ -1,6 +1,5 @@
 {
   "_id": "exemption-claimed_adr_existing-proceedings-exemption",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.",
   "label": "The application would be made in existing proceedings which are continuing and a MIAM exemption applied to the application for those proceedings"
 }

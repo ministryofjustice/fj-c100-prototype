@@ -1,6 +1,5 @@
 {
   "_id": "exemption-claimed_local-authority_public-authority",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx.",
   "label": "A letter from a public authority confirming that a person with whom a\r\nprospective party is or was in a family relationship, was assessed as being, or\r\nat risk of being, a victim of domestic violence by that prospective party (or a\r\ncopy of that assessment)"
 }

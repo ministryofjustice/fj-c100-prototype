@@ -1,6 +1,5 @@
 {
   "_id": "exemption-claimed_court_expert-report",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx.",
   "label": "An expert report produced as evidence in proceedings in the United Kingdom for the benefit of a court or tribunal confirming that a person with whom a prospective party is or was in a family relationship, was assessed as being, or at risk of being, a victim of domestic violence by that prospective party"
 }

@@ -1,6 +1,5 @@
 {
   "_id": "exemption-claimed_police_arrested",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx.",
   "label": "Evidence that a prospective party has been arrested for a relevant domestic violence offence"
 }

@@ -1,6 +1,6 @@
 {
   "_id": "exemption-claimed_financial-abuse",
   "_isa": "option:yes",
-  "hint": "Evidence which demonstrates that a prospective party has been, or is at risk\r\nof being, the victim of domestic violence by another prospective party in the\r\nform of abuse which relates to financial matters",
-  "label": "Financial abuse evidence"
+  "hint": "Examples of financial abuse include not allowing a person to work or withholding money.\r\n\r\nThe following are examples of what counts as evidence:\r\n\r\n- a copy of a credit card account, loan document or bank statements\r\n- a letter from a domestic violence support organisation\r\n- emails, text messages or a diary kept by the victim",
+  "label": "You have evidence you’ve been financially abused"
 }

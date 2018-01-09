@@ -2,6 +2,6 @@
   "_id": "miam-exemption_group_risk-children",
   "_isa": "option:yes",
   "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
-  "label": "Risk to children",
+  "label": "Your children are at risk",
   "subblock": "miam-exemption_group_risk-children_options"
 }

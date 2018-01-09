@@ -130,6 +130,13 @@ s {
   }
 }
 
+[data-block-name="route:jtbd"],
+[data-block-name="route:specific-issues"] {
+  & .gv-u-heading-small {
+    font-weight: normal;
+  }
+}
+
 #miam-requirement_acknowledgement__checkbox,
 #court-info_acknowledgement__checkbox {
   margin-top: 6rem;

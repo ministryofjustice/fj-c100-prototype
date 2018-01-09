@@ -9,7 +9,9 @@
   "label": "!miam-exemption_group_risk-applicant_options#label!",
   "options": [
     "auto-exemption-claimed_urgency_risk-applicant",
-    "auto-exemption-claimed_urgency_unreasonable-hardship"
+    "auto-exemption-claimed_urgency_unreasonable-hardship",
+    "auto-exemption-claimed_urgency_risk-children",
+    "auto-exemption-claimed_urgency_unlawful-removal-retention"
   ],
   "requiredWhen": [
     {

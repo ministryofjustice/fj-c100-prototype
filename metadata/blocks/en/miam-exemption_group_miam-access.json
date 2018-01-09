@@ -6,7 +6,7 @@
       "!miam_exemption-claimed": "yes"
     }
   ],
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
-  "label": "Access to MIAM",
+  "hint": "Examples of not being able to access a mediator include:\r\n\r\n- you live further than 15 miles from a mediator\r\n- you’ve contacted 3 mediators and can’t get an appointment within 15 working days \r\n- you or the other person has a disability and the mediator doesn’t have disabled facilities\r\n",
+  "label": "You can’t access a mediator",
   "subblock": "miam-exemption_group_miam-access_options"
 }

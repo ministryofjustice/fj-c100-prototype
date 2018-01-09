@@ -1,7 +1,7 @@
 {
   "_id": "miam-exemption_group_specialist",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
-  "label": "Letter from a specialist",
+  "hint": "For example, a health professional or specialist has confirmed you have, or had, injuries that are a result of domestic abuse.",
+  "label": "You’ve received a letter confirming you’re a victim of domestic abuse",
   "subblock": "miam-exemption_group_specialist_options"
 }

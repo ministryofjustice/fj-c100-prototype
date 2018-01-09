@@ -1,6 +1,5 @@
 {
   "_id": "exemption-claimed_access_no-mediator",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.",
   "label": "There is no authorised family mediator with an office within fifteen miles of the prospective applicant’s home"
 }

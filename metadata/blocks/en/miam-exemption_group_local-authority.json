@@ -1,7 +1,7 @@
 {
   "_id": "miam-exemption_group_local-authority",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
-  "label": "Letter from a local authority",
+  "hint": "For example, a local authority or housing association has confirmed someone in your family is at risk of harm.",
+  "label": "You’ve received a letter confirming you or your children are at risk of harm",
   "subblock": "miam-exemption_group_local-authority_options"
 }

@@ -1,6 +1,6 @@
 {
   "_id": "exemption-claimed_international-proceedings",
   "_isa": "option:yes",
-  "hint": "There is a significant risk that in the period necessary to schedule and attend a MIAM, proceedings relating to the dispute will be brought in another state in which a valid claim to jurisdiction may exist, such that a court in that other State would be seized of the dispute before a court in England and Wales",
-  "label": "Risk of international proceedings"
+  "hint": "For example, while you’re arranging a MIAM a family court case relating to your dispute may start outside of England and Wales.",
+  "label": "There’s a risk of a court case starting in another country"
 }

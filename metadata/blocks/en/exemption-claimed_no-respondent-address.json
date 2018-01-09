@@ -1,6 +1,6 @@
 {
   "_id": "exemption-claimed_no-respondent-address",
   "_isa": "option:yes",
-  "hint": "The prospective applicant does not have sufficient contact details for any of the prospective respondents to enable a family mediator to contact any of the prospective respondents for the purpose of scheduling the MIAM",
-  "label": "No contact details for the respondent"
+  "hint": "For example, you can’t contact the other person to arrange a MIAM.",
+  "label": "You don’t have contact details for the other person (the respondent)"
 }

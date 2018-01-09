@@ -1,7 +1,7 @@
 {
   "_id": "miam-exemption_group_previous-miam",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.\r\n",
-  "label": "Previous MIAM attendance",
+  "hint": "For example, you’ve previously been to a MIAM for another child arrangements issue.",
+  "label": "You’ve already been to a MIAM in relation to another family court case",
   "subblock": "miam-exemption_group_previous-miam_options"
 }
