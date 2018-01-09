@@ -1,0 +1,17 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_safety",
+  "label": "Can you provide evidence of any safety concerns?",
+  "options": [
+    "auto-miam-exemption_group_police",
+    "auto-miam-exemption_group_court",
+    "auto-miam-exemption_group_specialist",
+    "auto-miam-exemption_group_local-authority",
+    "auto-miam-exemption_group_da-service",
+    "auto-exemption-claimed_right-to-remain",
+    "auto-exemption-claimed_financial-abuse",
+    "auto-miam-exemption_group_local-authority-involvement",
+    "auto-miam-exemption_safety_none"
+  ],
+  "required": true
+}

@@ -1,0 +1,23 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_group_court_options",
+  "depends": [
+    {
+      "auto-miam-exemption_group_court": "yes"
+    }
+  ],
+  "label": "!miam-exemption_group_court_options#label!",
+  "options": [
+    "auto-exemption-claimed_court_bound-over",
+    "auto-exemption-claimed_court_protective-injunction",
+    "auto-exemption-claimed_court_undertaking",
+    "auto-exemption-claimed_court_finding-of-fact",
+    "auto-exemption-claimed_court_expert-report"
+  ],
+  "requiredWhen": [
+    {
+      "auto-miam-exemption_group_court": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

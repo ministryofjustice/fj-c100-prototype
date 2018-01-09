@@ -1,0 +1,20 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_group_local-authority-involvement_options",
+  "depends": [
+    {
+      "auto-miam-exemption_group_local-authority-involvement": "yes"
+    }
+  ],
+  "label": "!miam-exemption_group_local-authority-involvement_options#label!",
+  "options": [
+    "auto-exemption-claimed_local-authority-involvement_section47",
+    "auto-exemption-claimed_local-authority-involvement_protection-plan"
+  ],
+  "requiredWhen": [
+    {
+      "auto-miam-exemption_group_local-authority-involvement": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

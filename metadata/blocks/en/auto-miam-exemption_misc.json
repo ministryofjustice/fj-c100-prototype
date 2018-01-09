@@ -1,0 +1,14 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_misc",
+  "label": "Can you provide evidence of other exemptions?",
+  "options": [
+    "auto-exemption-claimed_no-respondent-address",
+    "auto-exemption-claimed_without-notice",
+    "auto-miam-exemption_group_miam-access",
+    "auto-exemption-claimed_non-resident",
+    "auto-exemption-claimed_applicant-child",
+    "auto-miam-exemption_misc_none"
+  ],
+  "required": true
+}

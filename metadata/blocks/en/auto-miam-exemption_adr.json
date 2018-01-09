@@ -1,0 +1,11 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_adr",
+  "label": "Can you provide evidence of previous non-court resolution or exemption?",
+  "options": [
+    "auto-miam-exemption_group_previous-adr",
+    "auto-miam-exemption_group_previous-miam",
+    "auto-miam-exemption_adr_none"
+  ],
+  "required": true
+}

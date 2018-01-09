@@ -1,0 +1,23 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_group_police_options",
+  "depends": [
+    {
+      "auto-miam-exemption_group_police": "yes"
+    }
+  ],
+  "label": "!miam-exemption_group_police_options#label!",
+  "options": [
+    "auto-exemption-claimed_police_arrested",
+    "auto-exemption-claimed_police_caution",
+    "auto-exemption-claimed_police_ongoing-proceedings",
+    "auto-exemption-claimed_police_conviction",
+    "auto-exemption-claimed_police_dvpn"
+  ],
+  "requiredWhen": [
+    {
+      "auto-miam-exemption_group_police": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

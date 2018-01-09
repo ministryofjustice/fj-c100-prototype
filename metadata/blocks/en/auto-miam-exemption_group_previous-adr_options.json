@@ -1,0 +1,19 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_group_previous-adr_options",
+  "depends": [
+    {
+      "auto-miam-exemption_group_previous-adr": "yes"
+    }
+  ],
+  "label": "!miam-exemption_group_previous-adr_options#label!",
+  "options": [
+    "option:to-be-done"
+  ],
+  "requiredWhen": [
+    {
+      "auto-miam-exemption_group_previous-adr": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

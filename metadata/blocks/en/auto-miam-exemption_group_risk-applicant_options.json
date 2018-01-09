@@ -1,0 +1,20 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_group_risk-applicant_options",
+  "depends": [
+    {
+      "auto-miam-exemption_group_risk-applicant": "yes"
+    }
+  ],
+  "label": "!miam-exemption_group_risk-applicant_options#label!",
+  "options": [
+    "auto-exemption-claimed_urgency_risk-applicant",
+    "auto-exemption-claimed_urgency_unreasonable-hardship"
+  ],
+  "requiredWhen": [
+    {
+      "auto-miam-exemption_group_risk-applicant": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}

@@ -1,0 +1,22 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "auto-miam-exemption_group_da-service_options",
+  "depends": [
+    {
+      "auto-miam-exemption_group_da-service": "yes"
+    }
+  ],
+  "label": "!miam-exemption_group_da-service_options#label!",
+  "options": [
+    "auto-exemption-claimed_da-service_idva",
+    "auto-exemption-claimed_da-service_isva",
+    "auto-exemption-claimed_da-service_organisation",
+    "auto-exemption-claimed_da-service_refuge-refusal"
+  ],
+  "requiredWhen": [
+    {
+      "auto-miam-exemption_group_da-service": "yes"
+    }
+  ],
+  "visuallyhidden": true
+}
