@@ -2,8 +2,9 @@
   "_blockType": "Route",
   "_id": "route:valid-miam-exemption",
   "_isa": "view:form",
-  "body": "You don’t have to go because:\r\n\r\nxxxx\r\nxxxx\r\nxxxx\r\n\r\n(i) You must bring supporting evidence to your first hearing.",
+  "body": "You don’t have to go because:\r\n\r\n{validReasons, concat}\r\n\r\n(i) You must bring supporting evidence to your first hearing.",
   "continue": "continue",
+  "controller": "app/templates/valid-miam-exemption/valid-miam-exemption.controller",
   "depends": [
     {
       "auto-exemption-claimed.*": "yes"

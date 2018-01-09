@@ -160,14 +160,6 @@ s {
     }
   }
 
-  & .Xmultiple-choice + .multiple-choice:not([data-target]) {
-    margin-top: -2.25rem;
-  }
-
-  & .Xmultiple-choice:not([data-target]) + .multiple-choice[data-target] {
-    margin-top: -2.25rem;
-  }
-
   & .multiple-choice:not([data-target]) {
     & label {
       cursor: default;
@@ -253,7 +245,6 @@ s {
     }
   }
 }
-
 
 /*
 fieldset {
