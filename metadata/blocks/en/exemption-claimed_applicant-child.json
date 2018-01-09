@@ -1,6 +1,6 @@
 {
   "_id": "exemption-claimed_applicant-child",
   "_isa": "option:yes",
-  "hint": "A child is one of the prospective parties by virtue of Rule 12.3(1)",
-  "label": "One of the children involved is the applicant"
+  "hint": "You don’t need to attend a MIAM if you’re making the application and under 18.",
+  "label": "You’re the applicant and under 18 years old"
 }
