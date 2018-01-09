@@ -1,10 +1,16 @@
 {
   "_blockType": "Route",
   "_id": "route:miam_exemptions_list",
-  "body": "A MIAM isn’t mediation but an introductory meeting that explains the mediation process. \r\n\r\nYou don’t have to attend a MIAM if you’re applying for a consent order or if any of the following issues apply:\r\n\r\n## Domestic abuse and safety\r\n\r\n- your application is urgent because there’s a risk to your or your children’s safety\r\n- you or the other person has made an allegation of domestic abuse\r\n- you’re already involved with social services due to concerns about your children’s safety or wellbeing\r\n- you don’t want the other person to know you’re applying to court - and you have a good reason why they shouldn’t know (for example there’s safety concerns) \r\n\r\n## Legal or financial\r\n\r\n- your application relates to another family issue that a court is dealing with\r\n- you or the other person is in prison or subject to bail conditions that prevent contact with each other\r\n- your situation is about money and you or the other person is bankrupt\r\n\r\n## Access to a mediator\r\n\r\n- you live further than 15 miles from a mediator\r\n- you’ve contacted 3 mediators and can’t get an appointment within 15 working days \r\n- you or the other person has a disability and the mediator doesn’t have disabled facilities\r\n\r\n## Other issues\r\n\r\n- you don’t know where the other person is\r\n- you or the other person don’t normally live in either England or Wales\r\n- a mediator has stated mediation isn’t suitable or hasn’t worked - for example the other person isn’t willing to attend or you’ve tried mediation and it’s been unsuccessful\r\n\r\n!abbr:MIAM!\r\n",
+  "blocks": [
+    "miam-exemption_safety",
+    "miam-exemption_urgency",
+    "miam-exemption_adr",
+    "miam-exemption_misc"
+  ],
+  "body": "A MIAM isn’t mediation but an introductory meeting that explains the mediation process. \r\n\r\nYou don’t have to attend a MIAM if you’re applying for a consent order or if any of the following issues apply:\r\n\r\n!abbr:MIAM!\r\n",
   "heading": "Valid reasons not to attend a MIAM\r\n!abbr:MIAM!",
   "lede": "If you want to go to court you’re legally required to attend a Mediation Information and Assessment Meeting (MIAM).\r\n!abbr:MIAM!",
-  "template": "generic",
+  "template": "form",
   "title": "",
   "url": "/miam/exemptions"
 }

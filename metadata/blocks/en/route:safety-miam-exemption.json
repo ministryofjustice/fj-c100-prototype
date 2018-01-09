@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:safety-miam-exemption",
   "_isa": "view:form",
-  "body": "(i) Court may require evidence\r\n\r\n... MIAM playback goes here ...",
+  "body": "You can still complete this application because you have said you have concerns about the safety of you or your children.\r\n\r\n(i) A legal advisor may contact you to talk about your safety concerns.",
   "continue": "continue",
   "depends": [
     {
@@ -12,7 +12,7 @@
       "!flag-miam-exemptions-at-start": true
     }
   ],
-  "heading": "You don't have a valid reason not to attend a MIAM but you triggered safety concerns\r\n!abbr:MIAM!",
+  "heading": "You haven’t been to a MIAM\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/safety"
 }

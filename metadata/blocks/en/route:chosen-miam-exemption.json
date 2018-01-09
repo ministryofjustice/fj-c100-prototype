@@ -2,9 +2,9 @@
   "_blockType": "Route",
   "_id": "route:chosen-miam-exemption",
   "_isa": "view:form",
-  "body": "... MIAM playback goes here ...\r\n\r\n(!) You will need to provide evidence - contempt of court",
+  "body": "You’ve said you have a valid reason for not attending a MIAM.\r\n\r\n(i) You will need to provide evidence to support your claim. If you can’t you may be found in contempt of court.\r\n!abbr:MIAM!",
   "continue": "continue",
-  "heading": "You have chosen to claim an exemption for MIAM\r\n!abbr:MIAM!",
+  "heading": "You’re claiming a valid reason for not attending a MIAM\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/reason-chosen"
 }

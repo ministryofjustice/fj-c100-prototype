@@ -142,6 +142,119 @@ s {
   margin-top: 6rem;
 }
 
+[data-block-name="route:miam_exemptions_list"] {
+  & input,
+  & .form-submit {
+    display: none;
+  }
+
+  & .multiple-choice label {
+    position: relative;
+    z-index: 1;
+    padding-bottom: 2rem;
+    padding-left: 0;
+
+    &::before,
+    &::after {
+      border: none;
+    }
+  }
+
+  & .Xmultiple-choice + .multiple-choice:not([data-target]) {
+    margin-top: -2.25rem;
+  }
+
+  & .Xmultiple-choice:not([data-target]) + .multiple-choice[data-target] {
+    margin-top: -2.25rem;
+  }
+
+  & .multiple-choice:not([data-target]) {
+    & label {
+      cursor: default;
+      padding-bottom: 0;
+    }
+
+    & label::before {
+      display: none;
+    }
+  }
+
+  & .multiple-choice {
+    padding-left: 0 !important;
+  }
+
+  & .panel {
+    display: block;
+    visibility: visible;
+
+    &::before {
+      content: '▶ What evidence is required?';
+      display: block;
+      position: relative;
+      color: #005ea5;
+      text-decoration: underline;
+      top: -3rem;
+      left: -20px;
+      font-size: 16px;
+      height: 0;
+    }
+
+    & > * {
+      display: none;
+    }
+
+    & .multiple-choice {
+      margin: 0;
+    }
+
+    & label {
+      display: list-item;
+      list-style-type: disc;
+      padding-bottom: 0 !important;
+    }
+
+    &.js-hidden {
+      border-color: white;
+    }
+
+    &:not(.js-hidden) {
+      &::before {
+        content: '▼ What evidence is required?';
+      }
+
+      & > * {
+        display: block;
+      }
+    }
+  }
+
+  & .form-group,
+  & .gv-s-prose ul {
+    margin-top: 0;
+    margin-bottom: 0;
+  }
+
+  & .or-block,
+  & [data-excludes-input="true"],
+  & [data-excludes="true"] {
+    display: none;
+  }
+
+  & .panel {
+    margin-left: 0 !important;
+
+    & .multiple-choice {
+      padding-left: 2rem !important;
+    }
+
+    & .multiple-choice input,
+    & label::before {
+      display: none;
+    }
+  }
+}
+
+
 /*
 fieldset {
   & span.labelLine + span.labelLine:last-child {

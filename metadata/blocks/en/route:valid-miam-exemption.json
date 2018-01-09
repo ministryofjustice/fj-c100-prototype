@@ -2,14 +2,15 @@
   "_blockType": "Route",
   "_id": "route:valid-miam-exemption",
   "_isa": "view:form",
-  "body": "(i) Court may require evidence\r\n\r\n... MIAM playback goes here ...",
+  "body": "You don’t have to go because:\r\n\r\nxxxx\r\nxxxx\r\nxxxx\r\n\r\n(i) You must bring supporting evidence to your first hearing.",
   "continue": "continue",
   "depends": [
     {
       "auto-exemption-claimed.*": "yes"
     }
   ],
-  "heading": "You have a valid reason not to attend a MIAM\r\n!abbr:MIAM!",
+  "heading": "You don’t have to attend a MIAM\r\n!abbr:MIAM!",
+  "lede": "Based on your answers you’re not required to attend a MIAM.\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/valid-reason"
 }

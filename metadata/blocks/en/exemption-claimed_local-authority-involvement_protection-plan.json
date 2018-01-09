@@ -1,6 +1,5 @@
 {
   "_id": "exemption-claimed_local-authority-involvement_protection-plan",
   "_isa": "option:yes",
-  "hint": "Xxxxx xxxxxxxx xxxxx xxxxxx xxxxxxx, xxxxxxx xxxxxxxxxxxx xxxxxxxx xxxxxxx xxxxx xxxxxx xxxxxxxx.",
   "label": "The subject of a child protection plan put in place by a local authority"
 }
