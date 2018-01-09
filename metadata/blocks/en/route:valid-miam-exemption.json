@@ -2,8 +2,13 @@
   "_blockType": "Route",
   "_id": "route:valid-miam-exemption",
   "_isa": "view:form",
-  "body": "... MIAM playback goes here ...",
+  "body": "(i) Court may require evidence\r\n\r\n... MIAM playback goes here ...",
   "continue": "continue",
+  "depends": [
+    {
+      "auto-exemption-claimed.*": "yes"
+    }
+  ],
   "heading": "You have a valid reason not to attend a MIAM\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/valid-reason"

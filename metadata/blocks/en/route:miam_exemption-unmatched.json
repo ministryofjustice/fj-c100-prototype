@@ -6,6 +6,7 @@
   "depends": [
     {
       "!miam_certification": "yes",
+      "!provide_evidence": "yes",
       "!flag-miam-exemptions-at-start": true
     }
   ],

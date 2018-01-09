@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:chosen-miam-exemption",
+  "_isa": "view:form",
+  "body": "... MIAM playback goes here ...\r\n\r\n(!) You will need to provide evidence - contempt of court",
+  "continue": "continue",
+  "heading": "You have chosen to claim an exemption for MIAM\r\n!abbr:MIAM!",
+  "title": "",
+  "url": "/miam/reason-chosen"
+}

@@ -10,6 +10,7 @@
   "depends": [
     {
       "!miam_certification": "yes",
+      "!auto-exemption-claimed.*": "yes",
       "!flag-miam-exemptions-at-start": true
     }
   ],
@@ -28,7 +29,7 @@
     "route:miam-exemption_adr",
     "route:miam-exemption_misc",
     "route:end_miam_not-completed",
-    "route:valid-miam-exemption"
+    "route:chosen-miam-exemption"
   ],
   "steps_heading": "MIAM exemptions\r\n!abbr:MIAM!",
   "title": "",

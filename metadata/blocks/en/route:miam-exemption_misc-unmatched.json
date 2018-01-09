@@ -4,6 +4,13 @@
   "_isa": "view:form",
   "block": "auto-miam-exemption_misc",
   "body": "(i) You will need to provide evidence to support your claim",
+  "depends": [
+    {
+      "!miam_certification": "yes",
+      "!auto-exemption-claimed.*": "yes",
+      "!flag-miam-exemptions-at-start": true
+    }
+  ],
   "title": "",
   "url": "/miam/exemption/unmatched/other"
 }
