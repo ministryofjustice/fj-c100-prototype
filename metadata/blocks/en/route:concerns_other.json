@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:concerns_other",
   "_isa": "view:form",
-  "block": "concerns_other",
+  "block": "c1a_other",
   "redirectConditions": {
     "route:concerns_further-questions": [
       {

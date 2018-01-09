@@ -6,19 +6,7 @@
   "continue": "continue",
   "depends": [
     {
-      "concern_child-abduction": "yes"
-    },
-    {
-      "concern_substance-abuse": "yes"
-    },
-    {
-      "concerns_child-abuse": "yes"
-    },
-    {
-      "concerns_domestic-abuse": "yes"
-    },
-    {
-      "concerns_other": "yes"
+      "c1a_.*": "yes"
     }
   ],
   "heading": "You and your children’s safety",
