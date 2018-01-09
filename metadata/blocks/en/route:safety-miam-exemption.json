@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:safety-miam-exemption",
+  "_isa": "view:form",
+  "body": "(i) Court may require evidence\r\n\r\n... MIAM playback goes here ...",
+  "continue": "continue",
+  "depends": [
+    {
+      "!miam_certification": "yes",
+      "c1a_.*": "yes",
+      "!auto-exemption-claimed.*": "yes",
+      "!flag-miam-exemptions-at-start": true
+    }
+  ],
+  "heading": "You don't have a valid reason not to attend a MIAM but you triggered safety concerns\r\n!abbr:MIAM!",
+  "title": "",
+  "url": "/miam/safety"
+}

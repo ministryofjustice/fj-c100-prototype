@@ -36,6 +36,7 @@
     "route:miam_exemption-unmatched",
     "route:miam-exemption_misc-unmatched",
     "route:valid-miam-exemption",
+    "route:safety-miam-exemption",
     "route:miam_exemption-claimed",
     "route:application-details",
     "route:language",
