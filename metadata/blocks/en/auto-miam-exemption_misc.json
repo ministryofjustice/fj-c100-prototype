@@ -1,7 +1,7 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "auto-miam-exemption_misc",
-  "label": "Do you have any problems attending a MIAM?\r\n!abbr:MIAM!",
+  "label": "Providing evidence if you can’t access a MIAM\r\n!abbr:MIAM!",
   "options": [
     "auto-exemption-claimed_access_disability",
     "auto-exemption-claimed_access_prohibited",

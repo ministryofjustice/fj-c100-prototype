@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_access_prohibited",
   "_isa": "option:yes",
-  "label": "the prospective applicant or all of the prospective respondents cannot attend a MIAM because he or she is, or they are, as the case may be\r\n\r\n(i) in prison or any other institution in which he or she is or they are required to be detained;\r\n\r\n(ii) subject to conditions of bail that prevent contact with the other person; or\r\n\r\n(iii) subject to a licence with a prohibited contact requirement in relation to the other person."
+  "label": "You or the other person can’t attend a MIAM because one of you is:",
+  "sublabel": "- in prison or any other institution\r\n- subject to bail conditions that prevent contact with the other person\r\n- subject to a licence with a prohibited contact with the other person."
 }
