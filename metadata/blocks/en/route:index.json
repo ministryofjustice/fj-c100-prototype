@@ -12,7 +12,6 @@
   "body": "You can use this service to apply for a court order about your child arrangements in England and Wales.\r\n\r\nThe process is different if you’re applying in [Scotland]({app:urls:url:court-process-scotland}) and [Northern Ireland]({app:urls:url:court-process-northern-ireland}).",
   "controller": "app/templates/index/index.controller",
   "heading": "Apply to court about your child arrangements",
-  "start": true,
   "steps": [
     "route:user-establish",
     "route:consent-order",
