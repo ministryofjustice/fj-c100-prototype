@@ -1,6 +1,6 @@
 {
   "_id": "consent-order",
   "_isa": "radio_group:yes-no-required",
-  "label": "Are you applying for a consent order?",
+  "label": "Have you already agreed child arrangements?",
   "visuallyhidden": true
 }
