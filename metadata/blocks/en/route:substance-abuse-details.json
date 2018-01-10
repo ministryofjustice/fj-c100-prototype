@@ -6,13 +6,13 @@
   "body": "",
   "depends": [
     {
-      "concern_substance-abuse": "yes"
+      "c1a_substance-abuse": "yes"
     }
   ],
   "redirectConditions": {
     "route:concerns_further-questions": [
       {
-        "concern_substance-abuse": "yes"
+        "c1a_substance-abuse": "yes"
       }
     ]
   },

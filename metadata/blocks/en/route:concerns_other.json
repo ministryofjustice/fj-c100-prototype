@@ -6,7 +6,7 @@
   "redirectConditions": {
     "route:concerns_further-questions": [
       {
-        "concerns_other": "yes"
+        "c1a_other": "yes"
       }
     ]
   },

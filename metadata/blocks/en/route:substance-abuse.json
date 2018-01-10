@@ -7,8 +7,8 @@
   "redirectConditions": {
     "route:concerns_further-questions": [
       {
-        "concern_child-abduction": "yes",
-        "concern_substance-abuse": "no"
+        "c1a_child-abduction": "yes",
+        "c1a_substance-abuse": "no"
       }
     ]
   },

@@ -7,7 +7,7 @@
   "redirectConditions": {
     "route:concerns_further-questions": [
       {
-        "concerns_domestic-abuse": "yes"
+        "c1a_domestic-abuse": "yes"
       }
     ]
   },

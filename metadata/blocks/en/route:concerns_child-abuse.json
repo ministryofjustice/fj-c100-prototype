@@ -8,7 +8,7 @@
   "redirectConditions": {
     "route:concerns_further-questions": [
       {
-        "concerns_child-abuse": "yes"
+        "c1a_child-abuse": "yes"
       }
     ]
   },

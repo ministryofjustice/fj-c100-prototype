@@ -4,11 +4,6 @@
   "_isa": "view:form",
   "block": "abduction_previous",
   "body": "Include any previous attempts or threats to abduct them",
-  "depends": [
-    {
-      "concern_child-abduction": "yes"
-    }
-  ],
   "steps": [
     "route:abduction-previous-details"
   ],
