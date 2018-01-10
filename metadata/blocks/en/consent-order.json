@@ -1,6 +1,6 @@
 {
   "_id": "consent-order",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you already agreed child arrangements?",
+  "label": "Do you have a written agreement you want the court to make legally binding?",
   "visuallyhidden": true
 }
