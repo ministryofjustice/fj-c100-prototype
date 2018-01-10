@@ -5,11 +5,7 @@
   "body": "As you have no safety concerns you should see if there’s a more suitable way to agree child arrangements than going to court.\r\n\r\nEvidence shows it’s usually better for your children if you can reach an agreement another way.\r\n\r\nBy reaching an agreement out of court you may be able to:\r\n\r\n- make the situation less stressful for your children\r\n- help your children continue family relationships \r\n- save time and money\r\n- reduce conflict with the other person\r\n\r\n!include:help-vulnerable-nudge!\r\n",
   "depends": [
     {
-      "concern_child-abduction": "no",
-      "concern_substance-abuse": "no",
-      "concerns_child-abuse": "no",
-      "concerns_domestic-abuse": "no",
-      "concerns_other": "no"
+      "!c1a_.*": "yes"
     }
   ],
   "heading": "Alternative ways to reach an agreement",
