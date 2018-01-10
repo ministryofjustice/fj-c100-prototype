@@ -5,7 +5,7 @@ const ValidExemptionController = (req, res) => {
       const autofields = routeInstance.autofields
 
       routeInstance.autofields.validReasons = Object.keys(autofields)
-                                                .filter(key => key.startsWith('auto-exemption-claimed'))
+                                                .filter(key => key.match(/^(auto|misc)-exemption-claimed/))
                                                 .map(key => methods.getBlockProp(key, 'label'))
 
       resolve(routeInstance)

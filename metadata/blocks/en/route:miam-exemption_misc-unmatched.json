@@ -9,6 +9,11 @@
       "!miam_certification": "yes",
       "!auto-exemption-claimed.*": "yes",
       "!flag-miam-exemptions-at-start": true
+    },
+    {
+      "!miam_certification": "yes",
+      "auto-exemption-claimed_access.*": "yes",
+      "!flag-miam-exemptions-at-start": true
     }
   ],
   "title": "",
