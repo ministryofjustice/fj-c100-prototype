@@ -11,7 +11,7 @@
     {
       "!miam_certification": "yes",
       "!auto-exemption-claimed.*": "yes",
-      "!c1a_.*": "yes",
+      "!c1a_.*": "NOyes",
       "!flag-miam-exemptions-at-start": true
     }
   ],

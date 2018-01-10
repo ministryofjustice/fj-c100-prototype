@@ -7,7 +7,7 @@
   "depends": [
     {
       "!miam_certification": "yes",
-      "c1a_.*": "yes",
+      "c1a_.*": "NOyes",
       "!auto-exemption-claimed.*": "yes",
       "!flag-miam-exemptions-at-start": true
     }
