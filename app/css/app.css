@@ -257,3 +257,13 @@ fieldset {
   }
 }
 */
+
+.form {
+  & h1.gv-u-heading-xxlarge {
+    font-size: 36px;
+  }
+
+  & .gv-s-prose h2 {
+    font-size: 28px;
+  }
+}

@@ -2,5 +2,6 @@
   "_blockType": "View",
   "_id": "view:start",
   "_isa": "view:form",
-  "start": true
+  "start": true,
+  "template": "start"
 }
