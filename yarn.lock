@@ -4816,9 +4816,9 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#basic-new":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#arrays-objects":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#51f9a2f23cb5c835a9cbafeaa3c7e09650f31d4c"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#5cb6aaf6a397d1279f568f0d0925e53e4f7ba709"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4884,9 +4884,9 @@ performance-now@^0.2.0:
     the-a11y-machine "^0.9.3"
     webdriverio "^4.8.0"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#save-return-allow-errors":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#basic-new":
   version "0.0.24"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#50d01fcd742d5a3e08bd14b620e54b1eef1406c1"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#51f9a2f23cb5c835a9cbafeaa3c7e09650f31d4c"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4906,7 +4906,7 @@ performance-now@^0.2.0:
     eslint-plugin-standard "^3.0.1"
     express "^4.15.2"
     express-session "^1.15.2"
-    glob "^7.1.1"
+    glob "^7.1.2"
     glob-promise "^3.1.0"
     govuk_frontend_alpha "https://github.com/alphagov/govuk_frontend_alpha/releases/download/0.0.1-alpha/govuk_frontend_alpha-0.0.1-npm.tgz"
     jsonlint "^1.6.2"
