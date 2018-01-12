@@ -6,9 +6,9 @@ Built on top of [pflr-express-kit](https://github.com/ministryofjustice/pflr-exp
 
 ## Pre-requisites
 
-  [Node 8.1.4](https://nodejs.org)
+  [Node 8.1.4 or later version](https://nodejs.org)
 
-  [Yarn 0.27.5](https://yarnpkg.com)
+  [Yarn 0.27.5 or later version](https://yarnpkg.com)
 
 ## Optional
 
