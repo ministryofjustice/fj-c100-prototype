@@ -1,11 +1,6 @@
 {
   "_id": "abduction_police-agency",
   "_isa": "radio_group:yes-no",
-  "dependsWhen": [
-    {
-      "abduction_previous": "yes"
-    }
-  ],
   "hint": "Including in the UK or abroad",
   "label": "Were the police, private investigators or any other organisation involved?",
   "requiredWhen": [
