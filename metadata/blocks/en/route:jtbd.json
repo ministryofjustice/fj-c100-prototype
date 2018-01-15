@@ -6,7 +6,6 @@
   "block": "checkbox_group:order_jtbd",
   "lede": "Select all that apply",
   "steps": [
-    "route:specific-issues",
     "route:jtbd_playback"
   ],
   "url": "/order/nature"

@@ -15,10 +15,6 @@
     "order-jtbd_specific-issue_abroad",
     "order_specific-issue_other"
   ],
-  "requiredWhen": [
-    {
-      "order_specific-issue": "yes"
-    }
-  ],
+  "required": true,
   "visuallyhidden": false
 }

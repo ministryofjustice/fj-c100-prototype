@@ -8,9 +8,5 @@
   ],
   "label": "Provide more details",
   "multiline": true,
-  "requiredWhen": [
-    {
-      "abduction_police-agency": "yes"
-    }
-  ]
+  "required": "true"
 }
