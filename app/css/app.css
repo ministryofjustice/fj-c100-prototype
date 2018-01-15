@@ -267,3 +267,55 @@ fieldset {
     font-size: 28px;
   }
 }
+
+.view__flash-card main {
+  background-color: var(--govuk-blue);
+  color: var(--govuk-white);
+  padding: 3rem;
+  margin-top: 1rem;
+
+  & .app__section_heading {
+    margin-top: 0;
+  }
+
+  & h1 {
+    margin-top: 0;
+  }
+
+  & .panel {
+    border-color: var(--govuk-white);
+
+    & p {
+      font-weight: bold;
+    }
+  }
+
+  & .button {
+    background-color: var(--govuk-white);
+    color: var(--govuk-blue);
+    font-weight: bold;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+    &:hover {
+      background-color: var(--grey-3);
+    }
+  }
+
+  & .button-save-return {
+    display: none;
+  }
+
+  @media (--govuk-medium) {
+    padding: 4rem;
+    margin-top: 2rem;
+
+    & .grid_content_header {
+      width: 150%;
+    }
+  }
+
+  @media (--govuk-large) {
+    padding: 5rem;
+  }
+}
