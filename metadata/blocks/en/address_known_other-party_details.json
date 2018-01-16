@@ -1,0 +1,13 @@
+{
+  "_blockType": "Group",
+  "_id": "address_known_other-party_details",
+  "blocks": [
+    "address_other-party",
+    "postcode"
+  ],
+  "depends": [
+    {
+      "address_known_other-party": "yes"
+    }
+  ]
+}

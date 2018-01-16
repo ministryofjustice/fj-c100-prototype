@@ -1,0 +1,6 @@
+{
+  "_id": "address_known_other-party",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Do you know their current address?",
+  "subblock": "address_known_other-party_details"
+}

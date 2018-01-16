@@ -3,9 +3,7 @@
   "_id": "route:other-parties_contact",
   "_isa": "view:form",
   "blocks": [
-    "address",
-    "postcode",
-    "address_unsure"
+    "address_known_other-party"
   ],
   "body": "",
   "heading": "Contact details for !route_party_full-name!",
