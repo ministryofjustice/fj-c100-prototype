@@ -14,7 +14,8 @@
     "route:concerns_checkpoint_children",
     "route:concerns_checkpoint_applicant",
     "route:concerns_orders",
-    "route:concerns_contact"
+    "route:concerns_contact",
+    "route:miam-exemption_safety_c1a"
   ],
   "title": "",
   "url": "/concerns/further-questions"
