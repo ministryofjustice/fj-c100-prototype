@@ -2,8 +2,5 @@
   "_id": "address_known_respondent",
   "_isa": "radio_group:yes-no-required",
   "label": "Do you know their current address?",
-  "multiple": true,
-  "multiple_max": 1,
-  "multiple_min": 1,
   "subblock": "address_known_respondent_details"
 }

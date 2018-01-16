@@ -1,5 +1,13 @@
 {
   "_blockType": "Text",
   "_id": "phone-mobile",
-  "label": "Mobile phone"
+  "error-header_required": " ",
+  "error_required": " ",
+  "label": "Mobile phone",
+  "requiredWhen": [
+    {
+      "[multiple_route]phone_known_respondent": "yes",
+      "![multiple_route]phone-home": ".+"
+    }
+  ]
 }

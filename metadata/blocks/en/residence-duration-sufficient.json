@@ -3,5 +3,6 @@
   "_isa": "radio_group:yes-no-unsure",
   "inline": true,
   "label": "Have they lived at this address for more than 5 years?",
+  "required": true,
   "subblock": "address-previous"
 }
