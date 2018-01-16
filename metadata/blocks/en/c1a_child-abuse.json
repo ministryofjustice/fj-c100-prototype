@@ -2,5 +2,6 @@
   "_id": "c1a_child-abuse",
   "_isa": "radio_group:yes-no-required",
   "label": "Have your children ever been abused?",
+  "playback": "your children have been abused",
   "visuallyhidden": true
 }
