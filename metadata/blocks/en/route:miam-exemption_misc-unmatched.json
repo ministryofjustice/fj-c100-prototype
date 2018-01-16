@@ -7,13 +7,11 @@
   "depends": [
     {
       "!miam_certification": "yes",
-      "!auto-exemption-claimed.*": "yes",
-      "!flag-miam-exemptions-at-start": true
+      "!auto-exemption-claimed.*": "yes"
     },
     {
       "!miam_certification": "yes",
-      "auto-exemption-claimed_access.*": "yes",
-      "!flag-miam-exemptions-at-start": true
+      "auto-exemption-claimed_access.*": "yes"
     }
   ],
   "title": "",

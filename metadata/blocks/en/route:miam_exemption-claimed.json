@@ -11,8 +11,7 @@
     {
       "!miam_certification": "yes",
       "!auto-exemption-claimed.*": "yes",
-      "!c1a_.*": "NOyes",
-      "!flag-miam-exemptions-at-start": true
+      "!c1a_.*": "yes"
     }
   ],
   "heading": "You need to attend a MIAM\r\n!abbr:MIAM!",

@@ -6,8 +6,7 @@
   "depends": [
     {
       "!miam_certification": "yes",
-      "provide_evidence": "yes",
-      "!flag-miam-exemptions-at-start": true
+      "provide_evidence": "yes"
     }
   ],
   "heading": "You might have a valid reason not to attend a MIAM\r\n!abbr:MIAM!",

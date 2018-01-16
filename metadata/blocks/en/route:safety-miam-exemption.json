@@ -7,9 +7,8 @@
   "depends": [
     {
       "!miam_certification": "yes",
-      "c1a_.*": "NOyes",
-      "!auto-exemption-claimed.*": "yes",
-      "!flag-miam-exemptions-at-start": true
+      "c1a_.*": "yes",
+      "!auto-exemption-claimed.*": "yes"
     }
   ],
   "heading": "You haven’t been to a MIAM\r\n!abbr:MIAM!",
