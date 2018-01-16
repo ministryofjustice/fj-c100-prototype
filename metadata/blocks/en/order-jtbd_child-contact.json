@@ -1,8 +1,8 @@
 {
   "_blockType": "Option",
   "_id": "order-jtbd_child-contact",
-  "displayLabel": "Confirm when and what other types of contact will take place with them",
+  "displayLabel": "Arrange what types of contact will take place and when",
   "hint": "For example, phone calls",
-  "label": "Confirm when and what other types of contact will take place with them",
+  "label": "Arrange what types of contact will take place and when",
   "value": "yes"
 }
