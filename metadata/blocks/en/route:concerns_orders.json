@@ -3,9 +3,12 @@
   "_blockType": "Route",
   "_id": "route:concerns_orders",
   "_isa": "view:form",
+  "block": "concerns_orders",
   "body": "",
   "lede": "For example, a restraining order. Include any orders that are still valid.",
+  "steps": [
+    "route:concerns_orders_details"
+  ],
   "title": "",
-  "url": "/concerns/orders",
-  "block": "concerns_orders"
+  "url": "/concerns/orders"
 }

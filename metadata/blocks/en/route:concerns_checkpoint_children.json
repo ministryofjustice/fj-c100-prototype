@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_checkpoint_children",
+  "_isa": "view:form",
+  "body": "The court needs to know if the other person (the respondent) or anyone they’re in contact with poses a risk to the safety of your children.\r\n\r\nThe following questions will ask whether your children have experienced, or are at risk of experiencing, any form of harm.\r\n\r\nFind out about the [signs of child abuse]({app:urls:url:nspcc-child-abuse}).",
+  "continue": "continue",
+  "heading": "About your children",
+  "steps": [
+    "route:concerns_children_sexual",
+    "route:concerns_children_physical",
+    "route:concerns_children_financial",
+    "route:concerns_children_psychological",
+    "route:concerns_children_emotional",
+    "route:concerns_children_other"
+  ],
+  "title": "",
+  "url": "/concerns/children"
+}

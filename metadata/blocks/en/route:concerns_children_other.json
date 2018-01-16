@@ -4,6 +4,9 @@
   "_isa": "view:form",
   "block": "concerns_children_other",
   "body": "For example, you think the other person is failing to meet their basic needs (known as child neglect) or you’re worried about someone they may have contact with.",
+  "steps": [
+    "route:concerns_children_other-details"
+  ],
   "title": "",
   "url": "/concerns/children/other"
 }

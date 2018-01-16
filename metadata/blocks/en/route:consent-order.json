@@ -3,7 +3,7 @@
   "_id": "route:consent-order",
   "_isa": "view:form",
   "block": "consent-order",
-  "body": "If you’ve already made a decision about your child arrangements with the other person (the respondent) you can make it legally binding.\r\n\r\nThis is known as a consent order.\r\n\r\nYou can only ask for a consent order if:\r\n\r\n- you have your agreement in writing (you’ll need to attach the agreement to your application)\r\n- you’re not in dispute with the other person\r\n- the court has no concerns about the safety or welfare of anyone involved\r\n",
+  "body": "If you’ve made a decision about your child arrangements with the other person (the respondent) you can ask the court to make it legally binding.\r\n\r\nThis is known as a consent order.\r\n\r\nYou can only ask for a consent order if:\r\n\r\n- you have your agreement in writing (you’ll need to attach the agreement to your application)\r\n- you’re not in dispute with the other person\r\n- the court has no concerns about the safety or welfare of anyone involved\r\n",
   "steps": [
     "route:consent-order_sought"
   ],

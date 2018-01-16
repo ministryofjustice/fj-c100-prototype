@@ -1,0 +1,18 @@
+{
+  "_blockType": "Route",
+  "_id": "route:concerns_checkpoint_applicant",
+  "_isa": "view:form",
+  "body": "The court needs to know if the other person (the respondent) or anyone they’re in contact with poses a risk to your safety.\r\n\r\nThe following questions will ask whether you have experienced, or are at risk of experiencing, any form of harm.\r\n\r\nFind out about the [signs of domestic abuse]({app:urls:url:refuge-domestic-abuse}).",
+  "continue": "continue",
+  "heading": "About you",
+  "steps": [
+    "route:concerns_applicant_sexual",
+    "route:concerns_applicant_physical",
+    "route:concerns_applicant_financial",
+    "route:concerns_applicant_psychological",
+    "route:concerns_applicant_emotional",
+    "route:concerns_applicant_other"
+  ],
+  "title": "",
+  "url": "/concerns/applicant"
+}

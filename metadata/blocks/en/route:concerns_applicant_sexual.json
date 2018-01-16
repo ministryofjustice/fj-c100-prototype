@@ -4,6 +4,9 @@
   "_isa": "view:form",
   "block": "concerns_applicant_sexual",
   "body": "Examples of sexual abuse include:\r\n\r\n- being forced or pressured to have sex without consent \r\n- threatening someone into an unwanted sexual activity\r\n- unwanted touching or groping",
+  "steps": [
+    "route:concerns_applicant_sexual-details"
+  ],
   "title": "",
   "url": "/concerns/applicant/sexual"
 }

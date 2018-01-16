@@ -2,7 +2,10 @@
   "_blockType": "Route",
   "_id": "route:concerns_applicant_other",
   "_isa": "view:form",
+  "block": "concerns_applicant_other",
+  "steps": [
+    "route:concerns_applicant_other-details"
+  ],
   "title": "",
-  "url": "/concerns/applicant/other",
-  "block": "concerns_applicant_other"
+  "url": "/concerns/applicant/other"
 }

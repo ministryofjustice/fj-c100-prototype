@@ -9,6 +9,9 @@
       "!consent-order": "yes"
     }
   ],
+  "extraBlocks": [
+    "children-explanation"
+  ],
   "steps": [
     "route:cases_child-protection_info"
   ],

@@ -4,6 +4,9 @@
   "_isa": "view:form",
   "block": "concerns_applicant_emotional",
   "body": "Emotional abuse can be verbal or non-verbal. \r\n\r\nExamples include:\r\n\r\n- name calling\r\n- constant criticism\r\n- ignoring someone\r\n- not letting them have an opinion\r\n",
+  "steps": [
+    "route:concerns_applicant_emotional-details"
+  ],
   "title": "",
   "url": "/concerns/applicant/emotional"
 }

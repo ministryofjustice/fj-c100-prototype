@@ -4,6 +4,9 @@
   "_isa": "view:form",
   "block": "concerns_applicant_physical",
   "body": "Physical abuse includes actions such as:\r\n\r\n- punching\r\n- choking\r\n- kicking\r\n- hitting with an object\r\n",
+  "steps": [
+    "route:concerns_applicant_physical-details"
+  ],
   "title": "",
   "url": "/concerns/applicant/physical"
 }

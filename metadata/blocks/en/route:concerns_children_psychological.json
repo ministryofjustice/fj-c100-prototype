@@ -4,6 +4,9 @@
   "_isa": "view:form",
   "block": "concerns_children_psychological",
   "body": "!route:concerns_applicant_psychological#body!",
+  "steps": [
+    "route:concerns_children_psychological-details"
+  ],
   "title": "",
   "url": "/concerns/children/psychological"
 }
