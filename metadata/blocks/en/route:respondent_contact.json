@@ -7,12 +7,12 @@
     "address-for-documents",
     "postcode",
     "address_unsure",
+    "residence-duration-sufficient",
     "phone-home",
     "phone-mobile",
     "phone_unsure",
     "email",
-    "email_unsure",
-    "residence-duration-sufficient"
+    "email_unsure"
   ],
   "body": "",
   "heading": "Contact details for !route_party_full-name!",
