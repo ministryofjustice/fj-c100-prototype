@@ -1,0 +1,9 @@
+{
+  "_id": "phone_known_respondent",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Do you know their phone number?",
+  "multiple": true,
+  "multiple_max": 1,
+  "multiple_min": 1,
+  "subblock": "phone_known_respondent_details"
+}

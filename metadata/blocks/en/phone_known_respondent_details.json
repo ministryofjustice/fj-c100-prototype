@@ -1,0 +1,13 @@
+{
+  "_blockType": "Group",
+  "_id": "phone_known_respondent_details",
+  "blocks": [
+    "phone-home",
+    "phone-mobile"
+  ],
+  "depends": [
+    {
+      "phone_known_respondent": "yes"
+    }
+  ]
+}

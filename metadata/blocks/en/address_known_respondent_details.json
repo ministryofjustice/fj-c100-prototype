@@ -1,0 +1,13 @@
+{
+  "_blockType": "Group",
+  "_id": "address_known_respondent_details",
+  "blocks": [
+    "address-for-documents",
+    "postcode"
+  ],
+  "depends": [
+    {
+      "address_known_respondent": "yes"
+    }
+  ]
+}

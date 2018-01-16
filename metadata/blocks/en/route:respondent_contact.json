@@ -4,15 +4,10 @@
   "_id": "route:respondent_contact",
   "_isa": "view:form",
   "blocks": [
-    "address-for-documents",
-    "postcode",
-    "address_unsure",
+    "address_known_respondent",
     "residence-duration-sufficient",
-    "phone-home",
-    "phone-mobile",
-    "phone_unsure",
-    "email",
-    "email_unsure"
+    "phone_known_respondent",
+    "email_known_respondent"
   ],
   "body": "",
   "heading": "Contact details for !route_party_full-name!",

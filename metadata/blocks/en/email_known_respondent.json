@@ -1,0 +1,9 @@
+{
+  "_id": "email_known_respondent",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Do you know their email address?",
+  "subblock": "email_known_respondent_details",
+  "xmultiple": true,
+  "xmultiple_max": 1,
+  "xmultiple_min": 1
+}

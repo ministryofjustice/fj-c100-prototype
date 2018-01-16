@@ -3,7 +3,7 @@
   "_isa": "text:email",
   "requiredWhen": [
     {
-      "![multiple_route]email_unsure": "yes"
+      "[multiple_route]email_known_respondent": "yes"
     }
   ]
 }

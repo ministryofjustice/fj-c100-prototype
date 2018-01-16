@@ -1,6 +1,12 @@
 {
   "_id": "address-for-documents",
   "_isa": "address",
+  "depends": [
+    {
+      "[multiple_route]address_known_respondent": "yes"
+    }
+  ],
   "hint": "Documents for this application will be sent here",
-  "label": "Address"
+  "label": "Address",
+  "required": true
 }

@@ -1,10 +1,5 @@
 {
   "_blockType": "Text",
   "_id": "postcode",
-  "label": "Postcode",
-  "requiredWhen": [
-    {
-      "![multiple_route]address_unsure": "yes"
-    }
-  ]
+  "label": "Postcode"
 }
