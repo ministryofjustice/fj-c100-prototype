@@ -8,10 +8,10 @@
     "address-privacy-warning_no",
     "address_applicant",
     "postcode_applicant",
+    "residence-duration-sufficient_required",
     "phone-home_applicant",
     "phone-mobile_applicant",
-    "email_applicant",
-    "residence-duration-sufficient_required"
+    "email_applicant"
   ],
   "body": "",
   "heading": "{app:route:_index, select, 1 {Your contact details} other {Contact details for !route_party_full-name!} undefined{Your contact details/Contact details for #applicant-name#}}",
