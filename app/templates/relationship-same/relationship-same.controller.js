@@ -1,3 +1,5 @@
+'use strict'
+
 const RelationshipController = (req, res) => {
   return (routeInstance, methods) => {
     const controller = new Promise(resolve => {
