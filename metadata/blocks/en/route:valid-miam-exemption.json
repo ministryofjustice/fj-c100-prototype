@@ -7,7 +7,15 @@
   "controller": "app/templates/valid-miam-exemption/valid-miam-exemption.controller",
   "depends": [
     {
-      "auto-exemption-claimed.*": "yes"
+      "auto-exemption-claimed.*": "yes",
+      "!consent-order": "yes",
+      "!cases_child-protection": "yes"
+    },
+    {
+      "miam_attended": "yes",
+      "miam_certification": "no",
+      "!consent-order": "yes",
+      "!cases_child-protection": "yes"
     }
   ],
   "heading": "You don’t have to attend a MIAM\r\n!abbr:MIAM!",

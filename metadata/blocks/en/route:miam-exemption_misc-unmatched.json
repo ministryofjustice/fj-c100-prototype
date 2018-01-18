@@ -6,12 +6,19 @@
   "body": "(i) If you can’t access a MIAM for any of the following reasons you will need to provide evidence.\r\n!abbr:MIAM!",
   "depends": [
     {
-      "!miam_certification": "yes",
-      "!auto-exemption-claimed.*": "yes"
+      "!auto-exemption-claimed.*": "yes",
+      "miam_attended": "no",
+      "!consent-order": "yes",
+      "!cases_child-protection": "yes"
     },
     {
-      "!miam_certification": "yes",
-      "auto-exemption-claimed_access.*": "yes"
+      "auto-exemption-claimed_access.*": "yes",
+      "miam_attended": "no",
+      "!consent-order": "yes",
+      "!cases_child-protection": "yes"
+    },
+    {
+      "TECHNOTE": "Only auto-exemption-claimed_access.* is really required for the second condition"
     }
   ],
   "title": "",

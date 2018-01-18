@@ -6,7 +6,7 @@
   "continue": "continue",
   "depends": [
     {
-      "!miam_certification": "yes",
+      "!miam_attended": "yes",
       "c1a_.*": "yes",
       "!auto-exemption-claimed.*": "yes"
     }

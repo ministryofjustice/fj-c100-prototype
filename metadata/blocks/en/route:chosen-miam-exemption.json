@@ -4,6 +4,11 @@
   "_isa": "view:form",
   "body": "You’ve said you have a valid reason for not attending a MIAM.\r\n\r\n(i) You will need to provide evidence to support your claim. If you can’t you may be found in contempt of court.\r\n!abbr:MIAM!",
   "continue": "continue",
+  "depends": [
+    {
+      "exemption-claimed.*": "yes"
+    }
+  ],
   "heading": "You’re claiming a valid reason for not attending a MIAM\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/reason-chosen"

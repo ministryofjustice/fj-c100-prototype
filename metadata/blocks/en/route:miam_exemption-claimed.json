@@ -9,8 +9,10 @@
   "body": "If you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}) not to attend a MIAM you’ll need to tell us what evidence you have to support your claim.\r\n!abbr:MIAM!",
   "depends": [
     {
-      "!miam_certification": "yes",
       "!auto-exemption-claimed.*": "yes",
+      "!miam_attended": "yes",
+      "!consent-order": "yes",
+      "!cases_child-protection": "yes",
       "!c1a_.*": "yes"
     }
   ],
