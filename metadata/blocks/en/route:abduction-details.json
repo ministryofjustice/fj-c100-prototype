@@ -2,8 +2,12 @@
   "_blockType": "Route",
   "_id": "route:abduction-details",
   "_isa": "view:form",
-  "block": "abduction_reasons",
+  "blocks": [
+    "abduction_reasons",
+    "abduction_current-location"
+  ],
   "body": "Briefly explain your concerns, including:\r\n\r\n- who might take them\r\n- where they might be taken",
+  "heading": "!abduction_reasons#label!",
   "title": "",
   "url": "/concerns/abduction/details"
 }
