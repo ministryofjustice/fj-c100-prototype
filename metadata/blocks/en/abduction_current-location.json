@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "abduction_current-location",
+  "label": "Where are the children now?",
+  "multiline": true,
+  "required": true
+}
