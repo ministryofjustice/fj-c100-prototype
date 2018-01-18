@@ -1,0 +1,14 @@
+{
+  "_blockType": "Group",
+  "_id": "abduction_passport_dependencies",
+  "blocks": [
+    "abduction_passport-multiple",
+    "abduction_passport-possession"
+  ],
+  "body": "",
+  "depends": [
+    {
+      "abduction_abroad": "yes"
+    }
+  ]
+}

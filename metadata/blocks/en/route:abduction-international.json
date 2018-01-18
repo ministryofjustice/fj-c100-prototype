@@ -3,17 +3,20 @@
   "_id": "route:abduction-international",
   "_isa": "view:form",
   "blocks": [
-    "abduction_abroad",
-    "abduction_passport-multiple",
-    "abduction_passport-possession"
+    "abduction_abroad"
   ],
   "body": "",
   "depends": [
     {
-      "abduction_passport": "yes"
+      "c1a_child-abduction": "yes"
     }
   ],
   "heading": "!abduction_abroad#label!",
+  "steps": [
+    "route:abduction-passport",
+    "route:abduction-previous",
+    "route:abduction-details"
+  ],
   "summary_heading": "",
   "title": "",
   "url": "/concerns/abduction/international"

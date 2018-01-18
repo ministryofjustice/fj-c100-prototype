@@ -4,15 +4,8 @@
   "_isa": "view:form",
   "block": "abduction_passport",
   "body": "",
-  "depends": [
-    {
-      "c1a_child-abduction": "yes"
-    }
-  ],
   "steps": [
-    "route:abduction-international",
-    "route:abduction-previous",
-    "route:abduction-details"
+    "route:abduction-passport-details"
   ],
   "title": "",
   "url": "/concerns/abduction/passport"

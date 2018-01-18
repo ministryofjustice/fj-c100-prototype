@@ -11,7 +11,6 @@
   "steps": [
     "route:address-confidentiality",
     "route:abduction",
-    "route:abduction-passport",
     "route:substance-abuse",
     "route:substance-abuse-details",
     "route:concerns_child-abuse",

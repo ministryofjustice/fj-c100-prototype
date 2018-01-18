@@ -8,9 +8,5 @@
     "passport-father",
     "passport-other"
   ],
-  "requiredWhen": [
-    {
-      "abduction_abroad": "yes"
-    }
-  ]
+  "required": true
 }
