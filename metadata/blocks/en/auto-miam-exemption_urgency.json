@@ -5,7 +5,6 @@
   "options": [
     "auto-miam-exemption_group_risk-applicant",
     "auto-miam-exemption_group_miscarriage",
-    "auto-exemption-claimed_international-proceedings",
     "auto-miam-exemption_urgency_none"
   ],
   "required": true
