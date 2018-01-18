@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_court_finding-of-fact",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "A copy of a finding of fact, made in proceedings in the United Kingdom, that there has been domestic violence by a prospective party"
 }

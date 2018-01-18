@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_local-authority_marac",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "A letter from any person who is a member of a multi-agency risk assessment conference (or other suitable local safeguarding forum) confirming that a prospective party, or a person with whom that prospective party is in a family relationship, is or has been at risk of harm from domestic violence by another prospective party"
 }

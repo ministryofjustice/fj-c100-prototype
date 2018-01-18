@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_da-service_refuge-refusal",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "A letter or report from an organisation providing domestic violence support\r\nservices in the United Kingdom confirming-\r\n\r\n(i) that a person with whom a prospective party is or was in a family\r\nrelationship was refused admission to a refuge;\r\n\r\n(ii) the date on which they were refused admission to the refuge; and\r\n\r\n(iii) they sought admission to the refuge because of allegations of\r\ndomestic violence by the prospective party referred to in paragraph (i)"
 }

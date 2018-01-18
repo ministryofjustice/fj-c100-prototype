@@ -1,6 +1,7 @@
 {
   "_id": "exemption-claimed_applicant-child",
   "_isa": "option:yes",
+  "exemption_type": "misc",
   "hint": "You don’t need to attend a MIAM if you’re making the application and under 18.",
   "label": "You’re the applicant and under 18 years old"
 }

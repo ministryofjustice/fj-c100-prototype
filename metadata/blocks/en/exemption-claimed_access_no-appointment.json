@@ -1,6 +1,7 @@
 {
   "_id": "exemption-claimed_access_no-appointment",
   "_isa": "option:yes",
+  "exemption_type": "misc",
   "label": "You or the other person has contacted 3 mediators within 15 miles and can’t get an appointment within 15 working days",
   "sublabel": "You will need to provide:\r\n\r\n- evidence you’ve contacted 3 mediators who all state they can’t offer an appointment within 15 days\r\n- names and contact details of the mediators, including dates of contact"
 }

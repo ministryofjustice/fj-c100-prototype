@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_court_bound-over",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "A court order binding a prospective party over in connection with a domestic\r\nviolence offence\r\n"
 }

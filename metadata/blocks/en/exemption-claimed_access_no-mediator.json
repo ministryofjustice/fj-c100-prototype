@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_access_no-mediator",
   "_isa": "option:yes",
+  "exemption_type": "misc",
   "label": "There is no authorised family mediator with an office within 15 miles of your home"
 }

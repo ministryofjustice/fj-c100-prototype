@@ -1,0 +1,12 @@
+{% macro ExemptionsPlayback() %}
+<!--
+You don’t have to go because:
+-->
+{% for reason in route.validReasons %}
+{% set exemption_type = getBlockProp(reason, 'exemption_type') %}
+{% if exemption_type %}
+<h4>{{ getBlockProp('exemption_types', exemption_type) }}</h4>
+{% endif %}
+<div class="minky">{{ getFormattedBodyContent(reason, 'label') | safe }}</div>
+{% endfor %}
+{% endmacro %}

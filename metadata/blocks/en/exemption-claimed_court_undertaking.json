@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_court_undertaking",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "An undertaking given in England and Wales under section 46 or 63E of the Family Law Act 1996 (or given in Scotland or Northern Ireland in place of a protective injunction) by a prospective party, provided that a cross-undertaking relating to domestic violence was not given by another prospective party"
 }

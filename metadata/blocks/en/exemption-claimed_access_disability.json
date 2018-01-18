@@ -1,6 +1,7 @@
 {
   "_id": "exemption-claimed_access_disability",
   "_isa": "option:yes",
+  "exemption_type": "misc",
   "label": "You or the other person has a disability and the mediator doesn’t have disabled facilities",
   "sublabel": "You will need to provide:\r\n\r\n- evidence you’ve contacted 3 mediators who all state they don’t have disabled facilities \r\n- names and contact details of the mediators, including dates of contact"
 }

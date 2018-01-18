@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_police_arrested",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "Evidence that a prospective party has been arrested for a relevant domestic violence offence"
 }

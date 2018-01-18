@@ -1,6 +1,7 @@
 {
   "_id": "exemption-claimed_without-notice",
   "_isa": "option:yes",
+  "exemption_type": "misc",
   "hint": "A without notice hearing is when your case is exceptionally urgent and you don’t want to tell the other person about your application.",
   "label": "You’re applying for a without notice hearing"
 }

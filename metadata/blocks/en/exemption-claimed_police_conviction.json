@@ -1,5 +1,6 @@
 {
   "_id": "exemption-claimed_police_conviction",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "label": "Evidence of a relevant conviction for a domestic violence offence"
 }

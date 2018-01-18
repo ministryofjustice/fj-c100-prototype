@@ -1,6 +1,7 @@
 {
   "_id": "exemption-claimed_financial-abuse",
   "_isa": "option:yes",
+  "exemption_type": "domestic_abuse",
   "hint": "Examples of financial abuse include not allowing a person to work or withholding money.\r\n\r\nThe following are examples of what counts as evidence:\r\n\r\n- a copy of a credit card account, loan document or bank statements\r\n- a letter from a domestic violence support organisation\r\n- emails, text messages or a diary kept by the victim",
   "label": "You have evidence you’ve been financially abused"
 }
