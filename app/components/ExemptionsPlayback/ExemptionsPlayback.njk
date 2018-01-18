@@ -7,6 +7,7 @@ You don’t have to go because:
 {% if exemption_type %}
 <h4>{{ getBlockProp('exemption_types', exemption_type) }}</h4>
 {% endif %}
+{% set reasonSink = getFormattedBodyContent(reason, 'label') %}
 <div class="minky">{{ getFormattedBodyContent(reason, 'label') | safe }}</div>
 {% endfor %}
 {% endmacro %}
