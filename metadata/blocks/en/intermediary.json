@@ -1,0 +1,6 @@
+{
+  "_id": "intermediary",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Are you aware of whether an intermediary will be required?",
+  "subblock": "intermediary_details"
+}

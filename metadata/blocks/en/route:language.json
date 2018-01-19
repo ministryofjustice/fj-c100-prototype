@@ -2,16 +2,17 @@
   "_blockType": "Route",
   "_id": "route:language",
   "_isa": "view:form",
+  "block": "language",
   "section_heading": "Attending court",
   "steps": [
     "route:language-welsh",
     "route:language-other",
     "route:litigation-capacity",
+    "route:intermediary",
     "route:special-assistance",
     "route:special-arrangements"
   ],
   "steps_heading": "!route:language#section_heading!",
   "title": "",
-  "url": "/language",
-  "block": "language"
+  "url": "/language"
 }

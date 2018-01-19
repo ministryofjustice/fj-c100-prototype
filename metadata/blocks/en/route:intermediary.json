@@ -1,0 +1,8 @@
+{
+  "_blockType": "Route",
+  "_id": "route:intermediary",
+  "_isa": "view:form",
+  "block": "intermediary",
+  "title": "",
+  "url": "/intermediary"
+}
