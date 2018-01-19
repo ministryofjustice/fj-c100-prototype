@@ -14,5 +14,6 @@
   "applicant-details_off": true,
   "respondent-details_off": true,
   "other-party-details_off": true,
-  "links-open-in-new-window": false
+  "links-open-in-new-window": false,
+  "check-your-answers": false
 }

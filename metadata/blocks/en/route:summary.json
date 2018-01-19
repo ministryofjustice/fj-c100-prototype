@@ -2,6 +2,11 @@
   "_blockType": "Route",
   "_id": "route:summary",
   "body": "",
+  "depends": [
+    {
+      "flag-check-your-answers": true
+    }
+  ],
   "heading": "Check your answers",
   "lede": "Please review your answers before submitting your application",
   "template": "summary",
