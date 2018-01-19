@@ -1,0 +1,13 @@
+{
+  "_blockType": "Group",
+  "_id": "alternative_collaborative-law_details",
+  "blocks": [
+    "alternative_collaborative-law_same",
+    "alternative_collaborative-law_when"
+  ],
+  "depends": [
+    {
+      "alternative_collaborative-law": "yes"
+    }
+  ]
+}

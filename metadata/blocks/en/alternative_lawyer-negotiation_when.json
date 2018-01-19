@@ -1,0 +1,15 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "alternative_lawyer-negotiation_when",
+  "label": "When did you try lawyer negotiation?",
+  "options": [
+    "option:miam-ongoing",
+    "option:miam-recent",
+    "option:miam-too-old"
+  ],
+  "requiredWhen": [
+    {
+      "alternative_lawyer-negotiation": "yes"
+    }
+  ]
+}

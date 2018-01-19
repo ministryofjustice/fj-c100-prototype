@@ -1,0 +1,15 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "alternative_mediation_when",
+  "label": "When did you try professional mediation?",
+  "options": [
+    "option:miam-ongoing",
+    "option:miam-recent",
+    "option:miam-too-old"
+  ],
+  "requiredWhen": [
+    {
+      "alternative_mediation": "yes"
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "_id": "alternative_mediation",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you tried professional mediation?"
+  "label": "Have you tried professional mediation?",
+  "subblock": "alternative_mediation_details"
 }
