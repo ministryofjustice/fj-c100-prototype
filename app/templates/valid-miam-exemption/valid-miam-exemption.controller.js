@@ -6,7 +6,8 @@ const ValidExemptionController = (req, res) => {
 
       const mappedFields = {
         'children_known-to-authorities': 'auto-exemption-claimed_local-authority-involvement_section47',
-        'children_child-protection-plan': 'auto-exemption-claimed_local-authority-involvement_protection-plan'
+        'children_child-protection-plan': 'auto-exemption-claimed_local-authority-involvement_protection-plan',
+        'without-notice': 'auto-exemption-claimed_without-notice'
       }
 
       Object.keys(mappedFields).forEach(answer => {
