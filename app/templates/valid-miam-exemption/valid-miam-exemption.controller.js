@@ -1,4 +1,5 @@
 'use strict'
+const matchProp = require('pflr-express-kit/lib/match-prop')
 
 const ValidExemptionController = (req, res) => {
   return (routeInstance, methods) => {
@@ -41,30 +42,42 @@ const ValidExemptionController = (req, res) => {
           {
             'proceedings_exemption_13D05': 'yes'
           }
+        ],
+        'auto-exemption-claimed_adr_ongoing-attendance': [
+          {
+            'alternative_mediation_same': 'yes',
+            'alternative_mediation_when': 'ongoing'
+          },
+          {
+            'alternative_lawyer-negotiation_same': 'yes',
+            'alternative_lawyer-negotiation_when': 'ongoing'
+          },
+          {
+            'alternative_collaborative-law_same': 'yes',
+            'alternative_collaborative-law_when': 'ongoing'
+          }
+        ],
+        'auto-exemption-claimed_adr_previous-attendance': [
+          {
+            'alternative_mediation_same': 'yes',
+            'alternative_mediation_when': 'recent'
+          },
+          {
+            'alternative_lawyer-negotiation_same': 'yes',
+            'alternative_lawyer_negotiation_when': 'recent'
+          },
+          {
+            'alternative_collaborative-law_same': 'yes',
+            'alternative_collaborative-law_when': 'recent'
+          }
         ]
       }
 
-      const mappedFields = {
-        'children_known-to-authorities': 'auto-exemption-claimed_local-authority-involvement_section47',
-        'children_child-protection-plan': 'auto-exemption-claimed_local-authority-involvement_protection-plan',
-        'without-notice': 'auto-exemption-claimed_without-notice',
-        'international_jurisdiction': 'auto-exemption-claimed_international-proceedings',
-        'international_request': 'auto-exemption-claimed_international-proceedings',
-        'proceedings_exemption_13D03': 'auto-exemption-claimed_adr_previous-exemption',
-        'proceedings_exemption_13D04': 'auto-exemption-claimed_adr_existing-proceedings-attendance',
-        'proceedings_exemption_13D05': 'auto-exemption-claimed_adr_existing-proceedings-exemption'
-      }
-
-      Object.keys(mappedFields).forEach(answer => {
-        const mappedAnswer = mappedFields[answer]
-        if (autofields[answer] !== 'yes') {
-          delete autofields[mappedAnswer]
-        }
-      })
-      Object.keys(mappedFields).forEach(answer => {
-        const mappedAnswer = mappedFields[answer]
-        if (autofields[answer] === 'yes') {
-          autofields[mappedAnswer] = 'yes'
+      Object.keys(generatedFields).forEach(key => {
+        if (matchProp(autofields, generatedFields[key])) {
+          autofields[key] = 'yes'
+        } else {
+          delete autofields[key]
         }
       })
 
