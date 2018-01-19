@@ -36,7 +36,6 @@
     "route:miam_exemption-claimed",
     "route:application-details",
     "route:language",
-    "route:test-end",
     "route:help-with-fees",
     "route:statement-of-truth",
     "route:summary",

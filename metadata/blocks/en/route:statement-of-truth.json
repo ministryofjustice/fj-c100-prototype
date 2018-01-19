@@ -3,15 +3,10 @@
   "_id": "route:statement-of-truth",
   "_isa": "view:form",
   "blocks": [
-    "statement_belief",
-    "statement_authorised",
-    "statement_signatory_full-name",
-    "statement_solicitors",
-    "statement_signed",
-    "statement_signatory_position",
-    "statement_legal-warning"
+    "declaration_made"
   ],
-  "heading": "Statement of truth",
+  "body": "By submitting your application you confirm the information you’ve provided is true.\r\n\r\n(!) You could be found in contempt of court if you deliberately give false or misleading information.",
+  "heading": "Declaration",
   "title": "",
-  "url": "/statement-of-truth"
+  "url": "/declaration"
 }
