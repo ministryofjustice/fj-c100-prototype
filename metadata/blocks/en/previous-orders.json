@@ -14,5 +14,5 @@
     "previous-order_child-maintenance",
     "previous-order_child-arrangements"
   ],
-  "required": false
+  "required": true
 }
