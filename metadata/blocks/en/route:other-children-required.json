@@ -2,11 +2,16 @@
   "_blockType": "Route",
   "_id": "route:other-children-required",
   "_isa": "view:form",
+  "block": "other-children-required",
   "body": "",
+  "depends": [
+    {
+      "!flag-other-children-details_off": true
+    }
+  ],
   "steps": [
     "route:other-children_names"
   ],
   "title": "",
-  "url": "/other-children/required",
-  "block": "other-children-required"
+  "url": "/other-children/required"
 }

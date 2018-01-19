@@ -6,6 +6,11 @@
     "children"
   ],
   "body": "(i) The {children, select, 1{name} undefined{name} other{names}} should be as {children, select, 1{it appears} undefined{it appears} other{they appear}} on the birth certificate (including any middle names)",
+  "depends": [
+    {
+      "!flag-children-details_off": true
+    }
+  ],
   "heading": "Enter the {children, select, 1{name of your child} undefined{name of your child} other{names of your children}}",
   "lede": "Only include the children you’re making this application for",
   "steps": [

@@ -6,6 +6,11 @@
     "respondents"
   ],
   "body": "The other person who will receive this application is known as the respondent.\r\n\r\n(i) The {respondents, select, 1{name} undefined{name} other{names}} should be as {respondents, select, 1{it appears} undefined{it appears} other{they appear}} on the birth certificate (including any middle names)",
+  "depends": [
+    {
+      "!flag-respondent-details_off": true
+    }
+  ],
   "heading": "{respondents, select, 1{Enter the respondent’s name} other{Enter the respondents’ names} undefined{Enter the respondent’s name}}",
   "steps": [
     "route:respondents"

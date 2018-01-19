@@ -6,6 +6,29 @@ const ValidExemptionController = (req, res) => {
 
       const autofields = routeInstance.autofields
 
+      const generatedFields = {
+        'auto-exemption-claimed_local-authority-involvement_section47': [
+          {
+            'children_known-to-authorities': 'yes'
+          }
+        ],
+        'auto-exemption-claimed_local-authority-involvement_protection-plan': [
+          {
+            'children_child-protection-plan': 'yes'
+          }
+        ],
+        'auto-exemption-claimed_without-notice': [
+          {
+            'without-notice': 'yes'
+          }
+        ],
+        'auto-exemption-claimed_international-proceedings': [
+          {
+            '(international_jurisdiction|international_request)': 'yes'
+          }
+        ]
+      }
+
       const mappedFields = {
         'children_known-to-authorities': 'auto-exemption-claimed_local-authority-involvement_section47',
         'children_child-protection-plan': 'auto-exemption-claimed_local-authority-involvement_protection-plan',
