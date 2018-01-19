@@ -2,7 +2,7 @@
   "_blockType": "Option",
   "_id": "order_specific-issue",
   "hint": "For example, what school they’ll go to",
-  "label": "Resolve a dispute over a specific issue",
+  "label": "Resolve any other dispute",
   "subblock": "order_specific-issues",
   "value": "yes"
 }

@@ -8,7 +8,8 @@
   ],
   "label": "!miam-exemption_group_previous-adr_options#label!",
   "options": [
-    "option:to-be-done"
+    "auto-exemption-claimed_adr_previous-attendance",
+    "auto-exemption-claimed_adr_ongoing-attendance"
   ],
   "requiredWhen": [
     {

@@ -1,0 +1,9 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemptions_proceedings",
+  "_isa": "view:form",
+  "block": "auto-miam-exemption_group_previous-miam_options",
+  "body": "(i) You will need to provide evidence to support your claim",
+  "title": "",
+  "url": "/court-proceedings/miam/exemption"
+}

@@ -13,10 +13,10 @@
 <p>{{ getFormattedBodyContent(section.collection, 'playback_order') | safe }}</p>
 </div>
 {% endfor %}
-{% if autofields['order_specific-issues_other_details'] %}
+{% if autofields['order_issue_other_details'] %}
 <div>
 <p>{{Block.String('string:other-issue-provided')}}</p>
-<div class="panel">{{autofields['order_specific-issues_other_details']}}</div>
+<div class="panel">{{autofields['order_issue_other_details']}}</div>
 </div>
 {% endif %}
 </div>

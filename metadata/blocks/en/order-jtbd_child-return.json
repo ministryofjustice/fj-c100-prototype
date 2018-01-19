@@ -2,6 +2,7 @@
   "_blockType": "Option",
   "_id": "order-jtbd_child-return",
   "displayLabel": "Returning them to your care",
-  "label": "Return them to your care",
+  "hint": "If your children have been abducted",
+  "label": "Make the other person return them to your care",
   "value": "yes"
 }

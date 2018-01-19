@@ -3,8 +3,8 @@
   "_id": "collection:order-types",
   "items": [
     "collection:child-arrangements-order",
-    "collection:specific-issue-order",
-    "collection:prohibited-steps-order"
+    "collection:prohibited-steps-order",
+    "collection:specific-issue-order"
   ],
   "title": "Order types"
 }

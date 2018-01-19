@@ -7,8 +7,8 @@
     "order-jtbd_specific-issue_religion",
     "order-jtbd_specific-issue_name",
     "order-jtbd_specific-issue_medical",
+    "order-jtbd_specific-issue_moving",
     "order-jtbd_specific-issue_abroad",
-    "order-jtbd_specific-issue_other",
     "order-jtbd_child-return"
   ],
   "playback_ask": "!jtbd_playback#playback_ask! resolve a dispute about",

@@ -8,8 +8,6 @@
   ],
   "label": "Evidence of previous MIAM attendance",
   "options": [
-    "exemption-claimed_adr_previous-attendance",
-    "exemption-claimed_adr_ongoing-attendance",
     "exemption-claimed_adr_previous-exemption",
     "exemption-claimed_adr_existing-proceedings-attendance",
     "exemption-claimed_adr_existing-proceedings-exemption"

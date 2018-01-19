@@ -6,10 +6,12 @@
     "order-jtbd_child-home",
     "order-jtbd_child-times",
     "order-jtbd_child-contact",
+    "order-jtbd_child-event",
+    "order-jtbd_child-access",
     "order-jtbd_child-return",
-    "order-jtbd_child-abduction",
-    "order-jtbd_child-flight",
-    "order_specific-issue"
+    "order_prohibited-step",
+    "order_specific-issue",
+    "order_issue_other"
   ],
   "required": true,
   "visuallyhidden": true,

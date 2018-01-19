@@ -2,12 +2,13 @@
   "_blockType": "Route",
   "_id": "route:previous-proceedings",
   "_isa": "view:form",
+  "block": "additional-info_previous-proceedings",
   "body": "For example an emergency protection order or supervision order. Include any ongoing cases.",
   "steps": [
-    "route:court-proceedings"
+    "route:court-proceedings",
+    "route:miam-exemptions_proceedings"
   ],
   "steps_heading": "Previous proceedings",
   "title": "",
-  "url": "/previous-proceedings",
-  "block": "additional-info_previous-proceedings"
+  "url": "/previous-proceedings"
 }

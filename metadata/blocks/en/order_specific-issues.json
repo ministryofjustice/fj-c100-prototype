@@ -6,14 +6,15 @@
       "order_specific-issue": "yes"
     }
   ],
-  "label": "What is the specific issue you’re asking the court to resolve?",
+  "hint": "Select all that apply",
+  "label": "Resolve any other dispute",
   "options": [
     "order-jtbd_specific-issue_school",
     "order-jtbd_specific-issue_religion",
     "order-jtbd_specific-issue_name",
     "order-jtbd_specific-issue_medical",
-    "order-jtbd_specific-issue_abroad",
-    "order_specific-issue_other"
+    "order-jtbd_specific-issue_moving",
+    "order-jtbd_specific-issue_abroad"
   ],
   "required": true,
   "visuallyhidden": false

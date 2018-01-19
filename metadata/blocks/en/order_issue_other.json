@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "order_issue_other",
+  "label": "Deal with another issue not listed",
+  "subblock": "order_issue_other_details",
+  "value": "yes"
+}

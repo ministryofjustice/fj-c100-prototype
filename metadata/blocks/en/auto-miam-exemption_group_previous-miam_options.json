@@ -1,23 +1,13 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "auto-miam-exemption_group_previous-miam_options",
-  "depends": [
-    {
-      "auto-miam-exemption_group_previous-miam": "yes"
-    }
-  ],
   "label": "!miam-exemption_group_previous-miam_options#label!",
   "options": [
-    "auto-exemption-claimed_adr_previous-attendance",
-    "auto-exemption-claimed_adr_ongoing-attendance",
     "auto-exemption-claimed_adr_previous-exemption",
     "auto-exemption-claimed_adr_existing-proceedings-attendance",
-    "auto-exemption-claimed_adr_existing-proceedings-exemption"
+    "auto-exemption-claimed_adr_existing-proceedings-exemption",
+    "miam-exemption_proceedings_none"
   ],
-  "requiredWhen": [
-    {
-      "auto-miam-exemption_group_previous-miam": "yes"
-    }
-  ],
+  "required": true,
   "visuallyhidden": true
 }
