@@ -26,6 +26,21 @@ const ValidExemptionController = (req, res) => {
           {
             '(international_jurisdiction|international_request)': 'yes'
           }
+        ],
+        'auto-exemption-claimed_adr_previous-exemption': [
+          {
+            'proceedings_exemption_13D03': 'yes'
+          }
+        ],
+        'auto-exemption-claimed_adr_existing-proceedings-attendance': [
+          {
+            'proceedings_exemption_13D04': 'yes'
+          }
+        ],
+        'auto-exemption-claimed_adr_existing-proceedings-exemption': [
+          {
+            'proceedings_exemption_13D05': 'yes'
+          }
         ]
       }
 
@@ -34,7 +49,10 @@ const ValidExemptionController = (req, res) => {
         'children_child-protection-plan': 'auto-exemption-claimed_local-authority-involvement_protection-plan',
         'without-notice': 'auto-exemption-claimed_without-notice',
         'international_jurisdiction': 'auto-exemption-claimed_international-proceedings',
-        'international_request': 'auto-exemption-claimed_international-proceedings'
+        'international_request': 'auto-exemption-claimed_international-proceedings',
+        'proceedings_exemption_13D03': 'auto-exemption-claimed_adr_previous-exemption',
+        'proceedings_exemption_13D04': 'auto-exemption-claimed_adr_existing-proceedings-attendance',
+        'proceedings_exemption_13D05': 'auto-exemption-claimed_adr_existing-proceedings-exemption'
       }
 
       Object.keys(mappedFields).forEach(answer => {

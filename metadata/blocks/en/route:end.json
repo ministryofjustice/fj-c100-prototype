@@ -8,9 +8,9 @@
     "c8-upload"
   ],
   "body": "",
-  "heading": "Submit your application",
-  "lede": "",
+  "heading": "Print and post your application",
+  "lede": "Send the entire printed pack to the court",
   "template": "generic",
   "title": "",
-  "url": "/submit-application"
+  "url": "/print-and-post"
 }

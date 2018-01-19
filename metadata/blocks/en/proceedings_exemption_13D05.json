@@ -1,0 +1,5 @@
+{
+  "_id": "proceedings_exemption_13D05",
+  "_isa": "radio_group:yes-no-required",
+  "label": "Is the court case ongoing?"
+}

@@ -2,8 +2,18 @@
   "_blockType": "Route",
   "_id": "route:miam-exemptions_proceedings",
   "_isa": "view:form",
-  "block": "auto-miam-exemption_group_previous-miam_options",
-  "body": "(i) You will need to provide evidence to support your claim",
+  "blocks": [
+    "proceedings_exemption_13D03",
+    "proceedings_exemption_13D04",
+    "proceedings_exemption_13D05"
+  ],
+  "depends": [
+    {
+      "additional-info_previous-proceedings": "yes"
+    }
+  ],
+  "heading": "Details of court case",
   "title": "",
-  "url": "/court-proceedings/miam/exemption"
+  "url": "/court-proceedings/miam/exemption",
+  "xbody": "(i) You will need to provide evidence to support your claim"
 }

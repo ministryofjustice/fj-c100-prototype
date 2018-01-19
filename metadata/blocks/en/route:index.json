@@ -39,8 +39,8 @@
     "route:help-with-fees",
     "route:summary",
     "route:statement-of-truth",
-    "route:test-end",
-    "route:end"
+    "route:end",
+    "route:test-end"
   ],
   "title": "",
   "url": "/"

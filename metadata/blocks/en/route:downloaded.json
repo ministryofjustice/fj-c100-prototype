@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:downloaded",
+  "_isa": "view:form",
+  "body": "You should keep this copy of your application for your records.",
+  "continue": "continue",
+  "heading": "Your application has been downloaded",
+  "title": "",
+  "url": "/downloaded"
+}

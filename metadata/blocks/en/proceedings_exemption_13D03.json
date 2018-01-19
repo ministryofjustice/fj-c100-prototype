@@ -1,0 +1,6 @@
+{
+  "_id": "proceedings_exemption_13D03",
+  "_isa": "radio_group:yes-no-required",
+  "hint": "The MIAM must have taken place within the past 4 months\r\n!abbr:MIAM!",
+  "label": "Did you attend a MIAM?\r\n!abbr:MIAM!"
+}
