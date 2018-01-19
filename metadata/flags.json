@@ -1,15 +1,18 @@
 {
-  "residence-known": false,
-  "applicant-establish": false,
-  "children-number": true,
-  "applicant_relationship": false,
-  "solicitor-standalone": false,
-  "miam-exemptions-at-start": false,
+  "disabled": {
+    "residence-known": false,
+    "applicant-establish": false,
+    "children-number": true,
+    "applicant_relationship": false,
+    "solicitor-standalone": false,
+    "miam-exemptions-at-start": false
+  },
+  "court_off": false,
+  "adr-duty-free_off": true,
   "children-details_off": true,
   "other-children-details_off": true,
   "applicant-details_off": true,
   "respondent-details_off": true,
   "other-party-details_off": true,
-  "adr-duty-free_off": true,
-  "court_off": false
+  "links-open-in-new-window": false
 }

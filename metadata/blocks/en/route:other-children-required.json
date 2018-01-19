@@ -9,6 +9,9 @@
       "!flag-other-children-details_off": true
     }
   ],
+  "extraBlocks": [
+    "other-children-reasons"
+  ],
   "steps": [
     "route:other-children_names"
   ],

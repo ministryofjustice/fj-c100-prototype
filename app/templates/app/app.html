@@ -14,6 +14,7 @@
 {% block body_end %}
 {{ super() }}
 {% if not flowchart and not edit %}
+{% if flags['links-open-in-new-window'] %}
 <script>
 jQuery('a[href]').each(function() {
   var $a = jQuery(this)
@@ -30,5 +31,6 @@ jQuery('a[href]').each(function() {
   }
 })
 </script>
+{% endif %}
 {% endif %}
 {% endblock %}
