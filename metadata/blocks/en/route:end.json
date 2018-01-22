@@ -1,16 +1,21 @@
 {
-  "_blockType": "Route",
-  "_id": "route:end",
-  "blocks": [
+  "Xblocks": [
     "application-fees",
     "formalise-agreement-upload",
     "c1a-upload",
     "c8-upload"
   ],
+  "_blockType": "Route",
+  "_id": "route:end",
+  "_isa": "view:confirmation",
+  "blocks": [
+    "next-step_print",
+    "next-step_post",
+    "next-step_help",
+    "next-step_hwf"
+  ],
   "body": "",
-  "heading": "Print and post your application",
-  "lede": "Send the entire printed pack to the court",
-  "template": "generic",
+  "heading": "What you need to do next",
   "title": "",
   "url": "/print-and-post"
 }
