@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:downloaded",
   "_isa": "view:form",
-  "body": "You should keep this copy of your application for your records.",
+  "body": "You should keep this copy of your application for your records.\r\n\r\n*[download pdf](/public/downloads/C100.pdf);;; data-download=\"true\" class=\"js-hidden\"*",
   "continue": "continue",
   "heading": "Your application has been downloaded",
   "title": "",
