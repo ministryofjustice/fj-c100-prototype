@@ -4,8 +4,8 @@
   "_isa": "view:form",
   "blocks": [
     "without-notice_reasons",
-    "without-notice_notice-impossible",
-    "without-notice_notice-will-frustrate"
+    "without-notice_notice-will-frustrate",
+    "without-notice_notice-impossible"
   ],
   "body": "",
   "depends": [

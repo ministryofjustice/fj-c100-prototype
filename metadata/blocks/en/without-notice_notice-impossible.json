@@ -1,6 +1,6 @@
 {
   "_id": "without-notice_notice-impossible",
   "_isa": "radio_group:yes-no-required",
-  "label": "Do you require a without notice hearing because notice to a respondent will frustrate the order that is being applied for?",
+  "label": "Are you asking for a without notice hearing because it’s not possible to give notice to the other person?",
   "subblock": "without-notice_notice-impossible_reasons"
 }
