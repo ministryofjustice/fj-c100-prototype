@@ -1,0 +1,6 @@
+{
+  "_id": "residence-abroad_applicant",
+  "_isa": "radio_group:yes-no",
+  "label": "Is your address outside England and Wales?",
+  "required": true
+}

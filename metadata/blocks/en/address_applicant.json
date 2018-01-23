@@ -1,7 +1,7 @@
 {
   "_blockType": "Text",
   "_id": "address_applicant",
-  "label": "Address",
+  "label": "Address (including postcode)",
   "multiline": true,
   "required": false
 }
