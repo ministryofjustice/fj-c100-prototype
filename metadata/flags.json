@@ -7,7 +7,7 @@
     "solicitor-standalone": false,
     "miam-exemptions-at-start": false
   },
-  "court_off": false,
+  "court_off": true,
   "adr-duty-free_off": true,
   "children-details_off": true,
   "other-children-details_off": true,

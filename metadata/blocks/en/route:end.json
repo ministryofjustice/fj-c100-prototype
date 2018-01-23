@@ -10,9 +10,9 @@
   "_isa": "view:confirmation",
   "blocks": [
     "next-step_print",
+    "next-step_pay",
     "next-step_post",
-    "next-step_help",
-    "next-step_hwf"
+    "next-step_help"
   ],
   "body": "",
   "heading": "What you need to do next",

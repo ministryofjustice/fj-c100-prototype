@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:address-confidentiality",
-  "_isa": "view:start",
+  "_isa": "view:form",
   "blocks": [
     "address-confidentiality"
   ],
