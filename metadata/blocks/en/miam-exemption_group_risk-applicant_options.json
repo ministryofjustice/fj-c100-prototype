@@ -9,9 +9,7 @@
   "label": "Evidence of risk to applicant",
   "options": [
     "exemption-claimed_urgency_risk-applicant",
-    "exemption-claimed_urgency_unreasonable-hardship",
-    "exemption-claimed_urgency_risk-children",
-    "exemption-claimed_urgency_unlawful-removal-retention"
+    "exemption-claimed_urgency_unreasonable-hardship"
   ],
   "requiredWhen": [
     {

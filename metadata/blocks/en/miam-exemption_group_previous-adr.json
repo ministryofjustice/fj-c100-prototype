@@ -1,7 +1,7 @@
 {
   "_id": "miam-exemption_group_previous-adr",
   "_isa": "option:yes",
-  "hint": "This must have taken place within the past 4 months and be about the same child arrangements issue.",
+  "hint": "This must have taken place within the past 4 months (or ongoing if it’s another type of non-court resolution) and be about the same child arrangements issue.",
   "label": "You’ve already been to a MIAM or another type of non-court resolution",
   "subblock": "miam-exemption_group_previous-adr_options"
 }
