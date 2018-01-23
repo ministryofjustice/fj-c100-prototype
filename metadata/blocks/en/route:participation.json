@@ -4,8 +4,7 @@
   "_isa": "view:form",
   "blocks": [
     "participation_litigation-capacity",
-    "participation_referral-or-assessment",
-    "participation_other-factors"
+    "participation_referral-or-assessment"
   ],
   "body": "",
   "depends": [
@@ -13,7 +12,7 @@
       "litigation-capacity": "yes"
     }
   ],
-  "heading": "Factors affecting ability to participate in proceedings",
+  "heading": "Conditions affecting ability to participate in proceedings",
   "title": "",
   "url": "/participation"
 }
