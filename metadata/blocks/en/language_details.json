@@ -1,0 +1,12 @@
+{
+  "_blockType": "Text",
+  "_id": "language_details",
+  "depends": [
+    {
+      "language": "yes"
+    }
+  ],
+  "label": "Provide details",
+  "multiline": true,
+  "required": "true"
+}
