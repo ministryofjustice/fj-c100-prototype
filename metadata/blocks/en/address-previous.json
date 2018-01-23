@@ -6,7 +6,8 @@
       "residence-duration-sufficient": "no"
     }
   ],
-  "label": "Please provide details of all previous addresses for the last 5 years below (if known, including the dates and starting with the most recent)",
+  "hint": "You can enter a partial address (for example just the postcode) if you don’t know the full address.",
+  "label": "Enter address",
   "multiline": true,
   "requiredWhen": [
     {
