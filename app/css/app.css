@@ -332,3 +332,14 @@ fieldset {
     }
   }
 }
+
+.view__confirmation .route-header {
+  background-color: #28a197;
+  color: var(--govuk-white);
+  text-align: center;
+  padding: 1rem;
+
+  & h2.heading-large {
+    margin-bottom: 0;
+  }
+}
