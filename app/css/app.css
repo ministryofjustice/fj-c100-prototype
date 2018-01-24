@@ -319,3 +319,16 @@ fieldset {
     padding: 5rem;
   }
 }
+
+.view__flash-card .route-box {
+  background-color: var(--govuk-blue);
+  color: var(--govuk-white);
+
+  & .panel {
+    border-color: var(--govuk-white);
+
+    & p {
+      font-weight: bold;
+    }
+  }
+}

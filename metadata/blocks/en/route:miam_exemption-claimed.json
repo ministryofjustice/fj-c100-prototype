@@ -21,7 +21,8 @@
   "redirectConditions": {
     "route:end_miam_not-completed": [
       {
-        "miam_exemption-claimed": "no"
+        "miam_exemption-claimed": "no",
+        "!auto-exemption-claimed.*": "yes"
       }
     ]
   },
