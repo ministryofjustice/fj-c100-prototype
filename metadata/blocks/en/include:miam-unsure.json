@@ -1,5 +1,5 @@
 {
   "_blockType": "String",
   "_id": "include:miam-unsure",
-  "value": "## If you are unsure, or think you have a valid reason\r\n\r\nIf you’re still unsure you can continue and we’ll try and work out if you have a valid reason based on the answers you give.\r\n\r\n(i) If you do not have a valid reason you will not be able to make the application and will be directed to attend a MIAM.\r\n!abbr:MIAM!\r\n"
+  "value": "## If you’re unsure whether you have a valid reason\r\n\r\nIf you’re still unsure you can continue and we’ll try and work out if you have a valid reason based on the answers you give.\r\n\r\n(i) If you do not have a valid reason you will not be able to make the application and will be directed to attend a MIAM.\r\n!abbr:MIAM!\r\n"
 }
