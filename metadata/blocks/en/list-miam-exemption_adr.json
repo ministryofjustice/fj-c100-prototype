@@ -1,0 +1,6 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "list-miam-exemption_adr",
+  "_isa": "miam-exemption_adr",
+  "label": "You’ve previously been to a MIAM or had a valid reason for not attending one"
+}

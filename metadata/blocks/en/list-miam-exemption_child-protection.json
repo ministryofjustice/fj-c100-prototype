@@ -1,0 +1,9 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "list-miam-exemption_child-protection",
+  "label": "You have evidence of child protection concerns",
+  "options": [
+    "miam-exemption_group_local-authority-involvement"
+  ],
+  "required": true
+}
