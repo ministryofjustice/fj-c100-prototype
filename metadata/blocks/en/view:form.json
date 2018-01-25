@@ -2,5 +2,6 @@
   "_blockType": "View",
   "_form": true,
   "_id": "view:form",
+  "description": "Form page",
   "template": "form"
 }

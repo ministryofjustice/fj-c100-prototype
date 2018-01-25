@@ -1,6 +1,6 @@
 {
   "_blockType": "View",
   "_id": "view:confirmation",
-  "start": true,
+  "description": "Confirmation page",
   "template": "confirmation"
 }
