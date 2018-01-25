@@ -1,0 +1,9 @@
+{
+  "_blockType": "RadioGroupTemplate",
+  "_id": "radio_group_template:yes-no",
+  "description": "Yes / No",
+  "options": [
+    "option:yes",
+    "option:no"
+  ]
+}
