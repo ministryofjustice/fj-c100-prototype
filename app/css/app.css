@@ -320,7 +320,7 @@ fieldset {
   }
 }
 
-.view__flash-card .route-box {
+.view__flash-card > .route > .Xbox > .route-box {
   background-color: var(--govuk-blue);
   color: var(--govuk-white);
 
