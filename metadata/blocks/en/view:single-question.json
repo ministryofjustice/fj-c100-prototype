@@ -1,0 +1,7 @@
+{
+  "_blockType": "View",
+  "_id": "view:single-question",
+  "_isa": "view:form",
+  "_single-question": true,
+  "description": "Single question page"
+}
