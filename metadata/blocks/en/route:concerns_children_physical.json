@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:concerns_children_physical",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "concerns_children_physical",
   "body": "!route:concerns_applicant_physical#body!",
   "steps": [

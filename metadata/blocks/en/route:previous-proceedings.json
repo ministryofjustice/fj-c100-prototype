@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:previous-proceedings",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "additional-info_previous-proceedings",
   "body": "For example an emergency protection order or supervision order. Include any ongoing cases.",
   "steps": [

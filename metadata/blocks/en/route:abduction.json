@@ -2,7 +2,7 @@
   "*notes": "MIAM exemption (13C-03)",
   "_blockType": "Route",
   "_id": "route:abduction",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "c1a_child-abduction",
   "body": "For example, by someone who is connected to the child such as the other parent or grandparent.\r\n\r\n(i) Child abduction is when a person takes or sends a child under 16 away from the care of the person they normally live with. A child can be abducted both in the UK and abroad.",
   "steps": [

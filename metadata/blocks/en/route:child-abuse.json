@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:child-abuse",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "title": "",
   "url": "/concerns/child-abuse",
   "block": "concern_child-abuse"

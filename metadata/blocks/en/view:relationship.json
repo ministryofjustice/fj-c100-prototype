@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "view:relationship",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "body": "",
   "dynamic_multiple": "children",
   "title": "",

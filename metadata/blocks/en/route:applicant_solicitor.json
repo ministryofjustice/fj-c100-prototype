@@ -9,7 +9,7 @@
   ],
   "_blockType": "Route",
   "_id": "route:applicant_solicitor",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "body": "",
   "steps": [
     "route:applicant_solicitor-same",

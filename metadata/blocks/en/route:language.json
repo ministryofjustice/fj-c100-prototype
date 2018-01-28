@@ -9,7 +9,7 @@
   ],
   "_blockType": "Route",
   "_id": "route:language",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "language",
   "section_heading": "Attending court",
   "steps": [

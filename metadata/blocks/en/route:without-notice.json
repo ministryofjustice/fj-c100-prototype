@@ -2,7 +2,7 @@
   "*notes": "MIAM exemption (13E-02)",
   "_blockType": "Route",
   "_id": "route:without-notice",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "body": "A without notice hearing is when your case is urgent and you don’t want to tell the other person about your application.\r\n\r\nYou can only apply for a without notice hearing if you can show that:\r\n\r\n- telling the other person would allow them to interfere with your application\r\n- you or your children wouldn’t be safe if the other person knows\r\n- you don’t have time to tell the other person \r\n",
   "steps": [
     "route:without-notice-details"

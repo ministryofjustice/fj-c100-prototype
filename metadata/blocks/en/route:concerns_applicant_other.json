@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:concerns_applicant_other",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "concerns_applicant_other",
   "steps": [
     "route:concerns_applicant_other-details"

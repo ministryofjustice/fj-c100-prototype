@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "view:relationship-same",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "controller": "app/templates/relationship-same/relationship-same.controller",
   "depends": [
     {

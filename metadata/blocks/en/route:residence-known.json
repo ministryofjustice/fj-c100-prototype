@@ -2,7 +2,7 @@
   "*notes": "See Trello card [Understand C4 relation to C100](https://trello.com/c/4GycTFsY/477-understand-c4-relation-to-c100)",
   "_blockType": "Route",
   "_id": "route:residence-known",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "body": "",
   "depends": [
     {

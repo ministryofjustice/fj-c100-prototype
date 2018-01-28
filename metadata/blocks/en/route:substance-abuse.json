@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:substance-abuse",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "c1a_substance-abuse",
   "body": "For example, you think your children are affected by being in contact with someone who may have a drug, alcohol or substance problem.",
   "redirectConditions": {

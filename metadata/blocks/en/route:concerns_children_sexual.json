@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:concerns_children_sexual",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "concerns_children_sexual",
   "body": "A child is sexually abused when they are forced or persuaded to take part in sexual activities. There are 2 types of child sexual abuse:\r\n\r\n- contact abuse (where an abuser makes physical contact)\r\n- non-contact abuse (for example grooming or exploitation)\r\n",
   "steps": [

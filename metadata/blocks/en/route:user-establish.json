@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:user-establish",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "depends": [
     {
       "flag-applicant-establish": true

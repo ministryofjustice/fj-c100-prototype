@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:international_request",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "body": "",
   "title": "",
   "url": "/international/request",

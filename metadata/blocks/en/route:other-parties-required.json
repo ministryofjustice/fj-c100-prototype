@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:other-parties-required",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "other-parties-required",
   "body": "For example, you should tell:\r\n\r\n- anyone who is caring for the children (for example a foster carer)\r\n- social services -  if the children are in local authority accommodation (such as a children’s home)\r\n- everyone named in another court case which concerns the children\r\n",
   "depends": [

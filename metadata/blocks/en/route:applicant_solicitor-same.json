@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:applicant_solicitor-same",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "controller": "app/templates/solicitor-same/solicitor-same.controller",
   "depends": [
     {

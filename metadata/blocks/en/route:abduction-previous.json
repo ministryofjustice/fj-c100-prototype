@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:abduction-previous",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "abduction_previous",
   "body": "Include any previous attempts or threats to abduct them",
   "steps": [

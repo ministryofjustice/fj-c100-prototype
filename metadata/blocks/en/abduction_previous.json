@@ -1,6 +1,5 @@
 {
   "_id": "abduction_previous",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have your children been abducted before?",
-  "visuallyhidden": true
+  "label": "Have your children been abducted before?"
 }

@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:other-concerns",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "title": "",
   "url": "/concerns/other",
   "block": "concern_other"

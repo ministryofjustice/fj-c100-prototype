@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:international_resident",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "body": "For example, a grandparent or other close relatives",
   "steps": [
     "route:international_jurisdiction",

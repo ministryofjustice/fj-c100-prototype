@@ -1,7 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:miam-exemption_urgency-matched",
-  "_isa": "view:form",
+  "_isa": "view:single-question",
   "block": "auto-miam-exemption_urgency",
   "body": "(i) You will need to provide evidence to support your claim",
   "title": "",
