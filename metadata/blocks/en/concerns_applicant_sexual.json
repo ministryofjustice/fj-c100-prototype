@@ -1,6 +1,5 @@
 {
   "_id": "concerns_applicant_sexual",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you ever been sexually abused?",
-  "visuallyhidden": true
+  "label": "Have you ever been sexually abused?"
 }

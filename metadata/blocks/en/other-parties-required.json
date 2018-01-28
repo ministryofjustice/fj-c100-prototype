@@ -1,6 +1,5 @@
 {
   "_id": "other-parties-required",
   "_isa": "radio_group:yes-no-required",
-  "label": "Is there anyone else who should know about your application?",
-  "visuallyhidden": true
+  "label": "Is there anyone else who should know about your application?"
 }

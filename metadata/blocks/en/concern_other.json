@@ -1,6 +1,5 @@
 {
   "_id": "concern_other",
   "_isa": "radio_group:yes-no-required",
-  "label": "Do you have any other concerns about the welfare of your children?",
-  "visuallyhidden": true
+  "label": "Do you have any other concerns about the welfare of your children?"
 }

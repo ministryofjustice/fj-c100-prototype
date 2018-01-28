@@ -1,6 +1,5 @@
 {
   "_id": "concerns_applicant_emotional",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you ever been emotionally abused?",
-  "visuallyhidden": true
+  "label": "Have you ever been emotionally abused?"
 }

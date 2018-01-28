@@ -2,6 +2,5 @@
   "_id": "c1a_substance-abuse",
   "_isa": "radio_group:yes-no-required",
   "label": "Do you have any concerns about drug, alcohol or substance abuse?",
-  "playback": "you think your children are affected by being in contact with someone who may have a drug, alcohol or substance problem",
-  "visuallyhidden": true
+  "playback": "you think your children are affected by being in contact with someone who may have a drug, alcohol or substance problem"
 }

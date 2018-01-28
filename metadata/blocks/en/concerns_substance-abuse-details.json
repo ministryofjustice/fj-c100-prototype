@@ -4,6 +4,5 @@
   "hint": "Give a short description",
   "label": "Provide details of the drug, alcohol or substance abuse",
   "multiline": true,
-  "required": true,
-  "visuallyhidden": "true"
+  "required": true
 }

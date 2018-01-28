@@ -1,6 +1,5 @@
 {
   "_id": "miam_informed-by-mediator",
   "_isa": "radio_group:yes-no-required",
-  "label": "Has a family mediator informed you that a mediator’s exemption applies, and you do not need to attend a MIAM?",
-  "visuallyhidden": true
+  "label": "Has a family mediator informed you that a mediator’s exemption applies, and you do not need to attend a MIAM?"
 }

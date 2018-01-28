@@ -7,6 +7,5 @@
     "applicant-self",
     "applicant-representative"
   ],
-  "required": true,
-  "visuallyhidden": true
+  "required": true
 }

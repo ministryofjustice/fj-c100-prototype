@@ -1,6 +1,5 @@
 {
   "_id": "concern_domestic-violence",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you suffered from any form of domestic abuse?",
-  "visuallyhidden": true
+  "label": "Have you suffered from any form of domestic abuse?"
 }

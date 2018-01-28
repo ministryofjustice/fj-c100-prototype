@@ -3,6 +3,5 @@
   "_id": "application-details",
   "label": "Why are you making this application?",
   "multiline": true,
-  "required": true,
-  "visuallyhidden": true
+  "required": true
 }

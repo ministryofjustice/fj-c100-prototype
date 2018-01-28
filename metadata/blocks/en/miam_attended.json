@@ -1,6 +1,5 @@
 {
   "_id": "miam_attended",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have you attended a MIAM?\r\n!abbr:MIAM!",
-  "visuallyhidden": true
+  "label": "Have you attended a MIAM?\r\n!abbr:MIAM!"
 }

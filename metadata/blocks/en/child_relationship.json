@@ -13,6 +13,5 @@
     "option:social-worker",
     "option:relationship_other"
   ],
-  "required": true,
-  "visuallyhidden": true
+  "required": true
 }

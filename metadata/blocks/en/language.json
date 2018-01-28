@@ -4,6 +4,5 @@
   "_isa": "radio_group:yes-no-required",
   "hint": "Including British Sign Language",
   "label": "Does anyone in this application require help with any language?",
-  "subblock": "language_details",
-  "visuallyhidden": true
+  "subblock": "language_details"
 }

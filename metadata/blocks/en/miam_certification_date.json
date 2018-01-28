@@ -6,6 +6,5 @@
   "error_code-expired": "The MIAM needs to have been within the last 4 months",
   "error_code-future": "This date has not yet occurred",
   "label": "When did you attend the MIAM?\r\n!abbr:MIAM!",
-  "required": true,
-  "visuallyhidden": true
+  "required": true
 }

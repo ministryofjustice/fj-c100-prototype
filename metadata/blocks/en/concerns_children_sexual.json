@@ -1,6 +1,5 @@
 {
   "_id": "concerns_children_sexual",
   "_isa": "radio_group:yes-no-required",
-  "label": "Have your children ever been sexually abused?",
-  "visuallyhidden": true
+  "label": "Have your children ever been sexually abused?"
 }

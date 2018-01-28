@@ -2,6 +2,5 @@
   "_id": "c1a_domestic-abuse",
   "_isa": "radio_group:yes-no-required",
   "label": "Have you ever been abused?",
-  "playback": "you have been abused",
-  "visuallyhidden": true
+  "playback": "you have been abused"
 }

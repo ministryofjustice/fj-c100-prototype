@@ -1,6 +1,5 @@
 {
   "_id": "concerns_applicant_financial",
   "_isa": "radio_group:yes-no-required",
-  "label": "Has the other person ever financially abused you?",
-  "visuallyhidden": true
+  "label": "Has the other person ever financially abused you?"
 }

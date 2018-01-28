@@ -1,6 +1,5 @@
 {
   "_id": "solicitor-same",
   "_isa": "radio_group:yes-no-required",
-  "label": "{applicants, select, 2{Does} other{Do}} {applicantNames, concat} have the same solicitor as you?",
-  "visuallyhidden": true
+  "label": "{applicants, select, 2{Does} other{Do}} {applicantNames, concat} have the same solicitor as you?"
 }
