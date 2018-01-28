@@ -1,6 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:save-return",
+  "_isa": "view:generic",
   "blocks": [
     "user_email",
     "user_password"

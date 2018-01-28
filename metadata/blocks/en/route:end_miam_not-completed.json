@@ -1,6 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:end_miam_not-completed",
+  "_isa": "view:generic",
   "body": "Since you haven’t provided a valid reason to not attend, you should follow these steps.\r\n\r\n!include:miam-steps!\r\n",
   "depends": [
     {
@@ -9,7 +10,6 @@
   ],
   "heading": "You need to attend a MIAM and get a certificate\r\n!abbr:MIAM!",
   "lede": "Before making an application you’re legally required to attend a MIAM.",
-  "template": "generic",
   "title": "",
   "url": "/miam/not-completed"
 }

@@ -1,10 +1,10 @@
 {
   "_blockType": "Route",
   "_id": "route:test-end",
+  "_isa": "view:generic",
   "body": "",
   "heading": "Thank you for helping us test this form",
   "lede": "",
-  "template": "generic",
   "title": "",
   "url": "/test-end"
 }

@@ -1,6 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:miam_exemptions_list",
+  "_isa": "view:generic",
   "blocks": [
     "list-miam-exemption_domestic-abuse",
     "list-miam-exemption_child-protection",

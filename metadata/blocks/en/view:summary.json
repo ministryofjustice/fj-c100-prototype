@@ -1,0 +1,8 @@
+{
+  "_blockType": "View",
+  "_id": "view:summary",
+  "description": "Check your answers page",
+  "heading": "Check your answers",
+  "lede": "Please review your answers before submitting your application",
+  "template": "summary"
+}
