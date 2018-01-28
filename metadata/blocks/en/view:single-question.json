@@ -3,5 +3,9 @@
   "_id": "view:single-question",
   "_isa": "view:form",
   "_single-question": true,
-  "description": "Single question page"
+  "description": "Single question page",
+  "excludedProperties": [
+    "heading",
+    "blocks"
+  ]
 }

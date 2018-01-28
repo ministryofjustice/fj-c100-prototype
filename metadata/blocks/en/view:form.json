@@ -3,5 +3,8 @@
   "_form": true,
   "_id": "view:form",
   "description": "Form page",
-  "template": "form"
+  "template": "form",
+  "excludedProperties": [
+    "block"
+  ]
 }
