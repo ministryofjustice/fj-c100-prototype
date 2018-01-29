@@ -1,5 +1,0 @@
-{
-  "_id": "case-number",
-  "_isa": "text:required",
-  "label": "Case number"
-}

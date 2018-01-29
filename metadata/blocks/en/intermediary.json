@@ -1,6 +1,0 @@
-{
-  "_id": "intermediary",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Does anyone in this application need someone to help them in court?",
-  "subblock": "intermediary_details"
-}

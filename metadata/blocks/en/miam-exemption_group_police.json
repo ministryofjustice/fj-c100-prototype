@@ -1,7 +1,0 @@
-{
-  "_id": "miam-exemption_group_police",
-  "_isa": "option:yes",
-  "hint": "For example, you or the other person (the respondent) has been arrested or cautioned for domestic or child abuse offences.",
-  "label": "The police have been involved",
-  "subblock": "miam-exemption_group_police_options"
-}

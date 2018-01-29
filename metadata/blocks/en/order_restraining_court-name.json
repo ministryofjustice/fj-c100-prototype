@@ -1,9 +1,0 @@
-{
-  "_id": "order_restraining_court-name",
-  "_isa": "text:court-name",
-  "requiredWhen": [
-    {
-      "order_restraining": "yes"
-    }
-  ]
-}

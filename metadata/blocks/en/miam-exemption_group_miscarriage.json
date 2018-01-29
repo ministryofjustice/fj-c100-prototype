@@ -1,7 +1,0 @@
-{
-  "_id": "miam-exemption_group_miscarriage",
-  "_isa": "option:yes",
-  "hint": "For example, there could be a loss of evidence relating to your dispute.",
-  "label": "There’s a risk of a miscarriage of justice",
-  "subblock": "miam-exemption_group_miscarriage_options"
-}

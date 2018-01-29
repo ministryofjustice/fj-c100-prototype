@@ -1,9 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "route:international_request",
-  "_isa": "view:single-question",
-  "body": "",
-  "title": "",
-  "url": "/international/request",
-  "block": "international_request"
-}

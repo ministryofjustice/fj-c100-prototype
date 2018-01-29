@@ -1,6 +1,0 @@
-{
-  "_id": "exemption-claimed_adr_existing-proceedings-attendance",
-  "_isa": "option:yes",
-  "exemption_type": "previous",
-  "label": "The application would be made in existing proceedings which are continuing and the prospective applicant attended a MIAM before initiating those proceedings"
-}

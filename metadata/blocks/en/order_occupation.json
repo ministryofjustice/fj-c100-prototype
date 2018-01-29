@@ -1,6 +1,0 @@
-{
-  "_id": "order_occupation",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Occupation order",
-  "subblock": "order_occupation_dependencies"
-}

@@ -1,5 +1,0 @@
-{
-  "_id": "child_dob_unsure",
-  "_isa": "checkbox:unsure",
-  "subblock": "child_age-estimate"
-}

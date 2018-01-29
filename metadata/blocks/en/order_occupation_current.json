@@ -1,9 +1,0 @@
-{
-  "_id": "order_occupation_current",
-  "_isa": "radio_group:current",
-  "requiredWhen": [
-    {
-      "order_occupation": "yes"
-    }
-  ]
-}

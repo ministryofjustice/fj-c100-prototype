@@ -1,5 +1,0 @@
-{
-  "_id": "other-children-required",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do you have other children that aren’t part of this application?"
-}

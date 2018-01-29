@@ -1,7 +1,0 @@
-{
-  "_id": "address_known_respondent",
-  "_isa": "radio_group:yes-no-required",
-  "hint": "We’ll be able to process your application more quickly if you can give as much detail as possible.",
-  "label": "Do you know where the respondent lives?",
-  "subblock": "address_known_respondent_details"
-}

@@ -1,8 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "applicants_full-name",
-  "_isa": "text:full-name",
-  "label": "Full name of applicant",
-  "label_1": "Your full name",
-  "required": true
-}

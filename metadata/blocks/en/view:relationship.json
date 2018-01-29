@@ -1,9 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "view:relationship",
-  "_isa": "view:single-question",
-  "body": "",
-  "dynamic_multiple": "children",
-  "title": "",
-  "block": "child_relationship"
-}

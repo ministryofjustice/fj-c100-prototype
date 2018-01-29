@@ -1,6 +1,0 @@
-{
-  "_id": "behaviour_ongoing",
-  "_isa": "radio_group:yes-no-required",
-  "label": "!{app:routeId}#behaviour_ongoing!",
-  "subblock": "behaviour_length"
-}

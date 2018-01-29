@@ -1,7 +1,0 @@
-{
-  "_id": "miam-exemption_group_da-service",
-  "_isa": "option:yes",
-  "hint": "An independent domestic abuse advisor has confirmed they’re providing someone in your family with support.",
-  "label": "You’ve received a letter from a domestic abuse support service or specialist",
-  "subblock": "miam-exemption_group_da-service_options"
-}

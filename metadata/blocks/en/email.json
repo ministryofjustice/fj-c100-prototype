@@ -1,9 +1,0 @@
-{
-  "_id": "email",
-  "_isa": "text:email",
-  "requiredWhen": [
-    {
-      "[multiple_route]email_known_respondent": "yes"
-    }
-  ]
-}

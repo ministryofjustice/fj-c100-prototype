@@ -1,8 +1,0 @@
-{
-  "_id": "residence-duration-sufficient",
-  "_isa": "radio_group:yes-no-unsure",
-  "inline": true,
-  "label": "Have they lived at any other address in the past 5 years?",
-  "required": true,
-  "subblock": "address-previous"
-}

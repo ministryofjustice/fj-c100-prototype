@@ -1,5 +1,0 @@
-{
-  "_id": "abduction_passport",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do any of your children have a passport?"
-}

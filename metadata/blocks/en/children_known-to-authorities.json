@@ -1,8 +1,0 @@
-{
-  "_id": "children_known-to-authorities",
-  "_isa": "radio_group:yes-no-unsure",
-  "inline": true,
-  "label": "{children, select, 1{Is {child_used-name_1}} other {Are any of the children}} known to social services?",
-  "required": true,
-  "subblock": "children_known-to-authorities-details"
-}

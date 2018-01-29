@@ -1,5 +1,0 @@
-{
-  "_id": "full-name",
-  "_isa": "text:required",
-  "label": "Full name"
-}

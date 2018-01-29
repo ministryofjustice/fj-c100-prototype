@@ -1,7 +1,0 @@
-{
-  "_id": "exemption-claimed_non-resident",
-  "_isa": "option:yes",
-  "exemption_type": "misc",
-  "hint": "The prospective applicant or all of the prospective respondents are not habitually resident in England and Wales",
-  "label": "You or the other person don’t live in England and Wales"
-}

@@ -1,6 +1,0 @@
-{
-  "_id": "international_request",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Has a court case about your !string:children! already started in another country?",
-  "subblock": "international_request_details"
-}

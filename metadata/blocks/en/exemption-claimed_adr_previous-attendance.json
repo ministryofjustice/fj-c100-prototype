@@ -1,6 +1,0 @@
-{
-  "_id": "exemption-claimed_adr_previous-attendance",
-  "_isa": "option:yes",
-  "exemption_type": "previous",
-  "label": "In the 4 months prior to making the application, the person attended a MIAM or participated in another form of non-court dispute resolution relating to the same or substantially the same dispute"
-}

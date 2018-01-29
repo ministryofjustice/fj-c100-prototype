@@ -1,5 +1,0 @@
-{
-  "_blockType": "String",
-  "_id": "string:do-you",
-  "value": "{applicant_applying, select, representative {Does the applicant} other {Do you}}"
-}

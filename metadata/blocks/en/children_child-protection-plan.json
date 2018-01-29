@@ -1,8 +1,0 @@
-{
-  "_id": "children_child-protection-plan",
-  "_isa": "radio_group:yes-no-unsure",
-  "hint": "A child protection plan sets out how a child can be kept safe and is usually drawn up by a local authority",
-  "inline": true,
-  "label": "{children, select, 1{Is {child_used-name_1}} other {Are any of the children}} the subject of a child protection plan?",
-  "required": true
-}

@@ -1,7 +1,0 @@
-{
-  "_blockType": "Option",
-  "_id": "order_other",
-  "excludes": false,
-  "label": "Resolve another issue",
-  "value": "yes"
-}

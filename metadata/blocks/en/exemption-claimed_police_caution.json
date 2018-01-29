@@ -1,6 +1,0 @@
-{
-  "_id": "exemption-claimed_police_caution",
-  "_isa": "option:yes",
-  "exemption_type": "domestic_abuse",
-  "label": "Evidence of a relevant police caution for a domestic violence offence"
-}

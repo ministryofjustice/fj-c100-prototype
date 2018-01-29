@@ -1,6 +1,0 @@
-{
-  "_id": "exemption-claimed_adr_previous-exemption",
-  "_isa": "option:yes",
-  "exemption_type": "previous",
-  "label": "In the 4 months prior to making the application, the person filed a relevant family application confirming that a MIAM exemption applied and that application related to the same or substantially the same dispute"
-}

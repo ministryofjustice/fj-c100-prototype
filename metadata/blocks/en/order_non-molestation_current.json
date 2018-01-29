@@ -1,9 +1,0 @@
-{
-  "_id": "order_non-molestation_current",
-  "_isa": "radio_group:current",
-  "requiredWhen": [
-    {
-      "order_non-molestation": "yes"
-    }
-  ]
-}

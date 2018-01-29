@@ -1,7 +1,0 @@
-{
-  "_id": "miam-exemption_group_risk-children",
-  "_isa": "option:yes",
-  "hint": "For example, there are concerns of abuse or abduction",
-  "label": "Your children are at risk",
-  "subblock": "miam-exemption_group_risk-children_options"
-}

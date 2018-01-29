@@ -1,6 +1,0 @@
-{
-  "_blockType": "Collection",
-  "_id": "collection:playback-base",
-  "playback_ask": "!jtbd_playback#playback_ask!",
-  "playback_order": "!jtbd_playback#playback_order!"
-}

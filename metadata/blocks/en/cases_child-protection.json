@@ -1,5 +1,0 @@
-{
-  "_id": "cases_child-protection",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have your children ever been involved in any court cases about an emergency protection, care or supervision order?"
-}

@@ -1,9 +1,0 @@
-{
-  "_id": "dob-check-18",
-  "_isa": "dob",
-  "requiredWhen": [
-    {
-      "![multiple_route]dob-check-18_unsure": "yes"
-    }
-  ]
-}

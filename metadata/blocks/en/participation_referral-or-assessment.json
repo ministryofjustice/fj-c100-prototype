@@ -1,6 +1,0 @@
-{
-  "_id": "participation_referral-or-assessment",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you or the other person been referred to, or assessed by, the Adult Learning Disability team or any adult health service?",
-  "subblock": "participation_referral-or-assessment_details"
-}

@@ -1,6 +1,0 @@
-{
-  "_id": "abduction_passport-multiple",
-  "_isa": "radio_group:yes-no",
-  "label": "Do the children have more than one passport?",
-  "required": true
-}

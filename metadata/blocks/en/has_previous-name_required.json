@@ -1,6 +1,0 @@
-{
-  "_id": "has_previous-name_required",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have {route:_index, select, 1{you} other{they} undefined{you}} changed  {route:_index, select, 1{your} other{their} undefined{your}} name?",
-  "subblock": "previous-name_required"
-}

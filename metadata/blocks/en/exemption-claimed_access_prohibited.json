@@ -1,7 +1,0 @@
-{
-  "_id": "exemption-claimed_access_prohibited",
-  "_isa": "option:yes",
-  "exemption_type": "misc",
-  "label": "You or the other person can’t attend a MIAM because one of you is:",
-  "sublabel": "- in prison or any other institution\r\n- subject to bail conditions that prevent contact with the other person\r\n- subject to a licence with a prohibited contact with the other person."
-}

@@ -1,7 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "court-proceedings_child_name",
-  "_isa": "text:full-name",
-  "label": "Full name of child",
-  "required": true
-}

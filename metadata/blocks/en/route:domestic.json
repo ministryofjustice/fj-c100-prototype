@@ -1,8 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "route:domestic",
-  "_isa": "view:single-question",
-  "title": "",
-  "url": "/concerns/domestic",
-  "block": "concern_domestic-violence"
-}

@@ -1,9 +1,0 @@
-{
-  "_id": "order_undertaking_order-length",
-  "_isa": "text:order-length",
-  "requiredWhen": [
-    {
-      "order_undertaking": "yes"
-    }
-  ]
-}

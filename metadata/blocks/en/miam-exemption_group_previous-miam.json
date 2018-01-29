@@ -1,7 +1,0 @@
-{
-  "_id": "miam-exemption_group_previous-miam",
-  "_isa": "option:yes",
-  "hint": "For example:\r\n\r\n- the MIAM or valid reason must be for an ongoing court application\r\n- a previous court application took place within the past 4 months and must have been about the same issue\r\n",
-  "label": "You’ve already been to a MIAM or had a valid reason for not attending one",
-  "subblock": "miam-exemption_group_previous-miam_options"
-}

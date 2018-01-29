@@ -1,5 +1,0 @@
-{
-  "_id": "attending_language-assistance",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do you or any of the parties require the court to appoint an interpreter or arrange any other assistance (e.g. sign language signer)?"
-}

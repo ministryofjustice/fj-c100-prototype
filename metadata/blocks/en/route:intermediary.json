@@ -1,9 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "route:intermediary",
-  "_isa": "view:single-question",
-  "block": "intermediary",
-  "body": "You may need a person (also known as an intermediary) to help if you have condition that affects your ability to participate in the court process.",
-  "title": "",
-  "url": "/intermediary"
-}

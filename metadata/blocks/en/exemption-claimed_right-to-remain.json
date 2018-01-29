@@ -1,7 +1,0 @@
-{
-  "_id": "exemption-claimed_right-to-remain",
-  "_isa": "option:yes",
-  "exemption_type": "domestic_abuse",
-  "hint": "The letter must be from the Home Office confirming your leave is on the grounds you were subject to domestic abuse by a husband or wife who is a British citizen.",
-  "label": "You’ve received a letter granting you leave to remain in the UK"
-}

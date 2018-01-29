@@ -1,7 +1,0 @@
-{
-  "_blockType": "Option",
-  "_id": "miam-exemption_group_none",
-  "excludes": true,
-  "label": "None of these",
-  "value": "yes"
-}

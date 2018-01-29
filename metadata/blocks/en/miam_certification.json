@@ -1,5 +1,0 @@
-{
-  "_id": "miam_certification",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you got a signed certificate from the mediator?"
-}

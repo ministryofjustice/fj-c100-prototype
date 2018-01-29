@@ -1,5 +1,0 @@
-{
-  "_blockType": "String",
-  "_id": "route_party_full-name",
-  "value": "[{{app:route:multiple_counter}_full-name_{app:route:_index}}]"
-}

@@ -1,6 +1,0 @@
-{
-  "_id": "alternative_lawyer-negotiation",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you tried lawyer negotiation?",
-  "subblock": "alternative_lawyer-negotiation_details"
-}

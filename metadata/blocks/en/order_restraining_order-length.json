@@ -1,9 +1,0 @@
-{
-  "_id": "order_restraining_order-length",
-  "_isa": "text:order-length",
-  "requiredWhen": [
-    {
-      "order_restraining": "yes"
-    }
-  ]
-}

@@ -1,5 +1,0 @@
-{
-  "_id": "concerns_orders",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you had any court orders made for your protection?"
-}

@@ -1,7 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "respondents_full-name",
-  "_isa": "text:full-name",
-  "label": "Full name of respondent",
-  "required": true
-}

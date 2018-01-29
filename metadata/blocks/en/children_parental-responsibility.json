@@ -1,8 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "children_parental-responsibility",
-  "hint": " e.g. ‘child’s mother’, ‘child’s father and was married to the mother when the child was born’ etc. (See Section E of [leaflet CB1]({app:urls:url:cb1-en}) for more information)",
-  "label": "Please state everyone who has parental responsibility for each child and how they have parental responsibility",
-  "multiline": true,
-  "required": true
-}

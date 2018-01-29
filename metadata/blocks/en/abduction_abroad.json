@@ -1,7 +1,0 @@
-{
-  "_id": "abduction_abroad",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Are you worried your children will be taken out of the country?",
-  "subblock": "abduction_abroad_dependencies",
-  "visuallyhidden": true
-}

@@ -1,5 +1,0 @@
-{
-  "_id": "additional-info_urgent-hearing",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Is an urgent hearing or without notice hearing required?"
-}

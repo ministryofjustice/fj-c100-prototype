@@ -1,5 +1,0 @@
-{
-  "_id": "court-name",
-  "_isa": "text:required",
-  "label": "Name of the court where proceedings heard"
-}

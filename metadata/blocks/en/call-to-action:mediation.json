@@ -1,7 +1,0 @@
-{
-  "_blockType": "CallToAction",
-  "_id": "call-to-action:mediation",
-  "_isa": "call-to-action:alternative",
-  "call_to_action": "Find out more about professional mediation",
-  "call_to_action_url": "{app:urls:url:cait_mediation}"
-}

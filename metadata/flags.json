@@ -1,14 +1,5 @@
 {
   "top-navigation": true,
-  "court_off": false,
-  "adr-duty-free_off": false,
-  "children-details_off": false,
-  "other-children-details_off": false,
-  "applicant-details_off": false,
-  "respondent-details_off": false,
-  "other-party-details_off": false,
-  "links-open-in-new-window": false,
-  "check-your-answers": false,
   "disabled": {
     "residence-known": false,
     "applicant-establish": false,

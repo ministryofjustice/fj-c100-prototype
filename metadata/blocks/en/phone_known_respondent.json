@@ -1,6 +1,0 @@
-{
-  "_id": "phone_known_respondent",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do you know their phone number?",
-  "subblock": "phone_known_respondent_details"
-}

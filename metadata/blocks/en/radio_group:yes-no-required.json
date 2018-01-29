@@ -1,9 +1,0 @@
-{
-  "_blockType": "RadioGroup",
-  "_id": "radio_group:yes-no-required",
-  "options": [
-    "option:yes",
-    "option:no"
-  ],
-  "required": true
-}

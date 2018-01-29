@@ -1,5 +1,0 @@
-{
-  "_blockType": "String",
-  "_id": "string:other-issue-provided",
-  "value": "You{app:route:playbackCount, select, 0{} other{ also}} told us that you need help with this issue:"
-}

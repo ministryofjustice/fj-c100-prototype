@@ -1,6 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "route:other-parties_relationship-same",
-  "_isa": "view:relationship-same",
-  "url": "/other-party/relationship/same"
-}

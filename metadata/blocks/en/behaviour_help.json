@@ -1,6 +1,0 @@
-{
-  "_id": "behaviour_help",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you ever asked for help?",
-  "subblock": "behaviour_help_dependencies"
-}

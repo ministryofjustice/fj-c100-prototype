@@ -1,5 +1,0 @@
-{
-  "_blockType": "String",
-  "_id": "string:flag--miam-exemptions-at-start",
-  "value": "Whether to ask MIAM exemption questions at the start (after Safety concerns) or at the end (after all questions about the case)"
-}

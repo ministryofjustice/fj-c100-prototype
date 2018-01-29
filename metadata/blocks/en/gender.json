@@ -1,5 +1,0 @@
-{
-  "_id": "gender",
-  "_isa": "radio_group:gender",
-  "required": true
-}

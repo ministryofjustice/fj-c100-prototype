@@ -1,7 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "application-details",
-  "label": "Why are you making this application?",
-  "multiline": true,
-  "required": true
-}

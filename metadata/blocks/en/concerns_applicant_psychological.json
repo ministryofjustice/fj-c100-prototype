@@ -1,5 +1,0 @@
-{
-  "_id": "concerns_applicant_psychological",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you ever been psychologically abused?"
-}

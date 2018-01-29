@@ -1,6 +1,0 @@
-{
-  "_id": "c1a_child-abduction",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Are your children at risk of being abducted?",
-  "playback": "your children are at risk of being abducted"
-}

@@ -1,8 +1,0 @@
-{
-  "Xsubblock": "language-requirements",
-  "_id": "language",
-  "_isa": "radio_group:yes-no-required",
-  "hint": "Including British Sign Language",
-  "label": "Does anyone in this application require help with any language?",
-  "subblock": "language_details"
-}

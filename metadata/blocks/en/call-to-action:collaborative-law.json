@@ -1,7 +1,0 @@
-{
-  "_blockType": "CallToAction",
-  "_id": "call-to-action:collaborative-law",
-  "_isa": "call-to-action:alternative",
-  "call_to_action": "Find out more about collaborative law",
-  "call_to_action_url": "{app:urls:url:cait_collaborative-law}"
-}

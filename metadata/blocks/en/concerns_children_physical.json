@@ -1,5 +1,0 @@
-{
-  "_id": "concerns_children_physical",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have your children ever been physically abused?"
-}

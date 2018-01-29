@@ -1,9 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "route:special-arrangements",
-  "_isa": "view:single-question",
-  "body": "For example you need a separate waiting room to the other person due to safety concerns.",
-  "title": "",
-  "url": "/specific-arrangements",
-  "block": "special-arrangements"
-}

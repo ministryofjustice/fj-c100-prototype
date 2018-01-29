@@ -1,5 +1,0 @@
-{
-  "_id": "children-substep",
-  "_isa": "radio_group:yes-no-required",
-  "label": "My substep question"
-}

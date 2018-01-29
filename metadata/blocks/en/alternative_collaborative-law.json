@@ -1,6 +1,0 @@
-{
-  "_id": "alternative_collaborative-law",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Have you tried collaborative law?",
-  "subblock": "alternative_collaborative-law_details"
-}

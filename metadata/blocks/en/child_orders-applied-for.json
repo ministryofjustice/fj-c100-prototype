@@ -1,7 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "child_orders-applied-for",
-  "label": "Order(s) applied for",
-  "multiline": true,
-  "required": true
-}

@@ -1,5 +1,0 @@
-{
-  "_id": "consent-order",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do you have a written agreement you want the court to make legally binding?"
-}

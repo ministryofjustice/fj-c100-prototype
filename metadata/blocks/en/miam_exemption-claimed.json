@@ -1,6 +1,0 @@
-{
-  "Xhint": "If you claim an exemption you’ll be asked to provide additional information and evidence",
-  "_id": "miam_exemption-claimed",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Do you have a valid reason for not attending a MIAM?\r\n!abbr:MIAM!"
-}

@@ -1,6 +1,0 @@
-{
-  "_id": "order_undertaking",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Undertaking in place of an order",
-  "subblock": "order_undertaking_dependencies"
-}

@@ -1,7 +1,0 @@
-{
-  "_id": "exemption-claimed_no-respondent-address",
-  "_isa": "option:yes",
-  "exemption_type": "misc",
-  "hint": "For example, you can’t contact the other person to arrange a MIAM.",
-  "label": "You don’t have contact details for the other person (the respondent)"
-}

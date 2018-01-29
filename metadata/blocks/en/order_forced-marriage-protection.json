@@ -1,6 +1,0 @@
-{
-  "_id": "order_forced-marriage-protection",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Forced marriage protection order",
-  "subblock": "order_forced-marriage-protection_dependencies"
-}

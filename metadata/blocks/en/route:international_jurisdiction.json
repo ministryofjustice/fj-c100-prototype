@@ -1,8 +1,0 @@
-{
-  "_blockType": "Route",
-  "_id": "route:international_jurisdiction",
-  "_isa": "view:single-question",
-  "title": "",
-  "url": "/international/jurisdiction",
-  "block": "international_jurisdiction"
-}

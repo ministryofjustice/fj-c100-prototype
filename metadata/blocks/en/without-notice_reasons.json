@@ -1,8 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "without-notice_reasons",
-  "hint": "A court will only accept an order without notice if you give a full account of the evidence",
-  "label": "Give details of why you’re asking for a without notice hearing",
-  "multiline": true,
-  "required": true
-}

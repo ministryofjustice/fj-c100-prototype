@@ -1,7 +1,0 @@
-{
-  "_id": "miam-exemption_group_court",
-  "_isa": "option:yes",
-  "hint": "For example, a court has issued an order protecting someone in your family from risk of harm.",
-  "label": "You’ve already been to court",
-  "subblock": "miam-exemption_group_court_options"
-}

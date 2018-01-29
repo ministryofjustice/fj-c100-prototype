@@ -1,5 +1,0 @@
-{
-  "_blockType": "String",
-  "_id": "include:miam-no-valid",
-  "value": "## If you don’t have a valid reason\r\n\r\n!include:miam-steps!"
-}

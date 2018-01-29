@@ -1,7 +1,0 @@
-{
-  "_blockType": "Text",
-  "_id": "urgent_reasons",
-  "label": "Set out the reasons for urgency",
-  "multiline": true,
-  "required": true
-}

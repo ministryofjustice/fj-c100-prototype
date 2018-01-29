@@ -1,9 +1,0 @@
-{
-  "_id": "order_injunctive_court-name",
-  "_isa": "text:court-name",
-  "requiredWhen": [
-    {
-      "order_injunctive": "yes"
-    }
-  ]
-}

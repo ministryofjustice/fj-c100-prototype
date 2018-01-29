@@ -1,9 +1,0 @@
-{
-  "_id": "order_forced-marriage-protection_date-issued",
-  "_isa": "text:date-issued",
-  "requiredWhen": [
-    {
-      "order_forced-marriage-protection": "yes"
-    }
-  ]
-}

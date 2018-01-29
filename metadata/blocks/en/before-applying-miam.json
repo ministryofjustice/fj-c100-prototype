@@ -1,7 +1,0 @@
-{
-  "_blockType": "Section",
-  "_id": "before-applying-miam",
-  "body": "Before using this service you must attend a [MIAM]({app:urls:url:professional-mediation}), unless [you're exempt]({app:urls:url:miams-exemptions}).\r\n\r\nThe MIAM will assess if mediation is right for you and whether you can agree arrangements out of court.\r\n\r\n[Find out more about mediation]({app:urls:url:professional-mediation})\r\n\r\n!abbr:MIAM!",
-  "className": "start_callout",
-  "heading": "Attend a Mediation Information and Assessment Meeting (MIAM)"
-}

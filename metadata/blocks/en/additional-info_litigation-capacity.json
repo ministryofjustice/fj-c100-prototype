@@ -1,5 +1,0 @@
-{
-  "_id": "additional-info_litigation-capacity",
-  "_isa": "radio_group:yes-no-required",
-  "label": "Is this a case with factors affecting litigation capacity?"
-}
