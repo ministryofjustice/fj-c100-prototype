@@ -1,0 +1,11 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "modmo_contact",
+  "label": "How do you want to be contacted about your application?",
+  "options": [
+    "modmo_contact_email",
+    "modmo_contact_phone",
+    "modmo_contact_sms"
+  ],
+  "required": true
+}

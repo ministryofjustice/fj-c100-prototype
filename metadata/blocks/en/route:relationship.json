@@ -9,6 +9,7 @@
     "route:death-in-service",
     "route:organisations",
     "route:service-person_name",
+    "route:contact-details",
     "route:check-your-answers"
   ],
   "url": "/relationship"

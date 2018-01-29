@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "modmo_contact_phone_value",
+  "depends": [
+    {
+      "modmo_contact_phone": "yes"
+    }
+  ],
+  "label": "Phone number",
+  "required": "true"
+}

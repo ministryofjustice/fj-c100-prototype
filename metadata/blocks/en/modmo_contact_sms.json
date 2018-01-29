@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "modmo_contact_sms",
+  "label": "Text message",
+  "subblock": "modmo_contact_sms_value",
+  "value": "yes"
+}

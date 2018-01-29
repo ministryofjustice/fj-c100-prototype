@@ -1,0 +1,7 @@
+{
+  "_blockType": "Route",
+  "_id": "route:contact-details",
+  "_isa": "view:single-question",
+  "block": "modmo_contact",
+  "url": "/contact-details"
+}

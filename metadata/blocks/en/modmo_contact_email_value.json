@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "modmo_contact_email_value",
+  "depends": [
+    {
+      "modmo_contact_email": "yes"
+    }
+  ],
+  "label": "Email address",
+  "required": "true"
+}

@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "modmo_contact_email",
+  "label": "Email",
+  "subblock": "modmo_contact_email_value",
+  "value": "yes"
+}
