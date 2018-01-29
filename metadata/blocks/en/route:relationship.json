@@ -4,7 +4,8 @@
   "_isa": "view:single-question",
   "block": "modmo_relationship",
   "steps": [
-    "route:other-relatives"
+    "route:other-relatives",
+    "route:not_closest-relative"
   ],
   "url": "/relationship"
 }

@@ -14,6 +14,12 @@
     "modmo_other-relatives_info_half-nephew-niece",
     "modmo_other-relatives"
   ],
+  "depends": [
+    {
+      "!modmo_relationship": "father",
+      "!modmo_relationship.*eldest": "no"
+    }
+  ],
   "heading": "!modmo_other-relatives#label!",
   "url": "/other-relatives"
 }
