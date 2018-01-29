@@ -3,5 +3,8 @@
   "_id": "route:relationship",
   "_isa": "view:single-question",
   "block": "modmo_relationship",
+  "steps": [
+    "route:other-relatives"
+  ],
   "url": "/relationship"
 }

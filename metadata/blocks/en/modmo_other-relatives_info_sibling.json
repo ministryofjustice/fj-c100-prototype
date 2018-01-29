@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "modmo_other-relatives_info_sibling",
+  "body": "- husband, wife or civil partner\r\n- children\r\n- father\r\n- mother",
+  "depends": [
+    {
+      "modmo_relationship": "sibling"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "modmo_other-relatives_info_grandfather",
+  "body": "- husband, wife or civil partner\r\n- children\r\n- father\r\n- mother\r\n- brother or sister\r\n- half brother or sister\r\n- grandchild",
+  "depends": [
+    {
+      "modmo_relationship": "grandfather"
+    }
+  ]
+}

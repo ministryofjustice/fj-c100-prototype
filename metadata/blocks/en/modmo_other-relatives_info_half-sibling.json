@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "modmo_other-relatives_info_half-sibling",
+  "body": "- husband, wife or civil partner\r\n- children\r\n- father\r\n- mother\r\n- brother or sister",
+  "depends": [
+    {
+      "modmo_relationship": "half-sibling"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_other-relatives",
+  "label": "{modmo_relationship, select, child{Is the serviceperson’s husband, wife or civil partner alive?} other{Are any of these relatives of the serviceperson alive?}}",
+  "options": [
+    "modmo_other-relatives_no",
+    "option:yes"
+  ],
+  "visuallyhidden": true
+}

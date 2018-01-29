@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "modmo_other-relatives_info_half-nephew-niece",
+  "body": "- husband, wife or civil partner\r\n- children\r\n- father\r\n- mother\r\n- brother or sister\r\n- half brother or sister\r\n- grandchild\r\n- grandfather\r\n- grandmother\r\n- niece or nephew",
+  "depends": [
+    {
+      "modmo_relationship": "half-nephew-niece"
+    }
+  ]
+}

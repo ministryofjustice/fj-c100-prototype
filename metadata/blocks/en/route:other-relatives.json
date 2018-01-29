@@ -1,0 +1,19 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-relatives",
+  "_isa": "view:form",
+  "blocks": [
+    "modmo_other-relatives_info_father",
+    "modmo_other-relatives_info_mother",
+    "modmo_other-relatives_info_sibling",
+    "modmo_other-relatives_info_half-sibling",
+    "modmo_other-relatives_info_grandchild",
+    "modmo_other-relatives_info_grandfather",
+    "modmo_other-relatives_info_grandmother",
+    "modmo_other-relatives_info_nephew-niece",
+    "modmo_other-relatives_info_half-nephew-niece",
+    "modmo_other-relatives"
+  ],
+  "heading": "!modmo_other-relatives#label!",
+  "url": "/other-relatives"
+}

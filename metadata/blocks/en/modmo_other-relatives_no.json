@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "modmo_other-relatives_no",
+  "label": "No, I’m the closest living relative",
+  "required": true,
+  "value": "no"
+}

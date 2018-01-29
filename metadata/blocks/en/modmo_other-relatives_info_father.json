@@ -1,0 +1,10 @@
+{
+  "_blockType": "Body",
+  "_id": "modmo_other-relatives_info_father",
+  "body": "- husband, wife or civil partner\r\n- children",
+  "depends": [
+    {
+      "modmo_relationship": "father"
+    }
+  ]
+}
