@@ -6,10 +6,10 @@
   "depends": [
     {
       "!modmo_relationship": "father",
-      "!modmo_relationship.*eldest": "no"
+      "!modmo_relationship.*eldest": "yes"
     },
     {
-      "modmo_other-relatives": "no"
+      "modmo_other-relatives": "yes"
     }
   ],
   "heading": "The application must be made by the serviceperson’s closest living relative",

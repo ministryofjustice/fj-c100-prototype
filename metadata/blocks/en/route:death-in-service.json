@@ -1,0 +1,7 @@
+{
+  "_blockType": "Route",
+  "_id": "route:death-in-service",
+  "_isa": "view:single-question",
+  "block": "death-in-service",
+  "url": "/death-in-service"
+}

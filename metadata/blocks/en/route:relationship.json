@@ -5,7 +5,8 @@
   "block": "modmo_relationship",
   "steps": [
     "route:other-relatives",
-    "route:not_closest-relative"
+    "route:not_closest-relative",
+    "route:death-in-service"
   ],
   "url": "/relationship"
 }
