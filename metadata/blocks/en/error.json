@@ -2,6 +2,8 @@
   "_blockType": "DefaultString",
   "_id": "error",
   "format": "This answer is not in the correct format",
+  "maxLength": "Your answer must contain no more than {maxLength} characters",
+  "minLength": "Your answer must contain at least {minLength} characters",
   "pattern": "This answer is not in the correct format",
   "required": "Please answer this question",
   "requiredCheckboxGroup": "Please choose at least one of the options",
