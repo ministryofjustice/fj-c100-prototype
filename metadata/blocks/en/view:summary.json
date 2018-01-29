@@ -1,5 +1,6 @@
 {
   "_blockType": "View",
+  "_form": true,
   "_id": "view:summary",
   "description": "Check your answers page",
   "heading": "Check your answers",

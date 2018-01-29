@@ -344,18 +344,6 @@ fieldset {
   }
 }
 
-[data-block-name="route:miam_exemptions_list"] {
-  & legend span {
-    @apply --gv-u-heading-large;
-  }
-
-  & .multiple-choice .multiple-choice label .gv-u-heading-small {
-    display: block;
-    font-weight: normal;
-    margin-bottom: 0.5rem;
-  }
-
-  & .form-hint {
-    color: var(--govuk-black);
-  }
+.multiple-choice .heading-small {
+  font-weight: normal;
 }
