@@ -1,0 +1,7 @@
+{
+  "_blockType": "Route",
+  "_id": "route:applicant",
+  "_isa": "view:single-question",
+  "block": "modmo_applicant",
+  "url": "/applicant"
+}

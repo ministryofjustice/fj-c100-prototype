@@ -1,0 +1,8 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_relationship",
+  "label": "How are you related to the serviceperson?",
+  "options": [
+    "modmo_relationship_spouse"
+  ]
+}
