@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_relationship_sibling_eldest",
+  "_isa": "radio_group_template:yes-no",
+  "depends": [
+    {
+      "modmo_relationship": "sibling"
+    }
+  ],
+  "label": "Are you the eldest living brother or sister?",
+  "required": true
+}

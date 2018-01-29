@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_relationship_half-sibling_eldest",
+  "_isa": "radio_group_template:yes-no",
+  "depends": [
+    {
+      "modmo_relationship": "half-sibling"
+    }
+  ],
+  "label": "Are you the eldest living half brother or sister?",
+  "required": true
+}

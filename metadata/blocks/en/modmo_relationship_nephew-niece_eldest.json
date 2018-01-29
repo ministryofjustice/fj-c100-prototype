@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_relationship_nephew-niece_eldest",
+  "_isa": "radio_group_template:yes-no",
+  "depends": [
+    {
+      "modmo_relationship": "nephew-niece"
+    }
+  ],
+  "label": "Are you the eldest living nephew or niece?",
+  "required": true
+}

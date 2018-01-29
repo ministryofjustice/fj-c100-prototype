@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_relationship_half-nephew-niece_eldest",
+  "_isa": "radio_group_template:yes-no",
+  "depends": [
+    {
+      "modmo_relationship": "half-nephew-niece"
+    }
+  ],
+  "label": "Are you the eldest living half nephew or niece?",
+  "required": true
+}

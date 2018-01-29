@@ -1,0 +1,12 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_relationship_grandchild_eldest",
+  "_isa": "radio_group_template:yes-no",
+  "depends": [
+    {
+      "modmo_relationship": "grandchild"
+    }
+  ],
+  "label": "Are you the eldest living grandchild?",
+  "required": true
+}

@@ -3,6 +3,17 @@
   "_id": "modmo_relationship",
   "label": "How are you related to the serviceperson?",
   "options": [
-    "modmo_relationship_spouse"
-  ]
+    "modmo_relationship_spouse",
+    "modmo_relationship_child",
+    "modmo_relationship_father",
+    "modmo_relationship_mother",
+    "modmo_relationship_sibling",
+    "modmo_relationship_half-sibling",
+    "modmo_relationship_grandchild",
+    "modmo_relationship_grandfather",
+    "modmo_relationship_grandmother",
+    "modmo_relationship_nephew-niece",
+    "modmo_relationship_half-nephew-niece"
+  ],
+  "required": true
 }

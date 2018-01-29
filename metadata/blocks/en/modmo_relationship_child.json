@@ -1,0 +1,7 @@
+{
+  "_blockType": "Option",
+  "_id": "modmo_relationship_child",
+  "label": "Child",
+  "subblock": "modmo_relationship_child_eldest",
+  "value": "child"
+}
