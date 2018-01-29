@@ -2,5 +2,5 @@
   "_blockType": "RadioGroup",
   "_id": "death-in-service",
   "_isa": "radio_group_template:yes-no",
-  "label": "Did the service person die in service?"
+  "label": "Did the person die in service?"
 }

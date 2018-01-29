@@ -4,9 +4,9 @@
   "label": "How are you related to the serviceperson?",
   "options": [
     "modmo_relationship_spouse",
-    "modmo_relationship_child",
     "modmo_relationship_father",
     "modmo_relationship_mother",
+    "modmo_relationship_child",
     "modmo_relationship_sibling",
     "modmo_relationship_half-sibling",
     "modmo_relationship_grandchild",
