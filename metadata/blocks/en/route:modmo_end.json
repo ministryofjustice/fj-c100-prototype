@@ -1,0 +1,9 @@
+{
+  "_blockType": "Route",
+  "_id": "route:modmo_end",
+  "_isa": "view:confirmation",
+  "body": "A confirmation of your application has been sent to .\r\n\r\n###  What happens next\r\n\r\nYour career records will be checked and the medals you’re eligible for will be sent to you.\r\n\r\nYou may be contacted for more information about your application.\r\n\r\n[What did you think of this service?](/dev/null) (takes 30 seconds)",
+  "heading": "Application complete",
+  "lede": "Your reference number is **HDJ2123F**",
+  "url": "/application/submitted"
+}

@@ -16,7 +16,7 @@
   ],
   "depends": [
     {
-      "!modmo_relationship": "father",
+      "!modmo_relationship": "spouse",
       "!modmo_relationship.*eldest": "no"
     }
   ],

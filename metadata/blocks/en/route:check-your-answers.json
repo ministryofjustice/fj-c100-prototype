@@ -1,0 +1,9 @@
+{
+  "_blockType": "Route",
+  "_id": "route:check-your-answers",
+  "_isa": "view:summary",
+  "steps": [
+    "route:modmo_end"
+  ],
+  "url": "/summary"
+}

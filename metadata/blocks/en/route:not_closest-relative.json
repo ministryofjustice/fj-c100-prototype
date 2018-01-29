@@ -5,8 +5,8 @@
   "body": "Medals can only be given to the closest living relative as defined by [intestacy rules](https://www.gov.uk/inherits-someone-dies-without-will).\r\n\r\nContact [dbs-medals@mod.uk](mailto:dbs-medals@mod.uk), if you have questions about medal applications.\r\n\r\n[Read about military awards and commemorations](https://www.gov.uk/topic/defence-armed-forces/military-awards-commemorations)",
   "depends": [
     {
-      "!modmo_relationship": "father",
-      "!modmo_relationship.*eldest": "yes"
+      "!modmo_relationship": "spouse",
+      "modmo_relationship_.*_eldest": "no"
     },
     {
       "modmo_other-relatives": "yes"

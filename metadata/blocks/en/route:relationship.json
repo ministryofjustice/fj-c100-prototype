@@ -6,7 +6,10 @@
   "steps": [
     "route:other-relatives",
     "route:not_closest-relative",
-    "route:death-in-service"
+    "route:death-in-service",
+    "route:organisations",
+    "route:service-person_name",
+    "route:check-your-answers"
   ],
   "url": "/relationship"
 }

@@ -1,0 +1,7 @@
+{
+  "_blockType": "Route",
+  "_id": "route:organisations",
+  "_isa": "view:single-question",
+  "block": "modmo_orgs",
+  "url": "/organisations"
+}

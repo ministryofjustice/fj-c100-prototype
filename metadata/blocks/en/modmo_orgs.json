@@ -1,0 +1,15 @@
+{
+  "_blockType": "CheckboxGroup",
+  "_id": "modmo_orgs",
+  "label": "Which organisations did the serviceperson serve with?",
+  "options": [
+    "modmo_org_army",
+    "modmo_org_home-guard",
+    "modmo_org_raf",
+    "modmo_org_navy",
+    "modmo_org_marines",
+    "modmo_org_reserves",
+    "modmo_org_other"
+  ],
+  "required": true
+}
