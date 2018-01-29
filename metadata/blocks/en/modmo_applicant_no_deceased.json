@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "modmo_applicant_no_deceased",
+  "label": "No, I’m applying for the medals of a deceased relative",
+  "value": "deceased"
+}

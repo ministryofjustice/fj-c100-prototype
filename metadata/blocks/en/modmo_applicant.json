@@ -3,6 +3,8 @@
   "_id": "modmo_applicant",
   "label": "Are you applying for medals awarded to you?",
   "options": [
-    "modmo_relationship_spouse"
+    "option:yes",
+    "modmo_applicant_no_on-behalf",
+    "modmo_applicant_no_deceased"
   ]
 }
