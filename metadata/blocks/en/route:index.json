@@ -2,15 +2,12 @@
   "_blockType": "Route",
   "_id": "route:index",
   "_isa": "view:start",
-  "blocks": [
-    "to-be-done"
-  ],
   "body": "Current serving personnel should speak to their unit HR regarding all medals.\r\n\r\nUse this service to apply for medals awarded:\r\n\r\n- during your military career\r\n- to someone you have lasting power of attorney for during their military career\r\n- to a deceased family member during their career\r\n\r\nThis service only provides medals awarded by:\r\n\r\n- Army\r\n- Home Guard\r\n- Royal Air Force\r\n- Royal Navy\r\n- Royal Marines\r\n- Reserve forces\r\n\r\nIf you’re applying on behalf of someone using lasting power of attorney you’ll need:\r\n\r\n- details of the person’s military career\r\n- evidence of lasting power of attorney\r\n\r\n### If you’re applying for someone else’s medal\r\n\r\nYou can apply on behalf of a veteran if you have lasting power of attorney.\r\n\r\nIf the veteran has died, you must be the official next of kin. The general rules are:\r\n\r\n- the person’s spouse or civil partner has first claim to the medal, and then the eldest child\r\n- if there’s no spouse or child, the eldest grandchild is entitled to apply\r\n\r\nApplying takes around 5 minutes.",
   "controller": "app/templates/index/index.controller",
   "heading": "Apply for a military service medal",
   "steps": [
     "route:applicant",
-    "route:relationship"
+    "route:applicant"
   ],
   "title": "",
   "url": "/"
