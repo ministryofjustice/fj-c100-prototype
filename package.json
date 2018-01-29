@@ -7,7 +7,7 @@
   "main": "lib/start.js",
   "license": "MIT",
   "dependencies": {
-    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#bumper-car"
+    "pflr-express-kit": "https://github.com/ministryofjustice/pflr-express-kit.git#gds-evening-shade"
   },
   "scripts": {
     "build": "build",
