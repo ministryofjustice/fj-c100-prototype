@@ -7,7 +7,7 @@
   "heading": "Apply for a military service medal",
   "steps": [
     "route:applicant",
-    "route:applicant"
+    "route:relationship"
   ],
   "title": "",
   "url": "/"
