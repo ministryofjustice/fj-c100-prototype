@@ -4816,9 +4816,9 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#bumper-car":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#gds-evening-shade":
   version "0.0.25"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#a6f0a709aaf90694c59985c7862982c06f1f721f"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#8db40191fc6c7682d24f2b79676345d9d56e757b"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4884,9 +4884,9 @@ performance-now@^0.2.0:
     the-a11y-machine "^0.9.3"
     webdriverio "^4.8.0"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#gds-evening-shade":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#gds-schema-cleanup":
   version "0.0.25"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#8db40191fc6c7682d24f2b79676345d9d56e757b"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#e21d373352bd397db6cfb6267ae470cc24b07ee5"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
