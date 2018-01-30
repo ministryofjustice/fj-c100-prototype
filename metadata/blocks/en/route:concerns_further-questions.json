@@ -10,12 +10,14 @@
     }
   ],
   "heading": "You and your children",
+  "originalSteps": [
+    "route:miam-exemption_safety_c1a"
+  ],
   "steps": [
     "route:concerns_checkpoint_children",
     "route:concerns_checkpoint_applicant",
     "route:concerns_orders",
-    "route:concerns_contact",
-    "route:miam-exemption_safety_c1a"
+    "route:concerns_contact"
   ],
   "title": "",
   "url": "/concerns/further-questions"

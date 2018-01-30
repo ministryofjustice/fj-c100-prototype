@@ -1,6 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:miam-exemption_safety_c1a",
+  "_inactive": true,
   "_isa": "route:miam-exemption_safety",
   "blocks": [
     "auto-miam-exemption_safety"

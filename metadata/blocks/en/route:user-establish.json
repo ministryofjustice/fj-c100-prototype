@@ -1,13 +1,14 @@
 {
   "_blockType": "Route",
   "_id": "route:user-establish",
+  "_inactive": false,
   "_isa": "view:single-question",
+  "block": "applicant_applying",
   "depends": [
     {
       "flag-applicant-establish": true
     }
   ],
   "title": "",
-  "url": "/who-is-applying",
-  "block": "applicant_applying"
+  "url": "/who-is-applying"
 }

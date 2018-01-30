@@ -1,6 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:miam-exemption_misc-unmatched",
+  "_inactive": true,
   "_isa": "view:single-question",
   "block": "auto-miam-exemption_misc",
   "body": "(i) If you can’t access a MIAM for any of the following reasons you will need to provide evidence.\r\n!abbr:MIAM!",
