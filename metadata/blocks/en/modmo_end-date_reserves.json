@@ -1,0 +1,10 @@
+{
+  "_blockType": "Text",
+  "_id": "modmo_end-date_reserves",
+  "label": "End date",
+  "requiredWhen": [
+    {
+      "modmo_org_reserves": "yes"
+    }
+  ]
+}

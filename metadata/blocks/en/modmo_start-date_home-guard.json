@@ -1,0 +1,11 @@
+{
+  "_blockType": "Text",
+  "_id": "modmo_start-date_home-guard",
+  "hint": "For example, ‘December 1997’, or ‘1997’",
+  "label": "Start date",
+  "requiredWhen": [
+    {
+      "modmo_org_home-guard": "yes"
+    }
+  ]
+}

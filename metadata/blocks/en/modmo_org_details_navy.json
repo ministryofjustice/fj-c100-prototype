@@ -1,0 +1,14 @@
+{
+  "_blockType": "Group",
+  "_id": "modmo_org_details_navy",
+  "blocks": [
+    "modmo_service-number_navy",
+    "modmo_start-date_navy",
+    "modmo_end-date_navy"
+  ],
+  "depends": [
+    {
+      "modmo_org_navy": "yes"
+    }
+  ]
+}

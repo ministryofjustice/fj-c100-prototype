@@ -1,0 +1,14 @@
+{
+  "_blockType": "Group",
+  "_id": "modmo_org_details_raf",
+  "blocks": [
+    "modmo_service-number_raf",
+    "modmo_start-date_raf",
+    "modmo_end-date_raf"
+  ],
+  "depends": [
+    {
+      "modmo_org_raf": "yes"
+    }
+  ]
+}

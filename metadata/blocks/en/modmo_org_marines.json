@@ -2,5 +2,6 @@
   "_blockType": "Option",
   "_id": "modmo_org_marines",
   "label": "Royal Marines",
+  "subblock": "modmo_org_details_marines",
   "value": "yes"
 }

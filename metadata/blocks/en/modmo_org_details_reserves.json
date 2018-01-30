@@ -1,0 +1,14 @@
+{
+  "_blockType": "Group",
+  "_id": "modmo_org_details_reserves",
+  "blocks": [
+    "modmo_service-number_reserves",
+    "modmo_start-date_reserves",
+    "modmo_end-date_reserves"
+  ],
+  "depends": [
+    {
+      "modmo_org_reserves": "yes"
+    }
+  ]
+}

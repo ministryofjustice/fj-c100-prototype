@@ -2,5 +2,6 @@
   "_blockType": "Option",
   "_id": "modmo_org_raf",
   "label": "Royal Air Force",
+  "subblock": "modmo_org_details_raf",
   "value": "yes"
 }
