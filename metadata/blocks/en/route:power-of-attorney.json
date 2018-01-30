@@ -3,6 +3,11 @@
   "_id": "route:power-of-attorney",
   "_isa": "view:single-question",
   "block": "modmo_power-of-attorney",
+  "depends": [
+    {
+      "modmo_applicant": "on-behalf"
+    }
+  ],
   "steps": [
     "route:ineligible-no-power-of-attorney"
   ],
