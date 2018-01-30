@@ -7,7 +7,7 @@
   "controller": "app/templates/miam_certification/miam_certification_confirmation.controller",
   "depends": [
     {
-      "miam_certification": "yes"
+      "miam_certification_code": "yes"
     }
   ],
   "heading": "MIAM attendance confirmation",

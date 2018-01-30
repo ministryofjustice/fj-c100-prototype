@@ -6,9 +6,11 @@
   "continue": "continue",
   "depends": [
     {
-      "!miam_attended": "yes",
       "c1a_.*": "yes",
-      "!auto-exemption-claimed.*": "yes"
+      "!exemption-claimed.*": "yes",
+      "!miam_certification_code": "yes",
+      "!consent-order": "yes",
+      "!cases_child-protection": "yes"
     }
   ],
   "heading": "You haven’t been to a MIAM\r\n!abbr:MIAM!",
