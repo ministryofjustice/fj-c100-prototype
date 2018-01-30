@@ -1,6 +1,7 @@
 {
   "_blockType": "Route",
   "_id": "route:miam-exemptions_proceedings",
+  "_inactive": true,
   "_isa": "view:form",
   "blocks": [
     "proceedings_exemption_13D03",
@@ -9,7 +10,8 @@
   ],
   "depends": [
     {
-      "additional-info_previous-proceedings": "yes"
+      "additional-info_previous-proceedings": "yes",
+      "NEVER": "SHOW"
     }
   ],
   "heading": "Details of court case",

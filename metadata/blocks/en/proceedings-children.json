@@ -1,4 +1,10 @@
 {
   "_blockType": "ProceedingsChildren",
-  "_id": "proceedings-children"
+  "_id": "proceedings-children",
+  "_inactive": true,
+  "depends": [
+    {
+      "NEVER": "SHOW"
+    }
+  ]
 }

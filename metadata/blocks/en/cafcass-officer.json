@@ -1,6 +1,7 @@
 {
   "_blockType": "Text",
   "_id": "cafcass-officer",
-  "label": "Name and office (if known) of Cafcass/CAFCASS CYMRU officer",
+  "hint": "Leave blank if you don’t know",
+  "label": "Name and office of Cafcass/CAFCASS CYMRU officer",
   "multiline": true
 }

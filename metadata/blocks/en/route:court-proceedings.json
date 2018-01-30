@@ -4,11 +4,15 @@
   "_isa": "view:form",
   "blocks": [
     "proceedings-children",
+    "case-names",
     "court-name",
     "case-number",
+    "case-number_info",
     "proceedings-date",
     "cafcass-officer",
-    "previous-orders"
+    "previous-orders",
+    "case-orders",
+    "case-previous-details"
   ],
   "body": "",
   "controller": "app/templates/court-proceedings/court-proceedings.controller",
@@ -17,8 +21,8 @@
       "additional-info_previous-proceedings": "yes"
     }
   ],
-  "heading": "Details of court case",
-  "multiple": true,
+  "heading": "Details of previous court case",
+  "multiple": false,
   "multiple_add": "Add another court case",
   "multiple_add_auto": true,
   "multiple_delete": "Delete court case",

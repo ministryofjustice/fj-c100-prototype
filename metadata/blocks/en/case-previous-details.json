@@ -1,0 +1,8 @@
+{
+  "_blockType": "Text",
+  "_id": "case-previous-details",
+  "hint": "Try and include as many details as possible, for example case number, date and name of court",
+  "label": "Add details of any other previous family case",
+  "multiline": "true",
+  "required": true
+}

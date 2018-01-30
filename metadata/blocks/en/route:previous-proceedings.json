@@ -4,9 +4,12 @@
   "_isa": "view:single-question",
   "block": "additional-info_previous-proceedings",
   "body": "For example an emergency protection order or supervision order. Include any ongoing cases.",
-  "steps": [
+  "originalSteps": [
     "route:court-proceedings",
     "route:miam-exemptions_proceedings"
+  ],
+  "steps": [
+    "route:court-proceedings"
   ],
   "steps_heading": "Previous proceedings",
   "title": "",

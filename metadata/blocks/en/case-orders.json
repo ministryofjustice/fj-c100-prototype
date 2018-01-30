@@ -1,0 +1,8 @@
+{
+  "_blockType": "Text",
+  "_id": "case-orders",
+  "hint": "For example, an Emergency protection order, Supervision order, Care order or any orders related to child abduction",
+  "label": "Type of proceedings",
+  "multiline": "true",
+  "required": true
+}

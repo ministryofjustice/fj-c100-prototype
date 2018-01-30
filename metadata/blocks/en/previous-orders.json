@@ -1,6 +1,12 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "previous-orders",
+  "_inactive": "true",
+  "depends": [
+    {
+      "NEVER": "SHOW"
+    }
+  ],
   "hint": "Select all that apply",
   "label": "Type of proceedings if known",
   "options": [
