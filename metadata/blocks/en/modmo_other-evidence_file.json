@@ -1,0 +1,7 @@
+{
+  "_blockType": "File",
+  "_id": "modmo_other-evidence_file",
+  "hint": "Please upload an image file, either ‘.jpg’ or ‘.png’, no larger than 1GB.",
+  "label": "Upload the evidence",
+  "visuallyhidden": true
+}

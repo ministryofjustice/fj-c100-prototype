@@ -1,0 +1,16 @@
+{
+  "_blockType": "Route",
+  "_id": "route:active-service",
+  "_isa": "view:single-question",
+  "block": "modmo_retired",
+  "depends": [
+    {
+      "!modmo_applicant": "deceased"
+    }
+  ],
+  "steps": [
+    "route:ineligible-still-serving",
+    "route:power-of-attorney"
+  ],
+  "url": "/active-service"
+}

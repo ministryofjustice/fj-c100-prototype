@@ -1,0 +1,11 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_retired",
+  "inline": false,
+  "label": "{modmo_applicant, select, yes{Are you} other{Is the service person}} retired from the armed forces?",
+  "options": [
+    "option:yes",
+    "modmo_retired_no"
+  ],
+  "required": true
+}

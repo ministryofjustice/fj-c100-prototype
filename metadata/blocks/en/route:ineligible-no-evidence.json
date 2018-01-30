@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:ineligible-no-evidence",
+  "_isa": "view:generic",
+  "body": "Medals can’t be given to family members without evidence the serviceperson has died.\r\n\r\nContact [dbs-medals@mod.uk](mailto:dbs-medals@mod.uk), if you have questions about medal applications.\r\n\r\n[Read about military awards and commemorations](https://www.gov.uk/topic/defence-armed-forces/military-awards-commemorations)",
+  "depends": [
+    {
+      "modmo_other-evidence": "no"
+    }
+  ],
+  "heading": "You must provide evidence of the serviceperson’s death",
+  "url": "/ineligible-no-evidence"
+}

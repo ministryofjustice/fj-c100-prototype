@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "modmo_applicant_name",
+  "hint": "Full name",
+  "label": "What’s your name?",
+  "required": true
+}

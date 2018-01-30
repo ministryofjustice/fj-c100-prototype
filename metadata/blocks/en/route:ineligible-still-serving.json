@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:ineligible-still-serving",
+  "_isa": "view:generic",
+  "body": "You can only apply for a medal online if you’re a retired veteran\r\n\r\nIf you are a retired veteran, [continue your medal application]({app:urls:route:active-service}).\r\n\r\n[Read about military awards and commemorations](https://www.gov.uk/topic/defence-armed-forces/military-awards-commemorations)",
+  "depends": [
+    {
+      "modmo_retired": "no"
+    }
+  ],
+  "heading": "Apply through human resources in your unit",
+  "url": "/ineligible-still-serving"
+}

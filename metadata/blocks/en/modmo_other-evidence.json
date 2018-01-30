@@ -1,0 +1,11 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_other-evidence",
+  "inline": false,
+  "label": "Do you have any other proof the serviceperson has died?",
+  "options": [
+    "modmo_other-evidence_yes",
+    "modmo_other-evidence_no"
+  ],
+  "required": true
+}

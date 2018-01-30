@@ -1,0 +1,10 @@
+{
+  "_blockType": "Route",
+  "_id": "route:power-of-attorney",
+  "_isa": "view:single-question",
+  "block": "modmo_power-of-attorney",
+  "steps": [
+    "route:ineligible-no-power-of-attorney"
+  ],
+  "url": "/power-of-attorney"
+}

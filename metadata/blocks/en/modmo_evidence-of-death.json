@@ -1,0 +1,7 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_evidence-of-death",
+  "_isa": "radio_group_template:yes-no",
+  "label": "Can you provide a copy of the death certificate?",
+  "required": true
+}

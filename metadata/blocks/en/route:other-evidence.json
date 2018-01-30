@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-evidence",
+  "_isa": "view:single-question",
+  "block": "modmo_other-evidence",
+  "body": "For example a copy of an obituary notice or other record.",
+  "depends": [
+    {
+      "modmo_evidence-of-death": "no"
+    }
+  ],
+  "url": "/other-evidence"
+}

@@ -1,0 +1,16 @@
+{
+  "_blockType": "Group",
+  "_id": "modmo_other-names_group",
+  "blocks": [
+    "modmo_other-names_name"
+  ],
+  "body": "",
+  "heading": "Other names the serviceperson was known by",
+  "multiple": true,
+  "multiple_add": "Add another name",
+  "multiple_autosuffix": true,
+  "multiple_delete": "Remove name",
+  "multiple_heading": "",
+  "multiple_max": 5,
+  "multiple_min": 1
+}

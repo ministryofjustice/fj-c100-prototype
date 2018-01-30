@@ -1,0 +1,6 @@
+{
+  "_blockType": "Option",
+  "_id": "modmo_retired_no",
+  "label": "No, {modmo_applicant, select, yes{I’m} other{they’re}} currently serving",
+  "value": "no"
+}

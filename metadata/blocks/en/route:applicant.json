@@ -1,9 +1,5 @@
 {
-  "_blockType": "Route",
-  "_id": "route:applicant",
-  "_isa": "view:single-question",
-  "block": "modmo_applicant",
-  "redirectConditions": {
+  "XredirectConditions": {
     "route:applicant_on-behalf": [
       {
         "modmo_applicant": "yes"
@@ -15,5 +11,9 @@
       }
     ]
   },
+  "_blockType": "Route",
+  "_id": "route:applicant",
+  "_isa": "view:single-question",
+  "block": "modmo_applicant",
   "url": "/applicant"
 }

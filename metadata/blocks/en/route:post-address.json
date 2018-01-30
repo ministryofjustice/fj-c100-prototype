@@ -1,0 +1,8 @@
+{
+  "_blockType": "Route",
+  "_id": "route:post-address",
+  "_isa": "view:single-question",
+  "block": "modmo_post-address",
+  "body": "Medal applications usually take 6 to 8 weeks to process. If you move house during this time, or want to change the address the medals will be sent to please contact [dbs-medals@mod.uk](mailto:dbs-medals@mod.uk).\r\n\r\nThere is no charge for the postage. Someone will need to sign for the delivery.",
+  "url": "/post-address"
+}

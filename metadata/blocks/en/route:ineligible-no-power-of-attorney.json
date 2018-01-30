@@ -1,0 +1,13 @@
+{
+  "_blockType": "Route",
+  "_id": "route:ineligible-no-power-of-attorney",
+  "_isa": "view:generic",
+  "body": "Contact [dbs-medals@mod.uk](mailto:dbs-medals@mod.uk), if you have questions about medal applications.\r\n\r\n[Read about military awards and commemorations](https://www.gov.uk/topic/defence-armed-forces/military-awards-commemorations)",
+  "depends": [
+    {
+      "modmo_power-of-attorney": "no"
+    }
+  ],
+  "heading": "You can only apply for the medals on behalf of a service person if you have lasting power of attorney",
+  "url": "/ineligible-no-power-of-attorney"
+}

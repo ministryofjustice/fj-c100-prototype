@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-names_details",
+  "_isa": "view:single-question",
+  "block": "modmo_other-names_group",
+  "depends": [
+    {
+      "modmo_other-names": "yes"
+    }
+  ],
+  "url": "/other-names/details"
+}

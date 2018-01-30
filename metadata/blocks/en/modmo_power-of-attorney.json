@@ -1,0 +1,7 @@
+{
+  "_blockType": "RadioGroup",
+  "_id": "modmo_power-of-attorney",
+  "_isa": "radio_group_template:yes-no",
+  "label": "Do you have lasting power of attorney for the service person?",
+  "required": true
+}

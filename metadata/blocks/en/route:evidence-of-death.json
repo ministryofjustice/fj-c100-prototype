@@ -1,0 +1,17 @@
+{
+  "_blockType": "Route",
+  "_id": "route:evidence-of-death",
+  "_isa": "view:single-question",
+  "block": "modmo_evidence-of-death",
+  "depends": [
+    {
+      "modmo_death-in-service": "no"
+    }
+  ],
+  "steps": [
+    "route:other-evidence",
+    "route:ineligible-no-evidence",
+    "route:other-evidence-upload"
+  ],
+  "url": "/evidence-of-death"
+}

@@ -10,7 +10,15 @@
   "heading": "Apply for a military service medal",
   "steps": [
     "route:applicant",
-    "route:relationship"
+    "route:active-service",
+    "route:relationship",
+    "route:organisations",
+    "route:service-person_name",
+    "route:other-names",
+    "route:applicant_name",
+    "route:contact-details",
+    "route:post-address",
+    "route:check-your-answers"
   ],
   "title": "",
   "url": "/"

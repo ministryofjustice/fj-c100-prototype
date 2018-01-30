@@ -1,0 +1,12 @@
+{
+  "_blockType": "Route",
+  "_id": "route:other-evidence-upload",
+  "_isa": "view:form",
+  "blocks": [
+    "modmo_other-evidence_file",
+    "modmo_other-evidence_description"
+  ],
+  "body": "Evidence can be a photo or scan of documents. Make sure the image is clear and legible.",
+  "heading": "Upload evidence of the serviceperson’s death",
+  "url": "/other-evidence-upload"
+}

@@ -1,0 +1,7 @@
+{
+  "_blockType": "Text",
+  "_id": "modmo_other-evidence_description",
+  "label": "Describe the documents you’re uploading",
+  "multiline": "true",
+  "required": true
+}
