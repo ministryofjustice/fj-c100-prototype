@@ -6,7 +6,8 @@
     "order-jtbd_child-home",
     "order-jtbd_child-times",
     "order-jtbd_child-contact",
-    "order-jtbd_child-access"
+    "order-jtbd_child-access",
+    "order-jtbd_child-event"
   ],
   "title": "Child Arrangements Order"
 }
