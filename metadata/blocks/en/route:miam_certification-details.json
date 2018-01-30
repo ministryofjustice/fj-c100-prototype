@@ -10,7 +10,6 @@
   "controller": "app/templates/miam_certification/miam_certification.controller",
   "depends": [
     {
-      "miam_certification": "yes",
       "!miam_expired": "yes"
     }
   ],

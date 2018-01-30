@@ -1,4 +1,5 @@
 {
+  "*notes": "TODO: Is this page needed now?",
   "_blockType": "Route",
   "_id": "route:miam_not-attended",
   "_isa": "view:form",
@@ -6,7 +7,7 @@
   "continue": "confirm-continue",
   "depends": [
     {
-      "miam_attended": "no"
+      "!miam_attended": "yes"
     }
   ],
   "heading": "You haven’t attended a MIAM",

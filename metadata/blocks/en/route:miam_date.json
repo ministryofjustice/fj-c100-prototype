@@ -11,7 +11,8 @@
     }
   ],
   "steps": [
-    "route:end_miam_expired"
+    "route:end_miam_expired",
+    "route:miam_certification-details"
   ],
   "title": "",
   "url": "/miam/date"

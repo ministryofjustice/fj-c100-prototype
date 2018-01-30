@@ -10,6 +10,7 @@
     }
   ],
   "steps": [
+    "route:miam_not-attended",
     "route:miam_certification"
   ],
   "title": "",

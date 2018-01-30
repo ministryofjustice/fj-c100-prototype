@@ -16,8 +16,7 @@
   "heading": "Attending a Mediation Information and Assessment Meeting (MIAM)",
   "lede": "Before completing this application you’re legally required to attend a Mediation Information and Assessment Meeting (MIAM).",
   "steps": [
-    "route:miam_attended",
-    "route:miam_not-attended"
+    "route:miam_attended"
   ],
   "title": "",
   "url": "/miam/requirement",

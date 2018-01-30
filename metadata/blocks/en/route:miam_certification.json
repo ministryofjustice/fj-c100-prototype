@@ -11,8 +11,7 @@
   ],
   "lede": "Your mediator should have signed a certificate confirming your MIAM attendance\r\n!abbr:MIAM!",
   "steps": [
-    "route:miam_date",
-    "route:miam_certification-details"
+    "route:miam_date"
   ],
   "title": "",
   "url": "/miam/certification"
