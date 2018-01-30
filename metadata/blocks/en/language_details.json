@@ -6,6 +6,7 @@
       "language": "yes"
     }
   ],
+  "hint": "Give the names of everyone who needs help and the language they require (including dialect, if applicable)",
   "label": "Provide details",
   "multiline": true,
   "required": "true"
