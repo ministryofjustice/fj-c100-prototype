@@ -19,6 +19,7 @@
   "steps": [
     "route:respondent_under-age",
     "route:respondent_relationship",
+    "route:respondent_relationship_other-children",
     "route:respondent_contact"
   ],
   "title": "",

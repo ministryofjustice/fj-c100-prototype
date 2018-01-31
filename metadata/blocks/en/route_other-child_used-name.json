@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "route_other-child_used-name",
+  "value": "[{other-children_full-name_{app:route:dynamicIndex}}]"
+}

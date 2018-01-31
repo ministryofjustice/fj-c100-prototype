@@ -18,6 +18,7 @@
   "steps": [
     "route:applicant_under-age",
     "route:applicant_relationship",
+    "route:applicant_relationship_other-children",
     "route:applicant_contact",
     "route:applicant_solicitor"
   ],

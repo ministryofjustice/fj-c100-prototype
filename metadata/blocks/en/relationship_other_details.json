@@ -4,6 +4,9 @@
   "depends": [
     {
       "child_relationship": "other"
+    },
+    {
+      "other-child_relationship": "other"
     }
   ],
   "label": "Provide details",
