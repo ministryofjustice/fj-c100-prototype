@@ -1,6 +1,7 @@
 {
   "_blockType": "Text",
   "_id": "abduction_current-location",
+  "hint": "If they’re outside England or Wales, include what country they’re in and how long they’ve been there. You don’t need to include any addresses.",
   "label": "Where are the children now?",
   "multiline": true,
   "required": true
