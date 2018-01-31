@@ -1,6 +1,6 @@
 {
   "_id": "c1a_other",
   "_isa": "radio_group:yes-no-required",
-  "label": "Do you have any other safety or welfare concerns?",
+  "label": "Do you have any other safety concerns about you or your children?",
   "playback": "you have concerns about you or your children’s safety or welfare"
 }
