@@ -1,0 +1,6 @@
+{
+  "_blockType": "ProgressiveDisclosure",
+  "_id": "international_resident-explanation",
+  "body": "We need to know if !string:your! !string:children! {children, select, 1{has} other{have}} any close family who live in another country so we can assess whether there are grounds to start a court case there.",
+  "heading": "Why do we ask this?"
+}
