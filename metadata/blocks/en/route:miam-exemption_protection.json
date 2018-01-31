@@ -1,0 +1,9 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_protection",
+  "_isa": "view:single-question",
+  "block": "miam-exemption_protection",
+  "body": "(i) You will need to provide evidence to support your claim",
+  "title": "",
+  "url": "/miam/exemption/protection"
+}

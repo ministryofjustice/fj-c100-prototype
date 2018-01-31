@@ -1,0 +1,20 @@
+{
+  "_blockType": "Route",
+  "_id": "route:miam-exemption_domestic",
+  "_isa": "view:single-question",
+  "block": "miam-exemption_domestic",
+  "body": "(i) You will need to provide evidence to support your claim",
+  "depends": [
+    {
+      "miam_exemption-claimed": "yes"
+    }
+  ],
+  "steps": [
+    "route:miam-exemption_protection",
+    "route:miam-exemption_urgency",
+    "route:miam-exemption_adr",
+    "route:miam-exemption_misc"
+  ],
+  "title": "",
+  "url": "/miam/exemption/domestic"
+}

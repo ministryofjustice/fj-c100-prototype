@@ -7,7 +7,7 @@
     "miam-exemption_evidence-requirements",
     "miam_exemption-claimed"
   ],
-  "body": "If you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}) not to attend a MIAM you’ll need to tell us what evidence you have to support your claim.\r\n!abbr:MIAM!",
+  "body": "If you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}) not to attend a MIAM you’ll need to tell us what evidence you have to support your claim.\r\n\r\n!include:miam-check!\r\n\r\n!include:miam-check!\r\n\r\n!include:miam-no-valid!\r\n\r\n!abbr:MIAM!",
   "depends": [
     {
       "!miam_certification_code": "yes",
@@ -26,7 +26,7 @@
     ]
   },
   "steps": [
-    "route:miam-exemption_safety"
+    "route:miam-exemption_domestic"
   ],
   "steps_heading": "MIAM exemptions\r\n!abbr:MIAM!",
   "title": "",

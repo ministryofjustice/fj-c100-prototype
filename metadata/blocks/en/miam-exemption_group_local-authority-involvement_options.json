@@ -6,7 +6,7 @@
       "miam-exemption_group_local-authority-involvement": "yes"
     }
   ],
-  "label": "Evidence of local authority involvement with the children",
+  "label": "The applicant confirms that a child would be the subject of the application and that child or another child of the family who is living with that child is currently:",
   "options": [
     "exemption-claimed_local-authority-involvement_section47",
     "exemption-claimed_local-authority-involvement_protection-plan"
@@ -15,6 +15,5 @@
     {
       "miam-exemption_group_local-authority-involvement": "yes"
     }
-  ],
-  "visuallyhidden": true
+  ]
 }

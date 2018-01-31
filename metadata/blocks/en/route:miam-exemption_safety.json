@@ -1,6 +1,13 @@
 {
-  "_blockType": "Route",
+  "Xsteps": [
+    "route:miam-exemption_urgency",
+    "route:miam-exemption_adr",
+    "route:miam-exemption_misc",
+    "route:miam-exemption_protection"
+  ],
+  "_blockType": "exRoute",
   "_id": "route:miam-exemption_safety",
+  "_inactive": true,
   "_isa": "view:single-question",
   "block": "miam-exemption_safety",
   "body": "(i) You will need to provide evidence to support your claim",
@@ -8,11 +15,6 @@
     {
       "miam_exemption-claimed": "yes"
     }
-  ],
-  "steps": [
-    "route:miam-exemption_urgency",
-    "route:miam-exemption_adr",
-    "route:miam-exemption_misc"
   ],
   "title": "",
   "url": "/miam/exemption/safety"
