@@ -1,5 +1,12 @@
 {
-  "_blockType": "Route",
+  "Xsteps": [
+    "route:miam-exemption_domestic-violence",
+    "route:miam-exemption_child-protection",
+    "route:miam-exemption_urgency",
+    "route:miam-exemption_previous-attendance",
+    "route:miam-exemption_other"
+  ],
+  "_blockType": "exRoute",
   "_id": "route:miam-exemption_recap",
   "_isa": "view:form",
   "blocks": [
@@ -11,13 +18,6 @@
     }
   ],
   "heading": "! checkbox_group:miam-exemption_recap#label!",
-  "steps": [
-    "route:miam-exemption_domestic-violence",
-    "route:miam-exemption_child-protection",
-    "route:miam-exemption_urgency",
-    "route:miam-exemption_previous-attendance",
-    "route:miam-exemption_other"
-  ],
   "title": "",
   "url": "/miam/recap"
 }

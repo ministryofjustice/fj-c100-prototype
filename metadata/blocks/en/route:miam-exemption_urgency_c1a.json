@@ -1,7 +1,8 @@
 {
-  "_blockType": "Route",
+  "_blockType": "exRoute",
   "_id": "route:miam-exemption_urgency_c1a",
-  "_isa": "route:miam-exemption_urgency",
+  "_inactive": true,
+  "_wasa": "route:miam-exemption_urgency",
   "blocks": [
     "auto-miam-exemption_urgency"
   ],

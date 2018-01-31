@@ -1,7 +1,8 @@
 {
-  "_blockType": "Route",
+  "_blockType": "exRoute",
   "_id": "route:miam-exemption_safety_alt",
-  "_isa": "route:miam-exemption_safety",
+  "_inactive": true,
+  "_wasa": "route:miam-exemption_safety",
   "steps": [],
   "url": "/miam/exemption/safety/alt"
 }

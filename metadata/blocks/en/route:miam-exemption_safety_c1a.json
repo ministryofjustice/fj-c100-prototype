@@ -1,13 +1,13 @@
 {
-  "_blockType": "Route",
+  "Xsteps": [
+    "route:miam-exemption_urgency_c1a"
+  ],
+  "_blockType": "exRoute",
   "_id": "route:miam-exemption_safety_c1a",
   "_inactive": true,
-  "_isa": "route:miam-exemption_safety",
+  "_wasa": "route:miam-exemption_safety",
   "blocks": [
     "auto-miam-exemption_safety"
-  ],
-  "steps": [
-    "route:miam-exemption_urgency_c1a"
   ],
   "url": "/concerns/miam/exemption/safety"
 }
