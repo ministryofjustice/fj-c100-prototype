@@ -7,7 +7,7 @@
     "miam-exemption_evidence-requirements",
     "miam_exemption-claimed"
   ],
-  "body": "If you think that you have a [valid reason not to attend a MIAM]({app:urls:url:miams-exemptions}) not to attend a MIAM you’ll need to tell us what evidence you have to support your claim.\r\n\r\n!include:miam-check!\r\n\r\n!include:miam-check!\r\n\r\n!include:miam-no-valid!\r\n\r\n!abbr:MIAM!",
+  "body": "If you’re unsure you can [check the list of valid reasons]({app:urls:url:miams-exemptions}).\r\n\r\n!abbr:MIAM!",
   "depends": [
     {
       "!miam_certification_code": "yes",
@@ -15,8 +15,7 @@
       "!cases_child-protection": "yes"
     }
   ],
-  "heading": "You need to attend a MIAM\r\n!abbr:MIAM!",
-  "lede": "Based on your answers you need to attend a MIAM before making this application.\r\n!abbr:MIAM!",
+  "heading": "Do you have a valid reason for not attending a MIAM?\r\n!abbr:MIAM!",
   "redirectConditions": {
     "route:end_miam_not-completed": [
       {
