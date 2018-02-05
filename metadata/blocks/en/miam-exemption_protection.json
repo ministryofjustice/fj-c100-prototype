@@ -4,7 +4,8 @@
   "hint": "Select all that apply or ‘None of these’",
   "label": "Do you have any of the following evidence of child protection concerns?",
   "options": [
-    "miam-exemption_group_local-authority-involvement",
+    "exemption-claimed_local-authority-involvement_section47",
+    "exemption-claimed_local-authority-involvement_protection-plan",
     "miam-exemption_protection_none"
   ],
   "required": true

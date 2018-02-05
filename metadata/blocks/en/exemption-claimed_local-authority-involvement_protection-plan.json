@@ -2,5 +2,5 @@
   "_id": "exemption-claimed_local-authority-involvement_protection-plan",
   "_isa": "option:yes",
   "exemption_type": "child_protection",
-  "label": "The subject of a child protection plan put in place by a local authority"
+  "label": "You confirm that any of your children are currently the subject of a child protection plan"
 }

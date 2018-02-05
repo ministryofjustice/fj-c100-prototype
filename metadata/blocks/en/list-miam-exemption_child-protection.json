@@ -3,7 +3,8 @@
   "_id": "list-miam-exemption_child-protection",
   "label": "You have evidence of child protection concerns",
   "options": [
-    "miam-exemption_group_local-authority-involvement"
+    "exemption-claimed_local-authority-involvement_section47",
+    "exemption-claimed_local-authority-involvement_protection-plan"
   ],
   "required": true
 }
