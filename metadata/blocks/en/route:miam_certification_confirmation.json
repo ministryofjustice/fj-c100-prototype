@@ -7,7 +7,7 @@
   "controller": "app/templates/miam_certification/miam_certification_confirmation.controller",
   "depends": [
     {
-      "miam_certification_code": "yes"
+      "miam_certification_code": "\\d\\d\\d\\d[a-zA-Z]"
     }
   ],
   "heading": "MIAM attendance confirmation",

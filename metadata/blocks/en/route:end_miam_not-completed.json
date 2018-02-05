@@ -7,7 +7,7 @@
     {
       "!c1a_.*": "yes",
       "!exemption-claimed.*": "yes",
-      "!miam_certification_code": "yes",
+      "!miam_certification_code": "\\d\\d\\d\\d[a-zA-Z]",
       "!consent-order": "yes",
       "!cases_child-protection": "yes"
     }

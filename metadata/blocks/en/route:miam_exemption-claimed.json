@@ -10,7 +10,7 @@
   "body": "If you’re unsure you can [check the list of valid reasons]({app:urls:url:miams-exemptions}).\r\n\r\n!abbr:MIAM!",
   "depends": [
     {
-      "!miam_certification_code": "yes",
+      "!miam_certification_code": "\\d\\d\\d\\d[a-zA-Z]",
       "!consent-order": "yes",
       "!cases_child-protection": "yes"
     }
