@@ -7,7 +7,7 @@
   "applicant-details_off": false,
   "respondent-details_off": false,
   "other-party-details_off": false,
-  "links-open-in-new-window": false,
+  "links-open-in-new-window": true,
   "check-your-answers": false,
   "disabled": {
     "residence-known": false,
