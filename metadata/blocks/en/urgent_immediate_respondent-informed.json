@@ -1,0 +1,13 @@
+{
+  "_blockType": "Text",
+  "_id": "urgent_immediate_respondent-informed",
+  "depends": [
+    {
+      "urgent_immediate": "yes"
+    }
+  ],
+  "hint": "Leave blank if you haven’t done anything",
+  "label": "What have you done to tell the respondent of your application?",
+  "multiline": "true",
+  "required": false
+}

@@ -35,6 +35,7 @@
     "route:other-parties-required",
     "route:children-residence",
     "route:previous-proceedings",
+    "route:urgent",
     "route:without-notice",
     "route:international_resident",
     "route:application-details",

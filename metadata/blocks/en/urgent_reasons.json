@@ -1,7 +1,8 @@
 {
   "_blockType": "Text",
   "_id": "urgent_reasons",
-  "label": "Set out the reasons for urgency",
+  "hint": "A court will only accept your request if you can give evidence",
+  "label": "Give details of why you’re asking for an urgent hearing",
   "multiline": true,
   "required": true
 }

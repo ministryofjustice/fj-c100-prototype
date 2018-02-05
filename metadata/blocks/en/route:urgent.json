@@ -1,19 +1,12 @@
 {
   "_blockType": "Route",
   "_id": "route:urgent",
-  "_isa": "view:form",
-  "blocks": [
-    "urgent_order-sought",
-    "urgent_reasons",
-    "urgent_timetable"
+  "_isa": "view:single-question",
+  "block": "urgent",
+  "body": "You can only apply for an urgent hearing if you can show that:\r\n\r\n- you or your children are at immediate risk of harm\r\n- your children are at risk of abduction\r\n- proceedings for your family dispute may start in another country\r\n\r\n(!) Call 999 if you or your children are in immediate danger.",
+  "steps": [
+    "route:urgent_details"
   ],
-  "body": "",
-  "depends": [
-    {
-      "hearing-type": "urgent-hearing"
-    }
-  ],
-  "heading": "Urgent hearing",
   "title": "",
   "url": "/urgent"
 }
