@@ -1,12 +1,8 @@
 {% macro ExemptionsPlayback() %}
-<!--
-You don’t have to go because:
--->
-{% set regExp = r/^(auto-)*exemption-claimed.+/g %}
+<p>{{ Block.String('miam-exemptions_playback_intro') }}
+
 <ul>
-{% for reason, value in autofields %}
-{% if regExp.test(reason) %}
-{% if regExp.test(reason) %}{%endif%}{# sigh #}
+{% for reason in route.exemptions %}
 <li>
 {% set exemption_type = getBlockProp(reason, 'exemption_type') %}
 {% if exemption_type %}
@@ -15,7 +11,6 @@ You don’t have to go because:
 {% set reasonSink = getFormattedBodyContent(reason, 'label') %}
 <div class="exemption-claimed--reason">{{ getFormattedBodyContent(reason, 'label') | safe }}</div>
 </li>
-{% endif %}
 {% endfor %}
 </ul>
 {% endmacro %}

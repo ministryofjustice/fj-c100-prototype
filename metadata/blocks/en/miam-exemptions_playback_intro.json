@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "miam-exemptions_playback_intro",
+  "value": "The {app:route:exemptionsCount, select, 1{reason} other{reasons}} you’ve given {app:route:exemptionsCount, select, 1{is} other{are}}:"
+}

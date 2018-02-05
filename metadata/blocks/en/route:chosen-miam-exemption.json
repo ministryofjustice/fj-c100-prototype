@@ -6,8 +6,8 @@
     "miam-exemptions_playback",
     "miam-exemptions_evidence"
   ],
-  "body": "The reason you’ve given is:",
   "continue": "continue",
+  "controller": "app/templates/miam-exemption-chosen/miam-exemption-chosen.controller",
   "depends": [
     {
       "exemption-claimed.*": "yes"
