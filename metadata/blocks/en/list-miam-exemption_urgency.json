@@ -2,5 +2,6 @@
   "_blockType": "CheckboxGroup",
   "_id": "list-miam-exemption_urgency",
   "_isa": "miam-exemption_urgency",
+  "hint": " ",
   "label": "You’re making an urgent application"
 }

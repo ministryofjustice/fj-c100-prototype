@@ -2,5 +2,6 @@
   "_blockType": "CheckboxGroup",
   "_id": "list-miam-exemption_misc",
   "_isa": "miam-exemption_misc",
+  "hint": " ",
   "label": "Any other exemptions"
 }

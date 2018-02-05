@@ -2,5 +2,5 @@
   "_id": "exemption-claimed_local-authority-involvement_protection-plan",
   "_isa": "option:yes",
   "exemption_type": "child_protection",
-  "label": "You confirm that any of your children are currently the subject of a child protection plan"
+  "label": "A local authority has made a child protection order for any of your children that is still in effect"
 }
