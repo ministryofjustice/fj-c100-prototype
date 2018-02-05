@@ -4,16 +4,18 @@
   "_id": "route:miam_certification-details",
   "_isa": "view:form",
   "blocks": [
-    "miam_certification_code"
+    "miam_certification_code",
+    "miam_certification_service-name",
+    "miam_certification_sole-trader-name"
   ],
-  "body": "",
+  "body": "You can find this information at the bottom of the certificate the mediator signed.",
   "controller": "app/templates/miam_certification/miam_certification.controller",
   "depends": [
     {
       "!miam_expired": "yes"
     }
   ],
-  "heading": "Enter details of MIAM certification\r\n!abbr:MIAM!",
+  "heading": "Enter details of MIAM attendance\r\n!abbr:MIAM!",
   "steps": [
     "route:miam_certification_confirmation"
   ],
