@@ -6,14 +6,15 @@
     "miam-exemptions_playback",
     "miam-exemptions_evidence"
   ],
-  "body": "You’ve said you have a valid reason for not attending a MIAM.\r\n\r\n!abbr:MIAM!",
+  "body": "The reason you’ve given is:",
   "continue": "continue",
   "depends": [
     {
       "exemption-claimed.*": "yes"
     }
   ],
-  "heading": "You’re claiming you don’t have to attend a MIAM\r\n!abbr:MIAM!",
+  "heading": "You don’t have to attend a MIAM\r\n!abbr:MIAM!",
+  "lede": "You’ve said you have a valid reason for not attending a MIAM.\r\n!abbr:MIAM!",
   "title": "",
   "url": "/miam/reason-chosen"
 }

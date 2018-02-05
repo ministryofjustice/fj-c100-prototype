@@ -3,15 +3,19 @@
 You don’t have to go because:
 -->
 {% set regExp = r/^(auto-)*exemption-claimed.+/g %}
+<ul>
 {% for reason, value in autofields %}
 {% if regExp.test(reason) %}
 {% if regExp.test(reason) %}{%endif%}{# sigh #}
+<li>
 {% set exemption_type = getBlockProp(reason, 'exemption_type') %}
 {% if exemption_type %}
 <h4 class="exemption-claimed--heading">{{ getFormattedBodyContent('exemption_types', exemption_type) | safe }}</h4>
 {% endif %}
 {% set reasonSink = getFormattedBodyContent(reason, 'label') %}
 <div class="exemption-claimed--reason">{{ getFormattedBodyContent(reason, 'label') | safe }}</div>
+</li>
 {% endif %}
 {% endfor %}
+</ul>
 {% endmacro %}
