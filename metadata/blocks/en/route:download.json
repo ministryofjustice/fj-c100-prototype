@@ -4,6 +4,11 @@
   "_isa": "view:form",
   "body": "Save your application (as a PDF) before you print and post it.",
   "continue": "download",
+  "depends": [
+    {
+      "NEVER": "SHOW"
+    }
+  ],
   "heading": "Download your application before you continue",
   "title": "",
   "url": "/download"
