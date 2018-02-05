@@ -1,7 +1,8 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "miam-exemption_domestic",
-  "label": "Can you provide evidence of any domestic abuse concerns?",
+  "hint": "Select all that apply or ‘None of these’",
+  "label": "Do you have any of the following evidence of domestic abuse?",
   "options": [
     "miam-exemption_group_police",
     "miam-exemption_group_court",

@@ -3,7 +3,7 @@
   "_id": "route:miam-exemption_misc",
   "_isa": "view:single-question",
   "block": "miam-exemption_misc",
-  "body": "(i) You will need to provide evidence to support your claim",
+  "heading": "Providing evidence of other valid reasons for not attending",
   "title": "",
   "url": "/miam/exemption/other"
 }

@@ -1,7 +1,8 @@
 {
   "_blockType": "CheckboxGroup",
   "_id": "miam-exemption_protection",
-  "label": "Can you provide evidence of any child protection concerns?",
+  "hint": "Select all that apply or ‘None of these’",
+  "label": "Do you have any of the following evidence of child protection concerns?",
   "options": [
     "miam-exemption_group_local-authority-involvement",
     "miam-exemption_protection_none"

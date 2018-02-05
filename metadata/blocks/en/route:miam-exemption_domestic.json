@@ -3,12 +3,13 @@
   "_id": "route:miam-exemption_domestic",
   "_isa": "view:single-question",
   "block": "miam-exemption_domestic",
-  "body": "(i) You will need to provide evidence to support your claim",
+  "body": "You’ve told us you have a valid reason for not attending a MIAM. The following questions will ask what evidence you have to support your claim.",
   "depends": [
     {
       "miam_exemption-claimed": "yes"
     }
   ],
+  "heading": "Providing evidence of domestic abuse concerns",
   "steps": [
     "route:miam-exemption_protection",
     "route:miam-exemption_urgency",
