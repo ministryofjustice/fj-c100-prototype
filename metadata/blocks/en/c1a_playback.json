@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "c1a_playback",
+  "value": "{c1a_child-abduction, select, yes{- !c1a_child-abduction#playback!} other{}}\r\n{c1a_substance-abuse, select, yes{- !c1a_substance-abuse#playback!} other{}}\r\n{c1a_child-abuse, select, yes{- !c1a_child-abuse#playback!} other{}}\r\n{c1a_domestic-abuse, select, yes{- !c1a_domestic-abuse#playback!} other{}}\r\n{c1a_other, select, yes{- !c1a_other#playback!} other{}}"
+}

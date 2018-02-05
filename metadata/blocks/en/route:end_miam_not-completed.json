@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:end_miam_not-completed",
   "_isa": "view:generic",
-  "body": "Since you haven’t provided a valid reason to not attend, you should follow these steps.\r\n\r\n!include:miam-steps!\r\n",
+  "body": "You need to follow these steps before continuing with your application:\r\n\r\n1. [Find a mediator]({app:urls:url:fmc_find-mediator}) and book a MIAM\r\n2. Attend the MIAM\r\n3. Ask the mediator for a certificate confirming your attendance",
   "depends": [
     {
       "!c1a_.*": "yes",
@@ -12,8 +12,8 @@
       "!cases_child-protection": "yes"
     }
   ],
-  "heading": "You need to attend a MIAM and get a certificate\r\n!abbr:MIAM!",
-  "lede": "Before making an application you’re legally required to attend a MIAM.",
+  "heading": "You must attend a MIAM\r\n!abbr:MIAM!",
+  "lede": "You haven’t provided a valid reason for not attending a MIAM. You’re legally required to attend one if you want to go to court about child arrangements.",
   "title": "",
   "url": "/miam/not-completed"
 }

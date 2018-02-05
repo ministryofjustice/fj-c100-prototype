@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:concerns_further-questions",
   "_isa": "view:form",
-  "body": "You told us:\r\n\r\n{c1a_child-abduction, select, yes{- !c1a_child-abduction#playback!} other{}}\r\n{c1a_substance-abuse, select, yes{- !c1a_substance-abuse#playback!} other{}}\r\n{c1a_child-abuse, select, yes{- !c1a_child-abuse#playback!} other{}}\r\n{c1a_domestic-abuse, select, yes{- !c1a_domestic-abuse#playback!} other{}}\r\n{c1a_other, select, yes{- !c1a_other#playback!} other{}}\r\n\r\nWe’ll need to ask you some further questions about your concerns.\r\n\r\nYour answers will help an advisor from the [Children and Family Court Advisory and Support Service (Cafcass)]({app:urls:url:cafcass}) collect background information.\r\n\r\nYou may find some of the following questions difficult to answer. Please complete them as best you can.",
+  "body": "You told us:\r\n\r\n!c1a_playback!\r\n\r\nWe’ll need to ask you some further questions about your concerns.\r\n\r\nYour answers will help an advisor from the [Children and Family Court Advisory and Support Service (Cafcass)]({app:urls:url:cafcass}) collect background information.\r\n\r\nYou may find some of the following questions difficult to answer. Please complete them as best you can.",
   "continue": "continue",
   "depends": [
     {

@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:safety-miam-exemption",
   "_isa": "view:form",
-  "body": "You can still complete this application because you have said you have concerns about the safety of you or your children.\r\n\r\n(i) A legal advisor may contact you to talk about your safety concerns.",
+  "body": "!c1a_playback!\r\n\r\n(i) A legal advisor will review your situation and may contact you to discuss your concerns. You may still to attend a MIAM, pending the legal advisor’s decision.",
   "continue": "continue",
   "depends": [
     {
@@ -13,7 +13,8 @@
       "!cases_child-protection": "yes"
     }
   ],
-  "heading": "You haven’t been to a MIAM\r\n!abbr:MIAM!",
+  "heading": "You’ve told us you have safety concerns",
+  "lede": "You’ve claimed you have concerns about your or your children’s safety.",
   "title": "",
   "url": "/miam/safety"
 }
