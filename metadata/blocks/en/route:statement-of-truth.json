@@ -1,4 +1,8 @@
 {
+  "Xsteps": [
+    "route:download",
+    "route:downloaded"
+  ],
   "_blockType": "Route",
   "_id": "route:statement-of-truth",
   "_isa": "view:form",
@@ -7,10 +11,6 @@
   ],
   "body": "By submitting your application you confirm the information you’ve provided is true.\r\n\r\n(!) You could be found in contempt of court if you deliberately give false or misleading information.",
   "heading": "Declaration",
-  "steps": [
-    "route:download",
-    "route:downloaded"
-  ],
   "title": "",
   "url": "/declaration"
 }

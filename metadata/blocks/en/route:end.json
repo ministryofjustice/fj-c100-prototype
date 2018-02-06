@@ -9,6 +9,7 @@
   "_id": "route:end",
   "_isa": "view:confirmation",
   "blocks": [
+    "next-step_download",
     "next-step_print",
     "next-step_pay",
     "next-step_post",
@@ -16,6 +17,7 @@
   ],
   "body": "",
   "heading": "What you need to do next",
+  "lede": "You’ve finished the application. However it won’t be processed until you complete the following steps.",
   "title": "",
   "url": "/print-and-post"
 }

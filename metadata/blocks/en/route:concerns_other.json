@@ -3,13 +3,6 @@
   "_id": "route:concerns_other",
   "_isa": "view:single-question",
   "block": "c1a_other",
-  "redirectConditions": {
-    "route:concerns_further-questions": [
-      {
-        "c1a_other": "yes"
-      }
-    ]
-  },
   "title": "",
   "url": "/concerns/other"
 }

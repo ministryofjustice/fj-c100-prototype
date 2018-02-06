@@ -7,7 +7,7 @@
     "application-before",
     "application-after"
   ],
-  "body": "You can use this service to apply for a court order about child arrangements in England and Wales.\r\n\r\nThe process is different if you’re applying in [Scotland]({app:urls:url:court-process-scotland}) and [Northern Ireland]({app:urls:url:court-process-northern-ireland}).\r\n\r\n(i) This service is the digital version of the C100 paper application form.",
+  "body": "You can use this service to apply for a court order about child arrangements.\r\n\r\nThe process is different if you’re applying in [Scotland]({app:urls:url:court-process-scotland}) and [Northern Ireland]({app:urls:url:court-process-northern-ireland}).\r\n\r\n(i) This service is the digital version of the C100 paper application form.",
   "controller": "app/templates/index/index.controller",
   "heading": "Apply to court about child arrangements",
   "originalSteps": [
@@ -41,10 +41,8 @@
     "route:application-details",
     "route:language",
     "route:help-with-fees",
-    "route:summary",
     "route:statement-of-truth",
-    "route:end",
-    "route:test-end"
+    "route:end"
   ],
   "title": "",
   "url": "/"
