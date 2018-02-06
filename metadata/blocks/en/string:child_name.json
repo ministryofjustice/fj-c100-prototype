@@ -1,5 +1,5 @@
 {
   "_blockType": "String",
   "_id": "string:child_name",
-  "value": "{child_used-name_$index, select, undefined{[child]} other{~~child_used-name_$index~~}}"
+  "value": "{child_used-name_$index, select, undefined{[child]} other{{child_used-name_$index}}}"
 }

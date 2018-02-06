@@ -9,10 +9,11 @@
     "gender"
   ],
   "body": "",
-  "heading": "!route_party_full-name!’s details",
+  "heading": "!route_other-child_name!’s details",
   "multiple": true,
   "multiple_max": 5,
   "multiple_min": 1,
   "title": "",
-  "url": "/other-children/details"
+  "url": "/other-children/details",
+  "var:party_name": "other-child"
 }

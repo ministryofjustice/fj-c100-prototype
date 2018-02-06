@@ -1,0 +1,5 @@
+{
+  "_blockType": "String",
+  "_id": "route_applicant_name",
+  "value": "{$counter_full-name_$index, select, undefined{[applicant]} other{~~$counter_full-name_$index~~}}"
+}

@@ -1,5 +1,5 @@
 {
   "_blockType": "String",
   "_id": "route_party_full-name",
-  "value": "[{{app:route:multiple_counter}_full-name_{app:route:_index}}]"
+  "value": "{$counter_full-name_$index, select, undefined{ [ {party_type, select, undefined{party} other{~~party_type~~}} ] } other{~~$counter_full-name_$index~~}}"
 }

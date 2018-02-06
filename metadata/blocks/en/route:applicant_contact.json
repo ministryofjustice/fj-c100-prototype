@@ -14,7 +14,7 @@
     "email_applicant"
   ],
   "body": "",
-  "heading": "{app:route:_index, select, 1 {Your contact details} other {Contact details for !route_party_full-name!} undefined{Your contact details/Contact details for #applicant-name#}}",
+  "heading": "{app:route:_index, select, 1 {Your contact details} other {Contact details for !route_party_full-name!} undefined{Your contact details/Contact details for [applicant-name]}}",
   "title": "",
   "url": "/applicant/contact-details"
 }

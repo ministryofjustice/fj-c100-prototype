@@ -1,5 +1,5 @@
 {
   "_blockType": "String",
   "_id": "route_child_used-name",
-  "value": "[{child_used-name_{app:route:dynamicIndex}}]"
+  "value": "{child_used-name_$dynamicIndex}"
 }
