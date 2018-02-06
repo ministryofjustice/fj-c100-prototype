@@ -2,6 +2,6 @@
   "_blockType": "CheckboxGroup",
   "_id": "child-orders-options",
   "hint": "Select all that apply",
-  "label": "Which of the requested orders relate to [{child_used-name_{app:route:_index}}]?",
+  "label": "Which of the requested orders relate to !string:child_name!?",
   "visuallyhidden": true
 }
