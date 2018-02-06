@@ -344,9 +344,17 @@ fieldset {
   }
 }
 
+.multiple-choice label > .gv-u-heading-small {
+  font-weight: normal;
+}
+
 [data-block-name="route:miam_exemptions_list"] {
   & legend span {
     @apply --gv-u-heading-large;
+  }
+
+  & .multiple-choice label > .gv-u-heading-small {
+    font-weight: bold;
   }
 
   & .multiple-choice .multiple-choice label .gv-u-heading-small {
