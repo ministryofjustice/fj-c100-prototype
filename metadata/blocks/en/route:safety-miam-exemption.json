@@ -2,7 +2,7 @@
   "_blockType": "Route",
   "_id": "route:safety-miam-exemption",
   "_isa": "view:form",
-  "body": "You’ve told us:\r\n\r\n!c1a_playback!\r\n\r\n(i) A legal advisor will review your situation and may contact you to discuss your concerns. You may still to attend a MIAM, pending the legal advisor’s decision.",
+  "body": "You’ve told us:\r\n\r\n!c1a_playback!\r\n\r\n(i) A legal advisor will review your situation and may contact you to discuss your concerns. You may still need to attend a MIAM, pending the legal advisor’s decision.",
   "continue": "continue",
   "depends": [
     {
