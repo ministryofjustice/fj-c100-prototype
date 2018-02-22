@@ -3,13 +3,12 @@
   "_id": "route:miam_certification",
   "_isa": "view:single-question",
   "block": "miam_certification",
-  "body": "",
+  "body": "Your mediator should have signed a certificate confirming your MIAM attendance.\r\n!abbr:MIAM!",
   "depends": [
     {
       "miam_attended": "yes"
     }
   ],
-  "lede": "Your mediator should have signed a certificate confirming your MIAM attendance\r\n!abbr:MIAM!",
   "steps": [
     "route:miam_date"
   ],

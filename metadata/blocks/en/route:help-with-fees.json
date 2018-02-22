@@ -4,9 +4,8 @@
   "_id": "route:help-with-fees",
   "_isa": "view:form",
   "block": "help-with-fees",
-  "body": "If you do qualify, you’ll need to provide the reference number you were given.",
+  "body": "You may be able to  [get help paying]({app:urls:url:help-with-fees}) the £215 fee if you’re on a low income, receive certain benefits or have little or no savings.\r\n\r\nIf you do qualify, you’ll need to provide the reference number you were given.",
   "heading": "Help with fees",
-  "lede": "You may be able to  [get help paying]({app:urls:url:help-with-fees}) the £215 fee if you’re on a low income, receive certain benefits or have little or no savings.",
   "title": "",
   "url": "/help-with-fees"
 }

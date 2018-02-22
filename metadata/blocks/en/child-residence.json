@@ -1,11 +1,12 @@
 {
+  "Xoptions": [
+    "residence-other"
+  ],
   "_blockType": "CheckboxGroup",
   "_id": "child-residence",
   "hint": "Select all that apply",
   "label": "Who does !route_child_used-name! live with?",
-  "options": [
-    "residence-other"
-  ],
+  "options": [],
   "or": true,
   "visuallyhidden": true
 }
