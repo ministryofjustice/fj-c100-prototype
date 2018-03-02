@@ -4788,6 +4788,10 @@ path-to-regexp@^1.7.0:
   dependencies:
     isarray "0.0.1"
 
+path-to-regexp@^2.1.0:
+  version "2.1.0"
+  resolved "https://registry.yarnpkg.com/path-to-regexp/-/path-to-regexp-2.1.0.tgz#7e30f9f5b134bd6a28ffc2e3ef1e47075ac5259b"
+
 path-type@^1.0.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/path-type/-/path-type-1.1.0.tgz#59c44f7ee491da704da415da5a4070ba4f8fe441"
@@ -4816,9 +4820,9 @@ performance-now@^0.2.0:
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/performance-now/-/performance-now-0.2.0.tgz#33ef30c5c77d4ea21c5a53869d91b56d8f2555e5"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#overeager-warning":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#165528a0c04ccace0ed6154c1c73ede89df1dd96":
   version "0.0.28"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#5880252e4cc38baae72de7e0ed9d3b0e559be453"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#165528a0c04ccace0ed6154c1c73ede89df1dd96"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
@@ -4861,6 +4865,7 @@ performance-now@^0.2.0:
     npm-run-all "^4.0.2"
     nunjucks "^3.0.0"
     pa11y-ci "^1.2.0"
+    path-to-regexp "^2.1.0"
     phantomjs-prebuilt "^2.1.14"
     postcss "^5.2.17"
     postcss-cli "^3.2.0"
@@ -4884,9 +4889,9 @@ performance-now@^0.2.0:
     the-a11y-machine "^0.9.3"
     webdriverio "^4.8.0"
 
-"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#rubbishy-content-params":
+"pflr-express-kit@https://github.com/ministryofjustice/pflr-express-kit.git#overeager-warning":
   version "0.0.28"
-  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#70a32c80c28653c94312f4824203de02c5fd90c5"
+  resolved "https://github.com/ministryofjustice/pflr-express-kit.git#5880252e4cc38baae72de7e0ed9d3b0e559be453"
   dependencies:
     ava "^0.19.1"
     babel-cli "^6.24.1"
